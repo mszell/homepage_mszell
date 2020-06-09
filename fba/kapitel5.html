@@ -1,0 +1,170 @@
+<html>
+<head>
+ <title>Fachbereichsarbeit: Rekursive Strukturen</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8559-1">
+ <meta name="dc.title" content="Fachbereichsarbeit: Rekursive Strukturen">
+ <meta name="dc.creator" content="Michael Szell">
+ <meta name="dc.contributor" content="Hildegard Urban-Woldron">
+ <meta name="dc.date" content="2001-10-23">
+ <meta name="dc.subject" content="Fraktale">
+ <meta name="dc.subject" content="Pflanzenmodelle">
+ <meta name="dc.subject" content="Lindenmayer-Systeme">
+ <meta name="dc.subject" content="Turtle-Grafik">
+ <meta name="dc.subject" content="Phyllotaxis">
+ <meta name="dc.subject" content="Iterierte Funktionensysteme">
+ <meta name="dc.subject" content="TI-92 Programme">
+ <meta name="dc.language" content="DE">
+ <meta name="author" content="Michael Szell">
+ <meta name="keywords" content="Szell, Mathematik, Fraktale, Lindenmayer, L-Systeme, TI-92, IFS, Phyllotaxis, Rekursive Strukturen, Fachbereichsarbeit">
+ <meta name="revisit-after" content="14 days">
+ <meta http-equiv="content-language" content="de">
+<link rel=stylesheet type="text/css" href="fbaformats.css">
+<style type="text/css">
+<!--
+//-->
+</style>
+<script language="JavaScript" src="buttons.js" type="text/javascript">
+<!--
+//-->
+</script>
+</head>
+
+<body background="grafics/bground.gif" bgproperties=fixed text=#000000 link=#0000CC vlink=#000066 alink=#0000CC>
+
+<img src=grafics/button_down_.gif border=0 align=left>
+<div align=center>
+
+<a href="kapitel4.html" onMouseOver="Bildwechsel(1,Highlight_z)"   onMouseOut="Bildwechsel(1,Normal_z)" onMouseDown="Bildwechsel(1,Klick_z)" target="hauptseite"><img src="grafics/button_zurueck.gif" border=0 alt="zurückblättern"></a>
+
+<a href="kapitel6.html" onMouseOver="Bildwechsel(2,Highlight_w)"
+ onMouseOut="Bildwechsel(2,Normal_w)" onMouseDown="Bildwechsel(2,Klick_w)" target="hauptseite"><img src="grafics/button_weiter.gif" border=0 alt="weiterblättern"></a><br>
+
+<hr noshade></div><br><br>
+
+<h1><nobr>5. IFS</nobr></h1><br><br>
+
+<p>Das von Michael Barnsley 1985 eingeführte Verfahren des Iterativen Funktionen-Systems (engl: iterated function system), kurz IFS, erzeugte großes Aufsehen, da noch nie zuvor komplexe pflanzliche Muster so einfach in 4 (oder mehr) affinen Abbildungen dargestellt werden konnten.
+<br>Affinitätstransformationen verwenden in verschiedenen Richtungen verschiedene Verkleinerungsfaktoren; z.B. ist ein Quadrat einem Rechteck nicht ähnlich, da die Proportionen nicht übereinstimmen, aber affin, da eine einseitige Streckung um einen unterschiedlichen Faktor ein affines Rechteck erzeugt.
+<br>Obwohl das IFS keine Technik bietet, welche Entwicklung wie ein L-System berücksichtigt, lassen sich ziemlich schnell und einfach natürliche Strukturen erzeugen.
+
+<p>Eine affine Abbildung kann in der Form
+
+<p><blockquote><table border=0 cellpadding=0>
+<tr>
+  <td rowspan=2> ( </td> 
+  <td> x'</td>
+  <td rowspan=2> ) </td> 
+  <td rowspan=2> = </td> 
+  <td rowspan=2> ( </td> 
+  <td> a b </td>
+  <td rowspan=2> ) </td> 
+  <td rowspan=2> ( </td> 
+  <td> x </td>
+  <td rowspan=2> ) </td> 
+  <td rowspan=2> + </td> 
+  <td rowspan=2> ( </td> 
+  <td> e </td>
+  <td rowspan=2> ) </td> 
+</tr>
+<tr>
+  <td> y'</td>
+  <td> c d </td>
+  <td> y </td>
+  <td> f </td>
+</tr>
+</table></blockquote>
+
+dargestellt werden, wobei in der Regel gefordert wird, dass die Determinante der 2-reihigen Matrix  nicht verschwindet.
+<br>Im bekanntesten Beispiel, dem Barnsley-Farn (<a href="#abb51">Abb. 5.1</a> mitte), ergibt sich jedoch auch eine Transformation mit verschwindender Determinante.
+<br>Die Darstellung der Parameter der 4 Transformationen erfolgt normalerweise in einer Tabelle, die für den Barnsley-Farn so aussieht:
+
+<p><a name="tabelle"></a><center>
+<table border=1 cellpadding=2 bordercolor=#000033>
+    <tr>   
+      <th bgcolor=#FFFFE7 width=35>T</th>
+      <td align=center bgcolor=#CCCC99 width=55>a</td>
+      <td align=center bgcolor=#CCCC99 width=55>b</td>
+      <td align=center bgcolor=#CCCC99 width=55>c</td>
+      <td align=center bgcolor=#CCCC99 width=55>d</td>
+      <td align=center bgcolor=#CCCC99 width=55>e</td>
+      <td align=center bgcolor=#CCCC99 width=55>f</td>
+      <td align=center bgcolor=#CCCC99 width=70>p (in %)</td>
+
+    </tr>
+    <tr>   
+      <th bgcolor=#FFFFCC>I</th>
+      <td align=right bgcolor=#FFFFE7>0</td>
+      <td align=right bgcolor=#FFFFE7>0</td>
+      <td align=right bgcolor=#FFFFE7>0</td>
+      <td align=right bgcolor=#FFFFE7>0.16</td>
+     <td align=right bgcolor=#FFFFE7>0</td>
+      <td align=right bgcolor=#FFFFE7>0</td>
+      <td align=center bgcolor=#FFFFE7>3</td>
+    </tr>
+  <tr>   
+      <th bgcolor=#FFFFCC>II</th>
+      <td align=right bgcolor=#FFFFE7>0.197</td>
+      <td align=right bgcolor=#FFFFE7>-0.026</td>
+      <td align=right bgcolor=#FFFFE7>0.226</td>
+      <td align=right bgcolor=#FFFFE7>0.197</td>
+     <td align=right bgcolor=#FFFFE7>0</td>
+      <td align=right bgcolor=#FFFFE7>1.6</td>
+      <td align=center bgcolor=#FFFFE7>14</td>
+    </tr>
+  <tr>   
+      <th bgcolor=#FFFFCC>III</th>
+      <td align=right bgcolor=#FFFFE7>-0.155</td>
+      <td align=right bgcolor=#FFFFE7>0.283</td>
+      <td align=right bgcolor=#FFFFE7>0.26</td>
+      <td align=right bgcolor=#FFFFE7>0.237</td>
+     <td align=right bgcolor=#FFFFE7>0</td>
+      <td align=right bgcolor=#FFFFE7>0.44</td>
+      <td align=center bgcolor=#FFFFE7>27</td>
+    </tr>
+  <tr>   
+      <th bgcolor=#FFFFCC>IV</th>
+      <td align=right bgcolor=#FFFFE7>0.849</td>
+      <td align=right bgcolor=#FFFFE7>0.037</td>
+      <td align=right bgcolor=#FFFFE7>-0.037</td>
+      <td align=right bgcolor=#FFFFE7>0.849</td>
+     <td align=right bgcolor=#FFFFE7>0</td>
+      <td align=right bgcolor=#FFFFE7>1.6</td>
+      <td align=center bgcolor=#FFFFE7>56</td>
+    </tr>
+  </table></center><br>
+
+<p><a name="Abb51"></a><em id="beschreibung">Abb. 5.1:  3 verschieden erzeugte Barnsley-Farne: links durch gleichverteilte Wahrscheinlichkeiten (349525 Punkte), in der Mitte durch die <a href="#tabelle">Tabellenwerte</a> und rechts mit der Methode des Chaosspiels (je 198541 Punkte)</em><center>
+<img src="grafics/abb51.gif" alt="Abb. 5.1 (aus [1], Figure 8.3)" width=539 height=322></center><br>
+
+<p><a name="Abb52"></a><img src="grafics/abb52.gif" alt="Abb. 5.2 (aus [5], Bild 13.1)" align=left width=218 height=313>
+
+<p><br>T<sub>I</sub> erzeugt den Stengel; eine Strecke, die aus der Kontraktion des Einheitsquadrats zu einer Linie entsteht.
+<br>T<sub>II</sub> und T<sub>IV</sub> stellen Ähnlichkeitsabbildungen mit den Streckfaktoren 0.3 bzw. 0.85 dar, wobei sich durch eine Drehung von T<sub>IV</sub> um -2.5° die gekrümmte Form des Farns ergibt.
+<br>T<sub>III</sub> ist eine Affinität mit Determinante -0.106, die neben T<sub>II</sub> die Blätter der Pflanze produziert.
+<br><br><br>
+
+<em id="beschreibung">Abb. 5.2:  Die vier affinen Abbildungen des Barnsley-Farns</em><br clear=all>
+
+
+
+<p>Die einfachste Erzeugungsmethode ist durch Barnsleys stochastischen Alghorithmus gegeben. Dabei werden mehrere tausend Punkte den affinen Abbildungen unterworfen; die jeweils ausgeführte wird mittels Zufallszahlen ausgelost. Als Punkte werden jeweils die zuletzt erhaltenen Bildpunkte gewählt, beim Start der Nullpunkt.
+<br>Die Wahl der Wahrscheinlichkeiten p wird durch folgende Faustregel bestimmt: 
+
+<p><blockquote>p &asymp; |a<sub>i</sub>d<sub>i</sub> - b<sub>i</sub>c<sub>i</sub>| / &sum;|a<sub>i</sub>d<sub>i</sub> - b<sub>i</sub>c<sub>i</sub>|</blockquote>
+
+<p>Das heißt, dass p dem Verhältnis aus der Determinante der Abbildung zur Summe der Determinanten aller Abbildungen angenähert wird.
+
+<p>In <a href="kapitel6.html#kapitel64">Kapitel 6.4.</a> zeige ich noch mehr Pflanzen und Programme zur Modellierung durch IFS.
+<br><br>
+
+<div align=center>
+<hr noshade>
+<a href="kapitel4.html" onMouseOver="Bildwechsel(5,Highlight_z)"   onMouseOut="Bildwechsel(5,Normal_z)" onMouseDown="Bildwechsel(5,Klick_z)" target="hauptseite"><img src="grafics/button_zurueck.gif" border=0 alt="zurückblättern"></a>
+
+<a href="kapitel6.html" onMouseOver="Bildwechsel(6,Highlight_w)"
+ onMouseOut="Bildwechsel(6,Normal_w)" onMouseDown="Bildwechsel(6,Klick_w)" target="hauptseite"><img src="grafics/button_weiter.gif" border=0 alt="weiterblättern"></a><br>
+</div>
+
+</body>
+
+</html>

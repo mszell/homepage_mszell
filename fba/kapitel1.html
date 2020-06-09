@@ -1,0 +1,183 @@
+<html>
+<head>
+ <title>Fachbereichsarbeit: Rekursive Strukturen</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8559-1">
+ <meta name="dc.title" content="Fachbereichsarbeit: Rekursive Strukturen">
+ <meta name="dc.creator" content="Michael Szell">
+ <meta name="dc.contributor" content="Hildegard Urban-Woldron">
+ <meta name="dc.date" content="2001-10-23">
+ <meta name="dc.subject" content="Fraktale">
+ <meta name="dc.subject" content="Pflanzenmodelle">
+ <meta name="dc.subject" content="Lindenmayer-Systeme">
+ <meta name="dc.subject" content="Turtle-Grafik">
+ <meta name="dc.subject" content="Phyllotaxis">
+ <meta name="dc.subject" content="Iterierte Funktionensysteme">
+ <meta name="dc.subject" content="TI-92 Programme">
+ <meta name="dc.language" content="DE">
+ <meta name="author" content="Michael Szell">
+ <meta name="keywords" content="Szell, Mathematik, Fraktale, Lindenmayer, L-Systeme, TI-92, IFS, Phyllotaxis, Rekursive Strukturen, Fachbereichsarbeit">
+ <meta name="revisit-after" content="14 days">
+ <meta http-equiv="content-language" content="de">
+<link rel=stylesheet type="text/css" href="fbaformats.css">
+<style type="text/css">
+<!--
+//-->
+</style>
+<script language="JavaScript" src="buttons.js" type="text/javascript">
+<!--
+//-->
+</script>
+</head>
+
+<body background="grafics/bground.gif" bgproperties=fixed text=#000000 link=#0000CC vlink=#000066 alink=#0000CC>
+
+<a href="#kapitel11"><img src=grafics/button_down.gif border=0 align=left></a>
+
+<div align=center>
+
+<a href="vorwort.html" onMouseOver="Bildwechsel(1,Highlight_z)"   onMouseOut="Bildwechsel(1,Normal_z)" onMouseDown="Bildwechsel(1,Klick_z)" target="hauptseite"><img src="grafics/button_zurueck.gif" border=0 alt="zurückblättern"></a>
+
+<a href="kapitel2.html" onMouseOver="Bildwechsel(2,Highlight_w)"
+ onMouseOut="Bildwechsel(2,Normal_w)" onMouseDown="Bildwechsel(2,Klick_w)" target="hauptseite"><img src="grafics/button_weiter.gif" border=0 alt="weiterblättern"></a><br>
+
+<hr noshade></div><br>
+
+<table width=100% cellpadding=0 border=0>
+<colgroup> <col width=*> <col width=280> </colgroup> 
+<tr>
+<td rowspan=3 valign=top><h1><nobr>1. Überblick über die</nobr> <nobr>fraktale Geometrie</nobr></h1></td>
+ </tr>
+<tr><td><font size=-1> [<a href="#kapitel11">1.1. Wichtige strukturelle Merkmale</a>]</td></tr>
+<tr><td valign=top><font size=-1>[<a href="#kapitel12">1.2. Erzeugung von Grenzobjekten</a>] </td></tr>
+</table></font><br><br>
+
+
+
+<p>Um das Konzept der L-Systeme erklären zu können, muss der Leser mit dem Begriff Fraktal vertraut sein, da es sich hier ausschließlich um solche -nämlich fraktale- Strukturen handelt.
+<br>Das Wort selbst wurde in den sechziger-Jahren vom französischen Mathematiker  Benoit B. Mandelbrot eingeführt (dem Leser ist vielleicht die "Mandelbrot-Menge" oder das "Apfelmännchen", das die erste vom Computer dargestellte fraktale Grenzmenge ist, ein Begriff). Er leitete es vom lateinischen Verb "frangere" und vom zugehörigen Adjektiv "fractal" ab. Das Verb bedeutet brechen, Fragmente bilden. Beispiele aus der Natur sind z.B. Küstenlinien, Wolken oder Organe wie die Lunge. Tatsächlich ist ein Großteil der Natur aus Fraktalen aufgebaut. Sie stehen in enger Verbindung mit der sogenannten Chaostheorie.
+<br>Dieser relativ moderne wissenschaftliche Zweig existiert erst seit Mandelbrots ersten Versuchen mit dem Computer, da die Erzeugung eines Fraktals viele Berechnungen und eine grafische Darstellung mit sich führt und erst seit der Einführung des Computers in den 60er Jahren dieser als Medium dient und der modernen Chaosforschung damals den Grundstein legte. 
+Durch die stetige Verbesserung der Rechenleistung gibt es heutzutage unzählige Programme, die jedem Laien die Möglichkeit, auf dem eigenen PC Fraktale in wenigen Sekunden darzustellen, bieten, ohne auch nur irgendetwas über die dahinterstehenden Algorithmen zu wissen.
+<br>Fraktale sind zwar schon seit den bedeutenden Vorreitern wie Giuseppe Peano, David Hilbert, Georg Cantor, usw. -also seit mehr als 100 Jahren- bekannt, fanden aber zu dieser Zeit mangels Berechnung und Visualisierung keinen Durchbruch.<br><br><hr width=85% color=#003366><br>
+
+
+
+<a name="kapitel11"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="kapitel1.html"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>1.1. Wichtige strukturelle Merkmale</h2></td>
+</tr>
+<tr>
+  <td valign=top><a href="#kapitel12"><img src=grafics/button_down.gif border=0></a></td>
+</tr>
+</table>
+
+<br>Die wichtigsten Merkmale fraktaler Strukturen sind:<br>
+<ul>
+<li><b><i>Selbstähnlichkeit:</i></b><br>
+<br>Mandelbrots Definition:
+<blockquote>"<i>When each piece of a shape is geometrically similar to the whole, both the shape and the cascade that generate it are called self-similar.</i>" (aus [<a href="anhang.html">1</a>] Seite v)</blockquote>
+<br>Kurz: Jedes Detail ist dem ganzen Objekt ähnlich. (<a href="#Abb11">siehe Abb. 1.1</a>)<br><br>
+ 
+<em id="beschreibung"><a name="Abb11">Abb. 1.1</a>:  Der Blumenkohl - ein statistisch selbstähnliches Objekt (<a href="kapitel2.html#kapitel21">siehe Kapitel 2.1</a>)</em>
+<br><center>
+<img src="grafics/abb11a.jpg" alt="Abb. 1.1 (aus [2], Abb. 2.1)" width=366 height=178><img src="grafics/abb11b.jpg" alt="Abb. 1.1 (aus [2], Abb. 2.1)" width=366 height=178></center>
+<br>
+<li><b><i>Skaleninvarianz:</i></b><br>
+<p>Absolutwerte sind irrelevant; ein Fraktal kann theoretisch unendlich oft vergrößert werden, ohne dass eine Veränderung der Form bemerkbar wird. (Da Fraktale kompakte -also endlich ausgedehnte- Objekte sind, gibt es eine Grenze bei Verkleinerungen.)
+<br><br>
+<li><b><i>eine gebrochene Dimension:</i></b><br>
+<p>Da das Fraktal nicht einen Teil der Ebene bzw. des Raumes voll ausfüllt (bis auf ein paar Ausnahmen wie z.B. die Peano- oder FASS-Kurven, die flächen-, bzw. raumfüllend sind, (<a href="kapitel2.html#kapitel234">siehe Kapitel 2.3.4.</a>)) spricht man von einer gebrochenen oder fraktalen Dimension, die nicht ganzzahlig ist. 
+Es gibt verschiedenste Methoden, diese Dimension zu messen, diese sind aber nicht Gegenstand dieser Arbeit und sollen daher nicht weiter erläutert werden. (Eine kurze Erklärung zum Dimensionsbegriff findet sich in <a href="#kapitel122">Kapitel 1.2.2.</a>)
+</ul>
+<br>
+<p>Eine für Laien aber auch Fortgeschrittene verständliche und umfassendere Einführung in die Welt der Fraktale bieten die hervorragenden Bücher [<a href="anhang.html">2</a>] und [<a href="anhang.html">3</a>].<br><br><hr width=85% color=#003366><br>
+
+
+
+<a name="kapitel12"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="#kapitel11"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>1.2. Erzeugung von Grenzobjekten</h2></td>
+</tr>
+<tr>
+  <td valign=top><img src=grafics/button_down_.gif border=0></td>
+</tr>
+</table>
+
+<br><p>Es gibt viele Möglichkeiten, ein Fraktal zu erzeugen; doch alle beinhalten das gleiche Prinzip: Rückkopplung.
+<br>Solche Erzeugungssysteme sind auch immer iterativ und rekursiv (lat. iterare=etwas wiederholen; recurrere=zurücklaufen); d.h. Fraktale entstehen durch Wiederholung bzw. Ersetzung in unendlich vielen Durchläufen oder Iterationen einer bestimmten Schleife mit vorgegeben Formeln. 
+<p>Der Begriff der Rückkopplung ist vielen in Beziehung mit Tontechnik bekannt; dort entsteht sie, wenn z.B. ein Mikrofon zu nahe an eine an das Mikrofon angeschlossene Lautsprecheranlage gehalten wird. Ein beliebig leises Geräusch wird vom Mikrofon aufgenommen und verstärkt aus der Anlage wiedergegeben. Das verstärkte Signal wird wiederum verstärkt, bis es nach ein paar Durchläufen die höchstmögliche Lautstärke (in einem unangenehmen Pfeifton) erreicht hat.
+<br>Ebenso ist das Filmen eines Bildschirmes, der auf sich selbst abgebildet wird, ein rückgekoppelter Vorgang, der einen Bildschirm im Bildschirm im Bildschirm usw. erzeugt.<br><br><br>
+
+
+<h3>1.2.1. Zahlenverarbeitende Rückkopplungsmaschinen - Folgen und Reihen</h3><br>
+In diesem Unterkapitel definierte "Maschinen" sind nichts anderes als eine Form von Folgen und Reihen. Sie bilden das mathematische Gerüst für Fraktale.
+<br><br><a name="Abb12"></a>
+<img src="grafics/abb12.gif" alt="Abb. 1.2 (aus [2], Abb. 1.13)" width=449 height=96 align=left><em id=beschreibung>Abb. 1.2:  Schematische Darstellung der Ein-Schritt-Rückkopplungsmaschine</em><br clear=all>
+<p>Die Ein-Schritt-Rückkopplungsmaschine (<a href="#Abb12">siehe Abb. 1.2</a>) wird durch eine Iterationsformel x<sub>n+1</sub> = &fnof;(x<sub>n</sub>) gekennzeichnet, wobei &fnof;(x) irgendeine Funktion von x sein kann. Es wird eine Zahl als Eingabe (engl: Input) benötigt, die in jedem Schritt durch die Funktion ersetzt wird und die Ausgabe (engl: Output) liefert. Diese wird im nächsten Schleifendurchlauf als Input verwendet -was der eigentliche Vorgang der Rückkopplung ist- und wieder ein Output daraus berechnet.
+<br>Diese Folge kann divergieren (also als Endergebnis &infin; oder -&infin; liefern), oder zu einem Grenzwert konvergieren. 
+<br>(Weiters besteht die Möglichkeit, dass die Funktion zu mehreren Grenzwerten konvergiert und im Endzustand zwischen diesen hin- und herpendelt; die Anzahl dieser Werte, die von bestimmten Bedingungen abhängig sind, verdoppeln sich bei deren Veränderung -Bifurkation oder Periodenverdopplung genannt- und sind bei chaotischen Systemen unendlich groß.)
+
+<p>Ein Beispiel für eine konvergente Folge ist die Methode der Quadratwurzelberechnung, die als erste den Sumerern vor ca. 4000 Jahren bekannt war und heutzutage in ähnlicher Form als Newton-Verfahren für die Lösung von nichtlinearen Gleichungen bekannt ist:
+<br>Gegeben sei a&gt;0. Man berechne die Folge x<sub>1</sub>,x<sub>2</sub>,x<sub>3</sub>,... so, dass der Grenzwert <nobr>&radic;(a)</nobr> ist, d.h. dass x<sub>n</sub> mit zunehmenden n gegen <nobr>&radic;(a)</nobr>  strebt.
+<br>Diese rekursive Formel lautet: <img src="grafics/formel01.gif">
+<br>Betrachten wir z.B. die Wurzel von 2 (=1.4142135623..). Wir schätzen zunächst eine grobe Näherung für <nobr>&radic;(2)</nobr> , z.B. x<sub>0</sub>=1. Dann wird 
+
+<blockquote>
+<img src="grafics/formel02.gif">
+</blockquote>    
+
+<p>und<p>
+
+<blockquote>
+<img src="grafics/formel03.gif">
+</blockquote>   
+
+usw.
+
+<p>Da in jedem Schritt die Anzahl korrekter Ziffern fast verdoppelt wird, nähern sich die Zwischenergebnisse dem gesuchten Wert ziemlich rasch.
+
+<p>Es gibt natürlich auch Zwei- (und mehr) Schritt-Verfahren, bei denen nicht nur x<sub>n</sub> sondern auch x<sub>n-1</sub>, x<sub>n-2</sub> usw. in jeder Iteration berücksichtigt werden. Dabei müssen auch entsprechend viele Anfangswerte gegeben sein.
+<br>Auch mehrere Variablen können verwendet werden.
+<br>Durch quadratische Funktionen und zusätzliche Konstanten lassen sich mit kurzen Formeln leicht komplexe chaotische Systeme entwickeln. Typisch für diese ist, dass keine expliziten Angaben möglich sind -d.h. bei gesuchtem x<sub>100</sub> müssen alle x von x<sub>1</sub>-x<sub>100</sub> durchgerechnet werden- , also keine "Abkürzung" durchführbar ist.<br><br><br>
+
+
+<a name="kapitel122"><h3>1.2.2. Bildverarbeitende Rückkopplungsmaschinen (MVKM) - Fraktale</h3></a><br>
+
+<p>Fraktale können als Grenzobjekte "visualisierter Folgen" aufgefasst werden.
+Die einfachste Konstruktionsmethode bietet die sogenannte Mehrfach-Verkleinerungs-Kopier-Maschine (kurz MVKM), die in <a href="kapitel5.html" target="hauptseite">Kapitel 5 als IFS</a> formaler erklärt wird:
+<br>Man stelle sich ein Kopiergerät mit 3 Linsen vor. Jede dieser Linsen erfasst den Anfangsinput (in der Fachsprache Axiom genannt, was soviel wie "Grundwert" bedeutet) -hier irgendein Bild- und verkleinert ihn mit dem Faktor &frac12;. Diese 3 kleinen Versionen werden gleichzeitig auf bestimmte verschiedene Bereiche eines neuen, gleich großen Blattes gedruckt (<a href="#Abb13">siehe Abb. 1.3</a>). Somit wird ein Bild bestehend aus 3 kleinen Kopien des Ausgangsbildes erzeugt. 
+<p><a name="#Abb13"></a>
+<img src="grafics/abb13.gif" alt="Abb9. 1.3 (aus [2], Abb. 1.9)" align=left><img src="grafics/abb14.gif" alt="Abb. 1.10 (aus [2], Abb. 1.10)"><br><em id="beschreibung">Abb. 1.4 (oben):  Erzeugung des Sierpinski-Dreiecks<br>
+Abb. 1.3 (links):  MVKM mit 3 Linsen</em><br clear=all>
+
+<p>Die Rückkopplung besteht nun darin, dass das Gerät das Bild wieder einzieht und es auf die gleiche Weise verarbeitet. Somit erhalten wir ein Bild mit 9 um &frac14; verkleinerte Kopien des ursprünglichen Bildes. Verfahren wir unendlich oft mit dieser Methode, erhalten wir ein unendlich zerklüftetes Objekt mit unendlich vielen Anfangsbildern auf ein Unendliches verkleinert (<a href="#Abb13">siehe Abb. 1.4</a>). Dieses spezielle heißt Sierpinski-Dreieck, benannt nach seinem Erfinder, dem polnischen Mathematiker Waclaw Sierpinski. Es besitzt eine Dimension von ca. 1.5850. Mit dem Begriff "Dimension" ist in diesem Fall die sogenannte Selbstähnlichkeitsdimension gemeint; sie ist durch das Verhältnis des Logarithmus der Anzahl der Kopien und des Logarithmus des Kehrwerts des Verkleinerungsfaktors in einem Schritt definiert. Um beim Sierpinski-Dreieck zu bleiben, beträgt der Logarithmus der Anzahl der Kopien log(3) und der Logarithmus des Kehrwerts des Verkleinerungsfaktors log(2); also ergibt sich 
+<blockquote>
+<img src="grafics/formel04.gif">
+</blockquote>
+Dies mag seltsam klingen, da das Sierpinksi-Dreieck grob gesagt nur Linienelemente, aber keine Flächen- oder Volumenelemente enthält. Dieses topologische Problem ist nicht Teil der Definition der Selbstähnlichkeitsdimension, aber der Überdeckungsdimension, die immer ganzzahlig und beim Sierpinski-Dreieck 1 ist. Wie man sieht, muss man beim Begriff der Dimension vorsichtig sein, da es viele Dimensionsbegriffe gibt, die auf verschiedene Aspekte ausgerichtet sind.
+<br>Es ist klar, dass man in der Realität nichts unendlich oft ausführen und somit auch keine Fraktale erzeugen kann. Selbst wenn wir unendlich viel Zeit hätten, würden wir bei der Auflösung auf Grenzen stoßen.
+
+<p><em id="beschreibung"><a name="Abb15">Abb. 1.5</a>:  Der Attraktor des Sierpinski-Dreiecks ist 
+unabhängig vom Startbild</em><br>
+<img src="grafics/abb15.gif" align=left width=331 height=173 alt="Abb. 1.5 (aus [2] Abb. 1.11)">
+Bemerkenswert ist außerdem, dass das so erzeugte Endbild -Attraktor gennant-  überhaupt nicht vom ursprünglichen Bild abhängt (<a href="#Abb15">siehe Abb. 1.5</a>). Es ist so "attraktiv", dass es jeden Punkt zu sich zieht (lat: atrahere = herziehen) und schließlich nur noch es selbst sichtbar ist. Wenn also der Attraktor als Axiom angenommen wird, durchlebt das Bild keinerlei Veränderung.
+<br clear=all>Gleiches galt auch für die Methode der Quadratwurzelberechnung, wo der Grenzwert unabhängig vom Anfangswert x<sub>0</sub> war (Solche unabhängigen Konvergenzwerte werden auch "Fixpunkte" genannt).
+<br>In diesem Sinne kann man die MVKM als bildverarbeitende Rückkopplungsmaschine ansehen.
+
+<p>Da Fraktale Grenzobjekte sind, können sie in der Praxis nur beliebig angenähert, aber nie genau ermittelt werden; genau wie die Grenzwerte bei Folgen und Reihen. 
+<p>
+
+<div align=center>
+<hr noshade>
+<a href="vorwort.html" onMouseOver="Bildwechsel(17,Highlight_z)"
+ onMouseOut="Bildwechsel(17,Normal_z)" onMouseDown="Bildwechsel(17,Klick_z)" target="hauptseite"><img src="grafics/button_zurueck.gif" border=0 alt="zurückblättern"></a>
+<a href="kapitel2.html" onMouseOver="Bildwechsel(18,Highlight_w)"
+ onMouseOut="Bildwechsel(18,Normal_w)" onMouseDown="Bildwechsel(18,Klick_w)" target="hauptseite"><img src="grafics/button_weiter.gif" border=0 alt="weiterblättern"></a><br>
+</div>
+
+</body>
+
+</html>

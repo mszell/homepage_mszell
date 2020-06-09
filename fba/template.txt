@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Rekursive Strukturen</title>
+</head>
+
+<body background="grafics/bground.gif" bgproperties=fixed bgcolor=#FFFFDD text=#000000 link=#0000CC vlink=#000066 alink=#0000CC>
+<body leftmargin=10 topmargin=10>
+
+
+</body>
+
+</hmtl>

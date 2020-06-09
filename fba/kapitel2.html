@@ -1,0 +1,1212 @@
+<html>
+<head>
+ <title>Fachbereichsarbeit: Rekursive Strukturen</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8559-1">
+ <meta name="dc.title" content="Fachbereichsarbeit: Rekursive Strukturen">
+ <meta name="dc.creator" content="Michael Szell">
+ <meta name="dc.contributor" content="Hildegard Urban-Woldron">
+ <meta name="dc.date" content="2001-10-23">
+ <meta name="dc.subject" content="Fraktale">
+ <meta name="dc.subject" content="Pflanzenmodelle">
+ <meta name="dc.subject" content="Lindenmayer-Systeme">
+ <meta name="dc.subject" content="Turtle-Grafik">
+ <meta name="dc.subject" content="Phyllotaxis">
+ <meta name="dc.subject" content="Iterierte Funktionensysteme">
+ <meta name="dc.subject" content="TI-92 Programme">
+ <meta name="dc.language" content="DE">
+ <meta name="author" content="Michael Szell">
+ <meta name="keywords" content="Szell, Mathematik, Fraktale, Lindenmayer, L-Systeme, TI-92, IFS, Phyllotaxis, Rekursive Strukturen, Fachbereichsarbeit">
+ <meta name="revisit-after" content="14 days">
+ <meta http-equiv="content-language" content="de">
+<link rel=stylesheet type="text/css" href="fbaformats.css">
+<style type="text/css">
+<!--
+//-->
+</style>
+<script language="JavaScript" src="buttons.js" type="text/javascript">
+<!--
+//-->
+</script>
+</head>
+
+<body background="grafics/bground.gif" bgproperties=fixed text=#000000 link=#0000CC vlink=#000066 alink=#0000CC>
+
+<a href="#kapitel21"><img src=grafics/button_down.gif border=0 align=left></a>
+<div align=center>
+<a href="kapitel1.html" onMouseOver="Bildwechsel(1,Highlight_z)"   onMouseOut="Bildwechsel(1,Normal_z)" onMouseDown="Bildwechsel(1,Klick_z)" target="hauptseite"><img src="grafics/button_zurueck.gif" border=0 alt="zurückblättern"></a>
+
+<a href="kapitel3.html" onMouseOver="Bildwechsel(2,Highlight_w)"
+ onMouseOut="Bildwechsel(2,Normal_w)" onMouseDown="Bildwechsel(2,Klick_w)" target="hauptseite"><img src="grafics/button_weiter.gif" border=0 alt="weiterblättern"></a><br>
+<hr noshade></div><br>
+
+
+<table width=100% cellpadding=0 border=0>
+<colgroup> <col width=*> <col width=280> </colgroup> 
+<tr>
+<td rowspan=8 valign=top><h1><nobr>2. L-Systeme</nobr></h1></td>
+ </tr>
+<tr><td><font size=-1> [<a href="#kapitel21">2.1. Historisches und Grundlagen</a>]</td></tr>
+<tr><td><font size=-1>[<a href="#kapitel22">2.2. OL- und DOL-Systeme</a>] </td></tr>
+<tr><td><font size=-1> [<a href="#kapitel23">2.3. Visualisierung durch Turtle-Grafik</a>]</td></tr>
+<tr><td><font size=-1> [<a href="#kapitel24">2.4. Verzweigte L-Systeme</a>]</td></tr>
+<tr><td><font size=-1> [<a href="#kapitel25">2.5. Stochastische L-Systeme</a>]</td></tr>
+<tr><td><font size=-1> [<a href="#kapitel26">2.6. IL- und DIL-Systeme</a>]</td></tr>
+<tr><td><font size=-1> [<a href="#kapitel27">2.7. Parametrische L-Systeme</a>]</td></tr>
+</table></font><br><br>
+
+<hr width=85% color=#003366><br>
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel21"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="kapitel2.html"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>2.1. Historisches und Grundlagen</h2></td>
+</tr>
+<tr>
+  <td valign=top><a href="#kapitel22"><img src=grafics/button_down.gif border=0></a></td>
+</tr>
+</table>
+
+<br><p>Die Schönheit der Pflanzen fasziniert schon seit Jahrhunderten viele Mathematiker. Auffallende geometrische Merkmale wie die Symmetrie bei Blättern, die typische Verteilung von Sonnenblumenkernen in der Blüte und die spiralenartige Anordnung von Schuppen auf Kieferzapfen oder der Ananas stehen schon lange unter menschlichem Studium.
+So sind Pflanzen, wie die meisten Naturphänomene wie z.B. Wolken oder Berge, in das Reich der Fraktale einzuordnen. 
+
+<p>Genauer gesagt sind Pflanzen sogenannte Multifraktale, d.h. dass sie auf unterschiedlichen Größenebenen bestimmte verschiedene fraktale Dimensionen besitzen. Durch die mathematisch nicht exakt definierbaren Formen von Pflanzen können diese nicht als selbstähnlich angesehen werden; der Begriff statistische Selbstähnlichkeit, der bestimmte statistische Abweichungen berücksichtigt, ist für diese aber zutreffend.
+
+<p>Es liegt nahe, Pflanzen als mathematische Modelle aufzufassen und auch so zu behandeln. Die MVKM-Methode (<a href="kapitel1.html#kapitel122">siehe Kapitel 1.2.2.</a>) ist aber nicht besonders geeignet um verzweigte Pflanzen mathematisch zu simulieren, da die einzelnen Bilder Mängel aufweisen (<a href="#Abb21">siehe Abb. 2.1</a>).
+<p>
+
+<img src="grafics/abb21.gif" align=left width=446 height=183 alt="Abb. 2.1 (aus [3], Abb. 6.1)"><em id="beschreibung"><a name="Abb21">Abb. 2.1</a>:  Der Versuch, durch die MVKM das Wachstum eines Zweiges zu simulieren, scheitert an unnatürlichen Zwischenräumen, die sowohl bei einem kurzen (oben) wie auch einem langen Stamm (unten) entstehen</em><br clear=all>
+
+<p><i>Doch was ist der Unterschied zwischen klassichen Fraktalen und Pflanzen?</i>
+
+<p>Fraktale werden normalerweise als statische Objekte angesehen und wirken sehr künstlich, oft steril und unnatürlich. Ihre Entstehungsgeschichte ist für die Struktur eigentlich uninteressant; wichtig ist das Endprodukt bzw. der Attraktor. Pflanzen hingegen benötigen eine wichtige Komponente, die lange bei der Untersuchung der Form ausser Acht gelassen wurde: die Zeit (zur Entstehung). 
+<br>Dass sie eine entscheidende Rolle für das Wachstum und somit auch für die äußere Erscheinung spielt, wurde schon im späten 17. Jahrhundert erkannt und von D'Arcy Thompson so kommentiert:
+
+<blockquote>"<i>Wir können die Form eines Organismus als Ereignis in Raum und Zeit betrachten, und nicht einfach nur als eine räumliche Konfiguration.</i>" (aus [<a href="anhang.html">3</a>] Seite 506)</blockquote><br>
+
+<p>Auf dieser Grundlage erschuf der an der Universität von Utrecht tätige theoretische Biologe Aristid Lindenmayer (1925-1989) mit Hilfe der von N. Chomsky begründeten Theorie der Grammatiken einen mathematischen Formalismus, der heute als Lindenmayer-Systeme (kurz: L-Systeme) bekannt ist, und veröffentlichte ihn in seinem grundlegenden Werk "Mathematical models for cellular interaction in development" im "Journal of Theoretical Biology 18" im Jahre 1986. Zunächst wurden L-Systeme für die reine Berechnung von primitiven multizellulären Organismen verwendet, später gelang es Lindenmayer in Zusammenarbeit mit dem polnischen Mathematiker Przemyslaw Prusinkiewicz, die mathematischen Graph-Grammatiken mit Hilfe von Turtle-Grafiken in Computeralgorithmen umzusetzen (<a href="#kapitel23">siehe Kapitel 2.3.</a>). Diese Visualisierung ist sehr wichtig für den Vergleich mit realen Strukturen, um Theorien mit Modellen bestätigen zu können.
+<br>Heutzutage ist man schon so weit, fotorealistische Bilder und Animationen mittels L-Systemen zu erzeugen, die u.a. in der Unterhaltungsindustrie eingesetzt werden. 
+<br>Auch viele Naturwissenschaften in den verschiedensten Bereichen -allen voran die Entwicklungsbiologie, deren Aufgabe die Untersuchung von Wachstumsprozessen ist- können diesen Formalismus gut für Modelle und Simulationen verwenden.
+
+<p>Der Grundgedanke von L-Systemen besteht in der Ersetzung von Einzelteilen durch bestimmte vordefinierte Regeln; anders als bei der MKVM, wo nur kleine Versionen des gesamten Inputs neu eingefügt werden; also das ganze Objekt verkleinert, kopiert und neu angeordnet wird.
+<br>Typisch dafür ist, dass das darzustellende Objekt abstrakt durch eine Liste oder Zeichenkette (engl. String) aus mehreren Symbolen, die verschiedene Bedeutungen haben und grafisch unterschiedlich interpretiert werden können, beschrieben wird.
+
+<p>Dadurch könnte man L-Systeme neben zahlen- und bildverarbeitenden in symbolverarbeitende Rückkopplungsmaschinen einstufen (obwohl aus den Symbolen normalerweise wiederum Bilder interpretiert werden).
+
+<p>Da die Komplexität eines Fraktals (und damit die Länge der Zeichenkette) bei jeder Iteration oft exponentiell anwächst, dauert auch die Berechnung und Darstellung auf höheren Stufen erheblich länger, was ein entscheidender Nachteil gegenüber bildverarbeitenden Techniken ist, die ja bei jedem Schritt die gleiche Zeit benötigen, da die Datenmenge des Inputs immer gleich bleibt. <br><br><hr width=85% color=#003366><br>
+
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel22"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="#kapitel21"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>2.2. OL- und DOL- Systeme</h2></td>
+</tr>
+<tr>
+  <td valign=top><a href="#kapitel23"><img src=grafics/button_down.gif border=0></a></td>
+</tr>
+</table>
+
+<br><p>Lindenmayer hatte die Absicht, das Wachstum multizellulärer Organismen zu beschreiben, in denen mehrere Zellteilungen gleichzeitig stattfinden können. Dafür erfand er zuerst OL- bzw. DOL-Systeme:
+
+<p>OL-Systeme werden formal als ein Tripel G = (V,w,P) bezeichnet, wobei V das Alphabet (=Menge aller möglichen Symbole) des Systems, w ein Axiom (=Startwort) aus V, und P eine endliche Menge von Regeln ist. Eine Regel ordnet jedem Symbol eine bestimmte Zeichenfolge zu. Diese Zuordnung wird immer mit einem Pfeil ausgedrückt: A &rarr; B bedeutet, dass A durch B ersetzt wird.
+<br>Gibt es für jedes Zeichen genau eine Regel P, dann bezeichnet man dieses OL-System als deterministisch oder DOL-System. Existieren für bestimmte Symbole keine Regeln, so gilt das Prinzip der Selbstersetzung (also z.B. A &rarr; A).
+
+<p>Ein Beispiel dafür ist die blaugrüne Algenart Anabaena Catenula. Das Wachstum der Alge vollzieht sich in fadenförmigen Zellketten. Jede Zelle wird mit einem Symbol beschrieben. Dabei gibt es in der vereinfachten Ausführung kleine Zellen, die mit A, und große, die mit B bezeichnet werden. Weiters beschreibt ein Suffix l oder r, ob es sich um linke oder rechte Tochterzellen handelt. Somit umfasst das Alphabet A vier verschiedene Zeichen:
+
+<p><blockquote>A = {A<sub>r</sub>, A<sub>l</sub>, B<sub>r</sub>, B<sub>l</sub>}</blockquote>
+
+<p>Das Axiom w wird als A<sub>l</sub> angenommen und es gelten folgende Ersetzungsregeln:
+
+<blockquote><p>
+<table border=0>
+    <tr>
+      <td align=right>A<sub>l</sub> </td>
+      <td>&rarr;</td>
+      <td>A<sub>l</sub>B<sub>r</sub></td>
+    </tr>
+    <tr>
+      <td>A<sub>r</sub> </td>
+      <td>&rarr;</td>
+      <td>B<sub>l</sub>A<sub>r</sub></td>
+    </tr>
+    <tr>
+      <td align=right>B<sub>l</sub></td>
+      <td>&rarr;</td>
+      <td>A<sub>l</sub>B<sub>r</sub></td>
+    </tr>
+    <tr>
+      <td>B<sub>r</sub></td>
+      <td>&rarr;</td>
+      <td>B<sub>l</sub>A<sub>r</sub></td>
+    </tr>
+</table>
+</blockquote>
+
+<p>Somit lautet dieses DOL-System
+
+<p><blockquote>G = ({A<sub>r</sub>, A<sub>l</sub>, B<sub>r</sub>, B<sub>l</sub>}, Al, {A<sub>l</sub> &rarr; A<sub>l</sub>B<sub>r</sub>, A<sub>r</sub> &rarr; B<sub>l</sub>A<sub>r</sub>, B<sub>l</sub> &rarr; A<sub>l</sub>B<sub>r</sub>, B<sub>r</sub> &rarr; B<sub>l</sub>A<sub>r</sub>}).</blockquote>
+
+<p>Gespeichert werden alle Strings in einer eindimensionalen Liste; wie in einer dem natürlichen Vorbild nachempfundenen Kette. In jedem Schritt der Iteration wird jedes Element der Liste der Reihe nach überprüft und durch P entschieden, wie es ersetzt wird.
+<br>Die ersten 5 Zustände der Alge sehen wie folgt aus:
+<p>
+<table border=1 cellpadding=2 bordercolor=#000000>
+    <tr bgcolor=#FFFFCC>
+      <th width=15>n</th>
+      <th align=left>Zeichenkette</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>A<sub>l</sub></td>
+    </tr> 
+    <tr>
+      <td>2</td>
+      <td>A<sub>l</sub>B<sub>r</sub></td>
+    </tr>   
+    <tr>
+      <td>3</td>
+      <td>A<sub>l</sub>B<sub>r</sub>B<sub>l</sub>A<sub>r</sub></td>
+    </tr> 
+    <tr>
+      <td>4</td>
+      <td>A<sub>l</sub>B<sub>r</sub>B<sub>l</sub>A<sub>r</sub>A<sub>l</sub>B<sub>r</sub>B<sub>l</sub>A<sub>r</sub></td>
+    </tr> 
+    <tr>
+      <td>5</td>
+      <td>A<sub>l</sub>B<sub>r</sub>B<sub>l</sub>A<sub>r</sub>A<sub>l</sub>B<sub>r</sub>B<sub>l</sub>A<sub>r</sub>A<sub>l</sub>B<sub>r</sub>B<sub>l</sub>A<sub>r</sub>A<sub>l</sub>B<sub>r</sub>B<sub>l</sub>A<sub>r</sub></td>
+    </tr> 
+</table>
+
+<p>Es ist ein Muster erkennbar, das sich wiederholt. Die Folge von Zellen A<sub>l</sub>B<sub>r</sub>B<sub>l</sub>A<sub>r</sub> ist ein periodischer Zyklus. Der Grund dafür ist, dass die erste Folge, A<sub>l</sub>B<sub>r</sub>, die gleiche Folge von Zellen produziert wie die zweite Hälfte B<sub>l</sub>A<sub>r</sub>.
+<br>Eine komplexeres Modell der Alge wird durch mein TI-92 Programm Cdiv in <a href="kapitel6.html#kapitel61">Kapitel 6.1.</a> veranschaulicht. <br><br><hr width=85% color=#003366><br>
+
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel23"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="#kapitel22"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>2.3. Visualisierung durch Turtle-Grafik</h2></td>
+</tr>
+<tr>
+  <td valign=top><a href="#kapitel24"><img src=grafics/button_down.gif border=0></a></td>
+</tr>
+</table>
+
+<br><p>Wie wir in den nächsten Kapiteln sehen werden, ist die Visualisierung von L-Systemen ein sehr wichtiges Hilfsmittel, um Fraktale wachsen sehen zu können. Die Berechnung und Darstellung können beim Programmieren zwei unabhängige Schritte sein (<a href="kapitel6.html#kapitel63">siehe Kapitel 6.3.</a>). Die wichtigste Darstellungstechnik ist die der Turtle- (dt: Schildkröten-) Grafik, die von Seymour Papert eingeführt und von Przemyslaw Prusinkiewicz an die Interpretation von Zeichenketten angepasst wurde.
+<br>Sie ist für Kurven in der Ebene (und auch im Raum) sehr gut geeignet, da sich die Konstruktion von primitiven Pflanzen und klassischen Fraktalen kompakt mit wenigen Regeln beschreiben lässt.<br><br><br>
+
+
+<h3>2.3.1. Grundkonzept / Erste Befehle</h3><br>
+
+<p>Das Konzept dieser Technik beruht auf einer beweglichen Schildkröte mit einem schmutzigen Schwanz, die auf einem Blatt Papier sitzt und eine bestimmte Richtung anvisiert. Sobald sie in Bewegung gesetzt wird, kann sie eine Spur hinterlassen. Sie hat nur die Möglichkeit sich geradlinig zu bewegen und kann vom Benutzer folgende Befehle erhalten:
+
+<p><table border=1 cellpadding=2 bordercolor=#000000 width=100%>
+    <tr>
+      <td width=65>F</td>
+      <td align=left>Bewege dich um eine bestimmte festgelegte Schrittweite l vorwärts und zeichne eine Linie von der Anfangs- zur Endposition</td>
+    </tr>
+    <tr>
+      <td>f</td>
+      <td>Bewege dich nach vorne wie bei F, hebe aber den Schwanz (zeichne keine Linie)</td>
+    </tr> 
+    <tr>
+      <td>+</td>
+      <td>Drehe dich um einen festgelegten Winkel &phi; gegen den Uhrzeigersinn</td>
+    </tr>   
+    <tr>
+      <td>-</td>
+      <td>Drehe dich um den Winkel &phi; im Uhrzeigersinn</td>
+    </tr> 
+</table>
+
+<p>Dies sind Grundbefehle, die für die meisten L-Systeme notwendig sind.
+<br>Die Befehle + und - werden immer als selbstersetzend vorausgesetzt und sind dadurch die einzigen Zeichen bei deterministischen Systemen, die nicht definiert sein müssen (<a href="#kapitel22">siehe Kapitel 2.2.</a>).
+
+<p>Da jedes weitere Unterkapitel in Kapitel 2 neue L-Systeme und somit neue Befehle mit sich führt, werden die Befehle in folgenden ständig erweitert.
+
+<p>Der Zustand der Schildkröte lässt sich in jeder Lage als ein Tripel (x,y,&alpha;) definieren, wobei x und y die Position, und &alpha; die Ausrichtung bezeichnen. Ein Winkel &alpha;=0 bedeutet, dass die Schildkröte nach rechts ausgerichtet ist. Der Anfangszustand ist -wenn nicht anders angegeben- immer (0,0,0).
+<br>Mit Hilfe der elementaren Trigonometrie lässt sich eine Zustandsänderung in folgender Tabelle beschreiben, die zur Erstellung von Programmen sehr wichtig ist (<a href="kapitel6.html#kapitel632">siehe Kapitel 6.3.2.</a>):
+
+<p><table border=1 cellpadding=2 bordercolor=#000000 width=100%>
+    <tr>
+      <td width=65>F und f</td>
+      <td align=left>(x,y,&alpha;) &rarr; (x+l·cos &alpha;,y+l·sin &alpha;,&alpha;)</td>
+    </tr>
+    <tr>
+      <td>+</td>
+      <td>(x,y,&alpha;) &rarr; (x,y,&alpha;-&phi;)</td>
+    </tr>   
+    <tr>
+      <td>-</td>
+      <td>(x,y,&alpha;) &rarr; (x,y,&alpha;+&phi;)</td>
+    </tr> 
+</table>
+
+<p><a name="Abb22"></a><img src="grafics/abb22.gif" alt="Abb. 2.2 (aus [3], Abb. 6.22)" align=left width=260 height=184>Die Parameter l und &phi; müssen immer festgelegt werden, da das Ergebnis bei unterschiedlichen Winkeln stark variieren kann (<a href="#Abb22">siehe Abb. 2.2</a>).
+
+<p><em id="beschreibung">Abb. 2.2:  Zwei Zeichenketten (oben F+F+F-F-F, unten FF+FF+F+F-F-F+F+FF+F) mit drei unterschiedlichen Winkeln (60°, 90°, 120°)</em><br clear=all><br><br>
+
+
+<h3>2.3.2. Reskalierung am Beispiel der Cantor-Menge</h3><br>
+
+<p>Diese Grundbefehle sind ausreichend, um die meisten klassischen Fraktale darstellen zu können.
+
+<p>Betrachten wir als erstes Beispiel die Cantor-Menge (<a href="#Abb23">siehe Abb. 2.3</a>):
+<br>Sie ist eine unendliche Menge von Punkten im Intervall <nobr>[0;1]</nobr>. In der klassischen Konstruktion zeichnet man eine Linie und entfernt in jedem Schritt das mittlere Drittel jeder Linie. In konkreten Werten ausgedrückt, wird im 1. Schritt das offene Intervall <nobr>]1/3;2/3[</nobr> entfernt, wonach die zwei Intervalle <nobr>[0;1/3]</nobr> und <nobr>[2/3;1]</nobr> mit Länge 1/3 übrig bleiben. Diese werden wieder gedrittelt und deren Mittelsegmente <nobr>]1/9;2/9[</nobr> und <nobr>]7/9;8/9[</nobr> entfernt. Somit erhält man nach jedem Schritt doppelt so viele Linien und nach unendlich vielen Schritten als "fertiges" Fraktal eine Punktmenge (die Cantor-Menge wird durch diese Eigenschaft auch Cantor-Staub genannt).
+
+<p><em id="beschreibung"><a name="Abb23">Abb. 2.3</a>:  Klassische Konstruktion der Cantor-Menge (von oben nach unten)</em>
+<br><img src="grafics/abb23.gif" alt="Abb. 2.3 (aus [2], Abb. 2.5)" align=left width=93% height=111><br clear=all>
+<p><br>Nun wollen wir versuchen, ein L-System für die Erzeugung der Cantor-Menge zu wählen. Um eine Strecke, deren mittlerer Teil im nächsten Schritt nicht mehr gezeichnet wird, zu formalisieren, bietet sich die Regel <nobr>F &rarr; FfF</nobr> an. Unser erstes L-System lautet also:
+<center>
+
+<p><i>Cantor-Menge (1. Versuch)</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>F</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p</td>
+      <td bgcolor=#FFFFE7>F &rarr; FfF</td>
+    </tr>   
+</table>
+</center>
+
+<p><em id="beschreibung"><a name="Abb24">Abb. 2.4</a>:  Konstruktion der Cantor-Menge (1. Versuch)</em>
+<br><img src="grafics/abb24.gif" alt="Abb. 2.4 (aus [3], Abb. 6.25)" align=left>
+Da keine Regeln für f angegeben wurden, gilt die Selbstersetzung; also f &rarr; f.
+<br>(Dies soll in weiteren L-Systemen nicht mehr erwähnt werden.)<br clear=all>
+
+
+<p><a href="#Abb24">Abb. 2.4</a> zeigt die grafische Darstellung. Bei einem Vergleich mit dem Original ist aber offensichtlich ein Fehler unterlaufen. Der erste Schritt ist noch richtig, doch ab dem zweiten zeigt sich, dass die entfernten Streifen nicht lang genug sind. Da jeder dieser Streifen durch f symbolisiert wird, sind alle gleich lang, was sich aber nicht mit der Grundkonstruktion deckt, wo das mittlere Intervall <nobr>[1/3;2/3]</nobr> ja drei mal länger als ein Intervall im 2. Schritt ist. Das heißt, das f hätte durch die Zeichen fff ersetzt werden müssen. Das fehlerfreie System lautet jetzt:
+
+<center>
+<p><i>Cantor-Menge</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>F</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>F &rarr; FfF</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>2</sub></td>
+      <td bgcolor=#FFFFE7>f &rarr; fff</td>
+    </tr>   
+</table>
+</center>
+
+<p>Dieses Problem ist durch die Reskalierung entstanden, die bei der Konstruktion eines L-Systems in jedem Schritt durchzuführen ist. Das bedeuet, dass alle Längeneinheiten (hier F und f) in jedem Schritt mit einem Skalierungsfaktor Sf multipliziert werden müssen, damit das Fraktal eine kompakte Größe erhält.
+<br>Im Fall der Cantor-Menge ist Sf gleich 1/3; deshalb müssen hier auch die entfernten Segmente, die in jedem Schritt ihre absolute Länge beibehalten sollen, durch 3 Zeichen ersetzt werden.
+<br>Dieser Faktor wird normalerweise nicht angegeben, da er nur für die grafische Darstellung (z.B. in Programmen; <a href="kapitel6.html#kapitel63">siehe Kapitel 6.3.</a>) notwendig ist und bei mehr als 1-dimensionalen Gebilden fast immer sehr schwierig zu berechnen ist.<br><br><br>
+
+
+<a name="kapitel233"><h3>2.3.3. Koch-Konstruktionen</h3></a><br>
+
+<p><a name="Abb25"></a><img src="grafics/abb25.gif" alt="Abb. 2.5 (Screenshots aus Lsys)" align=right width=239 height=332>Auch die klassische Koch-Kurve -ein Fraktal in der Ebene-, die vom schwedischen Mathematiker Helge von Koch 1890 erdacht wurde, lässt sich sehr einfach in einem L-System darstellen:
+<br>In der klassischen Konstruktion wird eine Strecke (Initiator) durch die Zusammensetzung von vier verkürzten Strecken (Generator) wie in <a href="#abb25">Abb. 2.5</a> schrittweise ersetzt. 
+
+
+<p><em id="beschreibung">Abb. 2.5:  Konstruktion der Koch-Kurve (von oben nach unten): Initiator (F), Generator (F+F--F+F) und drei weitere Schritte</em>
+
+
+<p>Die Zusammensetzung des Generators kann durch F+F--F+F beschrieben werden, wenn man &phi;=60° wählt. Das L-System für die Koch-Kurve lautet demnach:
+<center>
+
+<p><i>Koch-Kurve</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>F</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p</td>
+      <td bgcolor=#FFFFE7>F &rarr; F+F--F+F</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#CCCC99>&phi;</td>
+      <td bgcolor=#FFFFE7>60°</td>
+    </tr>   
+</table>
+</center><br clear=all>
+
+<p>Solche Systeme, in denen das Axiom für den Initiator, die Ersetzungsregel für den Generator steht und das Erzeugungszeichen F einen einfachen Rand darstellt, werden als Kodierungen für Koch-Konstruktionen bezeichnet. Dabei ist &phi; oft 90°. Beispiele für verschiedenste Koch-Kurven zeigt <a href="#Abb26">Abb. 2.6</a>. Bei unzusammenhängenden wie der letzten wird ausser F, + und - auch das Zeichen f benötigt.
+<center>
+
+<p><a name="Abb26"></a><img src="grafics/abb26c.gif" alt="Abb. 2.6 (aus [1], Figure 1.8)" width=30%>
+<img src="grafics/abb26b.gif" alt="Abb. 2.6 (aus [1], Figure 1.9 (c))" width=30%>
+<img src="grafics/abb26a.gif" alt="Abb. 2.6 (aus [1], Figure 1.9 (e))" width=35%>
+</center>
+<em id="beschreibung">Abb. 2.6:  3 verschiedene Koch-Konstruktionen</em>
+<br><br><br>
+
+
+<a name="kapitel234"><h3>2.3.4. Randersetzung am Beispiel von FASS-Kurven</h3></a><br>
+
+<p>Bei dieser Methode ersetzen die Produktionsregeln Figuren für Polygonränder. Wie auch bei der Knotenpunktersetzung (<a href="#kapitel235">siehe Kapitel 2.3.5.</a>) basiert dies auf Teilung eines Flächenstücks.
+<br>Die Randersetzung kann als Erweiterung der Koch-Konstruktionen aufgefasst werden. Z.B. zeigt <a href="#Abb27">Abb. 2.7</a> die Drachen-Kurve.
+
+<p><em id="beschreibung"><a name="Abb27">Abb. 2.7</a>:  Die Drachenkurve im 10. Schritt</em>
+<br><img src="grafics/abb27.gif" alt="Abb. 2.7 " align=left width=296 height=206>
+Die neuen Symbole F<sub>l</sub> und F<sub>r</sub> repräsentieren Ränder, die durch eine Vorwärtsbewegung der Schildkröte wie bei F entstehen. Der Unterschied ist, dass bei F<sub>l</sub> und F<sub>r</sub> die Produktionsregeln Ränder durch verschiedene Linien ersetzen, die im Feld links bzw. rechts des Randes aufgebaut werden. Diese Symbole werden unterschiedlich behandelt. 
+
+<center>
+<p><i>Drachen-Kurve</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>F<sub>l</sub></td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>F<sub>l</sub> &rarr; F<sub>l</sub>+F<sub>r</sub>+</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>2</sub></td>
+      <td bgcolor=#FFFFE7>F<sub>r</sub> &rarr; -F<sub>l</sub>-F<sub>r</sub></td>
+    </tr>      
+    <tr>
+      <td align=center bgcolor=#CCCC99>&phi;</td>
+      <td bgcolor=#FFFFE7>90°</td>
+    </tr>   
+</table>
+</center><br clear=all>
+
+<p>Was so kompliziert klingt, ist sehr leicht an sogenannten FASS-Kurven zu veranschaulichen (z.B. <a href="#Abb29">Abb. 2.9</a>). FASS ist die Abkürzung für space-filling, self-avoiding, simple, self-similar. Auf Deutsch: Diese Kurven sind raum- bzw. flächenfüllend, selbstausweichend (d.h. überschneidungs- und berührungsfrei), einfach und selbstähnlich. Wie durch <a href="#Abb28">Abb. 2.8</a> ersichtlich, wird F<sub>l</sub> in (a) durch die Kurve in (b) ersetzt. Gleiches gilt für (c) und (d). (Die Häckchen in den Streckenmitten markieren die zu ersetzenden Felder.)
+
+<center>
+<p><a name="Abb28"></a><img src="grafics/abb28.gif" alt="Abb. 2.8 (aus [1], Figure 1.12)" width=95%></center>
+<br><em id="beschreibung">Abb. 2.8:  Die Bedeutung der Symbole F<sub>l</sub> und F<sub>r</sub> bei der E-Kurve
+
+<p><a name="Abb29">Abb. 2.9</a>:  Die E-Kurve im 2. Schritt</em>
+<br><img src="grafics/abb29.gif" alt="Abb. 2.9 (aus [1], Figure 1.11(b))" align=left width=209 height=203>
+
+<p>Das Interessante daran ist, dass, egal wie die Teile F<sub>l</sub> und F<sub>r</sub> angeordnet werden, es nie zu einer Berührung bzw. Überschneidung kommen kann. Eine rekursive Anwendung zeigt, dass alle 25 Teile wieder von der Kurve abgedeckt werden, was schließlich zur flächenfüllenden Eigenschaft führt. 
+<br>Von dieser Kurve -auch E-Kurve oder quadratische Gosper-Kurve genannt- wurde bewiesen, dass sie die einfachste FASS-Kurve ist.<br clear=all><br><br>
+
+
+<a name="kapitel235"><h3>2.3.5. Knotenpunktersetzung am Beispiel der Hilbert-Kurve</h3></a><br>
+
+<p>Hier werden nicht Ränder, sondern Knotenpunkte durch Polygone ersetzt. Um das zu bewerkstelligen, müssen die Turtlebefehle um weitere Symbole erweitert werden, die willkürliche, nicht dargestellte Subfiguren repräsentieren. Wie <a href="#Abb210">Abb. 2.10</a> zeigt, besteht jede Subfigur A aus einer Menge von Subfiguren &Psi; aus folgenden Bestandteilen:
+
+<p><ul>
+<li>2 Kontaktpunkte namens Eingangspunkt P<sub>A</sub> und Ausgangspunkt Q<sub>A</sub>
+<li>2 Richtungsvektoren namens Eingansvektor p<sub>A</sub> und Ausgangsvektor q<sub>A</sub>
+</ul>
+
+<p><em id="beschreibung"><a name="Abb210">Abb. 2.10</a>: Darstellung einer Subfigur A</em>
+<br><img src="grafics/abb210.gif" alt="Abb. 2.10 (aus [1], Figure 1.14)" align=left width=292 height=137>
+<br>Bei der Interpretation eines Strings durch die Schildkröte nimmt das Symbol A &epsilon; &Psi; die dazugehörige Subfigur in ein Bild auf. Dafür wird A verschoben und gedreht, um den Einganspunkt P<sub>A</sub> und die Richtung p<sub>A</sub> in die aktuelle Position und Richtung der Schildkröte zu bringen. Nachdem A plaziert wurde, wird der Schildkröte die Ausgangsposition Q<sub>A</sub> und die Orientierung von q<sub>A</sub> zugewiesen.<br clear=all>
+
+<p>Ein einfaches Beispiel dafür ist die Konstruktion der flächenfüllenden Hilbert-Kurve (David Hilbert, deutscher Mathematiker 1862-1943); <a href="#Abb212">siehe Abb. 2.12</a>:
+<br>Es seien die Kontaktpunkte und Richtungen der Subfiguren L<sub>n</sub> und R<sub>n</sub>  wie in <a href="#Abb211">Abb. 2.11</a>, und die Figuren L<sub>n+1</sub> und R<sub>n+1</sub> durch folgende rekursive Formeln erfasst:
+
+<p><a name="Abb211"></a><img src="grafics/abb211.gif" alt="Abb. 2.11 (aus [1], Figure 1.15)" align=left width=393 height=354>
+
+<center>
+<table border=0>
+    <tr>
+      <td align=left>L<sub>n+1</sub></td>
+      <td>=</td>
+      <td align=left><nobr>+R<sub>n</sub>F-L<sub>n</sub>FL<sub>n</sub>-FR<sub>n</sub>+</nobr></td>
+    </tr>
+    <tr>
+      <td align=left>R<sub>n+1</sub></td>
+      <td>=</td>
+      <td align=left><nobr>-L<sub>n</sub>F+R<sub>n</sub>FR<sub>n</sub>+FL<sub>n</sub>-</nobr></td>
+    </tr>
+</table>
+
+<br><a name="Abb212"></a><img src="grafics/abb212.gif" alt="Abb. 2.12 (aus [5], Bild 14.7)" width=243 height=247></center>
+<br clear=all>
+
+<table border=0 width=95%>
+    <tr>
+     <td width=50%><em id="beschreibung">Abb. 2.11:  Rekursive Konstruktion der Hilbert-Kurve durch Knotenpunktersetzung (dicke Verbindungslinien repräsentieren F)</em></td>
+     <td width=10%></td>
+     <td width=40%><em id="beschreibung">Abb. 2.12:  Hilbert-Kurve im 6. Schritt (das vollendete Fraktal würde ein Quadrat voll ausfüllen)</em></td>
+    </tr>
+</table>
+
+<p><br>Es seien die Kurven L<sub>0</sub> und R<sub>0</sub> gegeben. Ein Weg, den String für L<sub>n</sub> oder R<sub>n</sub> für n>0 auszuwerten, besteht in der rekursiven Generierung der Strings, d.h. n sukkzessive zu verkleinern und substituieren. Z.B. würde die Berechnung von L<sub>2</sub> so aussehen:
+
+<p>
+<table border=0 align=center>
+    <tr>
+      <td align=right>L<sub>2</sub></td>
+      <td>=</td>
+      <td align=left><nobr>+R<sub>1</sub>F-L<sub>1</sub>FL<sub>1</sub>-FR<sub>1</sub>+</nobr></td>
+    </tr>
+    <tr>
+      <td align=right></td>
+      <td valign=top>=</td>
+      <td align=left><nobr>+(-L<sub>0</sub>F+R<sub>0</sub>FR<sub>0</sub>+FL<sub>0</sub>-)F-(+R<sub>0</sub>F-L<sub>0</sub>FL<sub>0</sub>-FR<sub>0</sub>+)F(+R<sub>0</sub>F-L<sub>0</sub>FL<sub>0</sub>-FR<sub>0</sub>+)<wbr>-F(-L<sub>0</sub>F+R<sub>0</sub>FR<sub>0</sub>+FL<sub>0</sub>-)+</nobr></td>
+    </tr>
+</table>       
+
+<p>So kann also die Erzeugung von L als ein String-ersetzender Mechanismus angesehen werden, wo die Symbole auf der linken Seite der rekursiven Formeln durch die dazugehörigen Strings auf der rechten Seite ersetzt werden. Diese Überschreibung läuft parallel mit F, + und -, die sich selbst ersetzen. Da alle Indizes in jedem beliebigen String den selben Wert haben, können sie zur Verallgemeinerung vernachlässigt werden, falls keine bestimmte Anzahl von Schritten gegeben ist. Daraus folgt folgendes L-System:
+
+<center>
+<p><i>Hilbert-Kurve</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>L</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>L &rarr; +RF-LFL-FR+</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>2</sub></td>
+      <td bgcolor=#FFFFE7>R &rarr; -LF+RFR+FL-</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#CCCC99>d</td>
+      <td bgcolor=#FFFFE7>90°</td>
+    </tr>   
+</table>
+</center><br><br><br>
+
+
+<h3>2.3.6. Dreidimensionale Objekte</h3><br>
+
+<p>Um ein realistischeres Bild von Pflanzen bekommen zu können, ist es möglich, L-Systeme auf 3 Dimensionen zu erweitern.
+<br>Der Schlüssel dazu ist, die Orientierung der Schildkröte durch 3 Vektoren H, L und U darzustellen. Diese Vektoren besitzen Einheitslänge und sind rechtwinklig zueinander (erfüllen also die Gleichung H &times; L = U). Drehungen der Schildkröte werden durch die Gleichung 
+
+<blockquote>
+<img src="grafics/formel05.gif">
+</blockquote>
+
+<p>ausgedrückt, wobei R für eine 3 x 3 Rotationsmatrix steht.
+<br>Speziell für jeden Vektor gibt es eine Matrix für einen um a gedrehten Winkel:
+
+<blockquote>
+<img src="grafics/formel06.gif">
+</blockquote>
+
+
+<p>Die folgenden Symbole kontrollieren die Ausrichtung der Schildkröte im Raum:
+
+<p><table border=1 cellpadding=2 bordercolor=#000000 width=100%>
+    <tr>
+      <td width=65>+</td>
+      <td align=left>Linksdrehung um den Winkel d unter Verwendung von R<sub>U</sub>(&phi;)</td>
+    </tr>
+    <tr>
+      <td>-</td>
+      <td>Rechtsdrehung um den Winkel d unter Verwendung von R<sub>U</sub>(-&phi;)</td>
+    </tr>   
+    <tr>
+      <td>&</td>
+      <td>Vorkippen um den Winkel d unter Verwendung von R<sub>L</sub>(&phi;)</td>
+    </tr>
+    <tr>
+      <td>^</td>
+      <td>Zurückkippen um den Winkel d unter Verwendung von R<sub>L</sub>(-&phi;)</td>
+    </tr>
+    <tr>
+      <td>\</td>
+      <td>Linksrolle um den Winkel d unter Verwendung von R<sub>H</sub>(&phi;)</td>
+    </tr>
+    <tr>
+      <td>/</td>
+      <td>Rechtsrolle um den Winkel d unter Verwendung von R<sub>H</sub>(-&phi;)</td>
+    </tr>
+    <tr>
+      <td>|</td>
+      <td>Umdrehen unter Verwendung von R<sub>U</sub>(180°)</td>
+    </tr>
+</table><br><br><hr width=85% color=#003366><br>
+
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel24"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="#kapitel23"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>2.4. Verzweigte L-Systeme</h2></td>
+</tr>
+<tr>
+  <td valign=top><a href="#kapitel25"><img src=grafics/button_down.gif border=0></a></td>
+</tr>
+</table>
+
+<br><p>Zur Darstellung von fadenförmigen Organismen haben diese Zeichen gereicht, doch um Pflanzen, die normalerweise Verzweigungen enthalten, zu erzeugen, müssen neue Turtle-Befehle eingeführt werden, um diese definieren zu können:
+
+<p><table border=1 cellpadding=2 bordercolor=#000000 width=100%>
+    <tr>
+      <td width=65 valign=top>[</td>
+      <td align=left>Beginne eine Verzweigung: Merke dir den momentanen Zustand (= Position und Blickrichtung, optional andere Attribute wie Dicke und Farbe)</td>
+    </tr>
+    <tr>
+      <td valign=top>]</td>
+      <td>Beende eine Verzweigung: Lade den gespeicherten Zustand und fahre am Verzweigungspunkt mit der Konstruktion fort</td>
+    </tr>   
+</table>
+
+<p>Dabei gibt es theoretisch keine Begrenzung in der Anzahl der Verzweigungen und Unterverzweigungen. Diese Art der L-Systeme nennt man auch geklammerte L-Systeme.
+Betrachten wir als Beispiel folgende Zeichenkette:
+
+<blockquote>A[BAA]B[BBC[ABB]B]BA</blockquote>
+
+<p>Den Stamm ABBA erhält man durch Auslassen aller eingeklammerten Ausdrücke. Diese beschreiben zwei Hauptäste (BAA und BBCB) und einen Nebenast (ABB) auf dem zweiten Hauptast, der nach dem C beginnt.
+<br>Hier einige Beispiele für geklammerte L-Systeme, die durch Rand- und Knotenpunktersetzung entstanden sind (<a href="#Abb213">Abb. 2.13</a>):
+
+<p><a name="Abb213"></a><table border=0 align=center>
+    <tr>
+      <td align=right rowspan=2><img src="grafics/abb213a.gif" alt="Abb. 2.13 (aus [1], Figure 1.24(d)-(e))" width=494 height=335></td>
+      <td align=center><img src="grafics/abb213b.gif" alt="Abb. 2.13 (Screenshot aus Lsys)" width=158 height=186></td>
+       </tr>
+    <tr>
+        <td align=center><img src="grafics/abb213c.gif" alt="Abb. 2.13 (Screeenshot aus Lsys)"width=142 height=156></td>
+    </tr>
+</table><br clear=all>
+
+<em id="beschreibung">Abb. 2.13:  fünf geklammerte L-Systeme; zwei durch mein Programm Lsys (<a href="kapitel6.html#kapitel63">siehe Kapitel 6.3</a>) erstellte (rechts) mit Knospen an den Enden und drei Pflanzen basierend auf Knotenpunktersetzung (links), wobei hier die Subfigur durch X kodiert ist</em>
+
+<p>In meinem Programm Lsys werden zum Großteil verzweigte L-Systeme berechnet und dargestellt (<a href="kapitel6.html#kapitel63">siehe Kapitel 6.3.</a>).
+
+<p><center><a name="abb214"></a><a href="grafics/abb214.jpg" target="_blank"><img src="grafics/abb214thumb.jpg" alt="Abb. 2.14 (aus [1], Figure 1.25)" width=186 height=145 border=1><br clear=all></a>
+<em id="beschreibung">Abb. 2.14:  dreidimensionale Busch-ähnliche Pflanze auf Stufe 7 (119 kb)</em></center>
+
+<p>Das nächste System ist eine mit der Technik der Knotenpunktersetzung erstellte dreidimensionale Busch-ähnliche Pflanze, die in <a href="#abb214">Abb. 2.14</a> dargestellt wird.
+
+<center>
+<p><i>Busch-ähnliche Pflanze</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>A</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>A &rarr; [&FL!A]/////´[&FL!A]///////´[&FL!A]</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>2</sub></td>
+      <td bgcolor=#FFFFE7>F &rarr; S/////F</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>3</sub></td>
+      <td bgcolor=#FFFFE7>S &rarr; FL</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>4</sub></td>
+      <td bgcolor=#FFFFE7>L &rarr; [´´´^^{-f+f+f-|-f+f+f}]</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#CCCC99>&phi;</td>
+      <td bgcolor=#FFFFE7>22.5°</td>
+    </tr>   
+</table>
+</center>
+
+<p>Wie man sieht, wurden folgende neue Befehle eingeführt:
+
+<p><table border=1 cellpadding=2 bordercolor=#000000 width=100%>
+    <tr>
+      <td width=65>!</td>
+      <td align=left>Verkleinere den Durchmesser eines Segmentes</td>
+    </tr>
+    <tr>
+      <td>'</td>
+      <td>Erhöhe den Farbindex</td>
+    </tr>   
+    <tr>
+      <td>{</td>
+      <td>Beginne mit der Zeichnung eines Polygons</td>
+    </tr>
+    <tr>
+      <td>}</td>
+      <td>Schließe das Polygon und fülle es mit der aktuellen Farbe</td>
+    </tr>
+</table>
+
+<p>Der erste Schritt dieses L-Systems ist ziemlich einfach zu erklären:
+<br>Das Axiom A ist ein Knotenpunkt, der 3 Zweige entstehen lässt, deren Normalebenen (=Ebenen normal zur Grundfläche) um 5·22.5°=112.5°, 7·22.5° =157.5° und 360°-112.5°-157.5°=90° voneinander gedreht sind. Der Winkel  zwischen Zweig und Grundfläche ist bei jedem 90°-22.5°=67.5° groß.
+<br>Ein Zweig hat (unter Vernachlässigung der neuen Befehle und Winkelangaben) folgende strukturelle Entwicklung: 
+
+<p>FL &rarr; SFL &rarr; FLSFL &rarr; SFLFLSFL &rarr; FLSFLSFLFLSFL &rarr; SFLFLSFLSFLSFLFLSFL
+
+<p>und bei Weglassen der Subfigur S (die ja nur virtuell ist)
+
+<p>FL &rarr; FL &rarr; FLFL &rarr; FLFLFL &rarr; FLFLFLFLFL &rarr; FLFLFLFLFLFLFL .
+
+<p>Man beachte, dass bei jedem S der Zweig um 5·22.5°=112.5° gedreht wird.
+<br>Der Umweg über p<sub>2</sub> dient also dazu, auf einem Zweig in regelmäßigen Abständen Blätter in verschiedene Richtungen sprießen zu lassen.
+
+<br>Ein Blatt L ist ein 6-eckiges Polygon, das zu seinem Stengel um 2·22.5°=45° nach unten gekippt ist.
+
+<br>Die Dicke eines Zweiges wird durch ! mit größerer Entfernung zum Hauptzweig immer geringer, was der Pflanze ein realistischeres Aussehen verleiht. Auch durch die leichte Farbveränderung der Blätter und Äste wird ein gewisser Grad an Sterilität abgebaut.<br><br><hr width=85% color=#003366><br>
+
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel25"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="#kapitel24"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>2.5. Stochastische L-Systeme</h2></td>
+</tr>
+<tr>
+  <td valign=top><a href="#kapitel26"><img src=grafics/button_down.gif border=0></a></td>
+</tr>
+</table>
+
+<br><p>Bisher definierte L-Systeme lieferten immer dasselbe Produkt; ein Axiom wurde durch schrittweise angewandte, vordefinierte Produktionsregeln immer zum selben Endprodukt verändert. Nach den bisherigen Modellen kann eine große Anhäufung von Pflanzen (z.B. eine Wiese) nur aus einer Kopie von tausenden gleichen Pflanzen aufgebaut werden. Dies hat eine extrem künstliche und sterile Wirkung, die jeglichem Realismus entbehrt. 
+<br>Der entscheidende Faktor für Natürlichkeit ist der Zufall, der neben der Ordnung ein ebenso wichtiger Bestandteil der Evolution ist.
+<br>So gibt es bei stochastischen L-Systemen eine Auswahl von Formeln für ein Zeichen und dazugehörige Wahrscheinlichkeiten, die bestimmen, welche Regel wie häufig angewendet wird.
+<br>Dies bewirkt, dass die Topologie und geometrische Struktur der Pflanze verändert wird, das grundsätzliche Aussehen (wie auch Dimension und Skaleninvarianz) aber erhalten bleibt.
+<br>Formal ist ein stochastisches OL-System ein Quadrupel Gp = {V,w,P,p}, wobei für V, w und P selbiges wie bei simplen OL-Systemen gilt (<a href="#kapitel22">siehe Kapitel 2.2.</a>). Die Funktion p: P &rarr; ]0;1], Wahrscheinlichkeitsverteilung genannt, weist der Menge der Regeln eine Menge von Produktionswahrscheinlichkeiten zu. Dabei muss für jedes Element aus V die Summe der jeweiligen Wahrscheinlichkeiten 1 betragen.
+<br>Hier ein einfaches Beispiel, das ich in Lsys implementiert habe, mit Screenshots von verschiedenen Pflanzen bei Schritt 5:
+
+<center>
+<p><i>Stochastisches Gras</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>FF</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>F  &rarr; F[+F]F[-F]F</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>2</sub></td>
+      <td bgcolor=#FFFFE7>F  &rarr; F[+F]F</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>3</sub></td>
+      <td bgcolor=#FFFFE7>F  &rarr; F[-F]F</td>
+    </tr>   
+     <tr>
+      <td align=center bgcolor=#CCCC99>&phi;</td>
+      <td bgcolor=#FFFFE7>25.7°</td>
+    </tr>   
+</table>
+
+<p><img src="grafics/abb215.gif" alt="Screenshots aus Lsys" width=277 height=246>
+<br><em id="beschreibung">Abb. 2.15:  Vier Spezien eines stochastischen Grases, generiert durch Lsys</em></center>
+
+<p>Wie man sieht, erscheinen diese Pflanzen wie unterschiedliche Spezien einer Art.<br><br><hr width=85% color=#003366><br>
+
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel26"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="#kapitel25"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>2.6. IL- und DIL-Systeme</h2></td>
+</tr>
+<tr>
+  <td valign=top><a href="#kapitel27"><img src=grafics/button_down.gif border=0></a></td>
+</tr>
+</table>
+
+<br><p>Die in diesem Kapitel behandelten Systeme sind kontextsensitiv. Das bedeutet, dass die Wahl der Produktionsregeln von benachbarten Zeichen abhängt. Dies ist für die Simulation von Interaktionen zwischen Teilen einer Pflanze (z.B. Weitergabe von Nährstoffen) dienlich.
+<br>Dabei gibt es 1L-Systeme, die ein Nachbarzeichen berücksichtigen. 2L-Systeme berücksichtigen dagegen beide Nachbarzellen. Deren Produktionsregeln sind von der Form L&lt;A&gt;R &rarr; B , wo B nur dann aus A gebildet wird, wenn von A der vorangehende String L und der nachfolgende R ist. L und R können auch aus mehreren Zeichen bestehen. 
+So sind z.B. (k,l)-Systeme ein Überbegriff für bestimmte OL-, 1L und 2L-Systeme, deren linker Kontext genau aus k, der rechte genau aus l Symbolen besteht.
+<br>Um aber Spezifikationen für IL-Systeme kurz zu halten, sollen die Kontextlängen im Folgenden vernachlässigt werden.
+<br>Außerdem wird angenommen, dass bei Vorhandensein einer kontextsensitiven und kontextfreien Produktionsregel für ein Zeichen die kontextsensitive angewendet wird. Sollten keine Regeln vorhanden sein, gilt wie bei OL-Systemen die Selbstersetzung.
+
+<p>Hier ein Beispiel für ein 1L-System, das ein Signal weitergibt:
+
+<center>
+<p><i>Signalweitergabe</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>XFFFFFFFF</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>X&lt;F &rarr; X</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>2</sub></td>
+      <td bgcolor=#FFFFE7>X &rarr; F</td>
+    </tr>   
+  </table></center>
+
+<p>Das zu weiterleitende Signal X wandert von links nach rechts, wie die ersten Schritte zeigen:
+
+<p><blockquote>XFFFFFFFF
+<br>FXFFFFFFF
+<br>FFXFFFFFF
+<br>FFFXFFFFF
+<br>FFFFXFFFF
+<br>...</blockquote>
+
+<p>Die Anwendung von kontextsensitiven Systemen auf geklammerte ist schwieriger zu vollziehen, da durch Verzweigungen die direkte Nachbarschaft von Elementen verlorengeht. Dadurch können Symbole auch weggelassen werden; z.B. kann die Regel BC&lt;S>G[H]M auf die Zeichenkette
+
+<p><blockquote>ABC[DE][SG[HI[JK]L]MNO]</blockquote>
+
+<p>angewandt werden, weil [DE] und I[JK]L bei der Kontextsuche einfach übersprungen werden können.
+<br>Durch den Formalismus von geklammerten L-Systemen ist es möglich, akropetale (zur Spitze hinlaufende) und basipetale (zum Stamm hinlaufende) Signalweiterleitung zu simulieren (<a href="#Abb216">Abb. 2.16</a>):
+
+<center>
+<p><a name="Abb216"></a><img src="grafics/abb216.gif" alt="Abb. 2.16 (aus [1], Figure 1.30)" width=401 height=358>
+<br><em id="beschreibung">Abb. 2.16: akropetale (oben) und basipetale (unten) Signalweitergabe (je von links nach rechts)</em></center>
+
+<center>
+<p><i>Akropetale Signalweitergabe</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td bgcolor=#FFFFE7 colspan=2>Ignoriere: +-</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>Fb[+Fa]Fa[-Fa]Fa[+Fa]Fa</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>Fb&lt;Fa &rarr; Fb</td>
+    </tr>   
+  </table>
+
+<p><i>Basipetale Signalweitergabe</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td bgcolor=#FFFFE7 colspan=2>Ignoriere: +-</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>Fa[+Fa]Fa[-Fa]Fa[+Fa]Fb</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>Fa&lt;Fb &rarr; Fb</td>
+    </tr>   
+  </table></center>
+
+<p>Die Bezeichnung „Ignoriere: +–“ bedeutet, dass die Zeichen + und – bei der Kontextsuche ignoriert werden.
+<br>Man beachte in <a href="#Abb216">Abb. 2.16</a>, dass das Signal bei basipetaler nur im Hauptstamm, nicht aber in Nebenäste wie bei akropetaler Signalweiterleitung, weitergegeben wird.
+<br>Hier noch einige von Hogeweg und Hesper untersuchte 2L-Systeme, die sich durch die alternierenden Drehungen aufeinanderfolgender Verzweigungen von herkömmlichen Systemen unterscheiden:
+
+<center>
+<p><a name="Abb217"></a><img src="grafics/abb217.gif" alt="Abb. 2.17 (aus [1], Figure 1.31)" width=692 height=392>
+<br><em id="beschreibung">Abb. 2.17: Durch Hogeweg und Hesper untersuchte 2L-Systeme, die alle möglichen Symbolkombinationen berücksichtigen (+ und – wechseln sich bei jedem Schritt ab)</em></center><br><br><hr width=85% color=#003366><br>
+
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel27"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="#kapitel26"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>2.7. Parametrische L-Systeme</h2></td>
+</tr>
+<tr>
+  <td valign=top><img src=grafics/button_down_.gif border=0></td>
+</tr>
+</table>
+
+<br><p>Obwohl mit bisherigen Systemen eine Vielfalt von Objekten erzeugt werden konnte, gibt es Probleme bei bestimmten Proportionen zwischen Längeneinheiten: 
+<br>Da die Schrittlängen Einheitslängen sind und somit nur ganzzahlige Vielfache davon erzeugt werden können, ist z.B. die Darstellung eines gleichschenkeligen rechtwinkligen Dreiecks unmöglich, da das Verhältnis Kathete:Hypotenuse genau 1:&radic;(2) ist und der Wert &radic;(2) durch seine Irrationalität nicht durch addierte Einheitslängen angegeben werden kann.
+<br>Gleiches gilt für Winkel, bei denen nur Vielfache des vorgegeben Einheitswerts erzeugt werden können.
+<br>Es wäre prinzipiell möglich, neue Zeichen einzuführen, die bestimmte verschiedene Größen erzeugen, doch würde dadurch die Überschaubarkeit und Simplizität von L-Systemen verlorengehen.
+<br>Eine bessere Variante ist das Einführen von parametrischen Symbolen, die von der Schildkröte analog zu nichtparametrischen interpretiert werden:
+
+<p><table border=1 cellpadding=2 bordercolor=#000000 width=100%>
+    <tr>
+      <td width=65>F(a)</td>
+      <td align=left>Bewege dich einen Schritt der Länge a>0 vorwärts. Dabei wird die Position (x,y,z) auf (x´,y´,z´)  verändert, wobei x´= x+aHx, y´= y+aHy und z´= z+aHz gilt. Zeichne eine Linie zwischen (x,y,z) und (x´,y´,z´)</td>
+    </tr>
+    <tr>
+      <td>f(a)</td>
+      <td>Bewege dich wie bei F(a) um a vorwärts, zeichne aber keine Linie.</td>
+    </tr>   
+     <tr>
+      <td>+(a)</td>
+      <td>Drehe dich um U um einen Winkel mit a°. Ist a positiv, drehe dich nach links, sonst nach rechts.</td>
+    </tr>   
+    <tr>
+      <td>&(a)</td>
+      <td>Drehe dich um L um einen Winkel mit a°. Ist a positiv, kippe nach unten, sonst nach oben.</td>
+    </tr>   
+    <tr>
+      <td>/(a)</td>
+      <td>Drehe dich um H um einen Winkel mit a°. Ist a positiv, rolle nach rechts, sonst nach links.</td>
+    </tr>   
+</table>
+
+<p>Es ist zu beachten, dass die Bedeutungen der arithmetischen Symbole +, -, ·, /, ^, der Vergleichsoperatoren &lt;, &gt;, = und der logischen Operatoren !, &amp;, | (nicht, und, oder) und Klammern () vom Kontext abhängen, da sie tw. ebenfalls als Turtlebefehle vorkommen. 
+<br>Außerdem wird der Zustand der Schildkröte durch den ersten Parameter kontrolliert, falls mehrere mit einem Symbol assoziiert werden könnten.
+
+<p>Formal werden Symbole (&epsilon; V) mit zugeordneten Parametern (&epsilon; R) als Module bezeichnet. Das Axiom w muss ein nichtleerer parametrischer String sein.
+<br>Das System wird also als G = (V,&Sigma;,w,P) definiert, wo &Sigma; die Menge der Parameter darstellt. 
+<br>Tabellen für par. L-Systeme werden weitere Spalten enthalten, die 3 Komponenten der Regel auseinanderhalten sollen: Den Prädezessor (= das zu verändernde Modul inkl. kontextsensitiver Bedingungen), die Kondition (= die zu erfüllende Bedingung) und den Sukzessor (= in die zu verändernden Module).
+<br>Z.B. werde ich eine Regel p<sub>1</sub> mit Prädezessor A(t), Kondition t&gt;5 und Sukzessor B(t+1)CD(t^0.5,t-2) als
+
+<p>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000 align=center>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>A(t)</td>
+      <td bgcolor=#FFFFE7>t&gt;5</td>
+      <td bgcolor=#FFFFE7>&rarr; B(t+1)CD(t^0.5,t-2)</td>
+
+    </tr>
+  </table>
+
+<p>angeben.
+
+<p>Man nennt eine Regel zu einem Modul in einem parametrischen String passend, wenn folgendes gilt:
+
+<ul>
+<li>der Buchstabe im Modul ist derselbe wie im Prädezessor</li>
+<li>die Anzahl der konkreten Parameter im Modul ist gleich der Anzahl der formalen Parametern im Prädezessor</li>
+<li>die Kondition ergibt „wahr“ und die Parameter können überschrieben werden</li>
+</ul><br>
+
+Eine passende Regel kann auf ein Modul angewandt werden, woraus ein String von Modulen -durch den Sukzessor definiert- entsteht.
+<br>Z.B. ist obige Regel zum Modul A(9) passend, da der Buchstabe A im Modul derselbe wie im Prädezessor ist, es einen konkreten Parameter in A(9) als auch einen formalen in A(t) gibt und die Bedingung t&gt;5 durch t=9 erfüllt wird. Das Ergebnis dieser Anwendung ergibt B(10)CD(3,7).
+
+<center>
+<p><i>Beispiel für ein par. L-System</i>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7 colspan=3>B(2)A(4,4)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>A(x,y)</td>
+      <td bgcolor=#FFFFE7>y&le;3</td>
+      <td bgcolor=#FFFFE7>&rarr; A(x·2,x+y)</td>
+    </tr>
+  <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>2</sub></td>
+      <td bgcolor=#FFFFE7>A(x,y)</td>
+      <td bgcolor=#FFFFE7>y&gt;3</td>
+      <td bgcolor=#FFFFE7>&rarr; B(x)A(x/y,0)</td>
+    </tr>
+  <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>3</sub></td>
+      <td bgcolor=#FFFFE7>B(x)</td>
+      <td bgcolor=#FFFFE7>x&lt;1</td>
+      <td bgcolor=#FFFFE7>&rarr; C</td>
+    </tr>
+  <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>4</sub></td>
+      <td bgcolor=#FFFFE7>B(x)</td>
+      <td bgcolor=#FFFFE7>x&ge;1</td>
+      <td bgcolor=#FFFFE7>&rarr; B(x-1)</td>
+    </tr>
+  </table></center>
+
+<p>Hier die ersten 6 Zustände für dieses System (zur besseren Übersichtlichkeit ist jedes Modul in einer eigenen Spalte):
+
+<p>
+<table border=1 cellpadding=2 bordercolor=#000000 align=left>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>1</td>
+      <td >B(2)</td>
+      <td colspan=3>A(4,4)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>2</td>
+      <td >B(1)</td>
+      <td >B(4)</td>
+      <td  colspan=2>A(1,0)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>3</td>
+      <td >B(0)</td>
+      <td >B(3)</td>
+      <td  colspan=2>A(2,1)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>4</td>
+      <td >C</td>
+      <td >B(2)</td>
+      <td  colspan=2>A(4,3)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>5</td>
+      <td >C</td>
+      <td >B(1)</td>
+      <td  colspan=2>A(8,7)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>6</td>
+      <td >C</td>
+      <td >B(0)</td>
+      <td >B(8)</td>
+      <td >A(8/7,0)</td>
+    </tr>
+  </table></center><br clear=all><br><br>
+
+
+<a name="#kapitel271"><h3>2.7.1. Anabaena Catenula mit Heterozysten</h3></a><br>
+
+<p>Diese Art von L-System wurde von Lindenmayer u.a. deshalb vorgeschlagen, da die Diffusion von chemischen Stoffen in bestimmten Teilen der Anabaena Catenula so am einfachsten modelliert werden kann.
+<br>In diesem komplexesten Modell wird dies durch die Anwendung eines parametrischen 2L-Systems berücksichtigt.
+<br>Das Bakterium besteht aus 2 Typen von Zellen: vegetative Zellen (vZ) und Heterozysten (Hz). Die vZ Teilen sich und erzeugen 2 Tochterzellen (<a href="#kapitel22">vgl. mit Kapitel 2.2.</a>). Manchmal verwandeln sich vZ aber in Hz. Ihre Verteilung formt durch eine relativ konstante Anzahl von vZ zwischen aufeinanderfolgenden Hz ein typisches Muster. Diese konstanten Abstände werden von der Alge durch Stickstoffverbindungen geregelt, die von den Hz produziert und von Zelle zu Zelle weitergegeben werden und schließlich in den vZ zerfallen. Wenn die Konzentration der Verbindungen unter ein gewisses Niveau fällt, wird an dieser Stelle eine Hz gebildet.
+
+<center>
+<p><i>Anabaena Catenula (par. 2L-System)</i>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+   <tr>
+      <td bgcolor=#FFFFE7 colspan=4>Ignoriere: f~H</td>
+    </tr>
+   <tr>
+      <td bgcolor=#FFFFE7 colspan=4>Inkludiere: H</td>
+    </tr>
+   <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7 colspan=3>-(90)F(0,0,CH)F(4,1,CH)F(0,0,CH)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>F(s,t,c)</td>
+      <td bgcolor=#FFFFE7>t=1 &amp; s=6</td>
+      <td bgcolor=#FFFFE7>&rarr; F(s/3·2,2,c)f(1)F(s/3,1,c)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>2</sub></td>
+      <td bgcolor=#FFFFE7>F(s,t,c)</td>
+      <td bgcolor=#FFFFE7>t=2 &amp; s=6</td>
+      <td bgcolor=#FFFFE7>&rarr; F(s/3,2,c)f(1)F(s/3·2,1,c)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25><a name="p3">p<sub>3</sub></a></td>
+      <td bgcolor=#FFFFE7>F(h,i,k)&lt;F(s,t,c)&gt;F(o,p,r)</td>
+      <td bgcolor=#FFFFE7>s&gt;ST|c&gt;CT</td>
+      <td bgcolor=#FFFFE7>&rarr; F(s+.1,t,c+.25·(k+r-3·c))</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>4</sub></td>
+      <td bgcolor=#FFFFE7>F(h,i,k)&lt;F(s,t,c)&gt;F(o,p,r)</td>
+      <td bgcolor=#FFFFE7>!(s&gt;ST|c&gt;CT)</td>
+      <td bgcolor=#FFFFE7>&rarr; F(0,0,CH)~H(1)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>5</sub></td>
+      <td bgcolor=#FFFFE7>H(s)</td>
+      <td bgcolor=#FFFFE7>s&lt;3</td>
+      <td bgcolor=#FFFFE7>&rarr; H(s·1.1)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>CH</td>
+      <td bgcolor=#FFFFE7 colspan=3>900</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>CT</td>
+      <td bgcolor=#FFFFE7 colspan=3>0.4</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>ST</td>
+      <td bgcolor=#FFFFE7 colspan=3>3.9</td>
+    </tr>
+  </table></center>
+
+<p>„Inkludiere: H“ kennzeichnet die Form einer Hz (eine Scheibe), die in einer Grafikbibliothek von vorgefertigten Formen enthalten ist. Das Zeichen ~ kennzeichnet in p<sub>4</sub> den Zugriff auf diese Bibliothek.
+<br>Die vZ werden durch die Module F(s,t,c) beschrieben, wobei s für die Zelllänge, t für den Zelltyp (0 für eine Hz, 1 und 2 für vZ) und c für die Konzentration der Stickstoffverbindungen steht. Der Unterschied zwischen Typ 1- und Typ 2- Zellen besteht in der Anordnung der langen und kurzen Tochterzellen (<a href="#kapitel22">vgl. mit Ar und Al in Kapitel 2.2.</a>). Die Regeln p<sub>1</sub> und p<sub>2</sub> beschreiben die Zellteilung der vZ, während p<sub>3</sub> die Weitergabe und den Zerfall der Chemikalien kennzeichnet. Ihre Konzentration ist abhängig von den Konzentrationen der Nachbarzellen (k und r) und wird mit der Formel 
+
+<p><blockquote>c´= c+.25·(k+r-3·c)</blockquote>
+
+<p>berechnet (<a href="#p3">siehe p<sub>3</sub></a>).
+<br>In p<sub>4</sub> erfolgt die Umwandlung in eine Hz, wenn die Kondition, dass der Schwellwert ST=3.9 nicht überschritten wurde (also die Zelle jung genug ist) und der Wert der Konzentration kleiner als CT=0.4 ist, erfüllt wird. Der Unterschied zwischen CH und CT erscheint groß, doch fallen die hohen Anfangskonzentrationen, nämlich CH=900, ziemlich rasch.
+Die letzte Regel, p<sub>5</sub>, beschreibt das Wachstum der Hz.
+<br>Die Parameter CH, CT und ST wurden so gewählt, dass sie durch das L-System das natürliche Vorbild am besten modellieren, obwohl diese Werte nicht direkt an der Alge beobachtbar sind.
+ 
+<p><a href="#Abb218">Abb. 2.18</a> zeigt ein paar Entwicklungsphasen, wobei weiße Zellen niedrige, rote hohe Konzentrationen haben. Die Hz werden durch rote Scheiben visualisiert.
+
+<p><center><a name="Abb218"></a><img src="grafics/abb218.gif" alt="Abb. 2.18 (aus [1], Figure 1.35)" width=479 height=397>
+<br><em id="beschreibung"> Abb 2.18: Entwicklung der Anabaena Catenula mit Heterozysten (von oben nach unten)</em></center><br><br><br>
+
+
+<h3><a name="kapitel272">2.7.2. Anwendung der neuen Turtle-Befehle</a></h3><br>
+
+<p>Das nächste Beispiel, welches ich Baumreihe nenne (formal als Cesáro-Dreieck bekannt), ist eine Koch-Konstruktion (<a href="#kapitel233">siehe Kapitel 2.3.3.</a>), die durch ein parametrisches L-System dargestellt wird und eine Variante der klassischen Kochkurve (<a href="#Abb25">Abb. 2.5</a> <a href="#kapitel233">in Kapitel 2.3.3.</a>) ist. Der Initiator ist die Hypotenuse AB eines rechtwinkeligen Dreiecks ABC. Im Generator (<a href="#abb219">Abb. 2.19</a>) wird AB durch D zu AD und AB gespalten, während CD die Höhe bildet.
+
+<p><em id="beschreibung">Abb 2.19: Generator der Baumreihe</em>
+<br><img src="grafics/abb219.gif" alt="Abb. 2.19 (aus [1], Figure 1.36)" align=left width=274 height=173>
+
+<br>Die Längen von p (AD), q (DB) und h (DC) sind aus der elementaren Geometrie durch die Zusammenhänge
+
+	<p><blockquote>q=c-p   &nbsp; und &nbsp;     h=&radic;(pq) </blockquote>
+
+<p>gegeben. Die Ränder des Generators bilden 4 Dreiecke ähnlich zu ABC, woraus sich durch den Zusammenhang zwischen Randersetzung und flächenteilenden Kurven (<a href="#kapitel234">siehe Kapitel 2.3.4.</a>) schließen lässt, dass die gesamte Dreiecksfläche von der Grenzkurve ausgefüllt wird.
+<br clear=all>Das zugehörige L-System lautet:
+
+<center>
+<p><i>„Inhomogene” Baumreihe</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>F(1)</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p</td>
+      <td bgcolor=#FFFFE7>F(x) &rarr; F(x·p)+F(x·h)--F(x·h)+F(x·q)</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#CCCC99>&phi;</td>
+      <td bgcolor=#FFFFE7>86°</td>
+    </tr>   
+     <tr>
+      <td align=center bgcolor=#CCCC99>c</td>
+      <td bgcolor=#FFFFE7>1</td>
+    </tr>     
+    <tr>
+      <td align=center bgcolor=#CCCC99>p</td>
+      <td bgcolor=#FFFFE7>0.3</td>
+    </tr>        
+    <tr>
+      <td align=center bgcolor=#CCCC99>q</td>
+      <td bgcolor=#FFFFE7>c-p</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#CCCC99>h</td>
+      <td bgcolor=#FFFFE7>(p·q)^.5</td>
+    </tr>   
+</table>
+
+<p><a name="abb220"></a><img src="grafics/abb220.gif" alt="Abb. 2.20 (aus [1], Figure 1.37(a))" width=526 height=236>
+<br><em id="beschreibung">Abb. 2.20: „Inhomogene” Baumreihe</em></center>
+
+<p>Durch den Winkel &phi;=86° wird nicht die korrekte flächenfüllende Kurve erzeugt, diese zeigt aber einen besseren Einblick in die Struktur, da der Weg F(x·h) beim Winkel 90° doppelt und deckungsgleich gezeichnet würde (<a href="#abb220">Abb. 2.20</a>).
+<br>Man sieht, dass eine inhomogene Kurve (daher auch der Name) entsteht, die die Ebene an verschiedenen Bereichen dichter füllt. Dieser Effekt entsteht dadurch, dass alle Kanten, egal ob kurz oder lang, durch den Generator in jedem Schritt gleich ersetzt werden.
+<br>Eine Kurve, die eine „schönere“ Verteilung aufweist, wird durch folgendes L-System (in <a href="#abb221">Abb. 2.21</a> dargestellt) erzeugt:
+
+<center>
+<p><i>„Homogene” Baumreihe</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7 colspan=3>F(1,0)</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>F(x,t)</td>
+      <td bgcolor=#FFFFE7>t=0</td>
+      <td bgcolor=#FFFFE7>&rarr; F(x·p,2)+F(x·h,1)--F(x·h,1)+F(x·q,0)</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>2</sub></td>
+      <td bgcolor=#FFFFE7>F(x,t)</td>
+      <td bgcolor=#FFFFE7>t&gt;0</td>
+      <td bgcolor=#FFFFE7>&rarr; F(x,t-1)</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#CCCC99>&phi;</td>
+      <td bgcolor=#FFFFE7 colspan=3>86°</td>
+    </tr>   
+     <tr>
+      <td align=center bgcolor=#CCCC99>c</td>
+      <td bgcolor=#FFFFE7 colspan=3>1</td>
+    </tr>    
+    <tr>
+      <td align=center bgcolor=#CCCC99>p</td>
+      <td bgcolor=#FFFFE7 colspan=3>0.3</td>
+    </tr>         
+    <tr>
+      <td align=center bgcolor=#CCCC99>q</td>
+      <td bgcolor=#FFFFE7 colspan=3>c-p</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#CCCC99>h</td>
+      <td bgcolor=#FFFFE7 colspan=3>(p·q)^.5</td>
+    </tr>   
+</table>
+
+<p><a name="abb221"></a><img src="grafics/abb221.gif" alt="Abb. 2.21 (aus [1], Figure 1.37(b))" width=531 height=233>
+<br><em id="beschreibung">Abb. 2.21: „Homogene” Baumreihe</em></center>
+
+<p>Durch die Kondition in p<sub>1</sub> werden nur bestimmte F (nämlich solche mit t=0) durch den besprochenen Generator weiterverarbeitet.
+
+<p>Das nächste Beispiel macht Gebrauch von der Knotenpunktersetzung (<a href="#kapitel235">siehe Kapitel 2.3.5.</a>). Dabei wird ein Rechteck ABCD schrittweise in 2 neue, AEFD und BCFE, eingeteilt (<a href="#abb222">Abb. 2.22</a>). Die Länge a und Breite b erfüllen die Proportion
+
+<p><a name="abb222"></a><table border=0 width=100%>
+    <tr>
+        <td align=center width=30%><img src="grafics/formel07.gif"></td>
+      <td align=right rowspan=2 width=30%><img src="grafics/abb222.gif" alt="Abb. 2.22 (aus [1], Figure 1.38)" width=235 height=195></td>
+      <td rowspan=2 width=40%><em id="beschreibung">Abb. 2.22:  Generator für die Baumartige Struktur</em></td>
+    </tr>
+    <tr>
+      <td align=center>Daraus folgt <img src="grafics/formel08.gif"></td>
+     </tr>
+ </table><br clear=all>   
+                              
+<p>Jeder der Rechtecke ist mit einem Punkt assoziiert, der darin liegt. Diese werden nach folgendem L-System miteinander verbunden:
+
+<center>
+<p><i>Baumartige Struktur</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>A(1)</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p</td>
+      <td bgcolor=#FFFFE7>A(s) &rarr; F(s)[+A(s/R)][-A(s/R)]</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#CCCC99>R</td>
+      <td bgcolor=#FFFFE7>1.456</td>
+    </tr>   
+     <tr>
+      <td align=center bgcolor=#CCCC99>&phi;</td>
+      <td bgcolor=#FFFFE7>85°</td>
+    </tr>     
+ </table>
+</center>
+
+<p><a name="abb223"></a><em id="beschreibung">Abb. 2.23: Baumartige Struktur</a></em>
+<br><img src="grafics/abb223.gif" alt="Abb. 2.23 (aus [1], Figure 1.39)" align=left width=373 height=263>
+
+<p>Diese Struktur ist selbstausweichend. Die Länge jeder gezeichneten Linie bleibt für immer gleich (<a href="#abb224">Abb. 2.24 oben</a>).
+Anders ist dies bei folgendem System, dass zwar gleiche Proportionen aufweist, die Zweige aber in jeder Stufe anwachsen und so Wachstum modelliert wird (<a href="#abb224">Abb. 2.24 unten</a>).<br clear=all>
+
+<center>
+<p><i>Wachsende baumartige Struktur</i><br>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>A</td>
+    </tr>
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>A &rarr; F(1)[+A][-A]</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#FFFFCC>p<sub>2</sub></td>
+      <td bgcolor=#FFFFE7>F(s) &rarr; F(s·R)</td>
+    </tr>   
+    <tr>
+      <td align=center bgcolor=#CCCC99>R</td>
+      <td bgcolor=#FFFFE7>&gt;1</td>
+    </tr>   
+     <tr>
+      <td align=center bgcolor=#CCCC99>&phi;</td>
+      <td bgcolor=#FFFFE7>85°</td>
+    </tr>     
+ </table>
+
+<p><a name="abb224"></a><img src="grafics/abb224.gif" alt="Abb. 2.24 (aus [1], Figure 1.40)" width=513 height=230>
+<br><em id="beschreibung">Abb. 2.24:  Baumartige Struktur nicht wachsend (oben) und wachsend (unten)</em><br><br></center>
+
+<div align=center>
+<hr noshade>
+<a href="kapitel1.html" onMouseOver="Bildwechsel(49,Highlight_z)"   onMouseOut="Bildwechsel(49,Normal_z)" onMouseDown="Bildwechsel(49,Klick_z)" target="hauptseite"><img src="grafics/button_zurueck.gif" border=0 alt="zurückblättern"></a>
+
+<a href="kapitel3.html" onMouseOver="Bildwechsel(50,Highlight_w)"
+ onMouseOut="Bildwechsel(50,Normal_w)" onMouseDown="Bildwechsel(50,Klick_w)" target="hauptseite"><img src="grafics/button_weiter.gif" border=0 alt="weiterblättern"></a><br>
+</div>
+
+</body>
+
+</html>

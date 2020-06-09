@@ -1,0 +1,55 @@
+body,td,th
+	{margin:15pt;
+	margin-bottom:5pt;
+	margin-top:8pt;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:Verdana;
+	font-weight:normal;}
+body	{background-color:rgb(255,255,231);}
+table 	{border-width:thin;
+	border-color:#000099}
+h1
+	{margin:0cm;
+	margin-top:12pt;
+	margin-bottom:18pt;
+	margin-left:12pt;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-weight:bold;	
+	font-family:Verdana;}
+h2
+	{margin:0cm;
+	margin-top:8pt;
+	margin-bottom:8pt;
+	margin-left:6pt;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:Verdana;
+	font-weight:normal;
+	color:rgb(0,0,102);}
+h3
+	{margin:0cm;
+	margin-top:4pt;
+	margin-bottom:.4pt;
+	margin-left:2pt;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:Verdana;
+	font-weight:bold;
+	font-style:italic;
+	color:rgb(102,102,0)}
+hr	
+	{height:7px;
+	border-style:outset;
+	border-color:rgb(153,153,102);
+	margin:0px;}
+#beschreibung
+	{margin:0cm;
+	margin-top:0pt;
+	margin-bottom:.0pt;
+	page-break-after:avoid;
+	font-size:10pt;
+	font-family:Verdana;
+	font-weight:normal;
+	font-style:italic;}

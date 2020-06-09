@@ -1,0 +1,66 @@
+<html>
+<head>
+ <title>Fachbereichsarbeit: Rekursive Strukturen</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8559-1">
+ <meta name="dc.title" content="Fachbereichsarbeit: Rekursive Strukturen">
+ <meta name="dc.creator" content="Michael Szell">
+ <meta name="dc.contributor" content="Hildegard Urban-Woldron">
+ <meta name="dc.date" content="2001-10-23">
+ <meta name="dc.subject" content="Fraktale">
+ <meta name="dc.subject" content="Pflanzenmodelle">
+ <meta name="dc.subject" content="Lindenmayer-Systeme">
+ <meta name="dc.subject" content="Turtle-Grafik">
+ <meta name="dc.subject" content="Phyllotaxis">
+ <meta name="dc.subject" content="Iterierte Funktionensysteme">
+ <meta name="dc.subject" content="TI-92 Programme">
+ <meta name="dc.language" content="DE">
+ <meta name="author" content="Michael Szell">
+ <meta name="keywords" content="Szell, Mathematik, Fraktale, Lindenmayer, L-Systeme, TI-92, IFS, Phyllotaxis, Rekursive Strukturen, Fachbereichsarbeit">
+ <meta name="revisit-after" content="14 days">
+ <meta http-equiv="content-language" content="de">
+<link rel=stylesheet type="text/css" href="fbaformats.css">
+<style type="text/css">
+<!--
+//-->
+</style>
+<script language="JavaScript" src="buttons.js" type="text/javascript">
+<!--
+//-->
+</script>
+</head>
+
+<body background="grafics/bground.gif" bgproperties=fixed text=#000000 link=#0000CC vlink=#000066 alink=#0000CC>
+
+<img src="grafics/button_down_.gif" border=0 align=left>
+<div align=center>
+
+<a href="titelseite.html" onMouseOver="Bildwechsel(1,Highlight_z)"   onMouseOut="Bildwechsel(1,Normal_z)" onMouseDown="Bildwechsel(1,Klick_z)" target="hauptseite"><img src="grafics/button_zurueck.gif" border=0 alt="zurückblättern"></a>
+
+<a href="kapitel1.html" onMouseOver="Bildwechsel(2,Highlight_w)"
+ onMouseOut="Bildwechsel(2,Normal_w)" onMouseDown="Bildwechsel(2,Klick_w)" target="hauptseite"><img src="grafics/button_weiter.gif" border=0 alt="weiterblättern"></a><br>
+
+<hr noshade></div><br><br>
+<h1>Vorwort</h1><br>
+<p>Da ich mich schon seit Jahren für das Thema Chaos und Fraktale begeistere und es heutzutage sogar im Lehrstoff eines Realgymnasiums praktisch nicht existent ist, ist mir die Entscheidung, eine FBA trotz des intensiven Arbeitsaufwandes zu schreiben, nicht schwer gefallen.
+<br>Weil auf diesem Gebiet in den letzten Jahren extrem viele (z.T.  populärwissenschaftliche) Werke erschienen sind und das Thema in den unterschiedlichsten Bereichen der Wissenschaft Einzug gehalten hat, stellte sich mir bei der Literaturbeschaffung kein Problem. 
+<br>Ich hatte durch das breite Spektrum nur die Qual der Wahl, welches Thema ich wählen sollte. Eine grundlegende Einführung widerstrebte mir, da es hier sicher schon einige Fachbereichsarbeiten gab und fast alle Bücher, die ich auf dem Gebiet kannte, mehr oder weniger die gleichen schon langweiligen Exkursionen über Dimension, Selbstähnlichkeit, usw. boten.
+<br>So wollte ich mich auf etwas Bestimmtes spezialisieren. Erst konzentrierte ich mich auf 3 bis 8-dimensionale Fraktale, doch das erschien mir zu theoretisch und trocken, sodass ich schließlich bei den Pflanzen und deren mathematische Beschreibung durch L-Systeme landete. Dass natürliche Objekte mit wenigen Formeln relativ naturgetreu dargestellt werden konnten, hat mich sehr fasziniert (vor allem die fotorealistischen Farbbilder aus [<a href="anhang.html">1</a>] sprechen für sich).
+<p>Im ersten Semester der 7. Klasse begann ich mit dem Erstellen von Programmen für diese FBA auf dem TI-92 in TI-92-Basic (auch in FARGO -der inoffiziellen "TI-92-Assemblersprache", die sich durch die Zugriffsmöglichkeit auf den systeminternen Stack und die Schnelligkeit sehr gut für L-Systeme geeignet hätte-; dies erwies sich aber als zu komplex und zeitaufwendig), die ich bis zum 8. Schuljahr perfektionierte.
+<br>Da ich mich in dieser Arbeit mehr mit mathematischen Algorithmen und Hintergründen als mit programmtechnischen Beschreibungen auseinandersetzen wollte, entschied ich mich für das Fach Mathematik und nicht Informatik (durch die Naturmodelle lassen sich auch biologische Aspekte in dieser Arbeit finden).
+<p>Hiermit möchte ich aber weiters meine Abneigung gegen die oft völlig unzeitgemäßen Methoden des heutigen Mathematikunterrichts ausdrücken, die auch die Autoren von [<a href="anhang.html">2</a>] (Heinz-Otto Peitgen, Hartmut Jürgens, Dietmar Saupe) bedauern, und diese Arbeit dem langweiligen und konservativem Lehrstoff, der wenig Platz für Kreativität und divergentes Denken lässt, entgegenstellen:
+<p><blockquote>"<i>Erkundendes Lernen, häufiges querfeldein Gehen, interdisziplinäres Denken, dies waren seine</i> [Anm: Niels Bohrs; dänischer Physiker] <i>Maximen. Dagegen ist das "moderne" Mathematik-Curriculum doch so dürr und leblos und kommt mit seiner Ästhetik daher wie eine schlechte Bauhauskopie. Mathematikunterricht heute heißt fast immer vertikales Lernen, einen Stein systematisch auf den anderen setzen. Damit dem Lernenden der Geschmack ein bißchen stimuliert werde, sind dann und wann Textaufgaben eingestreut, die die Bedeutung der Mathematik aus den Anwendungen belegen sollen: "Mutter ist dreimal so alt wie Fritz und Fritz ist doppelt so alt wie Leni. Wie alt ist Fritz, wenn ..." oder</i> [&hellip;] <i>Die Textaufgaben mancher Schulbücher wirken hier eher als Verstärker der Abschreckung vor Mathematik.</i>" (aus [<a href="anhang.html">2</a>] Seite x f.)</blockquote>
+<br>
+<div align=center>
+<hr noshade>
+
+<a href="titelseite.html" onMouseOver="Bildwechsel(3,Highlight_z)"
+ onMouseOut="Bildwechsel(3,Normal_z)" onMouseDown="Bildwechsel(3,Klick_z)" target="hauptseite"><img src="grafics/button_zurueck.gif" border=0 alt="zurückblättern"></a>
+
+<a href="kapitel1.html" onMouseOver="Bildwechsel(4,Highlight_w)"
+ onMouseOut="Bildwechsel(4,Normal_w)" onMouseDown="Bildwechsel(4,Klick_w)" target="hauptseite"><img src="grafics/button_weiter.gif" border=0 alt="weiterblättern"></a><br>
+
+</div>
+
+</body>
+
+</html>

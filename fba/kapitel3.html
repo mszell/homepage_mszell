@@ -1,0 +1,435 @@
+<html>
+<head>
+ <title>Fachbereichsarbeit: Rekursive Strukturen</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8559-1">
+ <meta name="dc.title" content="Fachbereichsarbeit: Rekursive Strukturen">
+ <meta name="dc.creator" content="Michael Szell">
+ <meta name="dc.contributor" content="Hildegard Urban-Woldron">
+ <meta name="dc.date" content="2001-10-23">
+ <meta name="dc.subject" content="Fraktale">
+ <meta name="dc.subject" content="Pflanzenmodelle">
+ <meta name="dc.subject" content="Lindenmayer-Systeme">
+ <meta name="dc.subject" content="Turtle-Grafik">
+ <meta name="dc.subject" content="Phyllotaxis">
+ <meta name="dc.subject" content="Iterierte Funktionensysteme">
+ <meta name="dc.subject" content="TI-92 Programme">
+ <meta name="dc.language" content="DE">
+ <meta name="author" content="Michael Szell">
+ <meta name="keywords" content="Szell, Mathematik, Fraktale, Lindenmayer, L-Systeme, TI-92, IFS, Phyllotaxis, Rekursive Strukturen, Fachbereichsarbeit, Baummodelle, Monopodial, Sympodial, Tropismus">
+ <meta name="revisit-after" content="14 days">
+ <meta http-equiv="content-language" content="de">
+<link rel=stylesheet type="text/css" href="fbaformats.css">
+<style type="text/css">
+<!--
+//-->
+</style>
+<script language="JavaScript" src="buttons.js" type="text/javascript">
+<!--
+//-->
+</script>
+</head>
+
+<body background="grafics/bground.gif" bgproperties=fixed text=#000000 link=#0000CC vlink=#000066 alink=#0000CC>
+
+<a href="#kapitel31"><img src=grafics/button_down.gif border=0 align=left></a>
+<div align=center>
+
+<a href="kapitel2.html" onMouseOver="Bildwechsel(1,Highlight_z)"   onMouseOut="Bildwechsel(1,Normal_z)" onMouseDown="Bildwechsel(1,Klick_z)" target="hauptseite"><img src="grafics/button_zurueck.gif" border=0 alt="zurückblättern"></a>
+
+<a href="kapitel4.html" onMouseOver="Bildwechsel(2,Highlight_w)"
+ onMouseOut="Bildwechsel(2,Normal_w)" onMouseDown="Bildwechsel(2,Klick_w)" target="hauptseite"><img src="grafics/button_weiter.gif" border=0 alt="weiterblättern"></a><br>
+
+<hr noshade></div><br>
+
+<table width=100% cellpadding=0 border=0>
+<colgroup> <col width=*> <col width=280> </colgroup> 
+<tr>
+<td rowspan=4 valign=top><h1><nobr>3. Modellierung</nobr> <nobr>von Bäumen</nobr></h1></td>
+ </tr>
+<tr><td><font size=-1> [<a href="#kapitel31">3.1. Monopodiale Verzweigung</a>]</td></tr>
+<tr><td><font size=-1>[<a href="#kapitel32">3.2. Sympodiale Verzweigung</a>] </td></tr>
+<tr><td><font size=-1> [<a href="#kapitel33">3.3. Tropismus und ternäre Verzweigung</a>]</td></tr>
+</table></font><br><br>
+
+
+
+<p>Die lange Vorgeschichte zur Simulation von verzweigten Strukturen liegt vor allem in zellulären Automaten, die zelluläres Wachstum modellieren und stetig ausgebaut und auf 3 Dimensionen ausgeweitet wurden. Diese Technik beruht auf Interaktion zwischen Zellen einer wachsenden Struktur, wie auch zwischen der Struktur und der Umgebung. Da diese Interaktion die Komplexität der Modelle deutlich erhöht, greift man heutzutage mehr auf simple zurück, obwohl diese entscheidende Umweltfaktoren nicht berücksichtigen. Die erste Art von Baummodellen wurde von Honda vorgeschlagen, die folgende vereinfachenden Kriterien erfüllt:
+
+<p><ul>
+<li>Baumsegmente sind gerade und ihr Umfang bleibt unberücksichtigt</li>
+<li>Ein Muttersegment erzeugt in einem Schritt 2 Tochtersegmente</li>
+<li>Deren Längen werden um die konstanten Faktoren r<sub>1</sub> und r<sub>2</sub> im Verhältnis zum Muttersegment gekürzt (<a href="#abb31">Abb. 3.1</a> links)</li>
+<li>Das Mutter- als auch die Tochtersegmente liegen in einer Verzweigungsebene, während die Tochtersegmente in bestimmten Winkeln a<sub>1</sub> und a<sub>2</sub> vom Muttersegment weggedreht sind.</li>
+<li>Die Linie, die rechtwinklig zum Muttersegment ist und in der Verzeigungsebene liegt, ist horizontal. Die Ausnahme bildet eine Verzweigung, die von einem senkrechten Hauptstamm ausgeht. In diesem Fall existiert zwischen den Ebenen der Verzweigungen, die auch den Hauptstamm enthalten, ein Divergenzwinkel &alpha; (<a href="#abb31">Abb. 3.1</a> rechts).</li></ul>
+
+<p><em id="beschreibung"><a name="Abb31">Abb. 3.1</a>: Gerüste für Baummodelle nach Honda</em>
+<br>
+<img src="grafics/abb31.gif" alt="Abb. 3.1 (aus [1], Figure 2.2)" width=400 height=193 align=left>
+
+<p>Allein die Veränderung obiger Parameter lieferte Honda eine große Anzahl von unterschiedlichen Strukturen (<a href="#kapitel31">siehe Kapitel 3.1.</a> und <a href="#kapitel32">3.2.</a>). Seine Modelle wurden immer weiter verbessert und von Aono und Kunii neue Erweiterungen, wie die Berücksichtigung von  Wind, Phototropismus und Schwerkraft, eingeführt, die Zweige in bestimmte Richtungen neigten (<a href="#kapitel33">siehe Kapitel 3.3.</a>).
+<br clear=all>Auch im Aussehen der Äste, die anfangs nur als Linien mit bestimmter Dicke definiert waren und so "Baumskellette" formten, wurde eine neue Entwicklung eingeschlagen, indem man gebogene und texturierte Zweige und Blätter einführte (siehe Titelbild). Später entstanden auch stochastische Modelle, die eher nur baumähnliche Strukturen waren, aber in Massen zusammengesetzt ein realistisches Bild ergaben, obwohl man dabei auf biologische Details wenig Rücksicht nahm (<a href="#abb32">Abb. 3.2</a>).
+
+<center>
+<p><a name="abb32"></a><a href="grafics/abb32.jpg" target="_blank"><img src="grafics/abb32thumb.jpg" alt="Abb. 3.2 (aus [1], Figure 2.4)" border=1></a><br>
+<em id="beschreibung">Abb. 3.2: Stochastischer Wald (178 kb)</em></center>
+
+<p>Die Anwendung von L-Systemen auf Baummodelle wurde als erstes von Aono und Kunii in Betracht gezogen. Sie fanden, dass die originale Definition von L-Systemen ungeeignet für Bäume schien, ließen in ihrer Argumentation aber parametrische L-Systeme ausser acht, die sehr wohl für primitive Bäume geeignet sind. <br><br><hr width=85% color=#003366><br>
+
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel31"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="kapitel3.html"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>3.1. Monopodiale Verzweigung</h2></td>
+</tr>
+<tr>
+  <td valign=top><a href="#kapitel32"><img src=grafics/button_down.gif border=0></a></td>
+</tr>
+</table>
+
+<br><p>Z.B. sieht man in <a href="#abb33">Abb. 3.3</a> die Simulation von Honda'schen Baummodellen durch L-Systeme, wobei ein Verzweigungswinkel (a<sub>1</sub>) 0° hat. Das heißt, dass sie monopodiale Strukturen mit genau definierten Hauptstämmen und Nebenzweigen darstellen.
+
+<center>
+<p><i>Honda'sche monopodiale Baumstrukturen</i>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>   
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>A(1,10)</td>
+    </tr>
+     <tr>   
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>A(l,w) &rarr; !(w)F(l)[&amp;(a<sub>0</sub>)B(l·r<sub>2</sub>,w·w<sub>r</sub>)]/(d)A(l·r<sub>1</sub>,w·w<sub>r</sub>)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>2</sub></td>
+      <td bgcolor=#FFFFE7>B(l,w) &rarr; !(w)F(l)[-(a<sub>2</sub>)$C(l·r<sub>2</sub>,w·w<sub>r</sub>)]C(l·r<sub>1</sub>,w·w<sub>r</sub>)</td>
+    </tr>
+    <tr>   
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>3</sub></td>
+      <td bgcolor=#FFFFE7>C(l,w) &rarr; !(w)F(l)[+(a<sub>2</sub>)$B(l·r<sub>2</sub>,w·w<sub>r</sub>)]B(l·r<sub>1</sub>,w·w<sub>r</sub>)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>r<sub>1</sub></td>
+      <td bgcolor=#FFFFE7><a href="#tabelle1">Siehe Tabelle</a></td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>r<sub>2</sub></td>
+      <td bgcolor=#FFFFE7><a href="#tabelle1">Siehe Tabelle</a></td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>a<sub>0</sub></td>
+      <td bgcolor=#FFFFE7><a href="#tabelle1">Siehe Tabelle</a></td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>a<sub>2</sub></td>
+      <td bgcolor=#FFFFE7><a href="#tabelle1">Siehe Tabelle</a></td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>d</td>
+      <td bgcolor=#FFFFE7>137.5</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>w<sub>r</sub></td>
+      <td bgcolor=#FFFFE7>0.707</td>
+    </tr>
+  </table>
+
+
+<p><a name="tabelle1"></a>
+<table border=1 cellpadding=2 bordercolor=#000033>
+    <tr>   
+      <th bgcolor=#FFFFE7>Figur (<a href="#abb33">Abb. 3.3</a>)</th>
+      <td align=center bgcolor=#CCCC99 width=35>r<sub>1</sub></td>
+      <td align=center bgcolor=#CCCC99 width=35>r<sub>2</sub></td>
+      <td align=center bgcolor=#CCCC99 width=35>a<sub>0</sub></td>
+      <td align=center bgcolor=#CCCC99 width=35>a<sub>2</sub></td>
+    </tr>
+    <tr>   
+      <th bgcolor=#FFFFCC>links oben</th>
+      <td align=center bgcolor=#FFFFE7>0.9</td>
+      <td align=center bgcolor=#FFFFE7>0.6</td>
+      <td align=center bgcolor=#FFFFE7>45</td>
+      <td align=center bgcolor=#FFFFE7>45</td>
+    </tr>
+  <tr>   
+      <th bgcolor=#FFFFCC>rechts oben</th>
+      <td align=center bgcolor=#FFFFE7>0.9</td>
+      <td align=center bgcolor=#FFFFE7>0.9</td>
+      <td align=center bgcolor=#FFFFE7>45</td>
+      <td align=center bgcolor=#FFFFE7>45</td>
+    </tr>
+  <tr>   
+      <th bgcolor=#FFFFCC>links unten</th>
+      <td align=center bgcolor=#FFFFE7>0.9</td>
+      <td align=center bgcolor=#FFFFE7>0.8</td>
+      <td align=center bgcolor=#FFFFE7>45</td>
+      <td align=center bgcolor=#FFFFE7>45</td>
+    </tr>
+  <tr>   
+      <th bgcolor=#FFFFCC>rechts unten</th>
+      <td align=center bgcolor=#FFFFE7>0.9</td>
+      <td align=center bgcolor=#FFFFE7>0.7</td>
+      <td align=center bgcolor=#FFFFE7>30</td>
+      <td align=center bgcolor=#FFFFE7>-30</td>
+    </tr>
+  </table></center>
+
+<p><a name="Abb33"></a><center><img src="grafics/abb33.gif" alt="Abb. 3.3 (aus [1], Figure 2.6)" width=366 height=404><br>
+<em id="beschreibung">Abb. 3.3: Vier Beispiele für monopodiale Baumstrukturen nach Honda</em></center>
+
+<p>Regel p<sub>1</sub> erzeugt auf der Spitze der Hauptachse in jeder Iteration ein Segment F und einen Knotenpunkt B. Die Konstanten r<sub>1</sub> und r<sub>2</sub> sind Kontraktionsfaktoren für Haupt- bzw. Nebenzweige, a<sub>0</sub> und a<sub>2</sub> sind die Verzweigungswinkel und d=137.5° der Divergenzwinkel. Das Modul !(w) setzt die Liniendicke auf w, die in jedem Tochtersegment um w<sub>r</sub>=0.707 verkürzt wird. Dieser Faktor entspricht einem Postulat von Leonardo da Vinci, wonach gilt: die Summe der Dicke aller Zweige eines Baumes bei jeder Höhe entspricht der Dicke des Mutterzweiges. Im Fall von 2 Tochterzweigen mit Durchmesser w<sub>2</sub> und einem Mutterzweig mit w<sub>1</sub> ergibt sich die Gleichung w<sub>1</sub>² = 2w<sub>2</sub>², weiters der Verkürzungsfaktor w<sub>r</sub>, für den
+<br><blockquote> w<sub>2</sub>/w<sub>1</sub> = 1/&radic;(2) &asymp; 0.707 gilt.</blockquote>
+<br>Die Regeln p<sub>2</sub> und p<sub>3</sub> beschreiben das kontinuierliche Wachstum der Nebenäste. Dabei werden abwechselnd Zweige nach links und rechts um die Winkel a<sub>2</sub> bzw. -a<sub>2</sub> erzeugt. Damit Hondas letzte Bedingung, die eine Verzweigungebene am nächsten zu einer Horizontalebene fordert, erfüllt wird, wird die Schildkröte mittels $ um seine Achse gedreht, was den Vektor L in eine horizontale Lage bringt. Technisch gesehen, verändert der Befehl $ die Lage der Schildkröte im Raum den Formeln
+
+<p><blockquote>L = (V &times; H)/(|V &times; H|) &nbsp; und &nbsp; U = H &times; L</blockquote>
+
+<p>entsprechend, wobei V die der Gravitation entgegengesetzte Richtung ist.<br><br><hr width=85% color=#003366><br>
+
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel32"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="#kapitel31"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>3.2. Sympodiale Verzweigung</h2></td>
+</tr>
+<tr>
+  <td valign=top><a href="#kapitel33"><img src=grafics/button_down.gif border=0></a></td>
+</tr>
+</table>
+
+<br><p>Eine leicht veränderte Verzweigungsform zeigt die sympodiale Verzweigung, wo beide Tochtersegmente Winkel ungleich Null zum Muttersegment aufweisen. Daraus ergibt sich eine scheinbar gebogene Stammform bei kleinen a<sub>1</sub>, wie <a href="#abb34">Abb. 3.4</a> zeigt. 
+
+<p><a name="Abb34"></a><center><img src="grafics/abb34.gif" alt="Abb. 3.4 (aus [1], Figure 2.7)" width=398 height=386><br>
+<em id="beschreibung">Abb. 3.4: Vier Sympodiale Baumstrukturen nach Aono und Kunii</em></center>
+
+<center>
+<p><i>Sympodiale Baumstrukturen nach Aono und Kunii</i>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>   
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>A(1,10)</td>
+    </tr>
+     <tr>   
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>A(l,w) &rarr; !(w)F(l)[&amp;(a<sub>1</sub>)B(l·r<sub>1</sub>,w·w<sub>r</sub>)]/(180)[&amp;(a<sub>2</sub>)B(l·r<sub>2</sub>,w·w<sub>r</sub>)]</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>2</sub></td>
+      <td bgcolor=#FFFFE7>B(l,w) &rarr; !(w)F(l)[+(a<sub>1</sub>)$B(l·r<sub>1</sub>,w·w<sub>r</sub>)][-(a<sub>2</sub>)$B(l·r<sub>2</sub>,w·w<sub>r</sub>)]</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>r<sub>1</sub></td>
+      <td bgcolor=#FFFFE7><a href="#tabelle2">Siehe Tabelle</a></td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>r<sub>2</sub></td>
+      <td bgcolor=#FFFFE7><a href="#tabelle2">Siehe Tabelle</a></td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>a<sub>0</sub></td>
+      <td bgcolor=#FFFFE7><a href="#tabelle2">Siehe Tabelle</a></td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>a<sub>2</sub></td>
+      <td bgcolor=#FFFFE7><a href="#tabelle2">Siehe Tabelle</a></td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>w<sub>r</sub></td>
+      <td bgcolor=#FFFFE7>0.707</td>
+    </tr>
+  </table>
+
+<p><a name="tabelle2"></a>
+<table border=1 cellpadding=2 bordercolor=#000033>
+    <tr>   
+      <th bgcolor=#FFFFE7>Figur (<a href="#abb34">Abb. 3.4</a>)</th>
+      <td align=center bgcolor=#CCCC99 width=35>r<sub>1</sub></td>
+      <td align=center bgcolor=#CCCC99 width=35>r<sub>2</sub></td>
+      <td align=center bgcolor=#CCCC99 width=35>a<sub>0</sub></td>
+      <td align=center bgcolor=#CCCC99 width=35>a<sub>2</sub></td>
+    </tr>
+    <tr>   
+      <th bgcolor=#FFFFCC>links oben</th>
+      <td align=center bgcolor=#FFFFE7>0.9</td>
+      <td align=center bgcolor=#FFFFE7>0.7</td>
+      <td align=center bgcolor=#FFFFE7>5</td>
+      <td align=center bgcolor=#FFFFE7>65</td>
+    </tr>
+  <tr>   
+      <th bgcolor=#FFFFCC>rechts oben</th>
+      <td align=center bgcolor=#FFFFE7>0.9</td>
+      <td align=center bgcolor=#FFFFE7>0.7</td>
+      <td align=center bgcolor=#FFFFE7>10</td>
+      <td align=center bgcolor=#FFFFE7>60</td>
+    </tr>
+  <tr>   
+      <th bgcolor=#FFFFCC>links unten</th>
+      <td align=center bgcolor=#FFFFE7>0.9</td>
+      <td align=center bgcolor=#FFFFE7>0.8</td>
+      <td align=center bgcolor=#FFFFE7>20</td>
+      <td align=center bgcolor=#FFFFE7>50</td>
+    </tr>
+  <tr>   
+      <th bgcolor=#FFFFCC>rechts unten</th>
+      <td align=center bgcolor=#FFFFE7>0.9</td>
+      <td align=center bgcolor=#FFFFE7>0.8</td>
+      <td align=center bgcolor=#FFFFE7>35</td>
+      <td align=center bgcolor=#FFFFE7>35</td>
+    </tr>
+  </table></center>
+
+<p>Bei diesen Baummodellen beschränkt sich die Aktivität des Hauptsegments auf die Bildung des Stammes und zweier Nebenäste, was in p<sub>2</sub> beschrieben wird.<br><br><hr width=85% color=#003366><br>
+
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel33"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="#kapitel32"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>3.3. Tropismus und ternäre Verzweigung</h2></td>
+</tr>
+<tr>
+  <td valign=top><img src=grafics/button_down_.gif border=0></td>
+</tr>
+</table>
+
+<br><p>Im folgenden Modell wird wirkliches Wachstum -wie in <a href="kapitel2.html#kapitel272">Kapitel 2.7.2.</a> angerissen- modelliert. Dabei werden die bisherigen Stauchungs- zu Streckungsfaktoren (d.h. die Faktoren erhalten Werte >1). 
+
+<p><em id="beschreibung"><a name="Abb35">Abb. 3.5</a>: Tropismus</em><br>
+<img src="grafics/abb35.gif" alt="Abb. 3.5 (aus [1])" align=left width=194 height=169>
+
+<p>Außerdem wird hier der Einfluss einer Kraft durch einen Tropismusvektor T berücksichtigt, der alle Äste wie in <a href="#abb35">Abb. 3.5</a> abbiegt und so den Vektor H zu H´verändert. Soll der reine Einfluss der Schwerkraft dargestellt werden, gilt
+<br><blockquote>T = [0,-1,0] . </blockquote>
+Bei Phototropismus -also Wachstumseinfluss durch Licht- oder anderen Tropismen verändert sich dieser Vektor. Die Werte e und a ergeben sich aus H und T.<br clear=all>
+
+<center>
+<p><i>Ternär verzweigte Bäume</i>
+<table border=1 cellpadding=2 bordercolor=#000000 bgcolor=#000000>
+    <tr>   
+      <td align=center bgcolor=#FFFFCC width=25>w</td>
+      <td bgcolor=#FFFFE7>!(1)F(200)/(45)A</td>
+    </tr>
+     <tr>   
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>1</sub></td>
+      <td bgcolor=#FFFFE7>A(l,w) &rarr; !(v<sub>r</sub>)F(50)[&(a)F(50)A]/(d1)[&(a)F(50)A]/(d2)[&(a)F(50)A]</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>2</sub></td>
+      <td bgcolor=#FFFFE7>B(l,w) &rarr; !(w)F(l)[-(a<sub>2</sub>)$C(l·r<sub>2</sub>,w·w<sub>r</sub>)]C(l·r<sub>1</sub>,w·w<sub>r</sub>)</td>
+    </tr>
+    <tr>   
+      <td align=center bgcolor=#FFFFCC width=25>p<sub>3</sub></td>
+      <td bgcolor=#FFFFE7>C(l,w) &rarr; !(w)F(l)[+(a<sub>2</sub>)$B(l·r<sub>2</sub>,w·w<sub>r</sub>)]B(l·r<sub>1</sub>,w·w<sub>r</sub>)</td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>d<sub>1</sub></td>
+      <td bgcolor=#FFFFE7><a href="#tabelle3">Siehe Tabelle</a></td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>d<sub>2</sub></td>
+      <td bgcolor=#FFFFE7><a href="#tabelle3">Siehe Tabelle</a></td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>a</td>
+      <td bgcolor=#FFFFE7><a href="#tabelle3">Siehe Tabelle</a></td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>l<sub>r</sub></td>
+      <td bgcolor=#FFFFE7><a href="#tabelle3">Siehe Tabelle</a></td>
+    </tr>
+    <tr>  
+      <td align=center bgcolor=#CCCC99 width=25>v<sub>r</sub></td>
+      <td bgcolor=#FFFFE7>1.732</td>
+    </tr>
+  </table>
+
+
+<p><a name="tabelle3"></a>
+<table border=1 cellpadding=2 bordercolor=#000033>
+    <tr>   
+      <th bgcolor=#FFFFE7>Figur (<a href="#abb36">Abb. 3.6</a>)</th>
+      <td align=center bgcolor=#CCCC99 width=45>d<sub>1</sub></td>
+      <td align=center bgcolor=#CCCC99 width=45>d<sub>2</sub></td>
+      <td align=center bgcolor=#CCCC99 width=45>a</td>
+      <td align=center bgcolor=#CCCC99 width=45>l<sub>r</sub></td>
+      <td align=center bgcolor=#CCCC99>T</td>
+      <td align=center bgcolor=#CCCC99 width=45>e</td>
+      <td align=center bgcolor=#CCCC99 width=25>n</td>
+
+    </tr>
+    <tr>   
+      <th bgcolor=#FFFFCC>links oben</th>
+      <td align=center bgcolor=#FFFFE7>94.74</td>
+      <td align=center bgcolor=#FFFFE7>132.6</td>
+      <td align=center bgcolor=#FFFFE7>18.95</td>
+      <td align=center bgcolor=#FFFFE7>1.109</td>
+     <td align=center bgcolor=#FFFFE7>[0/-1/0]</td>
+      <td align=center bgcolor=#FFFFE7>0.22</td>
+      <td align=center bgcolor=#FFFFE7>6</td>
+    </tr>
+  <tr>   
+      <th bgcolor=#FFFFCC>rechts oben</th>
+      <td align=center bgcolor=#FFFFE7>137.5</td>
+      <td align=center bgcolor=#FFFFE7>137.5</td>
+      <td align=center bgcolor=#FFFFE7>18.95</td>
+      <td align=center bgcolor=#FFFFE7>1.109</td>
+     <td align=center bgcolor=#FFFFE7>[0/-1/0]</td>
+      <td align=center bgcolor=#FFFFE7>0.14</td>
+      <td align=center bgcolor=#FFFFE7>8</td>
+    </tr>
+  <tr>   
+      <th bgcolor=#FFFFCC>links unten</th>
+      <td align=center bgcolor=#FFFFE7>112.5</td>
+      <td align=center bgcolor=#FFFFE7>137.5</td>
+      <td align=center bgcolor=#FFFFE7>22.5</td>
+      <td align=center bgcolor=#FFFFE7>1.790</td>
+     <td align=center bgcolor=#FFFFE7>[-0.02/-1 /0]</td>
+      <td align=center bgcolor=#FFFFE7>0.27</td>
+      <td align=center bgcolor=#FFFFE7>8</td>
+    </tr>
+  <tr>   
+      <th bgcolor=#FFFFCC>rechts unten</th>
+      <td align=center bgcolor=#FFFFE7>180</td>
+      <td align=center bgcolor=#FFFFE7>252</td>
+      <td align=center bgcolor=#FFFFE7>26</td>
+      <td align=center bgcolor=#FFFFE7>1.070</td>
+     <td align=center bgcolor=#FFFFE7>[-0.61/0.77/-0.19]</td>
+      <td align=center bgcolor=#FFFFE7>0.40</td>
+      <td align=center bgcolor=#FFFFE7>6</td>
+    </tr>
+  </table></center>
+
+
+<p><a name="Abb36"></a><center><img src="grafics/abb36.gif" alt="Abb. 3.6 (aus [1])" width=480 height=448><br>
+<em id="beschreibung">Abb. 3.6:  Beispiele für ternär verzweigte Bäume mit verschiedenen Tropismen</em></center>
+
+<p>Der Streckfaktor v<sub>r</sub>=1.732 lässt sich wiederum aus da Vincis Postulat (<a href="#kapitel31">siehe Kapitel 3.1.</a>) ableiten: 
+
+<blockquote>
+<p>w<sub>1</sub>² = 3w<sub>2</sub>²
+<br>v<sub>r</sub> = w<sub>1</sub>/w<sub>2</sub> = &radic;(3) &asymp; 1.732 
+</blockquote>
+
+<p>Die Bildung von 3 neuen Ästen nennt sich ternäre Verzweigung.
+Die stetigen Vergrößerungen der Längen und Durchmesser werden durch die Regeln p<sub>2</sub> bzw. p<sub>3</sub> erfasst.
+
+
+
+<br><br>
+
+<div align=center>
+<hr noshade>
+<a href="kapitel2.html" onMouseOver="Bildwechsel(15,Highlight_z)"   onMouseOut="Bildwechsel(15,Normal_z)" onMouseDown="Bildwechsel(15,Klick_z)" target="hauptseite"><img src="grafics/button_zurueck.gif" border=0 alt="zurückblättern"></a>
+
+<a href="kapitel4.html" onMouseOver="Bildwechsel(16,Highlight_w)"
+ onMouseOut="Bildwechsel(16,Normal_w)" onMouseDown="Bildwechsel(16,Klick_w)" target="hauptseite"><img src="grafics/button_weiter.gif" border=0 alt="weiterblättern"></a><br>
+</div>
+
+</body>
+
+</html>

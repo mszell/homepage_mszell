@@ -1,0 +1,160 @@
+<html>
+<head>
+<title>Rekursive Strukturen</title>
+<style type="text/css">
+<!--
+//-->
+</style>
+<script language="JavaScript">
+<!--
+  Normal_ti = new Image(); 
+  Normal_ti.src = "grafics/button_titelseite.gif"; 
+  Highlight_ti = new Image(); 
+  Highlight_ti.src = "grafics/button_titelseitehl.gif"; 
+  Klick_ti = new Image(); 
+  Klick_ti.src = "grafics/button_titelseitec.gif"; 
+
+  Normal_vo = new Image(); 
+  Normal_vo.src = "grafics/button_vorwort.gif";
+  Highlight_vo = new Image(); 
+  Highlight_vo.src = "grafics/button_vorworthl.gif"; 
+  Klick_vo = new Image(); 
+  Klick_vo.src = "grafics/button_vorwortc.gif";
+
+  Normal_fr = new Image(); 
+  Normal_fr.src = "grafics/button_fraktale.gif";
+  Highlight_fr = new Image(); 
+  Highlight_fr.src = "grafics/button_fraktalehl.gif"; 
+  Klick_fr = new Image(); 
+  Klick_fr.src = "grafics/button_fraktalec.gif";
+
+  Normal_ls = new Image(); 
+  Normal_ls.src = "grafics/button_lsysteme.gif";
+  Highlight_ls = new Image(); 
+  Highlight_ls.src = "grafics/button_lsystemehl.gif"; 
+  Klick_ls = new Image(); 
+  Klick_ls.src = "grafics/button_lsystemec.gif";
+
+  Normal_ba = new Image(); 
+  Normal_ba.src = "grafics/button_baummodelle.gif";
+  Highlight_ba = new Image(); 
+  Highlight_ba.src = "grafics/button_baummodellehl.gif"; 
+  Klick_ba = new Image(); 
+  Klick_ba.src = "grafics/button_baummodellec.gif";
+
+  Normal_ph = new Image(); 
+  Normal_ph.src = "grafics/button_phyllotaxis.gif";
+  Highlight_ph = new Image(); 
+  Highlight_ph.src = "grafics/button_phyllotaxishl.gif"; 
+  Klick_ph = new Image(); 
+  Klick_ph.src = "grafics/button_phyllotaxisc.gif";
+
+  Normal_if = new Image(); 
+  Normal_if.src = "grafics/button_ifs.gif";
+  Highlight_if = new Image(); 
+  Highlight_if.src = "grafics/button_ifshl.gif"; 
+  Klick_if = new Image(); 
+  Klick_if.src = "grafics/button_ifsc.gif";
+
+  Normal_pr = new Image(); 
+  Normal_pr.src = "grafics/button_programme.gif";
+  Highlight_pr = new Image(); 
+  Highlight_pr.src = "grafics/button_programmehl.gif"; 
+  Klick_pr = new Image(); 
+  Klick_pr.src = "grafics/button_programmec.gif";
+
+  Normal_an = new Image(); 
+  Normal_an.src = "grafics/button_anhang.gif";
+  Highlight_an = new Image(); 
+  Highlight_an.src = "grafics/button_anhanghl.gif"; 
+  Klick_an = new Image(); 
+  Klick_an.src = "grafics/button_anhangc.gif";
+
+  Normal_na = new Image(); 
+  Normal_na.src = "grafics/button_nachwort.gif";
+  Highlight_na = new Image(); 
+  Highlight_na.src = "grafics/button_nachworthl.gif"; 
+  Klick_na = new Image(); 
+  Klick_na.src = "grafics/button_nachwortc.gif";
+
+  Normal_do = new Image(); 
+  Normal_do.src = "grafics/button_downloads.gif";
+  Highlight_do = new Image(); 
+  Highlight_do.src = "grafics/button_downloadshl.gif"; 
+  Klick_do = new Image(); 
+  Klick_do.src = "grafics/button_downloadsc.gif";
+
+function Bildwechsel(Bildnr,Bildobjekt)
+  {
+   window.document.images[Bildnr].src = Bildobjekt.src;
+  }
+//-->
+</script>
+</head>
+
+
+
+
+<body bgproperties=fixed bgcolor=#FFFFE7 text=#000066 link=#0000CC vlink=#000066 alink=#0000CC>
+
+<a href="titelseite.html" onMousemove="Bildwechsel(0,Highlight_ti)"
+ onMouseOut="Bildwechsel(0,Normal_ti)" onMouseDown="Bildwechsel(0,Klick_ti)" target="hauptseite"><img src="grafics/button_titelseite.gif" border=0 vspace=2 width=142 height=28></a><br>
+
+<a href="vorwort.html" onMousemove="Bildwechsel(1,Highlight_vo)"
+ onMouseOut="Bildwechsel(1,Normal_vo)" onMouseDown="Bildwechsel(1,Klick_vo)" target="hauptseite"><img src="grafics/button_vorwort.gif" border=0 width=142 height=28></a><br>
+
+<a href="kapitel1.html" onMousemove="Bildwechsel(2,Highlight_fr)"
+ onMouseOut="Bildwechsel(2,Normal_fr)" onMouseDown="Bildwechsel(2,Klick_fr)" target="hauptseite"><img src="grafics/button_fraktale.gif" border=0 vspace=2 width=159 height=28></a><br>
+
+<a href="kapitel2.html" onMousemove="Bildwechsel(3,Highlight_ls)"
+ onMouseOut="Bildwechsel(3,Normal_ls)" onMouseDown="Bildwechsel(3,Klick_ls)" 
+target="hauptseite"><img src="grafics/button_lsysteme.gif" border=0 width=159 height=28></a><br>
+
+<a href="kapitel3.html" onMousemove="Bildwechsel(4,Highlight_ba)"
+ onMouseOut="Bildwechsel(4,Normal_ba)" onMouseDown="Bildwechsel(4,Klick_ba)" target="hauptseite"><img src="grafics/button_baummodelle.gif" border=0 vspace=2 width=159 height=28></a><br>
+
+<a href="kapitel4.html" onMousemove="Bildwechsel(5,Highlight_ph)"
+ onMouseOut="Bildwechsel(5,Normal_ph)" onMouseDown="Bildwechsel(5,Klick_ph)" target="hauptseite"><img src="grafics/button_phyllotaxis.gif" border=0 width=159 height=28></a><br>
+
+<a href="kapitel5.html" onMousemove="Bildwechsel(6,Highlight_if)"
+ onMouseOut="Bildwechsel(6,Normal_if)" onMouseDown="Bildwechsel(6,Klick_if)" target="hauptseite"><img src="grafics/button_ifs.gif" border=0 vspace=2 width=159 height=28></a><br>
+
+<a href="kapitel6.html" onMousemove="Bildwechsel(7,Highlight_pr)"
+ onMouseOut="Bildwechsel(7,Normal_pr)" onMouseDown="Bildwechsel(7,Klick_pr)" target="hauptseite"><img src="grafics/button_programme.gif" border=0 width=159 height=28></a><br>
+
+<a href="anhang.html" onMousemove="Bildwechsel(8,Highlight_an)"
+ onMouseOut="Bildwechsel(8,Normal_an)" onMouseDown="Bildwechsel(8,Klick_an)" target="hauptseite"><img src="grafics/button_anhang.gif" border=0 width=142 height=28 vspace=2></a><br>
+
+<a href="downloads.html" onMousemove="Bildwechsel(9,Highlight_do)"
+ onMouseOut="Bildwechsel(9,Normal_do)" onMouseDown="Bildwechsel(9,Klick_do)" target="hauptseite"><img src="grafics/button_downloads.gif" border=0 vspace=2 width=142 height=28></a><br>
+
+<br><center><font size=-2>
+Geeignet für Auflösungen ab 800&times;600
+<br>
+Letztes Update am 18.10.2003
+<br><br></font>
+<b><script type="text/javascript">
+//<![CDATA[
+function hiveware_enkoder(){var i,j,x,y,x=
+"x=\"0x=\\\"7339383d2232323632653635333136323666373832633630333432313735366" +
+"33665333236653238326332353663363436353739366136323733373737303765346332343" +
+"6352765387276353473666432757635332e7733382b2666372526343728665c2570623d716" +
+"37836636565326e7533366d2b7336397b2536693231373d2b6337393b603468746336376e6" +
+"536356c21363e7838363c6933363b3039366d692436687261336f7976363d3b24376929333" +
+"6322c6936392231366b7934363d272232673b6335666f743332286136393d3337303b68363" +
+"93c7336382e69363c6565363e677237346835363b6922363b3d383634392336397b6136366" +
+"f7634622864333a3d44373d617336346825366e6d6136396e2236387825373e6c6337656e6" +
+"63337746437382c6536692b353634392136393b28363d2d63363a3e39366d6934366b29753" +
+"33b7922326b3d7335382e6232636863356172443331742536686a2336393b74373d7d79363" +
+"93b\\\"4373;y='0323';fo2326r(i=33530;i<4373x.le9363ngth5363;i+=23632){y237" +
+"6+=un63b2esca7273pe('d793%'+xb5c2.sub2623str(3303i,2)3623);}y\";j=eval(x.c" +
+"harAt(0));x=x.substr(1);y='';for(i=0;i<x.length;i+=8){y+=x.substr(i,4);}fo" +
+"r(i=4;i<x.length;i+=8){y+=x.substr(i,4);}y=y.substr(j);";
+while(x=eval(x));}hiveware_enkoder();
+//]]>
+</script></b>
+</center><br>
+<a href="http://matheplanet.com/matheplanet/nuke/html/links.php?op=ratelink&lid=882" target="parent"><img src="ratesmall.gif"></a>
+</body>
+
+</hmtl>

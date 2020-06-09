@@ -1,0 +1,408 @@
+<html>
+<head>
+ <title>Fachbereichsarbeit: Rekursive Strukturen</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8559-1">
+ <meta name="dc.title" content="Fachbereichsarbeit: Rekursive Strukturen">
+ <meta name="dc.creator" content="Michael Szell">
+ <meta name="dc.contributor" content="Hildegard Urban-Woldron">
+ <meta name="dc.date" content="2001-10-23">
+ <meta name="dc.subject" content="Fraktale">
+ <meta name="dc.subject" content="Pflanzenmodelle">
+ <meta name="dc.subject" content="Lindenmayer-Systeme">
+ <meta name="dc.subject" content="Turtle-Grafik">
+ <meta name="dc.subject" content="Phyllotaxis">
+ <meta name="dc.subject" content="Iterierte Funktionensysteme">
+ <meta name="dc.subject" content="TI-92 Programme">
+ <meta name="dc.language" content="DE">
+ <meta name="author" content="Michael Szell">
+ <meta name="keywords" content="Szell, Mathematik, Fraktale, Lindenmayer, L-Systeme, TI-92, IFS, Phyllotaxis, Rekursive Strukturen, Fachbereichsarbeit, Cdiv, Phyllo, Lsys">
+ <meta name="revisit-after" content="14 days">
+ <meta http-equiv="content-language" content="de">
+<link rel=stylesheet type="text/css" href="fbaformats.css">
+<style type="text/css">
+<!--
+table {padding-left:4px;}
+//-->
+</style>
+<script language="JavaScript" src="buttons.js" type="text/javascript">
+<!--
+//-->
+</script>
+</head>
+
+<body background="grafics/bground.gif" bgproperties=fixed text=#000000 link=#0000CC vlink=#000066 alink=#0000CC>
+
+<a href="#kapitel61"><img src=grafics/button_down.gif border=0 align=left></a>
+<div align=center>
+
+<a href="kapitel5.html" onMouseOver="Bildwechsel(1,Highlight_z)"   onMouseOut="Bildwechsel(1,Normal_z)" onMouseDown="Bildwechsel(1,Klick_z)" target="hauptseite"><img src="grafics/button_zurueck.gif" border=0 alt="zurückblättern"></a>
+
+<a href="anhang.html" onMouseOver="Bildwechsel(2,Highlight_w)"
+ onMouseOut="Bildwechsel(2,Normal_w)" onMouseDown="Bildwechsel(2,Klick_w)" target="hauptseite"><img src="grafics/button_weiter.gif" border=0 alt="weiterblättern"></a><br>
+
+<hr noshade></div><br>
+
+<table width=100% cellpadding=0 border=0>
+<colgroup> <col width=*> <col width=280> </colgroup> 
+<tr>
+<td rowspan=5 valign=top>&nbsp;&nbsp;&nbsp;<a href="../programmieren7.html" target="parent"><font size=-1>Mehr Screenshots und Info</font></a><br>
+<h1><nobr>6. Programme</nobr> am TI-92</h1></td>
+ </tr>
+<tr><td><font size=-1> [<a href="#kapitel61">6.1. Cdiv (ad 2.2.)</a>]</td></tr>
+<tr><td><font size=-1>[<a href="#kapitel62">6.2. Phyllo (ad 4.1.)</a>] </td></tr>
+<tr><td><font size=-1> [<a href="#kapitel63">6.3. Lsys</a>]</td></tr>
+<tr><td><font size=-1> [<a href="#kapitel64">6.4. Ifs (ad 5.)</a>]</td></tr>
+</table></font><br><br>
+
+
+
+<p>Da unsere Klasse in der 5. Schulstufe mit programmierfähigen TI-92 Taschenrechnern ausgestattet wurde und die Programmiersprache TI-Basic primitiv und dadurch sehr verständlich (aber leider auch sehr langsam) ist, habe ich vier Programme in dieser erstellt, um verschiedene Objekte zu visualisieren.
+<br>Alle Programme inkl. Transfersoftware befinden sich auf der beiliegenden CD.<br><br><hr width=85% color=#003366><br>
+
+
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel61"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="kapitel6.html"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>6.1. Cdiv (ad 2.2.)</h2></td>
+</tr>
+<tr>
+  <td valign=top><a href="#kapitel62"><img src=grafics/button_down.gif border=0></a></td>
+</tr>
+</table>
+
+<p><br>In Cdiv wird folgendes Modell der Anabaena Catenula (<a href="kapitel2.html#kapitel22">siehe Kapitel 2.2.</a> und <a href="kapitel2.html#kapitel271">2.7.1.</a>) veranschaulicht, welches auch die kontinuierlichen Wachstumsphasen der einzelnen Zellen in mehreren Zwischenschritten berücksichtigt:
+<br>Durch Beobachtungen im Labor weiß man, dass die kleinen Zellen im Durchschnitt 20% mehr Zeit zum Reifen bis zur Teilung benötigen. Aus einer großen Zelle B entstehen innerhalb von vier Schritten Zustände, die mit C,D,E und F bezeichnet werden. Anschließend findet eine Teilung statt, und es entstehen entweder zwei Zellen AB oder BA, je nachdem, ob die ursprüngliche Zelle eine rechte oder linke Tochterzelle war. Eine kleine Zelle A benötigt hingegen einen Schritt mehr bis zur Teilung. Dies kann durch einen Übergang vom Typ A zum Typ B leicht modelliert werden. Die Reifungsprozedur lässt sich in Strings wie folgt veranschaulichen:
+
+<p><blockquote>Ar &rarr; Br &rarr; Cr &rarr; Dr &rarr; Er &rarr; Fr &rarr; BlAr  bzw.
+Al &rarr; Bl &rarr; Cl &rarr; Dl &rarr; El &rarr; Fl &rarr; AlBr</blockquote>
+
+<p>Dieses DOL-System ist nun so definiert:
+
+<p><blockquote>G = ({Ar, Al, Br, Bl, Cr, Cl, Dr, Dl, Er, El, Fr, Fl}, Al, { Ar&rarr;Br, Br&rarr;Cr, Cr&rarr;Dr, Dr&rarr;Er, Er&rarr;Fr, Fr&rarr;BlAr, Al&rarr;Bl, Bl&rarr;Cl, Cl&rarr;Dl, Dl&rarr;El, El&rarr;Fl, Fl&rarr;AlBr})</blockquote>
+
+<center>Hier die ersten 24 Zustände:
+<br><table border=1 cellpadding=2 bordercolor=#000000>
+    <tr bgcolor=#FFFFCC height=30 valign=top>
+      <td>1 - 6 </td>
+      <td>7 - 12 </td>
+      <td>13 - 18</td>
+      <td>19 - 24</td>
+    </tr>
+    <tr>
+      <td>A<sub>l</sub></td>
+      <td>A<sub>l</sub>B<sub>r</sub></td>
+      <td>A<sub>l</sub>B<sub>r</sub>C<sub>l</sub>B<sub>r</sub></td>
+      <td>A<sub>l</sub>B<sub>r</sub>C<sub>l</sub>B<sub>r</sub>C<sub>l</sub>D<sub>r</sub>C<sub>l</sub>B<sub>r</sub></td>
+    </tr> 
+    <tr>
+      <td>B<sub>l</sub></td>
+      <td>B<sub>l</sub>C<sub>r</sub></td>
+      <td>B<sub>l</sub>C<sub>r</sub>D<sub>l</sub>C<sub>r</sub></td>
+      <td>B<sub>l</sub>C<sub>r</sub>D<sub>l</sub>C<sub>r</sub>D<sub>l</sub>E<sub>r</sub>D<sub>l</sub>C<sub>r</sub></td>
+    </tr> 
+    <tr>
+      <td>C<sub>l</sub></td>
+      <td>C<sub>l</sub>D<sub>r</sub></td>
+      <td>C<sub>l</sub>D<sub>r</sub>E<sub>l</sub>D<sub>r</sub></td>
+      <td>C<sub>l</sub>D<sub>r</sub>E<sub>l</sub>D<sub>r</sub>E<sub>l</sub>F<sub>r</sub>E<sub>l</sub>D<sub>r</sub></td>
+    </tr> 
+    <tr>
+      <td>D<sub>l</sub></td>
+      <td>D<sub>l</sub>E<sub>r</sub></td>
+      <td>D<sub>l</sub>E<sub>r</sub>F<sub>l</sub>E<sub>r</sub></td>
+      <td>D<sub>l</sub>E<sub>r</sub>F<sub>l</sub>E<sub>r</sub>F<sub>l</sub>B<sub>l</sub>A<sub>r</sub>F<sub>l</sub>E<sub>r</sub></td>
+    </tr> 
+    <tr>
+      <td>E<sub>l</sub></td>
+      <td>E<sub>l</sub>F<sub>r</sub></td>
+      <td>E<sub>l</sub>F<sub>r</sub>A<sub>l</sub>B<sub>r</sub>F<sub>r</sub></td>
+      <td>E<sub>l</sub>F<sub>r</sub>A<sub>l</sub>B<sub>r</sub>F<sub>r</sub>A<sub>l</sub>B<sub>r</sub>C<sub>l</sub>B<sub>r</sub>A<sub>l</sub>B<sub>r</sub>F<sub>r</sub></td>
+    </tr> 
+    <tr>
+      <td>F<sub>l</sub></td>
+      <td>F<sub>l</sub>B<sub>l</sub>A<sub>r</sub></td>
+      <td>F<sub>l</sub>B<sub>l</sub>A<sub>r</sub>B<sub>l</sub>C<sub>r</sub>B<sub>l</sub>A<sub>r</sub></td>
+      <td>F<sub>l</sub>B<sub>l</sub>A<sub>r</sub>B<sub>l</sub>C<sub>r</sub>B<sub>l</sub>A<sub>r</sub>B<sub>l</sub>C<sub>r</sub>D<sub>l</sub>C<sub>r</sub>B<sub>l</sub>C<sub>r</sub>B<sub>l</sub>A<sub>r</sub></td>
+    </tr> 
+</table></center>
+
+<p>Wie man sieht, sind diese abstrakten Zeichen nicht sehr anschaulich, deshalb ist der TI-92 eine gute Hilfe zur Übersetzung der Strings in Bilder. In diesem Progamm werden die Algensegmente durch verschieden lange Rechtecke (in einzelnen Bildern gespeichert) grafisch visualisiert (Abb. 6.1 (a) und (b)).
+
+<p><table border=0 cellpadding=12 align=center>
+<tr><td><img src="grafics/abb61a.gif" alt="Abb. 6.1 (aus )" width=245 height=133><br><em id="beschreibung">Abb. 6.1 (a)</em></td>
+<td><img src="grafics/abb61b.gif" alt="Abb. 6.1 (aus )" width=245 height=133><br><em id="beschreibung">Abb. 6.1 (b)</em></td></tr></table>
+
+	 <p>  			
+
+<p>Der Aufbau der Alge bis zum 29. Zustand kann bis zu 1 Minute lang dauern.
+
+<p>Hier ein Programmausschnitt, der zur Ersetzung dient:
+
+<p><table border=1 cellpadding=0 bordercolor=#000000 width=100%><tr><td bgcolor=#FFFFCC>Listing</td><td bgcolor=#FFFFCC>Erklärung</td></tr>
+<tr><td><listing>0&rarr;k</td><td>Initialisiere k</td></tr>
+<tr><td><listing>For i,1,dim(cells)</td><td>For-Schleife (für i von 1 bis zur Länge der Inputliste)
+<tr><td><listing>     k+1&rarr;k</td><td>Inkrementiere k</td></tr>
+<tr><td><listing>     cells[i]+1&rarr;cellst[k]</td><td>Segment bei i wächst und wird in cellst gespeichert</td></tr>
+<tr><td><listing>     If cells[i]=6 then</td><td>Wenn aktuelles Segment Fl (=6), dann:</td></tr>
+<tr><td><listing>          1&rarr;cellst[k]:k+1&rarr;k:8&rarr;cellst[k]</td><td>Zellteilung und wiederholte Inkrementierung von k</td></tr>
+<tr><td><listing>     Endif</td><td> </td></tr>
+<tr><td><listing>     If cells[i]=12 then</td><td>Wenn aktuelles Segment Fr (=12), dann:</td></tr>
+<tr><td><listing>          2&rarr;cellst[k]:k+1&rarr;k:7&rarr;cellst[k]</td><td>Zellteilung und wiederholte Inkrementierung von k</td></tr>
+<tr><td><listing>     Endif</td><td> </td></tr>
+<tr><td><listing>Endfor</td><td>Ende der For-Schleife</td></tr>
+<tr><td><listing>cellst&rarr;cells</td><td>Rückkoppelung (Outputliste wird zur Inputliste)</td></tr>
+</table>
+
+
+<p>Die Input- und Outputlisten werden als cells bzw. cellst bezeichnet. Die dazugehörigen Positionszeiger sind i und k, die in jedem Durchlauf (k bei jeder Teilung zusätzlich) inkrementiert werden.
+<br>In den If-Schleifen wird der Wert an Position i der Liste cell überprüft und nach Berücksichtigung der Ersetzungsregeln ein neuer Wert (bei Teilung 2 neue Werte) in die Liste cellst eingesetzt. Die Zahlen 1 bis 6 und 7 bis 12 stehen für Al, Bl,..., Fl bzw. Ar, Br,..., Fr.
+
+<p>Die Schleife für die grafische Darstellung lautet:
+
+<p><table border=1 cellpadding=0 bordercolor=#000000 width=100%><tr><td bgcolor=#FFFFCC>Listing</td><td bgcolor=#FFFFCC>Erklärung</td></tr>
+<tr><td><listing>0&rarr;k</td><td>Initialisiere k</td></tr>
+<tr><td><listing>2&rarr;xpos</td><td>Initialisiere X-Position (=Abstand vom linken Bildschirmrand)
+<tr><td><listing>For i,1,dim(cells)</td><td>For-Schleife (für i von 1 bis zur Länge der Liste)</td></tr>
+<tr><td><listing>     "pic_"&string(cells[i])&rarr;pname</td><td>Ermitteln des Bildnamen für aktuelles Segment</td></tr>
+<tr><td><listing>     Rplcpic #pname,ypos,xpos</td><td>Zeichnen des Bildes</td></tr>
+<tr><td><listing>     xpos+cells[i]+4&rarr;xpos</td><td>Inkrementieren der X-Pos. um richtigen Wert</td></tr>
+<tr><td><listing>     If cells[i]>6:xpos-6&rarr;xpos</td><td>Korrektur der X-Pos. (nur bei einem rechten Segment)</td></tr>
+<tr><td><listing>EndFor</td><td>Ende der For-Schleife</td></tr>
+</table>
+
+<p>Die den Symbolen Al - Fl und Ar - Fr entsprechenden Bilder heissen pic_1, pic_2,..., pic_6 bzw. pic_7, pic_8,..., pic_12. Diese werden am Beginn des Programmes durch Matrizen mit dem Befehl NewPic initialisiert, was den Großteil des Programmlistings ausmacht.
+Das Programm läuft bis zur 29. Stufe der Zellteilungen der Alge, um eine mehrzeilige und dadurch unübersichtliche Kette zu vermeiden. 
+<br>Cdiv kann durch Überprüfen mit getkey() auf den Wert 264 jederzeit durch Drücken der ESC-Taste beendet werden.<br><br><hr width=85% color=#003366><br>
+
+
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel62"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="#kapitel61"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>6.2. Phyllo (ad 4.1.)</h2></td>
+</tr>
+<tr>
+  <td valign=top><a href="#kapitel63"><img src=grafics/button_down.gif border=0></a></td>
+</tr>
+</table>
+
+<p><br>Dieses sehr einfache Programm zeichnet in einem bestimmten Radius die Verteilung von Kernen in einer Pflanzenblüte (siehe Kapitel 4.1.). Dazu wird das (von mir gezeichnete) Bild seed für die einzelnen Samen benutzt. Es muss ein Parameter bestimmt werden, der die Abweichung vom goldenen Schnitt angibt (d.h. phyllo(0) zeichnet die korrekte Version). Screenshots in Abb. 6.2 zeigen die korrekte Version in (a) und 2 mit geringfügigen Abweichungen in (b) und (c).
+
+<p>Hier das komplette Programmlisting:
+
+<p>Listing:	Erklärung:
+phyllo(del)	
+Prgm	
+setMode("Exact/Approx","APPROXIMATE")	Rundung einstellen
+setMode("Angle","DEGREE")	Grad auf Degree stellen
+ClrDraw:Local ang,del,i,r:0àang	Initialisierung
+For i,40,43	Zeichnet 3 Kreise mit Radien 40 bis 43, die den Rand der Blüte bilden
+     PxlCrcl 53,120,i	
+EndFor	
+For i,1,120	Beginn der For-Schleife für 120 Kerne
+     RclPic seed,int(50+sin(ang)*3.7*Ö(i)),int(118+cos(ang)*3.7*Ö (i))	Stellt seed dar
+     ang+137.50776405004+delàang	Inkrementiert den Winkel
+EndFor	Ende der For-Schleife
+EndPrgm	
+
+<p>Die Anzahl der Kerne (120), die Konstante c (3.7) aus der Formel r=c ,n  (siehe Kapitel 4.1.) sowie die Kreisradien (40-43) und Kreismittelpunkte (120,53) sind willkürlich gewählte Werte.
+<br>Die Darstellung der Kerne dauert höchstens eine halbe Minute.
+
+<p>Abb. 6.2 (a): phyllo(0)
+
+
+
+	 			
+
+<p>Abb. 6.2 (b): phyllo(.3)		       Abb. 6.2 (c): phyllo(-0.3)<br><br><hr width=85% color=#003366><br>
+
+
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel63"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="#kapitel62"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>6.3. Lsys</h2></td>
+</tr>
+<tr>
+  <td valign=top><a href="#kapitel64"><img src=grafics/button_down.gif border=0></a></td>
+</tr>
+</table>
+
+<p><br>Lsys ist das komplexeste Programm, dass ich hier aus Platzmangel nicht vollständig beschreiben kann. Vielmehr möchte ich die essentiellen Bestandteile des Programmes aufzeigen und auf die Beschreibung von unwichtigen Überprüfungsroutinen u.ä. verzichten.
+
+
+<p>6.3.1. Aufbau
+
+<p>Für mehr Übersichtlichkeit und Schnelligkeit wurde Lsys als Programmkomplex gestaltet (konkrete Programme bzw. Unterprogramme werde ich durch kursive Kleinbuchstaben und angehängten Parameterklammern "()" kennzeichnen):
+
+<p>lsys():
+<br>befindet sich als einziges im "Main"-Ordner und ist das auszuführende Programm. Es ist zuständig für die Initialisierung, die Eingabe, die Berechnung und Darstellung und die Aufrufung der jeweiligen Unterprogramme (d.h. es ist das Grundgerüst, von dem aus Verzweigungen stattfinden, die regelmäßig zurückführen müssen). Ausserdem ist lsys() der größte Bestandteil von Lsys.
+
+<p>lmap1() - lmap7() und lmape():
+<br>Diese kleinen Unterprogramme stehen für die verschiedenen vordefinierten Lindenmayer-Systeme, da sie die Produktionsregeln enthalten und bei jeder Iteration aufgerufen werden müssen. Sie sind modulartig aufgebaut, wodurch sie leicht umgeändert werden können, was das Update von neuen Modulen erheblich erleichtert. Diese pseudo-objektorientierte Struktur soll auch helfen, einen leichteren Überblick über die Programme zu gewinnen.
+<br>lmape() wird bei einem durch den Benutzer definierten L-System verwendet.
+Im Durchschnitt sind diese Module ca. 500 Byte klein.
+
+<p>lhelp():
+<br>Im Großteil dieses Programmes befindet sich Hilfetext, wodurch sich die Größe von ca. 4700 Byte erklärt. Neben einer generellen Erklärung wird außerdem jedes System einzeln beschrieben und vorgegebene Daten zur direkten Übernahme in das Hauptprogramm verfügbar gemacht. Falls unklarheiten bestehen sollten, was die Bedeutung der Variablen angeht, finden sich hier ausführliche Erklärungen.
+
+
+<p>6.3.2. Programmablauf
+
+<p>·	Verschiedene Mode- und Graph-Einstellungef und Deaktivierung aktiver Funktionen und Pdots 
+·	Definition der lokalen Varaablen und Ifitialisaerung der Datenmatrix ldat für lhelp()
+
+·	Eingabedialog mit Systemauswahl, möglicher Verzweigung zu alternativem Eingabedialog (selbst definiertes System) oder zur Hilfe lhelp() (DropDown) und Parametereingabe (Request):
+Listing:	Erklärung:
+Lbl fstwndw	
+lfc_àlfc:ddg_àddg:deg_àdeg:strl_àstrl:sth_àsth:ax_àax:drax_àdrax:out_àout	Duplikation der benötigten Variablen für temporären Zugriff
+Dialog	
+Title "Lsys  -  Axiom, System und Parameter bestimmen"	
+Request "Axiom",ax	Axiomeingabe
+DropDown "System:",{"Primitiver Busch","Stochastisches Kraut","Szellsches Kraut","Komplexer Busch","Primitiver Baum","Koch-Kurve","Zufàllige Koch-Kurve","Eigenes","HILFE"},muse	Auswahl des jeweiligen L-Systems (8 für eigenes oder 9 für Hilfe)
+Text "            Parameter:"	
+Request " ?",ddg	Eingabe des Drehwinkels ?
+Request " l",lfc	Eingabe der Einheitslänge im Axiom
+Request "Sf",strl	Eingabe des Streckfaktors
+Request " ?",deg	Eingabe des Gesamtwinkels ?
+Request " h",sth	Eingabe der y-Koordinate des Stammes
+EndDlog	
+If ok=0:Goto ende	Bei Drücken von ESC beende das Programm
+lfcàlfc_:ddgàddg_:degàdeg_:strlàstrl_:sthàsth_:axàax_:draxàdrax_:outàout_	Speicherung der temporären Variablen in 
+setMode("exact/approx","exact")	
+If muse=9 Then	Wenn Auswahlindikator auf 9, dann
+lhelp()	Aufrufung des Hilfeprogrammes
+Goto fstwndw	Gehe zu fstwndw
+EndIf	
+
+
+·	Lbl alfa: Berechnung des Systems in einer For-Schleife durch Benutzung der jeweiligen Module (Aufrufung eines der Unterprogramme lmap1() - lmap7())
+
+Listing:	Erklärung:
+Lbl alfaLoopClrDrawLöschen des Bildschirmessysbàsysa:sthàypos:2àxpos:1àjZuweisung der Listengröße und Position des StammansatzesIf drax=1:Goto drawWenn drax=1, gehe zu draw"lmap"&string(muse)&"()" à#"modul"Verankerung des gewählten Programmnamens mit der Variable modulFor i,1,dim(sysa)Schleife zur Erstellung der Liste
+expr(modul)	Anwendung der jeweiligen Produktionsregeln für das gewählte System durch Benutzung des geeigneten Moduls
+EndFor	Ende der Schleife
+
+
+·	Lbl draw: Zeichnen des Systems in einer For-Schleife durch Laden der einzelnen Listenelemente
+
+Listing:	Erklärung:
+Lbl draw	
+For i,1,dim(sysb)	
+If sysb[i]=0 Then	Wenn sysb[i]=0, dann
+Try	
+PxlLine int(ypos),int(xpos),int(ypos+lfc*sin(deg)),int(xpos+lfc*cos(deg))	Zeichne eine Linie 
+PxlCrcl int(ypos+lfc*sin(deg)),int(xpos+lfc*cos(deg)),int(lfc*0.1+1)	Zeichne ans Ende der Linie eine entsprechende Knospe
+Else	Falls Teile des Bildes außerhalb des Bildschirms,
+1àout	setze Indikator out auf 1
+EndTry	
+ypos+lfc*sin(deg)àypos	Setze die Schildkröte auf die entsprechende neue Position
+xpos+lfc*cos(deg)àxpos	
+EndIf	
+If sysb[i]=1 Then	
+Try	
+PxlLine int(ypos),int(xpos),int(ypos+lfc*sin(deg)),int(xpos+lfc*cos(deg))	Zeichne eine Linie
+ypos+lfc*sin(deg)àypos	Setze die Schildkröte auf die entsprechende neue Position
+xpos+lfc*cos(deg)àxpos	
+Else	Falls Teile des Bildes außerhalb des Bildschirms,
+1àout	setze Indikator out auf 1
+EndTry	
+EndIf	
+If sysb[i]=2:deg+ddgàdeg	Wenn sysb[i]=2, negative Drehung
+If sysb[i]=3:deg-ddgàdeg	Wenn sysb[i]=3, positive Drehung
+If sysb[i]=4 Then	Wenn sysb[i]=4, dann
+tind+1àtind	Inkrementiere den Klammerindikator
+"temp"&string(tind) àtuse	Erstelle temporäre Datei, die den Zustand der Schildkröte speichert
+{ypos,xpos,deg}à#tuse	
+EndIf	
+If sysb[i]=5 Then	Wenn sysb[i]=5, dann
+#tuse[1] àypos:#tuse[2]àxpos:#tuse[3]àdeg	Lade Daten aus der temporären Klammerdatei und lösche sie
+DelVar #tuse	
+tind-1àtindDekrementiere den Klammerindikator und benenne ihn entsprechend um"temp"&string(tind)àtuseEndIfEndFor
+
+<p>Programmintern bestehen die Listen sysa und sysb aus den Zahlen 1 bis 5, die folgende Bedeutungen haben:
+
+<p>0	eine normale Linie mit einer Knospe in entsprechender Größe (nutzvoll für Büsche)
+1	F (normale Linie)
+2	+ (Drehung um deg gegen den Uhrzeigersinn)
+3	- (Drehung um deg gegen den Uhrzeigersinn)
+4	[  (Beginn einer Verzweigung)
+5	]  (Ende der Verzweigung)
+
+
+<p>Der Indikator out kennzeichnet einen nicht dargestellten Bereich des Objektes (weil außerhalb des Bildschirmes liegend) und iniziiert nach der Grafikroutine ein Fehlerfenster, falls er auf 1 gesetzt wurde.<br><br><hr width=85% color=#003366><br>
+
+
+
+<!-- ************************  KAPITELBEGINN (h2)  ************************ -->
+
+<a name="kapitel64"></a>
+<table border=0 cellpadding=0>
+<tr>
+  <td valign=bottom><a href="#kapitel63"><img src=grafics/button_up.gif border=0></a></td>
+  <td rowspan=2 valign=center><h2>6.4. Ifs (ad 5.)</h2></td>
+</tr>
+<tr>
+  <td valign=top><img src=grafics/button_down_.gif border=0></td>
+</tr>
+</table>
+
+<p><br>Zum Schluss sollen noch zwei kleine Programme namens ifs01() und ifs02() vorgestellt werden, die ich vom Pascal-Programmcode aus [5], Seite 178 f., auf den TI-92 abgeändert habe. Da die Algorithmen bis auf einige Kleinigkeiten gleich sind, befindet sich nur das Listing von ifs01() in diesem Kapitel mit Screenshots von beiden Programmen. Es wäre möglich gewesen, noch mehr Programme dieser Art zu erstellen (ifs03(), ifs04(), usw.), doch wäre das reine Übertragen von Werten aus [5], Kapitel 13, nur Energieverschwendung gewesen.
+
+
+<p>Listing:	Erklärung:
+ifs01()	
+Prgm	
+setMode("Exact/Approx","APPROXIMATE")	
+ClrDraw:FnOff :PlotsOff 	
+setGraph("axes","off"):setGraph("grid","off")	
+{0,0.197, 0.155,0.849}àa_	Zuweisung der entsprechenden Tabellenwerte (siehe Tabelle auf Seite 46)
+{0, 0.226,0.283,0.037}àb_	
+{0,0.226,0.26, 0.037}àc_	
+{0.16,0.197,0.237,0.849}àd_	
+{0,0,0,0}àe_	
+{0,1.6,0.44,1.6}àf_	
+{0.03,0.14,0.27,1}àp_	
+	
+0àx_:0ày_	
+For i_,1,20000	Beginn der For-Schleife (der Wert 20000 ist willkürlich gewählt)
+rand()àpk	Bestimmung einer Zufallszahl
+If pk=p_[1] Then:1àk_	Transformationswahl durch die in p gespeicherten Wahrscheinlichkeiten und der Zufallszahl pk
+ElseIf pk=p_[2] Then:2àk_	
+ElseIf pk=p_[3] Then:3àk_	
+Else:4àk_	
+EndIf	
+a_[k_]*x_+b_[k_]*y_+e_[k_]àx1	Ausführung der gewählten Transformation
+c_[k_]*x_+d_[k_]*y_+f_[k_]ày_	
+x1àx_	
+PxlOn int(58-x_*22),int(234-y_*23)	Zeichnen des Pixels
+EndFor	
+EndPrgm	
+
+
+
+<p>Abb. 6.3:  Ein durch ifs01() erstellter Barnsley-Farn nach Abbruch des Programms beim 7781. Schritt (links);
+ein durch ifs02() erstellter kiefern-ähnlicher Baum nach Abbruch des Programms beim 14780. Schritt (rechts)
+<br><br>
+
+<div align=center>
+<hr noshade>
+<a href="kapitel5.html" onMouseOver="Bildwechsel(15,Highlight_z)"   onMouseOut="Bildwechsel(15,Normal_z)" onMouseDown="Bildwechsel(15,Klick_z)" target="hauptseite"><img src="grafics/button_zurueck.gif" border=0 alt="zurückblättern"></a>
+
+<a href="anhang.html" onMouseOver="Bildwechsel(16,Highlight_w)"
+ onMouseOut="Bildwechsel(16,Normal_w)" onMouseDown="Bildwechsel(16,Klick_w)" target="hauptseite"><img src="grafics/button_weiter.gif" border=0 alt="weiterblättern"></a><br>
+</div>
+
+</body>
+
+</html>
