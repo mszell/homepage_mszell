@@ -139,6 +139,8 @@ $featuredarea = <<<EOD
 
     <h2>Recent papers</h2>
 
+    <p>Transport Findings: <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks">Extracting the multimodal fingerprint of urban transportation networks</a></p>
+
     <p>ISPRS International Journal of Geo-Information: <a href="https://www.mdpi.com/2220-9964/8/12/584">Human-Centric Data Science for Urban Studies</a></p>
 
     <p>Nature Reviews Physics: <a href="https://www.nature.com/articles/s42254-018-0005-3">Taking census of physics</a></p>
@@ -146,8 +148,6 @@ $featuredarea = <<<EOD
     <p>Nature Physics: <a href="https://doi.org/10.1038/s41567-018-0314-6">A Nobel opportunity for interdisciplinarity</a></p>
 
     <p>Urban Planning: <a href="https://www.cogitatiopress.com/urbanplanning/article/view/1209">Crowdsourced Quantification and Visualization of Urban Mobility Space Inequality</a></p>
-
-    <p>Scientific Reports: <a href="http://www.nature.com/articles/srep46677">Identifying and modeling the structural discontinuities of human interactions</a></p>
 
     <p><a href="../publications/">&rarr; See all papers</a></p>
 
@@ -181,7 +181,7 @@ EOD;
 $footer = <<<EOD
 <div id="footer">
   <p>
-  http://michael.szell.net &nbsp;|&nbsp; last update 2020-06-09<br />
+  http://michael.szell.net &nbsp;|&nbsp; last update 2020-06-10<br />
   Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
   </p>
 </div>

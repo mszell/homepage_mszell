@@ -18,6 +18,7 @@ echo $featuredarea;
 
 <h3>News and running events</h3>
 <table>
+	<tr><td class='std col1 date'>2020-06-10</td><td class='std'><a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks"><img src="images/newstransportfindings.jpg" width="64" height="51" alt="Transport Findings paper" class="logo"></a></td><td class='std'>Paper published in <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks">Transport Findings</a> on multiplex transport networks</td></tr>
 	<tr><td class='std col1 date'>2019-12-12</td><td class='std'><a href="https://www.mdpi.com/2220-9964/8/12/584"><img src="images/newsijgi.png" width="76" height="68" alt="International Journal of Geo-information" class="logo"></a></td><td class='std'>Published editorial and completed Special Issue in International Journal of Geo-information:<br /><a href="https://www.mdpi.com/2220-9964/8/12/584">Human-Centric Data Science for Urban Studies</a><br />Editors: Resch, Szell</td></tr>
 	<tr><td class='std col1 date'>2019-09-05</td><td class='std'><a href="https://www.move-lab.com/project/whatthestreet/"><img src="images/logowhatthestreet.png" width="58" height="58" alt="What the Street?!" class="logo"></a></td><td class='std'>What the Street?! added to <a href="https://futurium.de/">Futurium</a>'s permanent exhibition</a></td></tr>
 </table>

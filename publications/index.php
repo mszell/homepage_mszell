@@ -36,12 +36,14 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 
 <h3>2020</h3>
   <ul>
-    <li class="publi pub-preprint">L.G. Natera Orozco, F. Battiston, G. Iñiguez, M. Szell<br /><b>Extracting the multimodal fingerprint of urban transportation networks</b><br />
-    <a href="#" onclick="toggle('nateraorozco2020emf');return false;" id="info-nateraorozco2020emf"><div class="filebib">Bib</div></a> &nbsp; <a href="https://arxiv.org/abs/2006.03435"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="nateraorozco2020emf"><pre><code>@article{nateraorozco2020emf,
+    <li class="publi pub-journal">L.G. Natera Orozco, F. Battiston, G. Iñiguez, M. Szell<br /><b>Extracting the multimodal fingerprint of urban transportation networks</b><br />Transport Findings 13171 (2020)<br />
+    <a href="#" onclick="toggle('nateraorozco2020emf');return false;" id="info-nateraorozco2020emf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020emf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks"><div class="linkexternal">Journal</div></a> &nbsp;  &nbsp; <a href="https://arxiv.org/abs/2006.03435"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="nateraorozco2020emf"><pre><code>@article{nateraorozco2020emf,
   title={Extracting the multimodal fingerprint of urban transportation networks},
   author={Natera Orozco, Luis Guillermo and Battiston, Federico and I{\~n}iguez, Gerardo and Szell, Michael},
-  journal={arXiv:2006.03435},
-  year={2020}
+  journal={Transport Findings},
+  year={2020},
+  volume = {13171},
+  doi = {10.32866/001c.13171}
 }</code></pre></div></li>
 
     <li class="publi pub-preprint">M. Schläpfer, M. Szell, H. Salat, C. Ratti, G.B. West<br /><b>The hidden universality of movement in cities</b><br />
