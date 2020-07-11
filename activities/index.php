@@ -467,11 +467,11 @@ echo $featuredarea;
 <p>Together with a large number of scientists I have decided in 2013 to stop reviewing any article that is published by Elsevier (see <a href="http://thecostofknowledge.com">http://thecostofknowledge.com</a>), so please do not contact me to review for such journals.</p>
 
 <h4>Interdisciplinary, network science</h4>
-<p>Nature, Nature Communications, PNAS, Social Networks, Scientific Reports, Scientific Data, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Network Science, Applied Network Science, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, PLOS Biology</p>
+<p>Nature, Nature Communications, PNAS, Science Advances, Social Networks, Scientific Reports, Scientific Data, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Network Science, Applied Network Science, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, PLOS Biology</p>
 <h4>Data science, computer science, mathematics</h4>
 <p>EPJ Data Science, Frontiers, Games, ACM Transactions on Knowledge Discovery from Data, IEEE Transactions on Knowledge and Data Engineering, Economics Bulletin</p>
 <h4>Transportation, geography</h4>
-<p>Transportation, IEEE Transactions on Intelligent Transportation Systems, International Journal of Sustainable Transportation, Transportation Research Part B, International Journal of Geographical Information Science, GeoInformatica</p>
+<p>Transportation, IEEE Transactions on Intelligent Transportation Systems, International Journal of Sustainable Transportation, Sustainability, Transportation Research Part B, International Journal of Geographical Information Science, GeoInformatica</p>
 <h4>Physics</h4>
 <p>Physical Review Letters, Physical Review E, New Journal of Physics, Europhysics Letters, Journal of Statistical Mechanics, Condensed Matter Physics</p>
 <h4>Publishers, national and international agencies</h4>
