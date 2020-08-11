@@ -339,7 +339,7 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
   doi = {10.1073/pnas.1305494110}
 }</code></pre></div></li>
 
-	  <li class="publi pub-journal">S. Thurner, P. Klimek, M. Szell, G. Duftschmid, G. Endel, A. Kautzky-Willer, D. Kasper<br /><b>Quantification of excess-risk for diabetes when born in times of hunger, in an entire population of a nation, across a century</b><br />Proceedings of the National Academy of Sciences USA 110(12), 4703-4707 (2013)<br />
+	  <li class="publi pub-journal">S. Thurner, P. Klimek, M. Szell, G. Duftschmid, G. Endel, A. Kautzky-Willer, D. Kasper<br /><b>Quantification of excess-risk for diabetes when born in times of hunger, in an entire population of a nation, across a century</b><br />Proceedings of the National Academy of Sciences 110(12), 4703-4707 (2013)<br />
 	  <a href="#" onclick="toggle('thurner2013qer');return false;" id="info-thurner2013qer"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/thurner2013qer.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/thurner2013qer_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="http://dx.doi.org/10.1073/pnas.1215626110"><div class="linkexternal">Journal</div></a><div class="info-expansion" id="thurner2013qer"><pre><code>@article{thurner2013qer,
   title = {Quantification of excess risk for diabetes for those born in times of hunger, in an entire population of a nation, across a century},
   author = {Thurner, Stefan and Klimek, Peter and Szell, Michael and Duftschmid, Georg and Endel, Gottfried and Kautzky-Willer, Alexandra and Kasper, David C},
@@ -428,7 +428,7 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 
 		<li class="publi pub-other">M. Szell, G. Petri, K. Zhao, D. Levin<br /><b>Human mobility in an online world</b><br />Final report, Santa Fe Institute summer school (2010)<br /><a href="../downloads/szell2010hmo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="http://tuvalu.santafe.edu/events/workshops/index.php/CSSS_2010_Santa_Fe-Final_Papers#Human_Mobility_in_an_Online_World"><div class="linkexternal">Summer school</div></a></li>
 
-		<li class="publi pub-journal">M. Szell, R. Lambiotte, S. Thurner<br /><b>Multirelational organization of large-scale social networks in an online world</b><br />Proceedings of the National Academy of Sciences USA 107(31), 13636-13641 (2010)<br />
+		<li class="publi pub-journal">M. Szell, R. Lambiotte, S. Thurner<br /><b>Multirelational organization of large-scale social networks in an online world</b><br />Proceedings of the National Academy of Sciences 107(31), 13636-13641 (2010)<br />
     <a href="#" onclick="toggle('szell2010mol');return false;" id="info-szell2010mol"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2010mol.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2010mol_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="http://www.pnas.org/content/107/31/13636"><div class="linkexternal">Journal</div></a> &nbsp; <a href="http://arxiv.org/abs/1003.5137"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="szell2010mol"><pre><code>@article{szell2010mol,
   title = {Multirelational organization of large-scale social networks in an online world},
   author = {Szell, Michael and Lambiotte, Renaud and Thurner, Stefan},

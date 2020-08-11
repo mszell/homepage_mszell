@@ -99,7 +99,7 @@ $featuredarea = <<<EOD
     Welcome! I am assistant professor at <a href="https://en.itu.dk">ITU Copenhagen</a>, <a href="https://nerds.itu.dk/">NERDS</a>. My research focuses on mobility, sustainable transport, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="http://michael.szell.net/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
-        <div class='updateinfo'>last update 2020-07-11</div>
+        <div class='updateinfo'>last update 2020-08-11</div>
     </div></a>
     			</div>
 
@@ -120,9 +120,9 @@ $featuredarea = <<<EOD
       <!--<dt>Tel</dt>
       <dd>+36 1 327-3000 x2768</dd>-->
       <dt>Address</dt>
-      <dd>Computer Science Dept.<br /><span style='padding-left: 16px;'>ITU Copenhagen<br /><span style='padding-left: 16px;'>Rued Langgaards Vej 7<br /><span style='padding-left: 16px;'>2300 København, Denmark</span></dd>
+      <dd>Computer Science Dept.<br /><span style='padding-left: 16px;'>ITU Copenhagen<br /><span style='padding-left: 16px;'>Kaj Munks Vej 9<br /><span style='padding-left: 16px;'>2300 København, Denmark</span></dd>
       <dt>Office</dt>
-      <dd>4E04</dd>
+      <dd>3F11</dd>
     </dl>
 
 <hr>
@@ -181,7 +181,7 @@ EOD;
 $footer = <<<EOD
 <div id="footer">
   <p>
-  http://michael.szell.net &nbsp;|&nbsp; Last update 2020-07-11 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
+  http://michael.szell.net &nbsp;|&nbsp; Last update 2020-08-11 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
   Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
   </p>
 </div>
