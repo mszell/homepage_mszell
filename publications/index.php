@@ -25,7 +25,7 @@ echo $featuredarea;
 
 <h3>My coauthorship network</h3>
 <div id="collabnet"><script src="http://michael.szell.net/publications/collabnet.js" type="text/javascript"></script></div>
-<p>Last update 2020-06-09</br>
+<p>Last update 2020-08-25</br>
 Node color: Most recent date of publication with me</br>
 Node size: Duration of collaboration with me</br>
 Link weight: Number of co-publications<br/>
@@ -36,14 +36,12 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 
 <h3>2020</h3>
   <ul>
-    <li class="publi pub-journal">L.G. Natera Orozco, F. Battiston, G. Iñiguez, M. Szell<br /><b>Extracting the multimodal fingerprint of urban transportation networks</b><br />Transport Findings 13171 (2020)<br />
-    <a href="#" onclick="toggle('nateraorozco2020emf');return false;" id="info-nateraorozco2020emf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020emf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks"><div class="linkexternal">Journal</div></a> &nbsp;  &nbsp; <a href="https://arxiv.org/abs/2006.03435"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="nateraorozco2020emf"><pre><code>@article{nateraorozco2020emf,
-  title={Extracting the multimodal fingerprint of urban transportation networks},
-  author={Natera Orozco, Luis Guillermo and Battiston, Federico and I{\~n}iguez, Gerardo and Szell, Michael},
-  journal={Transport Findings},
-  year={2020},
-  volume = {13171},
-  doi = {10.32866/001c.13171}
+    <li class="publi pub-preprint">M. Coscia, M. Szell<br /><b>Multiplex Graph Association Rules for Link Prediction</b><br />
+    <a href="#" onclick="toggle('coscia2020mga');return false;" id="info-coscia2020mga"><div class="filebib">Bib</div></a> &nbsp; <a href="https://arxiv.org/abs/2008.08351"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="coscia2020mga"><pre><code>@article{coscia2020mga,
+  title={Multiplex Graph Association Rules for Link Prediction},
+  author={Coscia, Michele and Szell, Michael},
+  journal={arXiv:2008.08351, accepted for publication in 15th International Conference on Web and Social Media (ICWSM) 2021},
+  year={2020}
 }</code></pre></div></li>
 
     <li class="publi pub-preprint">M. Schläpfer, M. Szell, H. Salat, C. Ratti, G.B. West<br /><b>The hidden universality of movement in cities</b><br />
@@ -52,6 +50,16 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
   author={Schl{\"a}pfer, Markus and Szell, Michael and Salat, Hadrien and Ratti, Carlo and West, Geoffrey B.},
   journal={arXiv:2002.06070},
   year={2020}
+}</code></pre></div></li>
+
+    <li class="publi pub-journal">L.G. Natera Orozco, F. Battiston, G. Iñiguez, M. Szell<br /><b>Extracting the multimodal fingerprint of urban transportation networks</b><br />Transport Findings 13171 (2020)<br />
+    <a href="#" onclick="toggle('nateraorozco2020emf');return false;" id="info-nateraorozco2020emf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020emf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks"><div class="linkexternal">Journal</div></a> &nbsp;  &nbsp; <a href="https://arxiv.org/abs/2006.03435"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="nateraorozco2020emf"><pre><code>@article{nateraorozco2020emf,
+  title={Extracting the multimodal fingerprint of urban transportation networks},
+  author={Natera Orozco, Luis Guillermo and Battiston, Federico and I{\~n}iguez, Gerardo and Szell, Michael},
+  journal={Transport Findings},
+  year={2020},
+  volume = {13171},
+  doi = {10.32866/001c.13171}
 }</code></pre></div></li>
   </ul>
 
