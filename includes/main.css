@@ -62,6 +62,10 @@ hr {
   background-image: url(../images/mszell_publications.jpg);
 }
 
+.portrait-teaching {
+  background-image: url(../images/mszell_teaching.jpg);
+}
+
 .portrait-text {
   width: 595px;
   padding:8px 0px 8px 0px;

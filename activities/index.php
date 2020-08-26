@@ -479,22 +479,6 @@ echo $featuredarea;
 <br />
 
 
-<h3>Teaching</h3>
-	<table>
-		<tr><td class='std col1 date'>2020-04-21</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=373">Reflections on Data Science</a></td></tr>
-		<tr><td class='std col1 date'>2020-01-31<br />2019-08-26</td><td class='std' width='130'>Instructor (70%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=371">Technical Communication</a></br>ECTS Credits: 7.5</td></tr>
-		<tr><td class='std col1 date'>2020-01-31<br />2019-08-26</td><td class='std' width='130'>Instructor (50%)</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=282">Introduction to Data Science and Programming</a></br>ECTS Credits: 15.0</td></tr>
-		<tr><td class='std col1 date'>2019-04-17</td><td class='std' width='130'>Guest instructor</td><td class='std'>SG2 Analytisches Gestaltungsprojekt, <a href="https://www.hfg-gmuend.de/Strategische_Gestaltung_2.html">HfG Schwäbisch Gmünd</a></td></tr>
-		<tr><td class='std col1 date'>2018-12-04<br />2018-10-30</td><td class='std' width='130'>Instructor,</br>Course manager</td><td class='std'><a href="https://courses.ceu.edu/courses/data-and-network-visualization-0">DNDS 6002: Data and Network Visualization</a></br>Credits: 2.0, ECTS Credits: 4.0</td></tr>
-		<tr><td class='std col1 date'>2018-10-25<br />2018-09-18</td><td class='std' width='130'>Instructor,</br>Course manager</td><td class='std'><a href="https://courses.ceu.edu/courses/urban-networks-and-human-mobility">DNDS 6003: Urban Networks and Human Mobility</a></br>Credits: 2.0, ECTS Credits: 4.0</td></tr>
-		<tr><td class='std col1 date'>2018-03-29<br />2018-01-10</td><td class='std' width='130'>Instructor,</br>Course manager</td><td class='std'><a href="https://cns.ceu.edu/courses/statistical-methods-network-science-and-data-analysis">CNSC 6013: Statistical Methods in Network Science and Data Analysis</a></br>Credits: 4.0, ECTS Credits: 8.0</td></tr>
-		<tr><td class='std col1 date'>2017-11-30</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://cns.ceu.edu/courses/data-and-network-visualization">CNSC 6012: Data and Network Visualization</a></td></tr>
-		<tr><td class='std col1 date'>2017-11-24</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://cns.ceu.edu/courses/justdata-university-wide-course">JustData - University Wide Course</a></td></tr>
-		<tr><td class='std col1 date'>2016-08-23<br />2016-08-18</td><td class='std' width='130'>Seminar chair</td><td class='std'><a href="http://www.alpbach.org/en/session/sem16-seminar-16-understanding-big-data/">Seminar Understanding Big Data, European Forum Alpbach 2016</a><br />Alpbach, Austria</td></tr>
-
-	</table>
-
-
 <h3>Advanced training &amp; visits</h3>
     <table>
     	<tr><td class='std col1 date'>2019-06-29<br />2019-06-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>

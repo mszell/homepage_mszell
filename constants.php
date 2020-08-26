@@ -67,6 +67,7 @@ $selected_publications = ($section == "publications" ? " selected" : "");
 $selected_activities = ($section == "activities" ? " selected" : "");
 $selected_projects = ($section == "projects" ? " selected" : "");
 $selected_media = ($section == "media" ? " selected" : "");
+$selected_teaching = ($section == "teaching" ? " selected" : "");
 
 
 $navbar = "
@@ -79,6 +80,7 @@ $navbar = "
                   <li class='menuitem$selected_activities'><a href='http://michael.szell.net/activities/'>Activities</a></li>
                   <li class='menuitem$selected_projects'><a href='http://michael.szell.net/projects/'>Projects</a></li>
                   <li class='menuitem$selected_media'><a href='http://michael.szell.net/media/'>Media</a></li>
+                  <li class='menuitem$selected_teaching'><a href='http://michael.szell.net/teaching/'>Teaching</a></li>
           		</ul>
     			</div>
     		</h1>
@@ -181,7 +183,7 @@ EOD;
 $footer = <<<EOD
 <div id="footer">
   <p>
-  http://michael.szell.net &nbsp;|&nbsp; Last update 2020-08-25 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
+  http://michael.szell.net &nbsp;|&nbsp; Last update 2020-08-26 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
   Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
   </p>
 </div>
