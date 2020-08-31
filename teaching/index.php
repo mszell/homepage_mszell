@@ -16,18 +16,23 @@ echo $featuredarea;
 
 			<div class="main-with-sidebar">
 
+<h3>PhD supervision, PostDoc, internships</h3>
+<p>Currently I am unable to offer additional PhD or PostDoc opportunities. Any such opportunities are announced on our group webpage: <a href="https://nerds.itu.dk/">nerds.itu.dk</a></p>
+
+<p>I am generally open to welcome self-funded research visitors if the topic of collaboration makes sense - for such inquiries please contact me via email.</p>
+
+
 <h3>Office hours</h3>
-Thursdays 11:00-12:00, or by appointment.
+a.k.a. Student drop-in hours: Thursdays 11:00-12:00, or by appointment.
 
 
 <h3>Project ideas</h3>
-<p>Below are some ideas for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Contact me (misz@itu.dk) to get started. Feel free to propose your own ideas. Have a look at this helpful <a href="https://www.itu.dk/people/sestoft/itu/thesis-checklist.html">checklist</a> too.</br>
+<p>Below are some ideas for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Contact me via email to get started. Feel free to propose your own ideas. Have a look at this helpful <a href="https://www.itu.dk/people/sestoft/itu/thesis-checklist.html">checklist</a> too.</br>
 Last update 2020-08-26.</p>
 
 <img src="../images/teachingproject01.png" width="580" alt="Project 1"></br></br>
 <img src="../images/teachingproject02.png" width="580" alt="Project 2"></br></br>
-
-
+<img src="../images/teachingproject03.png" width="580" alt="Project 2"></br></br>
 
 <h3>Teaching activities</h3>
 <h4>Current semester</h4>
