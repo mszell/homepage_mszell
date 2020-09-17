@@ -47,7 +47,7 @@ echo $featuredarea;
 
 <h3>Bio</h3>
 <p>
-Michael Szell is assistant professor in Data Science at IT University of Copenhagen, researcher at ISI Foundation, and external faculty at the Complexity Science Hub Vienna. His research aims to quantify the patterns behind interlinked human behavior and human-built structures, through mining large-scale data sets. He follows an interdisciplinary approach drawing from data science and network science. Michael's current focus is on urban mobility, sustainable transport, and data visualization. He has also developed the award-winning massive multiplayer online game "Pardus", www.pardus.at, and several interactive data visualization platforms.
+Michael Szell is assistant professor in Data Science at IT University of Copenhagen, and external faculty at the Complexity Science Hub Vienna. His research aims to quantify the patterns behind interlinked human behavior and human-built structures, through mining large-scale data sets. He follows an interdisciplinary approach drawing from data science and network science. Michael's current focus is on urban mobility, sustainable transport, and data visualization. He has also developed the award-winning massive multiplayer online game "Pardus", www.pardus.at, and several interactive data visualization platforms.
 </p>
 
 
@@ -100,7 +100,6 @@ Michael Szell is assistant professor in Data Science at IT University of Copenha
 
 <h3>Current positions</h3>
 <table>
-	<tr><td class='std col1 date'>since<br />2019 / 08</td></td><td class='std' style='text-align: center;'><a href="https://www.isi.it/en/home"><img src="images/logoisi.png" width="58" height="58" alt="ISI Foundation" class="logo"></a></td><td class='std'>Researcher, <a href="https://www.isi.it/en/home">ISI Foundation</a></td></tr>
 	<tr><td class='std col1 date'>since<br />2019 / 02</td></td><td class='std' style='text-align: center;'><a href="https://en.itu.dk/"><img src="images/logoitu.png" width="58" height="58" alt="IT University of Copenhagen" class="logo"></a></td><td class='std'>Assistant professor, <a href="https://en.itu.dk/research/departments/computer-science-department">Computer Science Department</a>, <a href="https://en.itu.dk/">IT University of Copenhagen</a></td></tr>
 	<tr><td class='std col1 date'>since<br />2017 / 04</td></td><td class='std' style='text-align: center;'><a href="http://csh.ac.at/"><img src="images/logocsh.png" width="58" height="58" alt="Complexity Science Hub Vienna" class="logo"></a></td><td class='std'>External faculty, <a href="http://csh.ac.at/">Complexity Science Hub Vienna</a></td></tr>
 	<tr><td class='std col1 date'>since<br />2006 / 09</td><td></td><td class='std'>Founder and manager of Bayer &amp; Szell OG</td></tr>
@@ -110,6 +109,7 @@ Michael Szell is assistant professor in Data Science at IT University of Copenha
 
 <h3>Past positions</h3>
 <table>
+	<tr><td class='std col1 date'>2020 / 07<br />2019 / 08</td></td><td class='std' style='text-align: center;'><a href="https://www.isi.it/en/home"><img src="images/logoisi.png" width="58" height="58" alt="ISI Foundation" class="logo"></a></td><td class='std'>Researcher, <a href="https://www.isi.it/en/home">ISI Foundation</a></td></tr>
 	<tr><td class='std col1 date'>2019 / 01<br />2017 / 10</td></td><td class='std' style='text-align: center;'><a href="http://www.ceu.edu/"><img src="images/logoceu.png" width="58" height="58" alt="Central European University" class="logo"></a></td><td class='std'>Assistant professor, <a href="https://cns.ceu.edu/">Department of Network and Data Science</a>, <a href="http://www.ceu.edu/">Central European University</a></td></tr>
 	<tr><td class='std col1 date'>2019 / 01<br />2017 / 09</td></td><td class='std' style='text-align: center;'><a href="http://mta.hu/english"><img src="images/logomta.png" width="44" height="58" alt="Hungarian Academy of Sciences" class="logo"></a></td><td class='std'>Researcher, <a href="http://www.krtk.mta.hu/">Centre for Economic and Regional Studies</a>, <a href="http://mta.hu/english">Hungarian Academy of Sciences</a></td></tr>
 	<tr><td class='std col1 date'>2019 / 01<br />2016 / 09</td></td><td class='std' style='text-align: center;'><a href="http://www.northeastern.edu/"><img src="images/logoneu.png" width="58" height="58" alt="Northeastern University" class="logo"></a></td><td class='std'>Adjunct visiting professor, <a href="http://www.barabasilab.com/">Center for Complex Network Research</a>, <a href="http://www.northeastern.edu/">Northeastern University</a></td></tr>
