@@ -18,6 +18,7 @@ echo $featuredarea;
 
 <h3>News and running events</h3>
 <table>
+	<tr><td class='std col1 date'>2020-10-01</td><td class='std'><a href="https://nerds.itu.dk/2020/10/01/promotions-promotions-promotions/"><img src="images/logoitu.png" width="64" height="64" alt="IT University of Copenhagen" class="logo"></a></td><td class='std'>Promotion to associate professor at <a href="https://en.itu.dk/">ITU Copenhagen</td></tr>
 	<tr><td class='std col1 date'>2020-06-10</td><td class='std'><a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks"><img src="images/newstransportfindings.jpg" width="64" height="51" alt="Transport Findings paper" class="logo"></a></td><td class='std'>Paper published in <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks">Transport Findings</a> on multiplex transport networks</td></tr>
 	<tr><td class='std col1 date'>2019-12-12</td><td class='std'><a href="https://www.mdpi.com/2220-9964/8/12/584"><img src="images/newsijgi.png" width="76" height="68" alt="International Journal of Geo-information" class="logo"></a></td><td class='std'>Published editorial and completed Special Issue in International Journal of Geo-information:<br /><a href="https://www.mdpi.com/2220-9964/8/12/584">Human-Centric Data Science for Urban Studies</a><br />Editors: Resch, Szell</td></tr>
 	<tr><td class='std col1 date'>2019-09-05</td><td class='std'><a href="https://www.move-lab.com/project/whatthestreet/"><img src="images/logowhatthestreet.png" width="58" height="58" alt="What the Street?!" class="logo"></a></td><td class='std'>What the Street?! added to <a href="https://futurium.de/">Futurium</a>'s permanent exhibition</a></td></tr>
@@ -47,14 +48,14 @@ echo $featuredarea;
 
 <h3>Bio</h3>
 <p>
-Michael Szell is assistant professor in Data Science at IT University of Copenhagen, and external faculty at the Complexity Science Hub Vienna. His research aims to quantify the patterns behind interlinked human behavior and human-built structures, through mining large-scale data sets. He follows an interdisciplinary approach drawing from data science and network science. Michael's current focus is on urban mobility, sustainable transport, and data visualization. He has also developed the award-winning massive multiplayer online game "Pardus", www.pardus.at, and several interactive data visualization platforms.
+Michael Szell is associate professor in Data Science at IT University of Copenhagen, and external faculty at the Complexity Science Hub Vienna. His research aims to quantify the patterns behind interlinked human behavior and human-built structures, through mining large-scale data sets. He follows an interdisciplinary approach drawing from data science and network science. Michael's current focus is on urban mobility, sustainable transport, and data visualization. He has also developed the award-winning massive multiplayer online game "Pardus", www.pardus.at, and several interactive data visualization platforms.
 </p>
 
 
 <h3>Research interests</h3>
 <ul>
-	<li>Urban mobility and sustainable transport</li>
-	<li>Data visualization, Data science, Complex systems</li>
+	<li>Urban Data Science, Urban mobility, Sustainable transport</li>
+	<li>Data visualization, Complex systems</li>
 	<li>Quantifying human behavior and social networks, in particular online and in cities</li>
 </ul>
 
@@ -100,7 +101,7 @@ Michael Szell is assistant professor in Data Science at IT University of Copenha
 
 <h3>Current positions</h3>
 <table>
-	<tr><td class='std col1 date'>since<br />2019 / 02</td></td><td class='std' style='text-align: center;'><a href="https://en.itu.dk/"><img src="images/logoitu.png" width="58" height="58" alt="IT University of Copenhagen" class="logo"></a></td><td class='std'>Assistant professor, <a href="https://en.itu.dk/research/departments/computer-science-department">Computer Science Department</a>, <a href="https://en.itu.dk/">IT University of Copenhagen</a></td></tr>
+	<tr><td class='std col1 date'>since<br />2020 / 10</td></td><td class='std' style='text-align: center;'><a href="https://en.itu.dk/"><img src="images/logoitu.png" width="58" height="58" alt="IT University of Copenhagen" class="logo"></a></td><td class='std'>Associate professor, <a href="https://en.itu.dk/research/departments/computer-science-department">Computer Science Department</a>, <a href="https://en.itu.dk/">IT University of Copenhagen</a></td></tr>
 	<tr><td class='std col1 date'>since<br />2017 / 04</td></td><td class='std' style='text-align: center;'><a href="http://csh.ac.at/"><img src="images/logocsh.png" width="58" height="58" alt="Complexity Science Hub Vienna" class="logo"></a></td><td class='std'>External faculty, <a href="http://csh.ac.at/">Complexity Science Hub Vienna</a></td></tr>
 	<tr><td class='std col1 date'>since<br />2006 / 09</td><td></td><td class='std'>Founder and manager of Bayer &amp; Szell OG</td></tr>
 	<tr><td class='std col1 date'>since<br />2004 / 07</td><td class='std' style='text-align: center;'><a href="http://www.pardus.at/"><img src="images/logopardus.png" width="58" height="58" alt="Pardus" class="logo"></a></td><td class='std'>Developer and administrator of the Massive Multiplayer Online Game <a href="http://www.pardus.at/">Pardus</a></td></tr>
@@ -109,6 +110,7 @@ Michael Szell is assistant professor in Data Science at IT University of Copenha
 
 <h3>Past positions</h3>
 <table>
+	<tr><td class='std col1 date'>2020 / 09<br />2019 / 02</td></td><td class='std' style='text-align: center;'><a href="https://en.itu.dk/"><img src="images/logoitu.png" width="58" height="58" alt="IT University of Copenhagen" class="logo"></a></td><td class='std'>Assistant professor, <a href="https://en.itu.dk/research/departments/computer-science-department">Computer Science Department</a>, <a href="https://en.itu.dk/">IT University of Copenhagen</a></td></tr>
 	<tr><td class='std col1 date'>2020 / 07<br />2019 / 08</td></td><td class='std' style='text-align: center;'><a href="https://www.isi.it/en/home"><img src="images/logoisi.png" width="58" height="58" alt="ISI Foundation" class="logo"></a></td><td class='std'>Researcher, <a href="https://www.isi.it/en/home">ISI Foundation</a></td></tr>
 	<tr><td class='std col1 date'>2019 / 01<br />2017 / 10</td></td><td class='std' style='text-align: center;'><a href="http://www.ceu.edu/"><img src="images/logoceu.png" width="58" height="58" alt="Central European University" class="logo"></a></td><td class='std'>Assistant professor, <a href="https://cns.ceu.edu/">Department of Network and Data Science</a>, <a href="http://www.ceu.edu/">Central European University</a></td></tr>
 	<tr><td class='std col1 date'>2019 / 01<br />2017 / 09</td></td><td class='std' style='text-align: center;'><a href="http://mta.hu/english"><img src="images/logomta.png" width="44" height="58" alt="Hungarian Academy of Sciences" class="logo"></a></td><td class='std'>Researcher, <a href="http://www.krtk.mta.hu/">Centre for Economic and Regional Studies</a>, <a href="http://mta.hu/english">Hungarian Academy of Sciences</a></td></tr>
