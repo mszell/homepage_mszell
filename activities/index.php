@@ -89,6 +89,11 @@ echo $featuredarea;
 
 <h3>Talks</h3>
 	<ul>
+		<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2020-09-23<br /><a href="../downloads/talk_szell2020hud.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Human-centric Urban Data Science with OpenStreetMap<br /><a href="https://www.media.mit.edu/groups/human-dynamics/overview/">MIT Media Lab</a><br/>Cambridge, US (remotely)</td></tr>
+	</table>
+	</li>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2019-10-17<br />2019-10-15<br /><a href="../downloads/talk_szell2019rwu.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Revealing wasted urban space with crowd-sourced data<br /><a href="https://www.efc.be/event-post/funders-forum-on-sustainable-cities-annual-meeting-innovation-technology-big-data-and-its-impact-on-cities/">EFC Funders Forum on Sustainable Cities</a><br/>Turin, Italy</td></tr>
@@ -99,16 +104,16 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2019-07-19<br />2019-07-13<br /><a href="../downloads/talk_szell2019tcp.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Taking census of Physics and of the Nobel Prize<br /><a href="https://secs19.liparischool.it/">Complex networks workshop</a><br/>Lipari, Italy</td></tr>
 	</table>
 	</li>
-	<li class='talk talk-invited'>
-	<table>
-	<tr><td class='std col1 date'>2019-05-23<br /><a href="../downloads/talk_szell2019uwm.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Understanding wasted mobility space with crowdsourced urban data<br /><a href="https://twitter.com/databeers_cph">DataBeers Copenhagen</a><br/>Copenhagen, Denmark</td></tr>
-	</table>
-	</li>
 	</ul>
 	
 	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all talks &darr;</a>
 	<div class="expansion" id="talks">
 	<ul>
+	<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2019-05-23<br /><a href="../downloads/talk_szell2019uwm.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Understanding wasted mobility space with crowdsourced urban data<br /><a href="https://twitter.com/databeers_cph">DataBeers Copenhagen</a><br/>Copenhagen, Denmark</td></tr>
+	</table>
+	</li>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2019-03-26<br /></td><td class='std'>Measuring Mobility Space Inequality<br /><a href="https://bloxhub.org/event/science-forum/">Parallel Cities</a> at BLOXHUB Science Forum<br/>Copenhagen, Denmark</td></tr>
