@@ -23,16 +23,22 @@ echo $featuredarea;
 
 
 <h3>Office hours</h3>
-a.k.a. Student drop-in hours: Thursdays 11:00-12:00, or by appointment.
+a.k.a. Student drop-in hours: Thursdays 11:00-12:00, during COVID-19 by appointment.
 
 
 <h3>Project ideas</h3>
 <p>Below are some ideas for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Contact me via email to get started. Feel free to propose your own ideas. Have a look at this helpful <a href="https://www.itu.dk/people/sestoft/itu/thesis-checklist.html">checklist</a> too.</br>
-Last update 2020-08-26.</p>
+Last update 2020-11-23.</p>
 
+<h4>Current semester</h4>
+<p>No current open project ideas, but feel free to get inspired by the old ones below.</p>
+
+<h4>Previous semesters</h4>
+</br>
 <img src="../images/teachingproject01.png" width="580" alt="Project 1"></br></br>
 <img src="../images/teachingproject02.png" width="580" alt="Project 2"></br></br>
-<img src="../images/teachingproject03.png" width="580" alt="Project 2"></br></br>
+<img src="../images/teachingproject03.png" width="580" alt="Project 3"></br></br>
+
 
 <h3>Teaching activities</h3>
 <h4>Current semester</h4>
