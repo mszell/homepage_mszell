@@ -34,16 +34,19 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 
 <p>Download bib file of all my publications: <a href="../downloads/szell.bib">szell.bib</a></p>
 
-<h3>2020</h3>
+<h3>2021</h3>
   <ul>
     <li class="publi pub-preprint">M. Coscia, M. Szell<br /><b>Multiplex Graph Association Rules for Link Prediction</b><br />
-    <a href="#" onclick="toggle('coscia2020mga');return false;" id="info-coscia2020mga"><div class="filebib">Bib</div></a> &nbsp; <a href="https://arxiv.org/abs/2008.08351"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="coscia2020mga"><pre><code>@article{coscia2020mga,
+    <a href="#" onclick="toggle('coscia2021mga');return false;" id="info-coscia2021mga"><div class="filebib">Bib</div></a> &nbsp; <a href="https://arxiv.org/abs/2008.08351"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="coscia2021mga"><pre><code>@article{coscia2021mga,
   title={Multiplex Graph Association Rules for Link Prediction},
   author={Coscia, Michele and Szell, Michael},
   journal={arXiv:2008.08351, accepted for publication in 15th International Conference on Web and Social Media (ICWSM) 2021},
-  year={2020}
+  year={2021}
 }</code></pre></div></li>
+</ul>
 
+<h3>2020</h3>
+  <ul>
     <li class="publi pub-preprint">M. Schläpfer, M. Szell, H. Salat, C. Ratti, G.B. West<br /><b>The hidden universality of movement in cities</b><br />
     <a href="#" onclick="toggle('schlapfer2020hum');return false;" id="info-schlapfer2020hum"><div class="filebib">Bib</div></a> &nbsp; <a href="https://arxiv.org/abs/2002.06070"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="schlapfer2020hum"><pre><code>@article{schlapfer2020hum,
   title={The hidden universality of movement in cities},
@@ -52,8 +55,20 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
   year={2020}
 }</code></pre></div></li>
 
+    <li class="publi pub-journal">L.G. Natera Orozco, F. Battiston, G. Iñiguez, M. Szell<br /><b>Data-driven strategies for optimal bicycle network growth</b><br />
+    Royal Society Open Science 7:201130 (2020)<br />
+    <a href="#" onclick="toggle('nateraorozco2020dso');return false;" id="info-nateraorozco2019dso"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020dso.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://doi.org/10.1098/rsos.201130"><div class="linkexternal">Journal</div></a> &nbsp; <a href="https://arxiv.org/abs/1907.07080"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="nateraorozco2020dso"><pre><code>@article{nateraorozco2020dso,
+  title={Data-driven strategies for optimal bicycle network growth},
+  author={Natera Orozco, Luis Guillermo and Battiston, Federico and I{\~n}iguez, Gerardo and Szell, Michael},
+  journal={Royal Society Open Science},
+  year={2020},
+  volume = {7},
+  number = {201130},
+  doi = {10.1098/rsos.201130}
+}</code></pre></div></li>
+
     <li class="publi pub-journal">L.G. Natera Orozco, F. Battiston, G. Iñiguez, M. Szell<br /><b>Extracting the multimodal fingerprint of urban transportation networks</b><br />Transport Findings 13171 (2020)<br />
-    <a href="#" onclick="toggle('nateraorozco2020emf');return false;" id="info-nateraorozco2020emf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020emf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks"><div class="linkexternal">Journal</div></a> &nbsp;  &nbsp; <a href="https://arxiv.org/abs/2006.03435"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="nateraorozco2020emf"><pre><code>@article{nateraorozco2020emf,
+    <a href="#" onclick="toggle('nateraorozco2020emf');return false;" id="info-nateraorozco2020emf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020emf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks"><div class="linkexternal">Journal</div></a> &nbsp; <a href="https://arxiv.org/abs/2006.03435"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="nateraorozco2020emf"><pre><code>@article{nateraorozco2020emf,
   title={Extracting the multimodal fingerprint of urban transportation networks},
   author={Natera Orozco, Luis Guillermo and Battiston, Federico and I{\~n}iguez, Gerardo and Szell, Michael},
   journal={Transport Findings},
@@ -66,14 +81,6 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 
 <h3>2019</h3>
   <ul>
-    <li class="publi pub-preprint">L.G. Natera Orozco, F. Battiston, G. Iñiguez, M. Szell<br /><b>Data-driven strategies for optimal bicycle network growth</b><br />
-    <a href="#" onclick="toggle('nateraorozco2019dso');return false;" id="info-nateraorozco2019dso"><div class="filebib">Bib</div></a> &nbsp; <a href="https://arxiv.org/abs/1907.07080"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="nateraorozco2019dso"><pre><code>@article{nateraorozco2019dso,
-  title={Data-driven strategies for optimal bicycle network growth},
-  author={Natera Orozco, Luis Guillermo and Battiston, Federico and I{\~n}iguez, Gerardo and Szell, Michael},
-  journal={arXiv:1907.07080},
-  year={2019}
-}</code></pre></div></li>
-
     <li class="publi pub-other">B. Resch, M. Szell<br /><b>Human-Centric Data Science for Urban Studies</b><br />ISPRS International Journal of Geo-Information 8, 584 (2019)<br />
     <a href="#" onclick="toggle('resch2019hds');return false;" id="info-resch2019hds"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/resch2019hds.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://www.mdpi.com/2220-9964/8/12/584"><div class="linkexternal">Journal</div></a><div class="info-expansion" id="resch2019hds"><pre><code>@article{resch2019hds,
   title={Human-Centric Data Science for Urban Studies},
