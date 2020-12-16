@@ -57,7 +57,7 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 
     <li class="publi pub-journal">L.G. Natera Orozco, F. Battiston, G. Iñiguez, M. Szell<br /><b>Data-driven strategies for optimal bicycle network growth</b><br />
     Royal Society Open Science 7:201130 (2020)<br />
-    <a href="#" onclick="toggle('nateraorozco2020dso');return false;" id="info-nateraorozco2019dso"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020dso.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://doi.org/10.1098/rsos.201130"><div class="linkexternal">Journal</div></a> &nbsp; <a href="https://arxiv.org/abs/1907.07080"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="nateraorozco2020dso"><pre><code>@article{nateraorozco2020dso,
+    <a href="#" onclick="toggle('nateraorozco2020dso');return false;" id="info-nateraorozco2019dso"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020dso.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130"><div class="linkexternal">Journal</div></a> &nbsp; <a href="https://arxiv.org/abs/1907.07080"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="nateraorozco2020dso"><pre><code>@article{nateraorozco2020dso,
   title={Data-driven strategies for optimal bicycle network growth},
   author={Natera Orozco, Luis Guillermo and Battiston, Federico and I{\~n}iguez, Gerardo and Szell, Michael},
   journal={Royal Society Open Science},

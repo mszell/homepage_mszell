@@ -18,7 +18,7 @@ echo $featuredarea;
 
 <h3>News and running events</h3>
 <table>
-	<tr><td class='std col1 date'>2020-12-16</td><td class='std'><a href="https://doi.org/10.1098/rsos.201130"><img src="images/newsroysocopensci.jpg" width="64" height="51" alt="Royal Society Open Science" class="logo"></a></td><td class='std'>Paper published in <a href="">Royal Society Open Science</a> on Data-driven strategies for optimal bicycle network growth</td></tr>
+	<tr><td class='std col1 date'>2020-12-16</td><td class='std'><a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130"><img src="images/newsroyalsociety.png" width="64" height="64" alt="Royal Society Open Science" class="logo"></a></td><td class='std'>Paper published in <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130">Royal Society Open Science</a> on Data-driven strategies for optimal bicycle network growth</td></tr>
 	<tr><td class='std col1 date'>2020-10-01</td><td class='std'><a href="https://nerds.itu.dk/2020/10/01/promotions-promotions-promotions/"><img src="images/logoitu.png" width="64" height="64" alt="IT University of Copenhagen" class="logo"></a></td><td class='std'>Promotion to associate professor at <a href="https://en.itu.dk/">ITU Copenhagen</td></tr>
 	<tr><td class='std col1 date'>2020-06-10</td><td class='std'><a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks"><img src="images/newstransportfindings.jpg" width="64" height="51" alt="Transport Findings paper" class="logo"></a></td><td class='std'>Paper published in <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks">Transport Findings</a> on multiplex transport networks</td></tr>
 </table>
@@ -49,13 +49,13 @@ echo $featuredarea;
 
 <h3>Bio</h3>
 <p>
-Michael Szell is associate professor in Data Science at IT University of Copenhagen, and external faculty at the Complexity Science Hub Vienna. His research aims to quantify the patterns behind interlinked human behavior and human-built structures, through mining large-scale data sets. He follows an interdisciplinary approach drawing from data science and network science. Michael's current focus is on urban mobility, sustainable transport, and data visualization. He has also developed the award-winning massive multiplayer online game "Pardus", www.pardus.at, and several interactive data visualization platforms.
+Michael Szell is associate professor in Data Science at IT University of Copenhagen, and external faculty at the Complexity Science Hub Vienna. His research aims to quantify the patterns behind interlinked human behavior and human-built structures, through mining large-scale data sets. He follows an interdisciplinary approach drawing from data science and network science. Michael's current focus is on sustainable urban mobility and data visualization. He has also developed the award-winning massive multiplayer online game "Pardus", www.pardus.at, and several interactive data visualization platforms.
 </p>
 
 
 <h3>Research interests</h3>
 <ul>
-	<li>Urban Data Science, Urban mobility, Sustainable transport</li>
+	<li>Urban Data Science, Human mobility, Sustainable transport</li>
 	<li>Data visualization, Complex systems, Network science</li>
 	<li>Quantifying human behavior and social networks, in particular online and in cities</li>
 </ul>

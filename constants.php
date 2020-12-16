@@ -141,7 +141,7 @@ $featuredarea = <<<EOD
 
     <h2>Recent papers</h2>
 
-    <pRoyal Society Open Science: <a href="https://doi.org/10.1098/rsos.201130">Data-driven strategies for optimal bicycle network growth</a></p>
+    <p>Royal Society Open Science: <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130">Data-driven strategies for optimal bicycle network growth</a></p>
 
     <p>Transport Findings: <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks">Extracting the multimodal fingerprint of urban transportation networks</a></p>
 
