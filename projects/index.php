@@ -16,6 +16,8 @@ echo $featuredarea;
 
 			<div class="main-with-sidebar">
 
+<p>If you are a student looking for student projects, go to <a href='../teaching/'> Teaching</a>.</p>
+
 <h3>Taxonomy of Urban Bicycle Network Approaches</h3>
     <table>
 		<tr><td class='std col1 date'>2021-01</td><td class='std' style='text-align: center;'><a href="https://github.com/mszell/taxonomybikenw"><img src="../images/logobikenwapproaches.png" width="58" height="58" alt="Taxonomy of Urban Bicycle Network Approaches" class="logo"></a></td><td class='std'><p>This visualization identifies the most distinct environments for cycling arriving from different approaches of urban planning.</p>

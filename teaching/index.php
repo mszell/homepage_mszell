@@ -44,12 +44,13 @@ Last update 2020-11-23.</p>
 <h4>Current semester</h4>
 	</br>
 	<table>
-		<tr><td class='std col1 date'>2021-01-31<br />2020-08-24</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=522">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
+		<tr><td class='std col1 date'>2021-06-27<br />2021-02-01</td><td class='std' width='130'>Instructor (30%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=590">First Year Project (BSFIYEP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 	</table>
 
 <h4>Past</h4>
 	</br>
 	<table>
+		<tr><td class='std col1 date'>2021-01-31<br />2020-08-24</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=522">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>2020-04-21</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=373">Reflections on Data Science (BSREDAS1KU)</a></td></tr>
 		<tr><td class='std col1 date'>2020-01-31<br />2019-08-26</td><td class='std' width='130'>Instructor (70%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=371">Technical Communication (BSTECOM1KU)</a></br>ECTS Credits: 7.5</td></tr>
 		<tr><td class='std col1 date'>2020-01-31<br />2019-08-26</td><td class='std' width='130'>Instructor (50%)</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=282">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
