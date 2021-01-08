@@ -18,14 +18,15 @@ echo $featuredarea;
 
 <h3>News and running events</h3>
 <table>
+	<tr><td class='std col1 date'>2021-01-06</td><td class='std'><a href="https://github.com/mszell/taxonomybikenw"><img src="images/logobikenwapproaches.png" width="58" height="58" alt="Taxonomy of Urban Bicycle Network Approaches" class="logo"></a></td><td class='std'><a href="https://github.com/mszell/taxonomybikenw">Taxonomy of Urban Bicycle Network Approaches</a> published</td></tr>
 	<tr><td class='std col1 date'>2020-12-16</td><td class='std'><a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130"><img src="images/newsroyalsociety.png" width="64" height="64" alt="Royal Society Open Science" class="logo"></a></td><td class='std'>Paper published in <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130">Royal Society Open Science</a> on Data-driven strategies for optimal bicycle network growth</td></tr>
 	<tr><td class='std col1 date'>2020-10-01</td><td class='std'><a href="https://nerds.itu.dk/2020/10/01/promotions-promotions-promotions/"><img src="images/logoitu.png" width="64" height="64" alt="IT University of Copenhagen" class="logo"></a></td><td class='std'>Promotion to associate professor at <a href="https://en.itu.dk/">ITU Copenhagen</td></tr>
-	<tr><td class='std col1 date'>2020-06-10</td><td class='std'><a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks"><img src="images/newstransportfindings.jpg" width="64" height="51" alt="Transport Findings paper" class="logo"></a></td><td class='std'>Paper published in <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks">Transport Findings</a> on multiplex transport networks</td></tr>
 </table>
 
 	<a href="#" onclick="toggle('news');return false;" id="info-news">&darr; Toggle all news &darr;</a>
 	<div class="expansion" id="news">
 <table>
+	<tr><td class='std col1 date'>2020-06-10</td><td class='std'><a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks"><img src="images/newstransportfindings.jpg" width="64" height="51" alt="Transport Findings paper" class="logo"></a></td><td class='std'>Paper published in <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks">Transport Findings</a> on multiplex transport networks</td></tr>
 	<tr><td class='std col1 date'>2019-12-12</td><td class='std'><a href="https://www.mdpi.com/2220-9964/8/12/584"><img src="images/newsijgi.png" width="76" height="68" alt="International Journal of Geo-information" class="logo"></a></td><td class='std'>Published editorial and completed Special Issue in International Journal of Geo-information:<br /><a href="https://www.mdpi.com/2220-9964/8/12/584">Human-Centric Data Science for Urban Studies</a><br />Editors: Resch, Szell</td></tr>
 	<tr><td class='std col1 date'>2019-09-05</td><td class='std'><a href="https://www.move-lab.com/project/whatthestreet/"><img src="images/logowhatthestreet.png" width="58" height="58" alt="What the Street?!" class="logo"></a></td><td class='std'>What the Street?! added to <a href="https://futurium.de/">Futurium</a>'s permanent exhibition</a></td></tr>
 	<tr><td class='std col1 date'>2019-08-07</td><td class='std'><a href="https://www.mdpi.com/journal/ijgi/editors"><img src="images/newsijgi.png" width="76" height="68" alt="International Journal of Geo-information" class="logo"></a></td><td class='std'>Joined <a href="https://www.mdpi.com/journal/ijgi/editors">editorial board of International Journal of Geo-information</a></td></tr>
@@ -79,11 +80,11 @@ Michael Szell is associate professor in Data Science at IT University of Copenha
 <table width="619px">
 <tr>
 	<td><a href='http://whatthestreet.moovellab.com/'><img src='images/datavizwts.png' width='300' title='2017-06: What the Street!?' alt='2017-06: What the Street!?'></a></td>
-	<td><a href='http://hubcab.org/'><img src='images/datavizhubcab.png' width='300' title='2014-03: HubCab' alt='2014-03: HubCab'></a></td>
+	<td><a href='https://github.com/mszell/taxonomybikenw'><img src='images/datavizbikenwapproaches.png' width='300' height='188' title='2021-01: Taxonomy of Urban Bicycle Network Approaches' alt='2021-01: Taxonomy of Urban Bicycle Network Approaches'></a></td>
 </tr>
 <tr>
-	<td><a href='http://senseable.mit.edu/tweetbursts/'><img src='images/dataviztweetbursts.png' width='300' title='2014-02: Tweet Bursts' alt='2014-02: Tweet Bursts'></a></td>
-	<td></td>
+	<td><a href='http://senseable.mit.edu/tweetbursts/'><img src='images/dataviztweetbursts.png' width='300' height='188' title='2014-02: Tweet Bursts' alt='2014-02: Tweet Bursts'></a></td>
+	<td><a href='http://hubcab.org/'><img src='images/datavizhubcab.png' width='300' height='188' title='2014-03: HubCab' alt='2014-03: HubCab'></a></td>
 </tr>
 </table>
 
