@@ -47,18 +47,6 @@ function toggle(nr) {
   }
 }
     </script>
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-32349100-1']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script>
-
     </head>
 EOD;
 
@@ -181,7 +169,7 @@ EOD;
 $footer = <<<EOD
 <div id="footer">
   <p>
-  http://michael.szell.net &nbsp;|&nbsp; Last update 2021-01-24 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
+  http://michael.szell.net &nbsp;|&nbsp; Last update 2021-03-12 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
   Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
   </p>
 </div>
