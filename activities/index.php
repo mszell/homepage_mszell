@@ -90,7 +90,11 @@ echo $featuredarea;
 
 <h3>Talks</h3>
 	<ul>
-		<li class='talk talk-invited'>
+	<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2021-03-19<br /><a href="../downloads/talk_szell2021dso.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Data-driven strategies for optimal bicycle network growth<br /><a href="https://supercykelstier.dk/">Supercykelstier</a><br/>Copenhagen, Denmark (remotely)</td></tr>
+	</table>
+	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2020-09-23<br /><a href="../downloads/talk_szell2020hud.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Human-centric Urban Data Science with OpenStreetMap<br /><a href="https://www.media.mit.edu/groups/human-dynamics/overview/">MIT Media Lab</a><br/>Cambridge, US (remotely)</td></tr>
 	</table>

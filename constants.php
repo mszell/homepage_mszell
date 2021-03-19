@@ -133,25 +133,16 @@ $featuredarea = <<<EOD
 
     <p>ISPRS International Journal of Geo-Information: <a href="https://www.mdpi.com/2220-9964/8/12/584">Human-Centric Data Science for Urban Studies</a></p>
 
-    <p>Nature Reviews Physics: <a href="https://www.nature.com/articles/s42254-018-0005-3">Taking census of physics</a></p>
-
-    <p>Nature Physics: <a href="https://doi.org/10.1038/s41567-018-0314-6">A Nobel opportunity for interdisciplinarity</a></p>
-
     <p><a href="../publications/">&rarr; See all papers</a></p>
 
 <hr>
 
     <h2>Recent media coverage</h2>
-    
+      <p>Ingeniøren: <a href="https://pro.ing.dk/mobilitytech/article/cykling-i-byen-smaa-investeringer-i-infrastruktur-binder-din-sammen-10256">Cykling i byen: Små investeringer i infrastruktur binder din by sammen</a></p>
+
       <p>Il Sole 24 Ore: <a href="https://www.ilsole24ore.com/art/tecnologie/2018-10-26/se-l-automobile-diventa-mezzo-pubblico-095955.shtml">Se l’automobile diventa un mezzo pubblico</a></p>
 
       <p>Der Tagesspiegel: <a href="https://www.tagesspiegel.de/berlin/stadtentwicklung-in-berlin-ausstellung-in-mitte-eroeffnet-neue-blicke-aufdie-stadt/23217076.html">Ausstellung in Mitte eröffnet neue Blicke auf die Stadt</a></p>
-
-      <p>trend: <a href="https://www.trend.at/branchen/karrieren/frauen-netzwerke-schuechternheit-zier-8285830">Frauen-Netzwerke: Schüchternheit ist keine Zier</a></p>
-
-      <p>Der Standard: <a href="http://derstandard.at/2000061580102/Weniger-Autos-in-der-Stadt-der-Zukunft">Weniger Autos in der Stadt der Zukunft</a></p>
-
-      <p>Fast Company: <a href="https://www.fastcompany.com/40441392/see-just-how-much-of-a-citys-land-is-used-for-parking-spaces">See Just How Much Of A City’s Land Is Used For Parking Spaces</a></p>
 
       <p><a href="../media/">&rarr; See all media coverage</a></p>
 
@@ -169,7 +160,7 @@ EOD;
 $footer = <<<EOD
 <div id="footer">
   <p>
-  http://michael.szell.net &nbsp;|&nbsp; Last update 2021-03-12 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
+  http://michael.szell.net &nbsp;|&nbsp; Last update 2021-03-19 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
   Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
   </p>
 </div>
