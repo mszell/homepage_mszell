@@ -29,6 +29,7 @@ echo $featuredarea;
 	<div class="expansion" id="organization">
 	<table>
 		<tr><td class='std col1 date'>2021-07-31<br />2021-07-27</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://2021.ic2s2.org/">IC2S2 2021</a><br />Zurich, Switzerland</td></tr>
+		<tr><td class='std col1 date'>2021-05-26<br />2021-05-24</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2021</a><br />Online</td></tr>
 		<tr><td class='std col1 date'>2020-10-09<br />2020-10-06</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://kdd.isti.cnr.it/socinfo2020/">SocInfo20</a><br />Pisa, Italy</td></tr>
 		<tr><td class='std col1 date'>2020-07-31<br />2020-07-26</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://necsi.edu/iccs-2020">ICCS 2020</a><br />Nashua, USA</td></tr>
 		<tr><td class='std col1 date'>2020-07-20<br />2020-07-17</td><td class='std' width='130'>Reviewer</td><td class='std'><a href="http://2020.ic2s2.org/">IC2S2 2020</a><br />Cambridge, USA</td></tr>
