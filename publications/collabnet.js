@@ -1,5 +1,5 @@
 var width = 600,
-    height = 570,
+    height = 600,
     curyear = new Date().getFullYear();
 
 var force = d3.layout.force()
@@ -13,7 +13,7 @@ var svg = d3.select("#collabnet").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-d3.json("mszellcollabnet20200825.json", function(error, graph) {
+d3.json("mszellcollabnet20210414.json", function(error, graph) {
   var nodeMap = {};
     graph.nodes.forEach(function(x) { nodeMap[x.name] = x; });
     graph.links = graph.links.map(function(x) {
@@ -42,7 +42,7 @@ d3.json("mszellcollabnet20200825.json", function(error, graph) {
       .data(graph.nodes)
       .enter().append("circle")
       .attr("class", "node")
-      .attr("r", function(d) { return 6+2*(d.yearlast-d.yearfirst); })
+      .attr("r", function(d) { return 6+2*Math.max(d.yearlast-d.yearfirst, 0); })
       .style("fill", function(d) { return "#9"+Math.max(Math.min(9-(d.yearlast-(curyear-9)), 9), 0)+""+Math.max(Math.min(9-(d.yearlast-(curyear-9)), 9), 0)+""; })
       .call(force.drag)
       .on('mouseover', tip.show) //Added

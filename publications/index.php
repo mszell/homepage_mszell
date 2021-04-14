@@ -25,7 +25,7 @@ echo $featuredarea;
 
 <h3>My coauthorship network</h3>
 <div id="collabnet"><script src="http://michael.szell.net/publications/collabnet.js" type="text/javascript"></script></div>
-<p>Last update 2020-08-25</br>
+<p>Last update 2021-04-14</br>
 Node color: Most recent date of publication with me</br>
 Node size: Duration of collaboration with me</br>
 Link weight: Number of co-publications<br/>
@@ -36,6 +36,14 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 
 <h3>2021</h3>
   <ul>
+    <li class="publi pub-preprint">M. Klanjčić, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Identifying urban features for vulnerable road user safety in Europe</b><br />
+    <a href="#" onclick="toggle('klanjcic2021iuf');return false;" id="info-klanjcic2021iuf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/klanjcic2021iuf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/89cyu/"><div class="linkexternal">SocArXiv</div></a><div class="info-expansion" id="klanjcic2021iuf"><pre><code>@article{klanjcic2021iuf,
+  title={Identifying urban features for vulnerable road user safety in Europe},
+  author={Klanj\v{c}i{\'c}, Marina and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
+  journal={SocArXiv:89cyu},
+  year={2021}
+}</code></pre></div></li>
+
     <li class="publi pub-preprint">M. Coscia, M. Szell<br /><b>Multiplex Graph Association Rules for Link Prediction</b><br />
     <a href="#" onclick="toggle('coscia2021mga');return false;" id="info-coscia2021mga"><div class="filebib">Bib</div></a> &nbsp; <a href="https://arxiv.org/abs/2008.08351"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="coscia2021mga"><pre><code>@article{coscia2021mga,
   title={Multiplex Graph Association Rules for Link Prediction},
