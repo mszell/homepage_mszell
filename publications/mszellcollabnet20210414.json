@@ -283,6 +283,7 @@
     {"source":"szell","target":"tizzoni","value":1,"yearfirst":2021,"yearlast":2021, "typ":1},
     {"source":"klanjcic","target":"gauvin","value":1,"yearfirst":2021,"yearlast":2021, "typ":0},
     {"source":"klanjcic","target":"tizzoni","value":1,"yearfirst":2021,"yearlast":2021, "typ":0},
-    {"source":"gauvin","target":"tizzoni","value":6,"yearfirst":2019,"yearlast":2021, "typ":0}
+    {"source":"gauvin","target":"tizzoni","value":6,"yearfirst":2019,"yearlast":2021, "typ":0},
+    {"source":"petri","target":"tizzoni","value":1,"yearfirst":2015,"yearlast":2015, "typ":0}
   ]
 }
