@@ -92,6 +92,10 @@ echo $featuredarea;
 
 <h3>Talks</h3>
 	<ul>
+		<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2021-05-06<br /><a href="../downloads/talk_szell2021vru.pdf"><div class="filepdf">Slides</div></a><br /><a href="https://youtu.be/Ye8FshUWtgY"><div class="linkexternal">Recording</div></a></td><td class='std'>Vulnerable road user safety in Europe, and towards a science of bicycle network design<br /><a href="https://sites.google.com/cri-paris.org/cityinteractionlab/home">City Interaction Lab</a><br/>Paris, France (remotely)</td></tr>
+	</table>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2021-03-19<br /><a href="../downloads/talk_szell2021dso.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Data-driven strategies for optimal bicycle network growth<br /><a href="https://supercykelstier.dk/">Supercykelstier</a><br/>Copenhagen, Denmark (remotely)</td></tr>
