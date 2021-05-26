@@ -89,7 +89,7 @@ $featuredarea = <<<EOD
     Welcome! I am associate professor at <a href="https://en.itu.dk">ITU Copenhagen</a>, <a href="https://nerds.itu.dk/">NERDS</a>. My research focuses on mobility, sustainable transport, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="http://michael.szell.net/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
-        <div class='updateinfo'>last update 2020-09-26</div>
+        <div class='updateinfo'>last update 2021-05-26</div>
     </div></a>
     			</div>
 
@@ -127,11 +127,11 @@ $featuredarea = <<<EOD
 
     <h2>Recent papers</h2>
 
+    <p>Nature: <a href="https://www.nature.com/articles/s41586-021-03480-9">The universal visitation law of human mobility</a></p>
+
     <p>Royal Society Open Science: <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130">Data-driven strategies for optimal bicycle network growth</a></p>
 
     <p>Transport Findings: <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks">Extracting the multimodal fingerprint of urban transportation networks</a></p>
-
-    <p>ISPRS International Journal of Geo-Information: <a href="https://www.mdpi.com/2220-9964/8/12/584">Human-Centric Data Science for Urban Studies</a></p>
 
     <p><a href="../publications/">&rarr; See all papers</a></p>
 
@@ -153,7 +153,7 @@ EOD;
 $footer = <<<EOD
 <div id="footer">
   <p>
-  http://michael.szell.net &nbsp;|&nbsp; Last update 2021-05-07 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
+  http://michael.szell.net &nbsp;|&nbsp; Last update 2021-05-26 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
   Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
   </p>
 </div>

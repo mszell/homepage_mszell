@@ -25,7 +25,7 @@ echo $featuredarea;
 
 <h3>My coauthorship network</h3>
 <div id="collabnet"><script src="http://michael.szell.net/publications/collabnet.js" type="text/javascript"></script></div>
-<p>Last update 2021-04-14</br>
+<p>Last update 2021-05-26</br>
 Node color: Most recent date of publication with me</br>
 Node size: Duration of collaboration with me</br>
 Link weight: Number of co-publications<br/>
@@ -51,17 +51,22 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
   journal={arXiv:2008.08351, accepted for publication in 15th International Conference on Web and Social Media (ICWSM) 2021},
   year={2021}
 }</code></pre></div></li>
+
+  <li class="publi pub-journal">M. Schläpfer, L. Dong, K. O'Keeffe, P. Santi, M. Szell,
+H. Salat, S. Anklesaria, M. Vazifeh, C. Ratti, G.B. West<br /><b>The universal visitation law of human mobility</b><br />
+    <a href="#" onclick="toggle('schlapfer2021uvl');return false;" id="info-schlapfer2021uvl"><div vb  class="filebib">Bib</div></a> &nbsp; <a href="../downloads/schlapfer2021uvl.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://www.nature.com/articles/s41586-021-03480-9"><div class="linkexternal">Journal</div></a> &nbsp; <a href="https://senseable.mit.edu/wanderlust/"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="schlapfer2021uvl"><pre><code>@article{schlapfer2021uvl,
+  title={The universal visitation law of human mobility},
+  author={Schl{\"a}pfer, Markus and Dong, Lei and O'Keefee, Kevin and Santi, Paolo and Szell, Michael and Salat, Hadrien and Anklesaria, Samuel and Vazifeh, Mohammad and Ratti, Carlo and West, Geoffrey B.},
+  journal={Nature},
+  year={2021},
+  volume = {593},
+  pages = {522--527},
+  doi = {10.1038/s41586-021-03480-9}
+}</code></pre></div></li>
 </ul>
 
 <h3>2020</h3>
   <ul>
-    <li class="publi pub-preprint">M. Schläpfer, M. Szell, H. Salat, C. Ratti, G.B. West<br /><b>The hidden universality of movement in cities</b><br />
-    <a href="#" onclick="toggle('schlapfer2020hum');return false;" id="info-schlapfer2020hum"><div class="filebib">Bib</div></a> &nbsp; <a href="https://arxiv.org/abs/2002.06070"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="schlapfer2020hum"><pre><code>@article{schlapfer2020hum,
-  title={The hidden universality of movement in cities},
-  author={Schl{\"a}pfer, Markus and Szell, Michael and Salat, Hadrien and Ratti, Carlo and West, Geoffrey B.},
-  journal={arXiv:2002.06070},
-  year={2020}
-}</code></pre></div></li>
 
     <li class="publi pub-journal">L.G. Natera Orozco, F. Battiston, G. Iñiguez, M. Szell<br /><b>Data-driven strategies for optimal bicycle network growth</b><br />
     Royal Society Open Science 7:201130 (2020)<br />

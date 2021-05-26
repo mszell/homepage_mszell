@@ -16,16 +16,17 @@ echo $featuredarea;
 
 			<div class="main-with-sidebar">
 
-<h3>News and running events</h3>
+<h3>News</h3>
 <table>
+	<tr><td class='std col1 date'>2021-05-26</td><td class='std'><a href="https://www.nature.com/articles/s41586-021-03480-9"><img src="images/newsnature.png" width="64" height="64" alt="Nature" class="logo"></a></td><td class='std'>Paper published in <a href="https://www.nature.com/articles/s41586-021-03480-9">Nature</a> on The universal visitation law of human mobility. See also the <a href="https://senseable.mit.edu/wanderlust/">project page</a>.</td></tr>
 	<tr><td class='std col1 date'>2021-01-06</td><td class='std'><a href="https://github.com/mszell/taxonomybikenw"><img src="images/logobikenwapproaches.png" width="58" height="58" alt="Taxonomy of Urban Bicycle Network Approaches" class="logo"></a></td><td class='std'><a href="https://github.com/mszell/taxonomybikenw">Taxonomy of Urban Bicycle Network Approaches</a> published</td></tr>
 	<tr><td class='std col1 date'>2020-12-16</td><td class='std'><a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130"><img src="images/newsroyalsociety.png" width="64" height="64" alt="Royal Society Open Science" class="logo"></a></td><td class='std'>Paper published in <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130">Royal Society Open Science</a> on Data-driven strategies for optimal bicycle network growth</td></tr>
-	<tr><td class='std col1 date'>2020-10-01</td><td class='std'><a href="https://nerds.itu.dk/2020/10/01/promotions-promotions-promotions/"><img src="images/logoitu.png" width="64" height="64" alt="IT University of Copenhagen" class="logo"></a></td><td class='std'>Promotion to associate professor at <a href="https://en.itu.dk/">ITU Copenhagen</td></tr>
 </table>
 
 	<a href="#" onclick="toggle('news');return false;" id="info-news">&darr; Toggle all news &darr;</a>
 	<div class="expansion" id="news">
 <table>
+	<tr><td class='std col1 date'>2020-10-01</td><td class='std'><a href="https://nerds.itu.dk/2020/10/01/promotions-promotions-promotions/"><img src="images/logoitu.png" width="64" height="64" alt="IT University of Copenhagen" class="logo"></a></td><td class='std'>Promotion to associate professor at <a href="https://en.itu.dk/">ITU Copenhagen</td></tr>
 	<tr><td class='std col1 date'>2020-06-10</td><td class='std'><a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks"><img src="images/newstransportfindings.jpg" width="64" height="51" alt="Transport Findings paper" class="logo"></a></td><td class='std'>Paper published in <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks">Transport Findings</a> on multiplex transport networks</td></tr>
 	<tr><td class='std col1 date'>2019-12-12</td><td class='std'><a href="https://www.mdpi.com/2220-9964/8/12/584"><img src="images/newsijgi.png" width="76" height="68" alt="International Journal of Geo-information" class="logo"></a></td><td class='std'>Published editorial and completed Special Issue in International Journal of Geo-information:<br /><a href="https://www.mdpi.com/2220-9964/8/12/584">Human-Centric Data Science for Urban Studies</a><br />Editors: Resch, Szell</td></tr>
 	<tr><td class='std col1 date'>2019-09-05</td><td class='std'><a href="https://www.move-lab.com/project/whatthestreet/"><img src="images/logowhatthestreet.png" width="58" height="58" alt="What the Street?!" class="logo"></a></td><td class='std'>What the Street?! added to <a href="https://futurium.de/">Futurium</a>'s permanent exhibition</a></td></tr>
@@ -65,12 +66,13 @@ Michael Szell is associate professor in Data Science at IT University of Copenha
 <h3>Research highlights</h3>
 <table width="619px">
 <tr>
+	<td><a href='https://www.nature.com/articles/s41586-021-03480-9'><img src='images/papernaturemobility.jpg' width='95' title='2021-05-26: Nature paper on mobility published' alt='2021-05-26: Nature paper on mobility published'></a></td>
 	<td><a href='https://doi.org/10.1038/s41567-018-0314-6'><img src='images/papernaturephysicsnobel.jpg' width='95' title='2018-11-01: Nature Physics perspective on Nobel Prizes published' alt='2018-11-01: Nature Physics perspective on Nobel Prizes published'></a></td>
 	<td><a href='https://www.cogitatiopress.com/urbanplanning/article/view/1209/'><img src='images/paperurbanplanningmobility.jpg' width='95' title='2018-03-29: Urban Planning paper on mobility space inequality published' alt='2018-03-29: Urban Planning paper on mobility space inequality published'></a></td>
 	<td><a href='http://www.nature.com/nphys/journal/v11/n10/full/nphys3494.html'><img src='images/papernaturephysicstenyears.jpg' width='95' title='2015-10-01: Nature Physics paper on citation networks published and on the cover' alt='2015-10-01: Nature Physics paper on citation networks published and on the cover'></a></td>
 	<td><a href='http://www.pnas.org/content/111/37/13290'><img src='images/paperpnastaxi.jpg' width='94' title='2014-09-16: PNAS paper on taxi shareability published and on the cover' alt='2014-09-16: PNAS paper on taxi shareability published and on the cover'></a></td>
 	<!--<td><a href='http://www.sciencemag.org/content/343/6174/970.full?ijkey=doMi4KrdCymkw&keytype=ref&siteid=sci'><img src='images/sciencebookreview.jpg' width='94' title='2014-02-28: Book review published in Science' alt='2014-02-28: Book review published in Science'></a></td>-->
-	<td><a href='http://www.pnas.org/content/110/12/4703'><img src='images/paperpnasdiabetes.jpg' width='94' title='2013-03-19: PNAS paper on diabetes risk published' alt='2013-03-19: PNAS paper on diabetes risk published'></a></td>
+	<!--<td><a href='http://www.pnas.org/content/110/12/4703'><img src='images/paperpnasdiabetes.jpg' width='94' title='2013-03-19: PNAS paper on diabetes risk published' alt='2013-03-19: PNAS paper on diabetes risk published'></a></td>-->
 	<td><a href='http://www.pnas.org/content/107/31/13636'><img src='images/paperpnasmultiplex.jpg' width='94' title='2010-08-03: PNAS paper on multiplex networks published' alt='2010-08-03: PNAS paper on multiplex networks published'></a></td>
 </tr>
 </table>
