@@ -60,6 +60,7 @@ H. Salat, S. Anklesaria, M. Vazifeh, C. Ratti, G.B. West<br /><b>The universal v
   journal={Nature},
   year={2021},
   volume = {593},
+  number = {7860}
   pages = {522--527},
   doi = {10.1038/s41586-021-03480-9}
 }</code></pre></div></li>
