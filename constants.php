@@ -89,7 +89,7 @@ $featuredarea = <<<EOD
     Welcome! I am associate professor at <a href="https://en.itu.dk">ITU Copenhagen</a>, <a href="https://nerds.itu.dk/">NERDS</a>. My research focuses on mobility, sustainable transport, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="http://michael.szell.net/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
-        <div class='updateinfo'>last update 2021-05-26</div>
+        <div class='updateinfo'>last update 2021-06-06</div>
     </div></a>
     			</div>
 
@@ -138,11 +138,11 @@ $featuredarea = <<<EOD
 <hr>
 
     <h2>Recent media coverage</h2>
-      <p>Deutschlandfunk Nova: <a href="https://srv.deutschlandradio.de/dlf-audiothek-audio-teilen.3265.de.html?mdm:audio_id=928693">Mathematik - Eine Formel zur Bewegung von Menschen in Städten</a></p>
+      <p>Frankfurter Allgemeine Zeitung: <a href="https://www.faz.net/aktuell/wissen/mobilitaetsforschung-die-vorhersagbarkeit-menschlicher-bewegungsmuster-17367914.html">Die Vorhersagbarkeit menschlicher Bewegungsmuster</a></p>
 
       <p>MIT News: <a href="https://news.mit.edu/2021/travel-pattern-global-0526">Study reveals a universal travel pattern across four continents</a></p>
 
-      <p>Vice: <a href="https://www.vice.com/en/article/epnzkm/millions-of-peoples-location-data-revealed-a-universal-pattern-in-study">Millions of People's Location Data Revealed a 'Universal' Pattern In Study</a></p>
+      <p>Der Spiegel: <a href="https://www.spiegel.de/wissenschaft/mensch/wie-sich-mit-handydaten-bewegungsstroeme-in-staedten-vorhersagen-lassen-a-1fd86fa8-711d-475d-8ef8-49ec05b38c55">Das Universalgesetz der Straße</a></p>
 
       <p><a href="../media/">&rarr; See all media coverage</a></p>
 

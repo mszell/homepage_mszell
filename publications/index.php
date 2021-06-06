@@ -44,16 +44,21 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
   year={2021}
 }</code></pre></div></li>
 
-    <li class="publi pub-preprint">M. Coscia, M. Szell<br /><b>Multiplex Graph Association Rules for Link Prediction</b><br />
+    <li class="publi pub-journal">M. Coscia, M. Szell<br /><b>Multilayer Graph Association Rules for Link Prediction</b><br />
+      15th Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 129-139 (2021)<br />
     <a href="#" onclick="toggle('coscia2021mga');return false;" id="info-coscia2021mga"><div class="filebib">Bib</div></a> &nbsp; <a href="https://arxiv.org/abs/2008.08351"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="coscia2021mga"><pre><code>@article{coscia2021mga,
-  title={Multiplex Graph Association Rules for Link Prediction},
+  title={Multilayer Graph Association Rules for Link Prediction},
   author={Coscia, Michele and Szell, Michael},
-  journal={arXiv:2008.08351, accepted for publication in 15th International Conference on Web and Social Media (ICWSM) 2021},
-  year={2021}
+  journal={Proceedings of the International AAAI Conference on Web and Social Media},
+  year={2021},
+  volume = {15},
+  number = {1},
+  pages = {129--139}
 }</code></pre></div></li>
 
   <li class="publi pub-journal">M. Schläpfer, L. Dong, K. O'Keeffe, P. Santi, M. Szell,
 H. Salat, S. Anklesaria, M. Vazifeh, C. Ratti, G.B. West<br /><b>The universal visitation law of human mobility</b><br />
+Nature 593(7860), 522-527 (2021)<br />
     <a href="#" onclick="toggle('schlapfer2021uvl');return false;" id="info-schlapfer2021uvl"><div vb  class="filebib">Bib</div></a> &nbsp; <a href="../downloads/schlapfer2021uvl.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://www.nature.com/articles/s41586-021-03480-9"><div class="linkexternal">Journal</div></a> &nbsp; <a href="https://senseable.mit.edu/wanderlust/"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="schlapfer2021uvl"><pre><code>@article{schlapfer2021uvl,
   title={The universal visitation law of human mobility},
   author={Schl{\"a}pfer, Markus and Dong, Lei and O'Keefee, Kevin and Santi, Paolo and Szell, Michael and Salat, Hadrien and Anklesaria, Samuel and Vazifeh, Mohammad and Ratti, Carlo and West, Geoffrey B.},
