@@ -89,7 +89,7 @@ $featuredarea = <<<EOD
     Welcome! I am associate professor at <a href="https://en.itu.dk">ITU Copenhagen</a>, <a href="https://nerds.itu.dk/">NERDS</a>. My research focuses on mobility, sustainable transport, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="http://michael.szell.net/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
-        <div class='updateinfo'>last update 2021-06-06</div>
+        <div class='updateinfo'>last update 2021-06-07</div>
     </div></a>
     			</div>
 
@@ -127,11 +127,11 @@ $featuredarea = <<<EOD
 
     <h2>Recent papers</h2>
 
+    <p>ICWSM 2021: <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18047">Multilayer Graph Association Rules for Link Prediction</a></p>
+
     <p>Nature: <a href="https://www.nature.com/articles/s41586-021-03480-9">The universal visitation law of human mobility</a></p>
 
     <p>Royal Society Open Science: <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130">Data-driven strategies for optimal bicycle network growth</a></p>
-
-    <p>Transport Findings: <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks">Extracting the multimodal fingerprint of urban transportation networks</a></p>
 
     <p><a href="../publications/">&rarr; See all papers</a></p>
 

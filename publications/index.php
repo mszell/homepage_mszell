@@ -45,8 +45,8 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 }</code></pre></div></li>
 
     <li class="publi pub-journal">M. Coscia, M. Szell<br /><b>Multilayer Graph Association Rules for Link Prediction</b><br />
-      15th Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 129-139 (2021)<br />
-    <a href="#" onclick="toggle('coscia2021mga');return false;" id="info-coscia2021mga"><div class="filebib">Bib</div></a> &nbsp; <a href="https://arxiv.org/abs/2008.08351"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="coscia2021mga"><pre><code>@article{coscia2021mga,
+      Proceedings of the International AAAI Conference on Web and Social Media 15(1), 129-139 (2021)<br />
+    <a href="#" onclick="toggle('coscia2021mga');return false;" id="info-coscia2021mga"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/coscia2021mga.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18047"><div class="linkexternal">Proceedings</div></a> &nbsp; <a href="https://arxiv.org/abs/2008.08351"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="coscia2021mga"><pre><code>@inproceedings{coscia2021mga,
   title={Multilayer Graph Association Rules for Link Prediction},
   author={Coscia, Michele and Szell, Michael},
   journal={Proceedings of the International AAAI Conference on Web and Social Media},
