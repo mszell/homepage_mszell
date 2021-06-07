@@ -142,7 +142,7 @@ $featuredarea = <<<EOD
 
       <p>MIT News: <a href="https://news.mit.edu/2021/travel-pattern-global-0526">Study reveals a universal travel pattern across four continents</a></p>
 
-      <p>Der Spiegel: <a href="https://www.spiegel.de/wissenschaft/mensch/wie-sich-mit-handydaten-bewegungsstroeme-in-staedten-vorhersagen-lassen-a-1fd86fa8-711d-475d-8ef8-49ec05b38c55">Das Universalgesetz der Straße</a></p>
+      <p>ITU Copenhagen: <a href="https://en.itu.dk/about-itu/press/news-from-itu/2021/meet-the-itu-researcher-paving-the-way-for-a-better-bicycle-infrastructure-in-cities">Meet the ITU researcher paving the way for a better bicycle infrastructure in cities</a></p>
 
       <p><a href="../media/">&rarr; See all media coverage</a></p>
 
@@ -153,7 +153,7 @@ EOD;
 $footer = <<<EOD
 <div id="footer">
   <p>
-  http://michael.szell.net &nbsp;|&nbsp; Last update 2021-05-29 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
+  http://michael.szell.net &nbsp;|&nbsp; Last update 2021-06-07 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
   Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
   </p>
 </div>
