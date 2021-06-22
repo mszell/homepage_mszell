@@ -38,7 +38,7 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
   <ul>
     <li class="publi pub-preprint">M. Klanjčić, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Identifying urban features for vulnerable road user safety in Europe</b><br />
     <a href="#" onclick="toggle('klanjcic2021iuf');return false;" id="info-klanjcic2021iuf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/klanjcic2021iuf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/89cyu/"><div class="linkexternal">SocArXiv</div></a><div class="info-expansion" id="klanjcic2021iuf"><pre><code>@article{klanjcic2021iuf,
-  title={Identifying urban features for vulnerable road user safety in Europe},
+  title={Identifying urban features for vulnerable road user safety in {E}urope},
   author={Klanj\v{c}i{\'c}, Marina and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
   journal={SocArXiv:89cyu},
   year={2021}
