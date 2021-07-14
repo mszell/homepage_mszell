@@ -25,7 +25,7 @@ echo $featuredarea;
 
 <h3>My coauthorship network</h3>
 <div id="collabnet"><script src="http://michael.szell.net/publications/collabnet.js" type="text/javascript"></script></div>
-<p>Last update 2021-05-26</br>
+<p>Last update 2021-07-07</br>
 Node color: Most recent date of publication with me</br>
 Node size: Duration of collaboration with me</br>
 Link weight: Number of co-publications<br/>
@@ -36,6 +36,15 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 
 <h3>2021</h3>
   <ul>
+
+    <li class="publi pub-preprint">M. Szell, S. Mimar, T. Perlman, G. Ghoshal, R. Sinatra<br /><b>Growing Urban Bicycle Networks</b><br />
+    <a href="#" onclick="toggle('szell2021gub');return false;" id="info-szell2021gub"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2021gub.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2021gub_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2107.02185"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/mszell/bikenwgrowth"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://zenodo.org/record/5083049"><div class="linkexternal">Data</div></a> &nbsp; <a href="http://growbike.net"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="szell2021gub"><pre><code>@article{szell2021gub,
+  title={Growing urban bicycle networks},
+  author = {Szell, Michael and Mimar, Sayat and Perlman, Tyler and Ghoshal, Gourab and Sinatra, Roberta}
+  journal = {arXiv preprint arXiv:2107.02185},
+  year = {2021}
+}</code></pre></div></li>
+
     <li class="publi pub-preprint">M. Klanjčić, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Identifying urban features for vulnerable road user safety in Europe</b><br />
     <a href="#" onclick="toggle('klanjcic2021iuf');return false;" id="info-klanjcic2021iuf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/klanjcic2021iuf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/89cyu/"><div class="linkexternal">SocArXiv</div></a><div class="info-expansion" id="klanjcic2021iuf"><pre><code>@article{klanjcic2021iuf,
   title={Identifying urban features for vulnerable road user safety in {E}urope},
@@ -65,7 +74,7 @@ Nature 593(7860), 522-527 (2021)<br />
   journal={Nature},
   year={2021},
   volume = {593},
-  number = {7860}
+  number = {7860},
   pages = {522--527},
   doi = {10.1038/s41586-021-03480-9}
 }</code></pre></div></li>
@@ -459,8 +468,6 @@ Nature 593(7860), 522-527 (2021)<br />
   pages = {313--329},
   doi = {10.1016/j.socnet.2010.06.001}
 }</code></pre></div></li>
-
-		<li class="publi pub-other">M. Szell, G. Petri, K. Zhao, D. Levin<br /><b>Human mobility in an online world</b><br />Final report, Santa Fe Institute summer school (2010)<br /><a href="../downloads/szell2010hmo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="http://tuvalu.santafe.edu/events/workshops/index.php/CSSS_2010_Santa_Fe-Final_Papers#Human_Mobility_in_an_Online_World"><div class="linkexternal">Summer school</div></a></li>
 
 		<li class="publi pub-journal">M. Szell, R. Lambiotte, S. Thurner<br /><b>Multirelational organization of large-scale social networks in an online world</b><br />Proceedings of the National Academy of Sciences 107(31), 13636-13641 (2010)<br />
     <a href="#" onclick="toggle('szell2010mol');return false;" id="info-szell2010mol"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2010mol.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2010mol_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="http://www.pnas.org/content/107/31/13636"><div class="linkexternal">Journal</div></a> &nbsp; <a href="http://arxiv.org/abs/1003.5137"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="szell2010mol"><pre><code>@article{szell2010mol,

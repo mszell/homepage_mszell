@@ -17,7 +17,7 @@ echo $featuredarea;
 			<div class="main-with-sidebar">
 
 <h3>PhD supervision, PostDoc, internships</h3>
-<p>Currently I am unable to offer additional PhD or PostDoc opportunities. Any such opportunities are announced on our group webpage: <a href="https://nerds.itu.dk/">nerds.itu.dk</a></p>
+<p>Any PhD or PostDoc opportunities are announced on our group webpage: <a href="https://nerds.itu.dk/">nerds.itu.dk</a></p>
 
 <p>I am generally open to welcome self-funded research visitors if the topic of collaboration makes sense - for such inquiries please contact me via email.</p>
 
@@ -44,12 +44,13 @@ Last update 2020-11-23.</p>
 <h4>Current semester</h4>
 	</br>
 	<table>
-		<tr><td class='std col1 date'>2021-06-27<br />2021-02-01</td><td class='std' width='130'>Instructor (30%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=590">First Year Project (BSFIYEP1KU)</a></br>ECTS Credits: 15.0</td></tr>
+		<tr><td class='std col1 date'>2022-01-31<br />2021-08-23</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=734">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 	</table>
 
 <h4>Past</h4>
 	</br>
 	<table>
+		<tr><td class='std col1 date'>2021-06-27<br />2021-02-01</td><td class='std' width='130'>Instructor (30%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=590">First Year Project (BSFIYEP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>2021-01-31<br />2020-08-24</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=522">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>2020-04-21</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=373">Reflections on Data Science (BSREDAS1KU)</a></td></tr>
 		<tr><td class='std col1 date'>2020-01-31<br />2019-08-26</td><td class='std' width='130'>Instructor (70%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=371">Technical Communication (BSTECOM1KU)</a></br>ECTS Credits: 7.5</td></tr>

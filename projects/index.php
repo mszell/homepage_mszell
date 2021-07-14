@@ -18,6 +18,14 @@ echo $featuredarea;
 
 <p>If you are a student looking for student projects, go to <a href='../teaching/'> Teaching</a>.</p>
 
+<h3>GrowBike.Net</h3>
+    <table>
+		<tr><td class='std col1 date'>2021-07</td><td class='std' style='text-align: center;'><a href="http://growbike.net"><img src="../images/logogrowbikenet.png" width="58" height="58" alt="GrowBike.Net" class="logo"></a></td><td class='std'><p>An interactive visualization platform growing cohesive urban bicycle networks - something that every modern city should have. Studying these synthetic networks informs us about the geometric limitations of urban bicycle network growth and can lead to better designed bicycle infrastructure in cities.</p>
+		<p>GrowBike.Net accompanies the scientific paper "<a href="https://arxiv.org/abs/2107.02185">Growing Urban Bicycle Networks</a>".</p>
+			<a href="http://growbike.net"><div class='linkexternal'>GrowBike.Net</div></a>
+		</td></tr>
+	</table>
+
 <h3>Taxonomy of Urban Bicycle Network Approaches</h3>
     <table>
 		<tr><td class='std col1 date'>2021-01</td><td class='std' style='text-align: center;'><a href="https://github.com/mszell/taxonomybikenw"><img src="../images/logobikenwapproaches.png" width="58" height="58" alt="Taxonomy of Urban Bicycle Network Approaches" class="logo"></a></td><td class='std'><p>This visualization identifies the most distinct environments for cycling arriving from different approaches of urban planning.</p>
