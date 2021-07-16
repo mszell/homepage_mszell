@@ -16,22 +16,64 @@ echo $featuredarea;
 
 			<div class="main-with-sidebar">
 
+<h3>BA or MSc supervision</h3>
+<p>Please go to: <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a></p>
+
+
 <h3>PhD supervision, PostDoc, internships</h3>
 <p>Any PhD or PostDoc opportunities are announced on our group webpage: <a href="https://nerds.itu.dk/">nerds.itu.dk</a></p>
 
 <p>I am generally open to welcome self-funded research visitors if the topic of collaboration makes sense - for such inquiries please contact me via email.</p>
 
 
+<h3>Supervised students and theses</h3>
+<ul>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2021<br /></td><td class='std'>MSc, Anastassia Vybornova<br /><b>Identifying and classifying gaps in the bicycle network of Copenhagen</b>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2020-2021<br /><a href="../downloads/koldingandersen2021div.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Cecilia Laura Kolding Andersen and Morten Lynghede<br /><b>Developing an Interactive Visualization of Bicycle Network Growth</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2021<br /></td><td class='std'>BA, Edi Begovic and Høgni Ziska Maree Jacobsen<br /><b>Quantifying cyclist behavior at intersections using automated video analysis</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2019-2021<br /><a href="../downloads/klanjcic2021iuf.pdf"><div class="filepdf">Paper</div></a></td><td class='std'>Lagrange Scholar, Marina Klanjčić<br /><b>Identifying urban features for vulnerable road user safety in Europe</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2018-2021<br /></td><td class='std'>PhD, Luis Guillermo Natera Orozco<br /><b>Multilayer network analysis of sustainable, multimodal urban transport networks</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2020<br /></td><td class='std'>MSc, Albert-Hose Llebaria Holda<br /><b>Sustainable roof mapping from satellite image inventory</b>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2020<br /></td><td class='std'>BA, Martin Bedsted Villandsen<br /><b>The impact of data visualizations for decision making in a scale-up business</b>
+	</table>
+	</li>
+</ul>
+
 <h3>Office hours</h3>
-a.k.a. Student drop-in hours: Thursdays 11:00-12:00, during COVID-19 by appointment.
+a.k.a. Student drop-in hours: TBD, or by appointment.
 
 
 <h3>Project ideas</h3>
-<p>Below are some ideas for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Contact me via email to get started. Feel free to propose your own ideas. Have a look at this helpful <a href="https://www.itu.dk/people/sestoft/itu/thesis-checklist.html">checklist</a> too.</br>
-Last update 2020-11-23.</p>
+<p>Below are some ideas for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please ue the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
 
 <h4>Current semester</h4>
-<p>No current open project ideas, but feel free to get inspired by the old ones below.</p>
+<p>No current open project ideas, but feel free to get inspired by the old ones below and the completed theses above.</p>
 
 <h4>Previous semesters</h4>
 </br>

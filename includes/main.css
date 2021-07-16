@@ -136,6 +136,11 @@ li
 .talk-contributed {
   background-image: url(../images/talk_contributed.png);
   }
+.supervision {
+  background-position:left top;
+  padding: 0px 0px 0px 24px;
+  background-image: none;
+}
 
 /* Compact definition lists */
 dl.compact dt {
@@ -169,6 +174,10 @@ td.std {
 
 td.col1 {
   padding: 0px 0px 16px 0px;
+  }
+
+td.wfix {
+  width: 90px;
   }
 
 /* Container */
