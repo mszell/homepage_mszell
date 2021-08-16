@@ -70,16 +70,19 @@ a.k.a. Student drop-in hours: TBD, or by appointment.
 
 
 <h3>Project ideas</h3>
-<p>Below are some ideas for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please ue the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
+<p>Below are some ideas for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please use the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
 
 <h4>Current semester</h4>
-<p>No current open project ideas, but feel free to get inspired by the old ones below and the completed theses above.</p>
+</br>
+<img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"></br></br>
+<img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"></br></br>
+<img src="../images/teachingproject2021_3.png" width="580" alt="Project 3"></br></br>
 
 <h4>Previous semesters</h4>
 </br>
-<img src="../images/teachingproject01.png" width="580" alt="Project 1"></br></br>
-<img src="../images/teachingproject02.png" width="580" alt="Project 2"></br></br>
-<img src="../images/teachingproject03.png" width="580" alt="Project 3"></br></br>
+<img src="../images/teachingproject2020_1.png" width="580" alt="Project 1"></br></br>
+<img src="../images/teachingproject2020_2.png" width="580" alt="Project 2"></br></br>
+<img src="../images/teachingproject2020_3.png" width="580" alt="Project 3"></br></br>
 
 
 <h3>Teaching activities</h3>
