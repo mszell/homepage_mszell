@@ -93,9 +93,19 @@ echo $featuredarea;
 
 <h3>Talks</h3>
 	<ul>
+	<li class='talk talk-contributed'>
+	<table>
+	<tr><td class='std col1 date'>2021-10-28<br /></td><td class='std'>Growing cohesive urban bicycle networks<br /><a href="https://urbansys2021.ifisc.uib-csic.es/">UrbanSys 2021</a> at CCS 2021<br/>Lyon, France (remotely)</td></tr>
+	</table>
+	</li>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2021-10-27<br /></td><td class='std'>Making cities better with human-centric urban data science<br /><a href="https://urbcompsys.github.io/">Urban Complex Systems</a> at CCS 2021<br/>Lyon, France (remotely)</td></tr>
+	</table>
+	</li>
+	<li class='talk talk-contributed'>
+	<table>
+	<tr><td class='std col1 date'>2021-10-15<br />2021-10-13<br /></td><td class='std'>The geometric limits of growing urban bicycle networks<br /><a href="https://cyclingresearchboard.com/2021/">5th Annual Meeting of the Cycling Research Board, CRBAM21</a><br/>Copenhagen, Denmark</td></tr>
 	</table>
 	</li>
 	<li class='talk talk-invited'>
@@ -112,6 +122,11 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2020-09-23<br /><a href="../downloads/talk_szell2020hud.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Human-centric Urban Data Science with OpenStreetMap<br /><a href="https://www.media.mit.edu/groups/human-dynamics/overview/">MIT Media Lab</a><br/>Cambridge, US (remotely)</td></tr>
 	</table>
 	</li>
+	</ul>
+	
+	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all talks &darr;</a>
+	<div class="expansion" id="talks">
+	<ul>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2019-10-17<br />2019-10-15<br /><a href="../downloads/talk_szell2019rwu.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Revealing wasted urban space with crowd-sourced data<br /><a href="https://www.efc.be/event-post/funders-forum-on-sustainable-cities-annual-meeting-innovation-technology-big-data-and-its-impact-on-cities/">EFC Funders Forum on Sustainable Cities</a><br/>Turin, Italy</td></tr>
@@ -122,11 +137,6 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2019-07-19<br />2019-07-13<br /><a href="../downloads/talk_szell2019tcp.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Taking census of Physics and of the Nobel Prize<br /><a href="https://secs19.liparischool.it/">Complex networks workshop</a><br/>Lipari, Italy</td></tr>
 	</table>
 	</li>
-	</ul>
-	
-	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all talks &darr;</a>
-	<div class="expansion" id="talks">
-	<ul>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2019-05-23<br /><a href="../downloads/talk_szell2019uwm.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Understanding wasted mobility space with crowdsourced urban data<br /><a href="https://twitter.com/databeers_cph">DataBeers Copenhagen</a><br/>Copenhagen, Denmark</td></tr>
