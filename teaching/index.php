@@ -40,7 +40,7 @@ echo $featuredarea;
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2021<br /></td><td class='std'>BA, Edi Begovic and Høgni Ziska Maree Jacobsen<br /><b>Quantifying cyclist behavior at intersections using automated video analysis</b></td></tr>
+	<tr><td class='std col1 date wfix'>2021<br /><a href="../downloads/begovic2021qcb.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>BA, Edi Begovic and Høgni Ziska Maree Jacobsen<br /><b>Quantifying cyclist behavior at intersections using automated video analysis</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>

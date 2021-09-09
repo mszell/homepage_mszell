@@ -28,6 +28,7 @@ echo $featuredarea;
 	<a href="#" onclick="toggle('organization');return false;" id="info-organization">&darr; Toggle all activities &darr;</a>
 	<div class="expansion" id="organization">
 	<table>
+		<tr><td class='std col1 date'>2021-12-02<br />2021-11-30</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://www.complexnetworks.org/">Complex Networks 2021</a><br />Madrid, Spain</td></tr>
 		<tr><td class='std col1 date'>2021-10-28<br />2021-10-27</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://sites.google.com/view/mimode2021/">The 2nd workshop on Migration and Mobility Research in the Digital Era (MIMODE 2021)</a><br />Lyon, France</td></tr>
 		<tr><td class='std col1 date'>2021-10-29<br />2021-10-25</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://ccs2021.univ-lyon1.fr/">CCS 2021</a><br />Lyon, France</td></tr>
 		<tr><td class='std col1 date'>2021-07-31<br />2021-07-27</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://2021.ic2s2.org/">IC2S2 2021</a><br />Zurich, Switzerland</td></tr>
