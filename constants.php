@@ -89,7 +89,7 @@ $featuredarea = <<<EOD
     Welcome! I am associate professor at <a href="https://en.itu.dk">ITU Copenhagen</a>, <a href="https://nerds.itu.dk/">NERDS</a>. My research focuses on mobility, sustainable transport, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="http://michael.szell.net/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
-        <div class='updateinfo'>last update 2021-08-31</div>
+        <div class='updateinfo'>last update 2021-09-17</div>
     </div></a>
     			</div>
 
@@ -138,13 +138,13 @@ $featuredarea = <<<EOD
 <hr>
 
     <h2>Recent media coverage</h2>
+      <p>Scientific American: <a href="https://www.scientificamerican.com/article/simple-mathematical-law-predicts-movement-in-cities-around-the-world/">Simple Mathematical Law Predicts Movement in Cities around the World</a></p>
+
       <p>Le Monde: <a href="https://www.lemonde.fr/sciences/article/2021/06/22/une-loi-universelle-regit-la-frequentation-des-villes_6085142_1650684.html">Une loi universelle régit la fréquentation des villes</a></p>
 
       <p>Frankfurter Allgemeine Zeitung: <a href="https://www.faz.net/aktuell/wissen/mobilitaetsforschung-die-vorhersagbarkeit-menschlicher-bewegungsmuster-17367914.html">Die Vorhersagbarkeit menschlicher Bewegungsmuster</a></p>
 
       <p>MIT News: <a href="https://news.mit.edu/2021/travel-pattern-global-0526">Study reveals a universal travel pattern across four continents</a></p>
-
-      <p>ITU Copenhagen: <a href="https://en.itu.dk/about-itu/press/news-from-itu/2021/meet-the-itu-researcher-paving-the-way-for-a-better-bicycle-infrastructure-in-cities">Meet the ITU researcher paving the way for a better bicycle infrastructure in cities</a></p>
 
       <p><a href="../media/">&rarr; See all media coverage</a></p>
 
@@ -155,7 +155,7 @@ EOD;
 $footer = <<<EOD
 <div id="footer">
   <p>
-  http://michael.szell.net &nbsp;|&nbsp; Last update 2021-09-09 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
+  http://michael.szell.net &nbsp;|&nbsp; Last update 2021-09-17 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
   Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
   </p>
 </div>
