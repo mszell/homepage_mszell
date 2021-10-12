@@ -43,8 +43,8 @@ echo $featuredarea;
 
 <h3>What the Street!?</h3>
     <table>
-		<tr><td class='std col1 date'>2017-06</td><td class='std' style='text-align: center;'><a href="http://whatthestreet.moovellab.com/"><img src="../images/logowhatthestreet.png" width="58" height="58" alt="What the Street!?" class="logo"></a></td><td class='std'><p>An online platform for the interactive exploration of city-wide mobility spaces. The aim of What the Street!? is to facilitate the intuitive exploration of (wasted) mobility space in cities, exploring to which extent space is distributed unevenly between different modes of transportation, and how, in future scenarios of wide-spread shared and autonomous vehicles, massive areas of parking spaces could be regained for the public. What the Street?! was added to <a href="https://futurium.de/">Futurium</a>'s permanent exhibition in 2019.</a></p>
-			<a href="http://whatthestreet.moovellab.com/"><div class='linkexternal'>What the Street!?</div></a>
+		<tr><td class='std col1 date'>2017-06</td><td class='std' style='text-align: center;'><a href="https://whatthestreet.com/"><img src="../images/logowhatthestreet.png" width="58" height="58" alt="What the Street!?" class="logo"></a></td><td class='std'><p>An online platform for the interactive exploration of city-wide mobility spaces. The aim of What the Street!? is to facilitate the intuitive exploration of (wasted) mobility space in cities, exploring to which extent space is distributed unevenly between different modes of transportation, and how massive areas of car parking could be regained for the public. What the Street?! was added to <a href="https://futurium.de/">Futurium</a>'s permanent exhibition in 2019.</a></p>
+			<a href="https://whatthestreet.com/"><div class='linkexternal'>What the Street!?</div></a>
 
 		</br></br>Awards: <a href="https://www.cityvis.io/competition.php?year=2018">City Vis 2018</a>
 

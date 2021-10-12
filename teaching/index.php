@@ -30,7 +30,7 @@ echo $featuredarea;
 <ul>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2021<br /></td><td class='std'>MSc, Anastassia Vybornova<br /><b>Identifying and classifying gaps in the bicycle network of Copenhagen</b>
+	<tr><td class='std col1 date wfix'>2021<br /><a href="../downloads/vybornova2021icg.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Anastassia Vybornova<br /><b>Identifying and classifying gaps in the bicycle network of Copenhagen</b>
 	</table>
 	</li>
 	<li class='supervision'>
@@ -66,7 +66,7 @@ echo $featuredarea;
 </ul>
 
 <h3>Office hours</h3>
-a.k.a. Student drop-in hours: TBD, or by appointment.
+a.k.a. Student drop-in hours: Tue 11-12, or by appointment.
 
 
 <h3>Project ideas</h3>
