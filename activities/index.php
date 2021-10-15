@@ -107,7 +107,7 @@ echo $featuredarea;
 	</li>
 	<li class='talk talk-contributed'>
 	<table>
-	<tr><td class='std col1 date'>2021-10-15<br />2021-10-13<br /></td><td class='std'>The geometric limits of growing urban bicycle networks<br /><a href="https://cyclingresearchboard.com/2021/">5th Annual Meeting of the Cycling Research Board, CRBAM21</a><br/>Copenhagen, Denmark</td></tr>
+	<tr><td class='std col1 date'>2021-10-15<br />2021-10-13<br /><a href="../downloads/talk_szell2021glg.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>The geometric limits of growing urban bicycle networks<br /><a href="https://cyclingresearchboard.com/2021/">5th Annual Meeting of the Cycling Research Board, CRBAM21</a><br/>Copenhagen, Denmark</td></tr>
 	</table>
 	</li>
 	<li class='talk talk-invited'>
