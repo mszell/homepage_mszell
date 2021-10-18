@@ -105,6 +105,11 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2021-10-27<br /></td><td class='std'>Making cities better with human-centric urban data science<br /><a href="https://urbcompsys.github.io/">Urban Complex Systems</a> at CCS 2021<br/>Lyon, France (remotely)</td></tr>
 	</table>
 	</li>
+	<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2021-10-20<br /></td><td class='std'>Making cities better with human-centric urban data science<br />Seminar at ISI Foundation<br/>Turin, Italy</td></tr>
+	</table>
+	</li>
 	<li class='talk talk-contributed'>
 	<table>
 	<tr><td class='std col1 date'>2021-10-15<br />2021-10-13<br /><a href="../downloads/talk_szell2021glg.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>The geometric limits of growing urban bicycle networks<br /><a href="https://cyclingresearchboard.com/2021/">5th Annual Meeting of the Cycling Research Board, CRBAM21</a><br/>Copenhagen, Denmark</td></tr>
@@ -516,6 +521,7 @@ echo $featuredarea;
 
 <h3>Advanced training &amp; visits</h3>
     <table>
+    	<tr><td class='std col1 date'>2021-10-22<br />2021-10-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
     	<tr><td class='std col1 date'>2019-06-29<br />2019-06-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
     	<tr><td class='std col1 date'>2018-07-06<br />2018-06-18</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
     	<tr><td class='std col1 date'>2017-07-21<br />2017-07-19</td><td class='std'>Academic visit and scientific collaboration at the <a href="https://www.nico.northwestern.edu/">Northwestern Institute on Complex Systems (NICO)</a><br />Evanston, USA</td></tr>
