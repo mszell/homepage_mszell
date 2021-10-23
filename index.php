@@ -18,15 +18,16 @@ echo $featuredarea;
 
 <h3>News</h3>
 <table>
+	<tr><td class='std col1 date'>2021-11-01</td><td class='std'><a href="https://www.isi.it/en/home"><img src="images/logoisi.png" width="64" height="64" alt="ISI Foundation" class="logo"></a></td><td class='std'>New affiliation at <a href="https://www.isi.it/en/home">ISI Foundation</a></td></tr>
 	<tr><td class='std col1 date'>2021-07-07</td><td class='std'><a href="http://growbike.net"><img src="images/logogrowbikenet.png" width="58" height="58" alt="GrowBike.Net" class="logo"></a></td><td class='std'><a href="http://growbike.net">GrowBike.Net</a> released</td></tr>
 	<tr><td class='std col1 date'>2021-06-07</td><td class='std'><a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18047"><img src="images/newsicwsm.png" width="64" height="64" alt="ICWSM 2021" class="logo"></a></td><td class='std'>Paper published in <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18047">ICWSM 2021</a> on Multilayer Graph Association Rules for Link Prediction.</td></tr>
 	<tr><td class='std col1 date'>2021-05-26</td><td class='std'><a href="https://www.nature.com/articles/s41586-021-03480-9"><img src="images/newsnature.png" width="64" height="64" alt="Nature" class="logo"></a></td><td class='std'>Paper published in <a href="https://www.nature.com/articles/s41586-021-03480-9">Nature</a> on The universal visitation law of human mobility. See also the <a href="https://senseable.mit.edu/wanderlust/">project page</a>.</td></tr>
-	<tr><td class='std col1 date'>2021-01-06</td><td class='std'><a href="https://github.com/mszell/taxonomybikenw"><img src="images/logobikenwapproaches.png" width="58" height="58" alt="Taxonomy of Urban Bicycle Network Approaches" class="logo"></a></td><td class='std'><a href="https://github.com/mszell/taxonomybikenw">Taxonomy of Urban Bicycle Network Approaches</a> released</td></tr>
 </table>
 
 	<a href="#" onclick="toggle('news');return false;" id="info-news">&darr; Toggle all news &darr;</a>
 	<div class="expansion" id="news">
 <table>
+	<tr><td class='std col1 date'>2021-01-06</td><td class='std'><a href="https://github.com/mszell/taxonomybikenw"><img src="images/logobikenwapproaches.png" width="58" height="58" alt="Taxonomy of Urban Bicycle Network Approaches" class="logo"></a></td><td class='std'><a href="https://github.com/mszell/taxonomybikenw">Taxonomy of Urban Bicycle Network Approaches</a> released</td></tr>
 	<tr><td class='std col1 date'>2020-12-16</td><td class='std'><a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130"><img src="images/newsroyalsociety.png" width="64" height="64" alt="Royal Society Open Science" class="logo"></a></td><td class='std'>Paper published in <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130">Royal Society Open Science</a> on Data-driven strategies for optimal bicycle network growth</td></tr>
 	<tr><td class='std col1 date'>2020-10-01</td><td class='std'><a href="https://nerds.itu.dk/2020/10/01/promotions-promotions-promotions/"><img src="images/logoitu.png" width="64" height="64" alt="IT University of Copenhagen" class="logo"></a></td><td class='std'>Promotion to associate professor at <a href="https://en.itu.dk/">ITU Copenhagen</td></tr>
 	<tr><td class='std col1 date'>2020-06-10</td><td class='std'><a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks"><img src="images/newstransportfindings.jpg" width="64" height="51" alt="Transport Findings paper" class="logo"></a></td><td class='std'>Paper published in <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks">Transport Findings</a> on multiplex transport networks</td></tr>
@@ -53,7 +54,7 @@ echo $featuredarea;
 
 <h3>Bio</h3>
 <p>
-Michael Szell is associate professor in Data Science at IT University of Copenhagen, and external faculty at the Complexity Science Hub Vienna. His research quantifies the patterns behind interlinked human behavior and human-built structures, especially in cities, through mining large-scale data sets. He follows an anti-disciplinary approach using methods from data science and network science. Michael's current focus is on sustainable urban mobility and data visualization. He has also developed several interactive data visualization platforms and the award-winning massive multiplayer online game "Pardus".
+Michael Szell is associate professor in Data Science at IT University of Copenhagen, researcher at ISI Foundation, and external faculty at the Complexity Science Hub Vienna. His research quantifies the patterns behind interlinked human behavior and human-built structures, especially in cities, through mining large-scale data sets. He follows an anti-disciplinary approach using methods from data science and network science. Michael's current focus is on sustainable urban mobility and data visualization. He has also developed several interactive data visualization platforms and the award-winning massive multiplayer online game "Pardus".
 </p>
 
 
@@ -108,6 +109,7 @@ Michael Szell is associate professor in Data Science at IT University of Copenha
 <h3>Current positions</h3>
 <table>
 	<tr><td class='std col1 date'>since<br />2020 / 10</td></td><td class='std' style='text-align: center;'><a href="https://en.itu.dk/"><img src="images/logoitu.png" width="58" height="58" alt="IT University of Copenhagen" class="logo"></a></td><td class='std'>Associate professor, <a href="https://en.itu.dk/research/departments/computer-science-department">Computer Science Department</a>, <a href="https://en.itu.dk/">IT University of Copenhagen</a></td></tr>
+	<tr><td class='std col1 date'>since<br />2021 /11</td></td><td class='std' style='text-align: center;'><a href="https://www.isi.it/en/home"><img src="images/logoisi.png" width="58" height="58" alt="ISI Foundation" class="logo"></a></td><td class='std'>Researcher, <a href="https://www.isi.it/en/home">ISI Foundation</a></td></tr>
 	<tr><td class='std col1 date'>since<br />2017 / 04</td></td><td class='std' style='text-align: center;'><a href="http://csh.ac.at/"><img src="images/logocsh.png" width="58" height="58" alt="Complexity Science Hub Vienna" class="logo"></a></td><td class='std'>External faculty, <a href="http://csh.ac.at/">Complexity Science Hub Vienna</a></td></tr>
 	<tr><td class='std col1 date'>since<br />2006 / 09</td><td></td><td class='std'>Founder and manager of Bayer &amp; Szell OG</td></tr>
 	<tr><td class='std col1 date'>since<br />2004 / 07</td><td class='std' style='text-align: center;'><a href="http://www.pardus.at/"><img src="images/logopardus.png" width="58" height="58" alt="Pardus" class="logo"></a></td><td class='std'>Developer and administrator of the Massive Multiplayer Online Game <a href="http://www.pardus.at/">Pardus</a></td></tr>
