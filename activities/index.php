@@ -102,7 +102,7 @@ echo $featuredarea;
 	</li>
 	<li class='talk talk-invited'>
 	<table>
-	<tr><td class='std col1 date'>2021-10-27<br /></td><td class='std'>Making cities better with human-centric urban data science<br /><a href="https://urbcompsys.github.io/">Urban Complex Systems</a> at CCS 2021<br/>Lyon, France (remotely)</td></tr>
+	<tr><td class='std col1 date'>2021-10-27<br /><a href="../downloads/talk_szell2021mcb.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Making cities better with human-centric urban data science<br /><a href="https://urbcompsys.github.io/">Urban Complex Systems</a> at CCS 2021<br/>Lyon, France (remotely)</td></tr>
 	</table>
 	</li>
 	<li class='talk talk-invited'>
