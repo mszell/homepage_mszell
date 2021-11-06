@@ -25,7 +25,7 @@ echo $featuredarea;
 
 <h3>My coauthorship network</h3>
 <div id="collabnet"><script src="http://michael.szell.net/publications/collabnet.js" type="text/javascript"></script></div>
-<p>Last update 2021-07-07</br>
+<p>Last update 2021-11-06</br>
 Node color: Most recent date of publication with me</br>
 Node size: Duration of collaboration with me</br>
 Link weight: Number of co-publications<br/>
@@ -36,11 +36,17 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 
 <h3>2021</h3>
   <ul>
-
+    <li class="publi pub-preprint">L.G. Natera Orozco, L. Alessandretti, M. Saberi, M. Szell, F. Battiston<br /><b>Multimodal urban mobility and multilayer transport networks</b><br />
+    <a href="#" onclick="toggle('nateraorozco2021mum');return false;" id="info-nateraorozco2021mum"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2021mum.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2111.02152"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="nateraorozco2021mum"><pre><code>@article{nateraorozco2021mum,
+  title={Multimodal urban mobility and multilayer transport networks},
+  author = {Natera Orozco, Luis Guillermo and Alessandretti, Laura and Saberi, Meead and Szell, Michael and Battiston, Federico},
+  journal = {arXiv preprint arXiv:2111.02152},
+  year = {2021}
+}</code></pre></div></li>
     <li class="publi pub-preprint">M. Szell, S. Mimar, T. Perlman, G. Ghoshal, R. Sinatra<br /><b>Growing Urban Bicycle Networks</b><br />
     <a href="#" onclick="toggle('szell2021gub');return false;" id="info-szell2021gub"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2021gub.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2021gub_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2107.02185"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/mszell/bikenwgrowth"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://zenodo.org/record/5083049"><div class="linkexternal">Data</div></a> &nbsp; <a href="http://growbike.net"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="szell2021gub"><pre><code>@article{szell2021gub,
   title={Growing urban bicycle networks},
-  author = {Szell, Michael and Mimar, Sayat and Perlman, Tyler and Ghoshal, Gourab and Sinatra, Roberta}
+  author = {Szell, Michael and Mimar, Sayat and Perlman, Tyler and Ghoshal, Gourab and Sinatra, Roberta},
   journal = {arXiv preprint arXiv:2107.02185},
   year = {2021}
 }</code></pre></div></li>

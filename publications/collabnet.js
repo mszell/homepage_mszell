@@ -4,8 +4,8 @@ var width = 600,
 
 var force = d3.layout.force()
     .charge(-1300)
-    .linkStrength( function(edge, i) { if (edge.typ == 0) {return (edge.value+0.5)/4.5;} else {return edge.value+0.5;} } )
-    .linkDistance( function(edge, i) { if (edge.typ == 0) {return 16-Math.sqrt(edge.value)/2;} else {return 15+210/Math.sqrt(edge.value+0.5);} } )
+    .linkStrength( function(edge, i) { if (edge.typ == 0) {return (edge.value+0.5)/4.5;} else {return edge.value+0.8;} } )
+    .linkDistance( function(edge, i) { if (edge.typ == 0) {return 16-Math.sqrt(edge.value)/2;} else {return 15+210/Math.sqrt(edge.value+0.8);} } )
     .gravity(0.1)
     .size([width, height]);
 
@@ -13,7 +13,7 @@ var svg = d3.select("#collabnet").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-d3.json("mszellcollabnet20210707.json", function(error, graph) {
+d3.json("mszellcollabnet20211106.json", function(error, graph) {
   var nodeMap = {};
     graph.nodes.forEach(function(x) { nodeMap[x.name] = x; });
     graph.links = graph.links.map(function(x) {
