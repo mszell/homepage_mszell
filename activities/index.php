@@ -511,7 +511,7 @@ echo $featuredarea;
 <h4>Data science, computer science, mathematics</h4>
 <p>EPJ Data Science, Frontiers, Games, ACM Transactions on Knowledge Discovery from Data, IEEE Transactions on Knowledge and Data Engineering, Economics Bulletin</p>
 <h4>Transportation, GIS, sustainability</h4>
-<p>Nature Sustainability, Transportation, IEEE Transactions on Intelligent Transportation Systems, International Journal of Sustainable Transportation, Sustainability, Transportation Research Part B, International Journal of Geographical Information Science, GeoInformatica</p>
+<p>Nature Sustainability, Transportation, IEEE Transactions on Intelligent Transportation Systems, Environment and Planning B, International Journal of Sustainable Transportation, Sustainability, Transportation Research Part B, International Journal of Geographical Information Science, GeoInformatica</p>
 <h4>Physics</h4>
 <p>Physical Review Letters, Physical Review E, New Journal of Physics, Europhysics Letters, Journal of Statistical Mechanics, Condensed Matter Physics</p>
 <h4>Publishers, national and international agencies</h4>
