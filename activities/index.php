@@ -95,6 +95,16 @@ echo $featuredarea;
 
 <h3>Talks</h3>
 	<ul>
+		<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2021-12-08<br /></td><td class='std'>Finding the missing links in the Copenhagen bike network<br />Copenhagen Municipality<br/>Copenhagen, Denmark</td></tr>
+	</table>
+	</li>
+	<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2021-12-06<br /><a href="../downloads/talk_szell2021ndc.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Netværksanalyse af den danske cykelinfrastruktur<br /><a href="https://supercykelstier.dk/">Supercykelstier</a> Frokostmøde<br/>Copenhagen, Denmark</td></tr>
+	</table>
+	</li>
 	<li class='talk talk-contributed'>
 	<table>
 	<tr><td class='std col1 date'>2021-10-28<br /></td><td class='std'>Growing cohesive urban bicycle networks<br /><a href="https://urbansys2021.ifisc.uib-csic.es/">UrbanSys 2021</a> at CCS 2021<br/>Lyon, France (remotely)</td></tr>
