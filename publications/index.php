@@ -25,7 +25,7 @@ echo $featuredarea;
 
 <h3>My coauthorship network</h3>
 <div id="collabnet"><script src="http://michael.szell.net/publications/collabnet.js" type="text/javascript"></script></div>
-<p>Last update 2021-11-06</br>
+<p>Last update 2022-01-11</br>
 Node color: Most recent date of publication with me</br>
 Node size: Duration of collaboration with me</br>
 Link weight: Number of co-publications<br/>
@@ -33,6 +33,17 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 <br/>
 
 <p>Download bib file of all my publications: <a href="../downloads/szell.bib">szell.bib</a></p>
+
+<h3>2022</h3>
+  <ul>
+    <li class="publi pub-preprint">A. Vybornova, T. Cunha, A. Gühnemann, M. Szell<br /><b>Automated Detection of Missing Links in Developed Bicycle Networks</b><br />
+    <a href="#" onclick="toggle('vybornova2022adm');return false;" id="info-vybornova2022adm"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2022adm.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2201.03402"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="vybornova2022adm"><pre><code>@article{vybornova2022adm,
+  title={Automated Detection of Missing Links in Developed Bicycle Networks},
+  author = {Vybornova, Anastassia and Cunha, Tiago and G{\"u}hnemann, Astrid and Szell, Michael},
+  journal = {arXiv preprint arXiv:2201.03402},
+  year = {2022}
+}</code></pre></div></li>
+  </ul>
 
 <h3>2021</h3>
   <ul>
