@@ -37,7 +37,7 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 <h3>2022</h3>
   <ul>
     <li class="publi pub-preprint">A. Vybornova, T. Cunha, A. Gühnemann, M. Szell<br /><b>Automated Detection of Missing Links in Developed Bicycle Networks</b><br />
-    <a href="#" onclick="toggle('vybornova2022adm');return false;" id="info-vybornova2022adm"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2022adm.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2201.03402"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="vybornova2022adm"><pre><code>@article{vybornova2022adm,
+    <a href="#" onclick="toggle('vybornova2022adm');return false;" id="info-vybornova2022adm"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2022adm.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2201.03402"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bikenwgaps"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://fixbike.net"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="vybornova2022adm"><pre><code>@article{vybornova2022adm,
   title={Automated Detection of Missing Links in Developed Bicycle Networks},
   author = {Vybornova, Anastassia and Cunha, Tiago and G{\"u}hnemann, Astrid and Szell, Michael},
   journal = {arXiv preprint arXiv:2201.03402},
