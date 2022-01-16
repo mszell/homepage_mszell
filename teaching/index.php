@@ -50,7 +50,7 @@ echo $featuredarea;
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2018-2021<br /></td><td class='std'>PhD, Luis Guillermo Natera Orozco<br /><b>Multilayer network analysis of sustainable, multimodal urban transport networks</b></td></tr>
+	<tr><td class='std col1 date wfix'>2018-2021<br /><a href="https://github.com/nateraluis/PhD-thesis/blob/main/natera-orozco_luis-guillermo.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>PhD, Luis Guillermo Natera Orozco<br /><b>Multilayer network analysis of sustainable, multimodal urban transport networks</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
