@@ -139,13 +139,13 @@ $featuredarea = <<<EOD
 <hr>
 
     <h2>Recent media coverage</h2>
+      <p>Science ORF.at: <a href="https://science.orf.at/stories/3211308/">Wie soziale Stabilität entsteht</a></p>
+
       <p>Scientific American: <a href="https://www.scientificamerican.com/article/simple-mathematical-law-predicts-movement-in-cities-around-the-world/">Simple Mathematical Law Predicts Movement in Cities around the World</a></p>
 
       <p>Le Monde: <a href="https://www.lemonde.fr/sciences/article/2021/06/22/une-loi-universelle-regit-la-frequentation-des-villes_6085142_1650684.html">Une loi universelle régit la fréquentation des villes</a></p>
 
       <p>Frankfurter Allgemeine Zeitung: <a href="https://www.faz.net/aktuell/wissen/mobilitaetsforschung-die-vorhersagbarkeit-menschlicher-bewegungsmuster-17367914.html">Die Vorhersagbarkeit menschlicher Bewegungsmuster</a></p>
-
-      <p>MIT News: <a href="https://news.mit.edu/2021/travel-pattern-global-0526">Study reveals a universal travel pattern across four continents</a></p>
 
       <p><a href="../media/">&rarr; See all media coverage</a></p>
 
@@ -156,7 +156,7 @@ EOD;
 $footer = <<<EOD
 <div id="footer">
   <p>
-  http://michael.szell.net &nbsp;|&nbsp; Last update 2022-01-16 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
+  http://michael.szell.net &nbsp;|&nbsp; Last update 2022-02-05 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
   Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
   </p>
 </div>
