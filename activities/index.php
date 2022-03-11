@@ -95,7 +95,17 @@ echo $featuredarea;
 
 <h3>Talks</h3>
 	<ul>
-		<li class='talk talk-invited'>
+	<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2022-03-11<br />2022-03-09<br /><a href="../downloads/recording_szell2022thu.mp4"><div class="linkexternal">Recording</div></a><br /><a href="../downloads/talk_szell2022thu.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Towards a human-centric urban data science<br /><a href="https://www.pks.mpg.de/phymo22">Physics and Collective Dynamics of Future Mobility</a><br/>Dresden, Germany (remotely)</td></tr>
+	</table>
+	</li>
+	<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2022-03-03<br /><a href="../downloads/talk_szell2022ndc.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Netværksanalyse af den danske cykelinfrastruktur<br />General Assembly of the Cycling Embassy of Denmark<br/>Copenhagen, Denmark</td></tr>
+	</table>
+	</li>
+	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2021-12-08<br /></td><td class='std'>Finding the missing links in the Copenhagen bike network<br />Copenhagen Municipality<br/>Copenhagen, Denmark</td></tr>
 	</table>
