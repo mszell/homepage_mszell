@@ -36,11 +36,18 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 
 <h3>2022</h3>
   <ul>
-    <li class="publi pub-preprint">A. Vybornova, T. Cunha, A. Gühnemann, M. Szell<br /><b>Automated Detection of Missing Links in Developed Bicycle Networks</b><br />
+    <li class="publi pub-preprint">A. Battiston, L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell, R. Schifanella<br /><b>Revealing the determinants of gender inequality in urban cycling with large-scale data</b><br />
+    <a href="#" onclick="toggle('battiston2022rdg');return false;" id="info-battiston2022rdg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2022rdg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.09378"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/alibatti/GenderCyclingGapUsingStrava"><div class="linkexternal">Code</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-arxiv-id='2203.09378' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="battiston2022rdg"><pre><code>@article{vybornova2022adm,
+  title={Revealing the determinants of gender inequality in urban cycling with large-scale data},
+  author = {Battison, Alice and Napoli, Ludovico and Bajardi, Paolo and Panisson, Andr{\'e} and Perotti, Alan and Szell, Michael and Schifanella, Rossano},
+  journal = {arXiv preprint arXiv:2203.09378},
+  year = {2022}
+}</code></pre></div></li>
+    <li class="publi pub-journal">A. Vybornova, T. Cunha, A. Gühnemann, M. Szell<br /><b>Automated Detection of Missing Links in Bicycle Networks</b><br />Geographical Analysis (2022, in print)<br />
     <a href="#" onclick="toggle('vybornova2022adm');return false;" id="info-vybornova2022adm"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2022adm.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2201.03402"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bikenwgaps"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://fixbike.net"><div class="linkexternal">Project page</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-arxiv-id='2201.03402' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="vybornova2022adm"><pre><code>@article{vybornova2022adm,
-  title={Automated Detection of Missing Links in Developed Bicycle Networks},
+  title={Automated Detection of Missing Links in Bicycle Networks},
   author = {Vybornova, Anastassia and Cunha, Tiago and G{\"u}hnemann, Astrid and Szell, Michael},
-  journal = {arXiv preprint arXiv:2201.03402},
+  journal = {Geographical Analysis},
   year = {2022}
 }</code></pre></div></li>
   </ul>
