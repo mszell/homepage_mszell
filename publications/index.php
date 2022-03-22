@@ -25,7 +25,7 @@ echo $featuredarea;
 
 <h3>My coauthorship network</h3>
 <div id="collabnet"><script src="http://michael.szell.net/publications/collabnet.js" type="text/javascript"></script></div>
-<p>Last update 2022-01-11</br>
+<p>Last update 2022-03-20</br>
 Node color: Most recent date of publication with me</br>
 Node size: Duration of collaboration with me</br>
 Link weight: Number of co-publications<br/>
@@ -43,12 +43,23 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
   journal = {arXiv preprint arXiv:2203.09378},
   year = {2022}
 }</code></pre></div></li>
-    <li class="publi pub-journal">A. Vybornova, T. Cunha, A. Gühnemann, M. Szell<br /><b>Automated Detection of Missing Links in Bicycle Networks</b><br />Geographical Analysis (2022, in print)<br />
+
+  <li class="publi pub-journal">M. Klanjčić, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Identifying urban features for vulnerable road user safety in Europe</b><br />EPJ Data Science (2022, in print)<br />
+    <a href="#" onclick="toggle('klanjcic2021iuf');return false;" id="info-klanjcic2021iuf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/klanjcic2021iuf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/89cyu/"><div class="linkexternal">SocArXiv</div></a> &nbsp; <a href="https://github.com/klnmrn/urbanroadsafety"><div class="linkexternal">Code</div></a><div class="info-expansion" id="klanjcic2021iuf"><pre><code>@article{klanjcic2021iuf,
+  title={Identifying urban features for vulnerable road user safety in {E}urope},
+  author={Klanj\v{c}i{\'c}, Marina and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
+  journal={EPJ Data Science},
+  year={2022}
+}</code></pre></div></li>
+
+    <li class="publi pub-journal">A. Vybornova, T. Cunha, A. Gühnemann, M. Szell<br /><b>Automated Detection of Missing Links in Bicycle Networks</b><br />Geographical Analysis 0, 1-29 (2022)<br />
     <a href="#" onclick="toggle('vybornova2022adm');return false;" id="info-vybornova2022adm"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2022adm.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2201.03402"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bikenwgaps"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://fixbike.net"><div class="linkexternal">Project page</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-arxiv-id='2201.03402' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="vybornova2022adm"><pre><code>@article{vybornova2022adm,
   title={Automated Detection of Missing Links in Bicycle Networks},
   author = {Vybornova, Anastassia and Cunha, Tiago and G{\"u}hnemann, Astrid and Szell, Michael},
   journal = {Geographical Analysis},
-  year = {2022}
+  year = {2022},
+  volume = {0},
+  pages = {1--29}
 }</code></pre></div></li>
   </ul>
 
@@ -67,14 +78,6 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
   author = {Szell, Michael and Mimar, Sayat and Perlman, Tyler and Ghoshal, Gourab and Sinatra, Roberta},
   journal = {arXiv preprint arXiv:2107.02185},
   year = {2021}
-}</code></pre></div></li>
-
-    <li class="publi pub-preprint">M. Klanjčić, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Identifying urban features for vulnerable road user safety in Europe</b><br />
-    <a href="#" onclick="toggle('klanjcic2021iuf');return false;" id="info-klanjcic2021iuf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/klanjcic2021iuf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/89cyu/"><div class="linkexternal">SocArXiv</div></a><div class="info-expansion" id="klanjcic2021iuf"><pre><code>@article{klanjcic2021iuf,
-  title={Identifying urban features for vulnerable road user safety in {E}urope},
-  author={Klanj\v{c}i{\'c}, Marina and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
-  journal={SocArXiv:89cyu},
-  year={2021}
 }</code></pre></div></li>
 
     <li class="publi pub-journal">M. Coscia, M. Szell<br /><b>Multilayer Graph Association Rules for Link Prediction</b><br />

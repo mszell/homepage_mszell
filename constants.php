@@ -128,11 +128,11 @@ $featuredarea = <<<EOD
 
     <h2>Recent papers</h2>
 
+    <p>Geographical Analysis: <a href="https://doi.org/10.1111/gean.12324">Automated Detection of Missing Links in Bicycle Networks</a></p>
+
     <p>ICWSM 2021: <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18047">Multilayer Graph Association Rules for Link Prediction</a></p>
 
     <p>Nature: <a href="https://www.nature.com/articles/s41586-021-03480-9">The universal visitation law of human mobility</a></p>
-
-    <p>Royal Society Open Science: <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130">Data-driven strategies for optimal bicycle network growth</a></p>
 
     <p><a href="../publications/">&rarr; See all papers</a></p>
 
@@ -156,7 +156,7 @@ EOD;
 $footer = <<<EOD
 <div id="footer">
   <p>
-  http://michael.szell.net &nbsp;|&nbsp; Last update 2022-03-18 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
+  http://michael.szell.net &nbsp;|&nbsp; Last update 2022-03-22 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
   Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
   </p>
 </div>
