@@ -32,7 +32,11 @@ Link weight: Number of co-publications<br/>
 Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 <br/>
 
-<p>Download bib file of all my publications: <a href="../downloads/szell.bib">szell.bib</a></p>
+<p>
+Download bib file of all my publications: <a href="../downloads/szell.bib">szell.bib</a></br>
+Download a list of all my publications: <a href="../downloads/publicationlist_szell.pdf"><span class="filepdf">Publicationlist</span></a>
+</p>
+
 
 <h3>2022</h3>
   <ul>
@@ -53,7 +57,7 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 }</code></pre></div></li>
 
     <li class="publi pub-journal">A. Vybornova, T. Cunha, A. Gühnemann, M. Szell<br /><b>Automated Detection of Missing Links in Bicycle Networks</b><br />Geographical Analysis 0, 1-29 (2022)<br />
-    <a href="#" onclick="toggle('vybornova2022adm');return false;" id="info-vybornova2022adm"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2022adm.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2201.03402"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bikenwgaps"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://fixbike.net"><div class="linkexternal">Project page</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-arxiv-id='2201.03402' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="vybornova2022adm"><pre><code>@article{vybornova2022adm,
+    <a href="#" onclick="toggle('vybornova2022adm');return false;" id="info-vybornova2022adm"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2022adm.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/vybornova2022adm_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2201.03402"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bikenwgaps"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://fixbike.net"><div class="linkexternal">Project page</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-arxiv-id='2201.03402' data-doi='10.1111/gean.12324' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="vybornova2022adm"><pre><code>@article{vybornova2022adm,
   title={Automated Detection of Missing Links in Bicycle Networks},
   author = {Vybornova, Anastassia and Cunha, Tiago and G{\"u}hnemann, Astrid and Szell, Michael},
   journal = {Geographical Analysis},

@@ -1,11 +1,12 @@
 var width = 600,
     height = 600,
     curyear = new Date().getFullYear();
+    squeezeby = 0.95
 
 var force = d3.layout.force()
     .charge(-1300)
-    .linkStrength( function(edge, i) { if (edge.typ == 0) {return (edge.value+0.5)/4.5;} else {return edge.value+0.8;} } )
-    .linkDistance( function(edge, i) { if (edge.typ == 0) {return 16-Math.sqrt(edge.value)/2;} else {return 15+210/Math.sqrt(edge.value+0.8);} } )
+    .linkStrength( function(edge, i) { if (edge.typ == 0) {return (edge.value+1)/5;} else {return edge.value+1;} } )
+    .linkDistance( function(edge, i) { if (edge.typ == 0) {return 16-Math.sqrt(edge.value)/2;} else {return (15+210/Math.sqrt(edge.value+1))/squeezeby;} } )
     .gravity(0.1)
     .size([width, height]);
 

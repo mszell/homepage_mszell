@@ -115,6 +115,11 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2021-12-06<br /><a href="../downloads/talk_szell2021ndc.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Netværksanalyse af den danske cykelinfrastruktur<br /><a href="https://supercykelstier.dk/">Supercykelstier</a> Frokostmøde<br/>Copenhagen, Denmark</td></tr>
 	</table>
 	</li>
+	</ul>
+	
+	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all talks &darr;</a>
+	<div class="expansion" id="talks">
+	<ul>
 	<li class='talk talk-contributed'>
 	<table>
 	<tr><td class='std col1 date'>2021-10-28<br /></td><td class='std'>Growing cohesive urban bicycle networks<br /><a href="https://urbansys2021.ifisc.uib-csic.es/">UrbanSys 2021</a> at CCS 2021<br/>Lyon, France (remotely)</td></tr>
@@ -149,11 +154,6 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2020-09-23<br /><a href="../downloads/talk_szell2020hud.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Human-centric Urban Data Science with OpenStreetMap<br /><a href="https://www.media.mit.edu/groups/human-dynamics/overview/">MIT Media Lab</a><br/>Cambridge, US (remotely)</td></tr>
 	</table>
 	</li>
-	</ul>
-	
-	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all talks &darr;</a>
-	<div class="expansion" id="talks">
-	<ul>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2019-10-17<br />2019-10-15<br /><a href="../downloads/talk_szell2019rwu.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Revealing wasted urban space with crowd-sourced data<br /><a href="https://www.efc.be/event-post/funders-forum-on-sustainable-cities-annual-meeting-innovation-technology-big-data-and-its-impact-on-cities/">EFC Funders Forum on Sustainable Cities</a><br/>Turin, Italy</td></tr>
@@ -529,7 +529,7 @@ echo $featuredarea;
 <h4>Interdisciplinary, network science</h4>
 <p>Nature, Nature Communications, PNAS, Science Advances, Social Networks, Scientific Reports, Scientific Data, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Network Science, Applied Network Science, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, PLOS Biology</p>
 <h4>Data science, computer science, mathematics</h4>
-<p>EPJ Data Science, Frontiers, Games, ACM Transactions on Knowledge Discovery from Data, IEEE Transactions on Knowledge and Data Engineering, Economics Bulletin</p>
+<p>Nature Computational Science, EPJ Data Science, Frontiers, Games, ACM Transactions on Knowledge Discovery from Data, IEEE Transactions on Knowledge and Data Engineering, Economics Bulletin</p>
 <h4>Transportation, GIS, sustainability</h4>
 <p>Nature Sustainability, Transportation, IEEE Transactions on Intelligent Transportation Systems, Environment and Planning B, International Journal of Sustainable Transportation, Sustainability, Transportation Research Part B, International Journal of Geographical Information Science, GeoInformatica</p>
 <h4>Physics</h4>
@@ -541,6 +541,7 @@ echo $featuredarea;
 
 <h3>Advanced training &amp; visits</h3>
     <table>
+    	<tr><td class='std col1 date'>2022-06-16<br />2022-05-16</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
     	<tr><td class='std col1 date'>2021-10-22<br />2021-10-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
     	<tr><td class='std col1 date'>2019-06-29<br />2019-06-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
     	<tr><td class='std col1 date'>2018-07-06<br />2018-06-18</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
