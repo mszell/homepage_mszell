@@ -90,7 +90,7 @@ $featuredarea = <<<EOD
     Welcome! I am associate professor at <a href="https://en.itu.dk">ITU Copenhagen</a>, <a href="https://nerds.itu.dk/">NERDS</a>. My research focuses on mobility, sustainable transport, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="http://michael.szell.net/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
-        <div class='updateinfo'>last update 2022-03-27</div>
+        <div class='updateinfo'>last update 2022-03-29</div>
     </div></a>
     			</div>
 
@@ -139,13 +139,13 @@ $featuredarea = <<<EOD
 <hr>
 
     <h2>Recent media coverage</h2>
+      <p>ITU Copenhagen: <a href="https://en.itu.dk/About-ITU/Press/News-from-ITU/2022/Bicycle-networks-uk">New research may help improve Copenhagen’s bicycle infrastructure</a></p>
+
       <p>Science ORF.at: <a href="https://science.orf.at/stories/3211308/">Wie soziale Stabilität entsteht</a></p>
 
       <p>Cyklister: <a href="https://www.cyklistforbundet.dk/aktuelt/magasinet-cyklister/">BRUD I NETVÆRK sender cyklister ud til bilerne i København</a></p>
 
       <p>Scientific American: <a href="https://www.scientificamerican.com/article/simple-mathematical-law-predicts-movement-in-cities-around-the-world/">Simple Mathematical Law Predicts Movement in Cities around the World</a></p>
-
-      <p>Le Monde: <a href="https://www.lemonde.fr/sciences/article/2021/06/22/une-loi-universelle-regit-la-frequentation-des-villes_6085142_1650684.html">Une loi universelle régit la fréquentation des villes</a></p>
 
       <p><a href="../media/">&rarr; See all media coverage</a></p>
 

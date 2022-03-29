@@ -25,7 +25,7 @@ echo $featuredarea;
 
 <h3>My coauthorship network</h3>
 <div id="collabnet"><script src="http://michael.szell.net/publications/collabnet.js" type="text/javascript"></script></div>
-<p>Last update 2022-03-20</br>
+<p>Last update 2022-03-29</br>
 Node color: Most recent date of publication with me</br>
 Node size: Duration of collaboration with me</br>
 Link weight: Number of co-publications<br/>
@@ -40,6 +40,13 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
 
 <h3>2022</h3>
   <ul>
+    <li class="publi pub-preprint">P. Folco, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Data-driven bicycle network planning for demand and safety</b><br />
+    <a href="#" onclick="toggle('folco2022dbn');return false;" id="info-folco2022dbn"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/folco2022dbn.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.14619"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/pietrofolco/Data-driven_bicycle_network_planning_for_demand_and_safety"><div class="linkexternal">Code</div></a><div class="info-expansion" id="folco2022dbn"><pre><code>@article{folco2022dbn,
+  title={Data-driven bicycle network planning for demand and safety},
+  author={Folco, Pietro and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
+  journal={arXiv preprint arXiv:2203.14619},
+  year={2022}
+}</code></pre></div></li>
     <li class="publi pub-preprint">A. Battiston, L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell, R. Schifanella<br /><b>Revealing the determinants of gender inequality in urban cycling with large-scale data</b><br />
     <a href="#" onclick="toggle('battiston2022rdg');return false;" id="info-battiston2022rdg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2022rdg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.09378"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/alibatti/GenderCyclingGapUsingStrava"><div class="linkexternal">Code</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-arxiv-id='2203.09378' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="battiston2022rdg"><pre><code>@article{vybornova2022adm,
   title={Revealing the determinants of gender inequality in urban cycling with large-scale data},

@@ -85,12 +85,12 @@ Michael Szell is associate professor in Data Science at IT University of Copenha
 <h3>Data visualization highlights</h3>
 <table width="619px">
 <tr>
-	<td><a href='https://whatthestreet.com/'><img src='images/datavizwts.png' width='300' title='2017-06: What the Street!?' alt='2017-06: What the Street!?'></a></td>
+	<td><a href='http://growbike.net'><img src='images/datavizgrowbikenet.jpg' width='300' height='188' title='2021-07: GrowBike.Net' alt='2021-07: GrowBike.Net'></a></td>
 	<td><a href='https://github.com/mszell/taxonomybikenw'><img src='images/datavizbikenwapproaches.png' width='300' height='188' title='2021-01: Taxonomy of Urban Bicycle Network Approaches' alt='2021-01: Taxonomy of Urban Bicycle Network Approaches'></a></td>
 </tr>
 <tr>
+	<td><a href='https://whatthestreet.com/'><img src='images/datavizwts.png' width='300' title='2017-06: What the Street!?' alt='2017-06: What the Street!?'></a></td>
 	<td><a href='http://senseable.mit.edu/tweetbursts/'><img src='images/dataviztweetbursts.png' width='300' height='188' title='2014-02: Tweet Bursts' alt='2014-02: Tweet Bursts'></a></td>
-	<td><a href='http://hubcab.org/'><img src='images/datavizhubcab.png' width='300' height='188' title='2014-03: HubCab' alt='2014-03: HubCab'></a></td>
 </tr>
 </table>
 
