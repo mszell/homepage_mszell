@@ -390,6 +390,7 @@
     {"source":"petri","target":"bajardi","value":1,"yearfirst":2015,"yearlast":2015, "typ":0},
     {"source":"szell","target":"folco","value":1,"yearfirst":2022,"yearlast":2022, "typ":1},
     {"source":"folco","target":"tizzoni","value":1,"yearfirst":2022,"yearlast":2022, "typ":0},
-    {"source":"folco","target":"gauvin","value":1,"yearfirst":2022,"yearlast":2022, "typ":0}
+    {"source":"folco","target":"gauvin","value":1,"yearfirst":2022,"yearlast":2022, "typ":0},
+    {"source":"iniguez","target":"barabasi","value":1,"yearfirst":2022,"yearlast":2022, "typ":0}
   ]
 }

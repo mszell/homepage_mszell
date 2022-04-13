@@ -33,8 +33,8 @@ Link color: Co-publication with me (red) / between my co-authors (grey)</p>
 <br/>
 
 <p>
-Download bib file of all my publications: <a href="../downloads/szell.bib">szell.bib</a></br>
-Download a list of all my publications: <a href="../downloads/publicationlist_szell.pdf"><span class="filepdf">Publicationlist</span></a>
+Download bib file of my publications: <a href="../downloads/szell.bib">szell.bib</a></br>
+Download a list of my publications: <a href="../downloads/publicationlist_szell.pdf"><span class="filepdf">Publicationlist</span></a>
 </p>
 
 
@@ -48,21 +48,28 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   year={2022}
 }</code></pre></div></li>
     <li class="publi pub-preprint">A. Battiston, L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell, R. Schifanella<br /><b>Revealing the determinants of gender inequality in urban cycling with large-scale data</b><br />
-    <a href="#" onclick="toggle('battiston2022rdg');return false;" id="info-battiston2022rdg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2022rdg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.09378"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/alibatti/GenderCyclingGapUsingStrava"><div class="linkexternal">Code</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-arxiv-id='2203.09378' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="battiston2022rdg"><pre><code>@article{vybornova2022adm,
+    <a href="#" onclick="toggle('battiston2022rdg');return false;" id="info-battiston2022rdg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2022rdg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.09378"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/alibatti/GenderCyclingGapUsingStrava"><div class="linkexternal">Code</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-arxiv-id='2203.09378' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="battiston2022rdg"><pre><code>@article{battiston2022rdg,
   title={Revealing the determinants of gender inequality in urban cycling with large-scale data},
   author = {Battison, Alice and Napoli, Ludovico and Bajardi, Paolo and Panisson, Andr{\'e} and Perotti, Alan and Szell, Michael and Schifanella, Rossano},
   journal = {arXiv preprint arXiv:2203.09378},
   year = {2022}
 }</code></pre></div></li>
-
+<li class="publi pub-journal">M. Szell, S. Mimar, T. Perlman, G. Ghoshal, R. Sinatra<br /><b>Growing Urban Bicycle Networks</b><br />Scientific Reports (2022, in print)<br />
+    <a href="#" onclick="toggle('szell2022gub');return false;" id="info-szell2022gub"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2021gub.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2021gub_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2107.02185"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/mszell/bikenwgrowth"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://zenodo.org/record/5083049"><div class="linkexternal">Data</div></a> &nbsp; <a href="http://growbike.net"><div class="linkexternal">Project page</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-arxiv-id='2107.02185' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="szell2022gub"><pre><code>@article{szell2022gub,
+  title = {Growing urban bicycle networks},
+  author = {Szell, Michael and Mimar, Sayat and Perlman, Tyler and Ghoshal, Gourab and Sinatra, Roberta},
+  journal = {Scientific Reports},
+  note = {in print},
+  year = {2022}
+}</code></pre></div></li>
   <li class="publi pub-journal">M. Klanjčić, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Identifying urban features for vulnerable road user safety in Europe</b><br />EPJ Data Science (2022, in print)<br />
     <a href="#" onclick="toggle('klanjcic2021iuf');return false;" id="info-klanjcic2021iuf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/klanjcic2021iuf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/89cyu/"><div class="linkexternal">SocArXiv</div></a> &nbsp; <a href="https://github.com/klnmrn/urbanroadsafety"><div class="linkexternal">Code</div></a><div class="info-expansion" id="klanjcic2021iuf"><pre><code>@article{klanjcic2021iuf,
-  title={Identifying urban features for vulnerable road user safety in {E}urope},
-  author={Klanj\v{c}i{\'c}, Marina and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
-  journal={EPJ Data Science},
-  year={2022}
+  title = {Identifying urban features for vulnerable road user safety in {E}urope},
+  author = {Klanj\v{c}i{\'c}, Marina and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
+  journal = {EPJ Data Science},
+  note = {in print},
+  year = {2022}
 }</code></pre></div></li>
-
     <li class="publi pub-journal">A. Vybornova, T. Cunha, A. Gühnemann, M. Szell<br /><b>Automated Detection of Missing Links in Bicycle Networks</b><br />Geographical Analysis 0, 1-29 (2022)<br />
     <a href="#" onclick="toggle('vybornova2022adm');return false;" id="info-vybornova2022adm"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2022adm.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/vybornova2022adm_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2201.03402"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bikenwgaps"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://fixbike.net"><div class="linkexternal">Project page</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-arxiv-id='2201.03402' data-doi='10.1111/gean.12324' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="vybornova2022adm"><pre><code>@article{vybornova2022adm,
   title={Automated Detection of Missing Links in Bicycle Networks},
@@ -83,14 +90,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   journal = {arXiv preprint arXiv:2111.02152},
   year = {2021}
 }</code></pre></div></li>
-    <li class="publi pub-preprint">M. Szell, S. Mimar, T. Perlman, G. Ghoshal, R. Sinatra<br /><b>Growing Urban Bicycle Networks</b><br />
-    <a href="#" onclick="toggle('szell2021gub');return false;" id="info-szell2021gub"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2021gub.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2021gub_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2107.02185"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/mszell/bikenwgrowth"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://zenodo.org/record/5083049"><div class="linkexternal">Data</div></a> &nbsp; <a href="http://growbike.net"><div class="linkexternal">Project page</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-arxiv-id='2107.02185' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="szell2021gub"><pre><code>@article{szell2021gub,
-  title={Growing urban bicycle networks},
-  author = {Szell, Michael and Mimar, Sayat and Perlman, Tyler and Ghoshal, Gourab and Sinatra, Roberta},
-  journal = {arXiv preprint arXiv:2107.02185},
-  year = {2021}
-}</code></pre></div></li>
-
     <li class="publi pub-journal">M. Coscia, M. Szell<br /><b>Multilayer Graph Association Rules for Link Prediction</b><br />
       Proceedings of the International AAAI Conference on Web and Social Media 15(1), 129-139 (2021)<br />
     <a href="#" onclick="toggle('coscia2021mga');return false;" id="info-coscia2021mga"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/coscia2021mga.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18047"><div class="linkexternal">Proceedings</div></a> &nbsp; <a href="https://arxiv.org/abs/2008.08351"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="coscia2021mga"><pre><code>@inproceedings{coscia2021mga,
@@ -102,7 +101,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   number = {1},
   pages = {129--139}
 }</code></pre></div></li>
-
   <li class="publi pub-journal">M. Schläpfer, L. Dong, K. O'Keeffe, P. Santi, M. Szell,
   H. Salat, S. Anklesaria, M. Vazifeh, C. Ratti, G.B. West<br /><b>The universal visitation law of human mobility</b><br />
   Nature 593(7860), 522-527 (2021)<br />
@@ -121,7 +119,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
 
 <h3>2020</h3>
   <ul>
-
     <li class="publi pub-journal">L.G. Natera Orozco, F. Battiston, G. Iñiguez, M. Szell<br /><b>Data-driven strategies for optimal bicycle network growth</b><br />
     Royal Society Open Science 7:201130 (2020)<br />
     <a href="#" onclick="toggle('nateraorozco2020dso');return false;" id="info-nateraorozco2019dso"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020dso.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130"><div class="linkexternal">Journal</div></a> &nbsp; <a href="https://arxiv.org/abs/1907.07080"><div class="linkexternal">arXiv</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1098/rsos.201130' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="nateraorozco2020dso"><pre><code>@article{nateraorozco2020dso,
@@ -133,7 +130,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   number = {201130},
   doi = {10.1098/rsos.201130}
 }</code></pre></div></li>
-
     <li class="publi pub-journal">L.G. Natera Orozco, F. Battiston, G. Iñiguez, M. Szell<br /><b>Extracting the multimodal fingerprint of urban transportation networks</b><br />Transport Findings 13171 (2020)<br />
     <a href="#" onclick="toggle('nateraorozco2020emf');return false;" id="info-nateraorozco2020emf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020emf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks"><div class="linkexternal">Journal</div></a> &nbsp; <a href="https://arxiv.org/abs/2006.03435"><div class="linkexternal">arXiv</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.32866/001c.13171' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="nateraorozco2020emf"><pre><code>@article{nateraorozco2020emf,
   title={Extracting the multimodal fingerprint of urban transportation networks},
@@ -158,7 +154,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   number = {584},
   doi = {10.3390/ijgi8120584}
 }</code></pre></div></li>
-
     <li class="publi pub-journal">F. Battiston, F. Musciotto, D. Wang, A.-L. Barab&aacute;si, M. Szell, R. Sinatra<br /><b>Taking census of physics</b><br />Nature Reviews Physics 1, 89-97 (2019)<br />
     <a href="#" onclick="toggle('battiston2019tcp');return false;" id="info-battiston2019tcp"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2019tcp.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/battiston2019tcp_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://www.nature.com/articles/s42254-018-0005-3"><div class="linkexternal">Journal</div></a> &nbsp; <a href="https://arxiv.org/abs/1901.02789"><div class="linkexternal">arXiv</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1038/s42254-018-0005-3' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="battiston2019tcp"><pre><code>@article{battiston2019tcp,
   title={Taking census of physics},
@@ -185,7 +180,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {1075--1078},
   doi = {10.1038/s41567-018-0314-6}
 }</code></pre></div></li>
-
     <li class="publi pub-journal">M. Szell<br /><b>Crowdsourced quantification and visualization of urban mobility space inequality</b><br />Urban Planning 3, 1-20 (2018)<br />
     <a href="#" onclick="toggle('szell2018cqv');return false;" id="info-szell2018cqv"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2018cqv.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://www.cogitatiopress.com/urbanplanning/article/view/1209/"><div class="linkexternal">Journal</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/je5r4"><div class="linkexternal">SocArXiv</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.17645/up.v3i1.1209' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="szell2018cqv"><pre><code>@article{szell2018cqv,
   title={Crowdsourced quantification and visualization of urban mobility space inequality},
@@ -212,7 +206,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {46677},
   doi = {10.1038/srep46677}
 }</code></pre></div></li>
-    
     <li class="publi pub-journal">R. Tachet, O. Sagarra, P. Santi, G. Resta, M. Szell, S. Strogatz, C. Ratti<br /><b>Scaling law of urban ride sharing</b><br />Scientific Reports 7, 42868 (2017)<br />
     <a href="#" onclick="toggle('tachet2017slu');return false;" id="info-tachet2017slu"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/tachet2017slu.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/tachet2017slu_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="http://www.nature.com/articles/srep42868"><div class="linkexternal">Journal</div></a> &nbsp; <a href="http://arxiv.org/abs/1610.09921"><div class="linkexternal">arXiv</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1038/srep42868' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="tachet2017slu"><pre><code>@article{tachet2017slu,
   title={Scaling law of urban ride sharing},
@@ -223,7 +216,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {42868},
   doi = {10.1038/srep42868}
 }</code></pre></div></li>
-
     <li class="publi pub-other">Y. Holovatch, O. Mryglod, M. Szell, S. Thurner<br /><b>Analyses of a Virtual World</b><br />In: Maths Meets Myths: Complexity-science approaches to folktales, myths, sagas, and histories (2017), Springer. Eds: R. Kenna, M. MacCarron, P. MacCarron<br />
     <a href="#" onclick="toggle('holovatch2017avw');return false;" id="info-holovatch2017avw"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/holovatch2017avw.pdf"><div class="filepdf">Chapter</div></a> &nbsp; <a href="https://link.springer.com/chapter/10.1007/978-3-319-39445-9_7"><div class="linkexternal">Publisher</div></a> &nbsp; <a href="http://arxiv.org/abs/1602.01388"><div class="linkexternal">arXiv</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1007/978-3-319-39445-9_7' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="holovatch2017avw"><pre><code>@inbook{holovatch2017avw,
   title = {Maths Meets Myths: Complexity-science approaches to folktales, myths, sagas, and histories},
@@ -304,7 +296,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {681--690},
   doi = {10.1016/j.physa.2014.09.056}
 }</code></pre></div></li>
-
 	</ul>
 
 
@@ -321,7 +312,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {E5489--E5489},
   doi = {10.1073/pnas.1421300112}
 }</code></pre></div></li>
-
 		<li class="publi pub-other">M. Szell, B. Groß<br /><b>Hubcab - Exploring the Benefits of Shared Taxi Services</b><br />In: Decoding the City (2014), Berlin, Basel: De Gruyter. Eds: D. Offenhuber, C. Ratti<br /><a href="#" onclick="toggle('szell2014heb');return false;" id="info-szell2014heb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2014heb.pdf"><div class="filepdf">Chapter</div></a> &nbsp; <a href="http://www.degruyter.com/view/books/9783038213925/9783038213925.28/9783038213925.28.xml"><div class="linkexternal">Publisher</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1515/9783038213925.28' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="szell2014heb"><pre><code>@inbook{szell2014heb,
   title = {Decoding the City},
   author = {Szell, Michael and Gro{\ss}, Benedikt},
@@ -332,7 +322,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   year = {2014},
   doi = {10.1515/9783038213925.28}
 }</code></pre></div></li>
-
 		<li class="publi pub-journal">P. Santi, G. Resta, M. Szell, S. Sobolevsky, S. Strogatz, C. Ratti<br /><b>Quantifying the benefits of vehicle pooling with shareability networks</b><br />Proceedings of the National Academy of Sciences 111(37), 13290-13294 (2014)<br />
     <a href="#" onclick="toggle('santi2014qbv');return false;" id="info-santi2014qbv"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/santi2014qbv.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/santi2014qbv_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="http://www.pnas.org/content/111/37/13290"><div class="linkexternal">Journal</div></a> &nbsp; <a href="http://arxiv.org/abs/1310.2963"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="http://www.hubcab.org"><div class="linkexternal">Project page</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1073/pnas.1403657111' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="santi2014qbv"><pre><code>@article{santi2014qbv,
   title = {Quantifying the benefits of vehicle pooling with shareability networks},
@@ -344,7 +333,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {13290--13294},
   doi = {10.1073/pnas.1403657111}
 }</code></pre></div></li>
-
 		<li class="publi pub-other">M. Szell<br /><b>Connecting Paradigms</b><br />Science 343(6174), 970-971 (2014)<br />
     <a href="#" onclick="toggle('szell2014cp');return false;" id="info-szell2014cp"><div class="filebib">Bib</div></a> &nbsp; <a href="http://www.sciencemag.org/cgi/rapidpdf/343/6174/970?ijkey=doMi4KrdCymkw&keytype=ref&siteid=sci"><div class="filepdf">Article</div></a> &nbsp; <a href="http://www.sciencemag.org/cgi/content/full/343/6174/970?ijkey=doMi4KrdCymkw&keytype=ref&siteid=sci"><div class="linkexternal">Journal</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1126/science.1249599' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="szell2014cp"><pre><code>@article{szell2014cp,
   title = {Connecting Paradigms},
@@ -356,7 +344,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {970-971},
   doi = {10.1126/science.1249599}
 }</code></pre></div></li>
-
 		<li class="publi pub-journal">M. Szell, S. Grauwin, C. Ratti<br /><b>Contraction of online response to major events</b><br />PLOS ONE 9(2), e89052, (2014)<br />
     <a href="#" onclick="toggle('szell2014cor');return false;" id="info-szell2014cor"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2014cor.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2014cor_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0089052"><div class="linkexternal">Journal</div></a> &nbsp; <a href="http://arxiv.org/abs/1308.5190"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="http://senseable.mit.edu/tweetbursts/"><div class="linkexternal">Project page</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1371/journal.pone.0089052' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="szell2014cor"><pre><code>@article{szell2014cor,
   title = {Contraction of online response to major events},
@@ -368,7 +355,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {e89052},
   doi = {10.1371/journal.pone.0089052}
 }</code></pre></div></li>
-
 		<li class="publi pub-journal">R. Sinatra, M. Szell<br /><b>Entropy and the Predictability of Online Life</b><br />Entropy 16(1), 543-556 (2014)<br />
     <a href="#" onclick="toggle('sinatra2014epo');return false;" id="info-sinatra2014epo"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/sinatra2014epo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="http://www.mdpi.com/1099-4300/16/1/543"><div class="linkexternal">Journal</div></a> &nbsp; <a href="http://arxiv.org/abs/1312.0169"><div class="linkexternal">arXiv</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.3390/e16010543' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="sinatra2014epo"><pre><code>@article{sinatra2014epo,
   title = {Entropy and the Predictability of Online Life},
@@ -395,7 +381,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {e81707},
   doi = {10.1371/journal.pone.0081707}
 }</code></pre></div></li>
-
 		<li class="publi pub-other">M. Szell, B. Groß<br /><b>Hubcab - Taxi-Fahrgemeinschaften, digital erkundet</b><br />In: Die Stadt entschlüsseln (2013), Bauwelt Fundamente 150, Birkh&auml;user. Eds: D. Offenhuber, C. Ratti<br />
     <a href="#" onclick="toggle('szell2013htf');return false;" id="info-szell2013htf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2013htf.pdf"><div class="filepdf">Chapter</div></a> &nbsp; <a href="http://dx.doi.org/10.1515/9783038210399.29"><div class="linkexternal">Publisher</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1515/9783038210399.29' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="szell2013htf"><pre><code>@inbook{szell2013htf,
   title = {Die Stadt entschl{\"u}sseln},
@@ -408,7 +393,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   year = {2013},
   doi = {10.1515/9783038210399.29}
 }</code></pre></div></li>
-
 		<li class="publi pub-other">S. Thurner, P. Klimek, M. Szell, G. Duftschmid, G. Endel, A. Kautzky-Willer, D. Kasper<br /><b>Reply to Klitz and Niklasson: Can viral infections explain the cross-sectional Austrian diabetes data?</b><br />Proceedings of the National Academy of Sciences 110(30), E2751 (2013)<br />
 	  <a href="#" onclick="toggle('thurner2013rkn');return false;" id="info-thurner2013rkn"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/thurner2013rkn.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="http://dx.doi.org/10.1073/pnas.1305494110"><div class="linkexternal">Journal</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1073/pnas.1305494110' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="thurner2013rkn"><pre><code>@article{thurner2013rkn,
   title = {Reply to Klitz and Niklasson: Can viral infections explain the cross-sectional Austrian diabetes data?},
@@ -420,7 +404,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {E2751--E2751},
   doi = {10.1073/pnas.1305494110}
 }</code></pre></div></li>
-
 	  <li class="publi pub-journal">S. Thurner, P. Klimek, M. Szell, G. Duftschmid, G. Endel, A. Kautzky-Willer, D. Kasper<br /><b>Quantification of excess-risk for diabetes when born in times of hunger, in an entire population of a nation, across a century</b><br />Proceedings of the National Academy of Sciences 110(12), 4703-4707 (2013)<br />
 	  <a href="#" onclick="toggle('thurner2013qer');return false;" id="info-thurner2013qer"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/thurner2013qer.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/thurner2013qer_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="http://dx.doi.org/10.1073/pnas.1215626110"><div class="linkexternal">Journal</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1073/pnas.1215626110' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="thurner2013qer"><pre><code>@article{thurner2013qer,
   title = {Quantification of excess risk for diabetes for those born in times of hunger, in an entire population of a nation, across a century},
@@ -432,7 +415,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {4703--4707},
   doi = {10.1073/pnas.1215626110}
 }</code></pre></div></li>
-
 		<li class="publi pub-journal">M. Szell, S. Thurner<br /><b>How women organize social networks different from men</b><br />Scientific Reports 3, 1214 (2013)<br />
     <a href="#" onclick="toggle('szell2013hwo');return false;" id="info-szell2013hwo"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2013hwo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2013hwo_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="http://www.nature.com/srep/2013/130207/srep01214/full/srep01214.html"><div class="linkexternal">Journal</div></a> &nbsp; <a href="http://arxiv.org/abs/1205.4683"><div class="linkexternal">arXiv</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1038/srep01214' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="szell2013hwo"><pre><code>@article{szell2013hwo,
   title = {How women organize social networks different from men},
@@ -457,7 +439,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {457},
   doi = {10.1038/srep00457}
 }</code></pre></div></li>
-
 		<li class="publi pub-journal">M. Szell, S. Thurner<br /><b>Social dynamics in a large-scale online game</b><br />Advances in Complex Systems 15, 1250064 (2012)<br />
     <a href="#" onclick="toggle('szell2012sdl');return false;" id="info-szell2012sdl"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2012sdl.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="http://www.worldscientific.com/doi/abs/10.1142/S0219525912500646"><div class="linkexternal">Journal</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1142/S0219525912500646' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="szell2012sdl"><pre><code>@article{szell2012sdl,
   title = {Social dynamics in a large-scale online game},
@@ -468,7 +449,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {1250064},
   doi = {10.1142/S0219525912500646}
 }</code></pre></div></li>
-
 		<li class="publi pub-journal">S. Thurner, M. Szell, R. Sinatra<br /><b>Emergence of good conduct, scaling and Zipf laws in human behavioral sequences in an online world</b><br />PLOS ONE 7(1), e29796 (2012)<br />
     <a href="#" onclick="toggle('thurner2012egc');return false;" id="info-thurner2012egc"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/thurner2012egc.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0029796"><div class="linkexternal">Journal</div></a> &nbsp; <a href="http://arxiv.org/abs/1107.0392"><div class="linkexternal">arXiv</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1371/journal.pone.0029796' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="thurner2012egc"><pre><code>@article{thurner2012egc,
   title = {Emergence of Good Conduct, Scaling and Zipf Laws in Human Behavioral Sequences in an Online World},
@@ -507,7 +487,6 @@ Download a list of all my publications: <a href="../downloads/publicationlist_sz
   pages = {313--329},
   doi = {10.1016/j.socnet.2010.06.001}
 }</code></pre></div></li>
-
 		<li class="publi pub-journal">M. Szell, R. Lambiotte, S. Thurner<br /><b>Multirelational organization of large-scale social networks in an online world</b><br />Proceedings of the National Academy of Sciences 107(31), 13636-13641 (2010)<br />
     <a href="#" onclick="toggle('szell2010mol');return false;" id="info-szell2010mol"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2010mol.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2010mol_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="http://www.pnas.org/content/107/31/13636"><div class="linkexternal">Journal</div></a> &nbsp; <a href="http://arxiv.org/abs/1003.5137"><div class="linkexternal">arXiv</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-doi='10.1073/pnas.1004008107' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="szell2010mol"><pre><code>@article{szell2010mol,
   title = {Multirelational organization of large-scale social networks in an online world},
