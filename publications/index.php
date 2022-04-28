@@ -54,13 +54,15 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   journal = {arXiv preprint arXiv:2203.09378},
   year = {2022}
 }</code></pre></div></li>
-    <li class="publi pub-journal">M. Klanjčić, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Identifying urban features for vulnerable road user safety in Europe</b><br />EPJ Data Science (2022, in print)<br />
-    <a href="#" onclick="toggle('klanjcic2021iuf');return false;" id="info-klanjcic2021iuf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/klanjcic2021iuf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/89cyu/"><div class="linkexternal">SocArXiv</div></a> &nbsp; <a href="https://github.com/klnmrn/urbanroadsafety"><div class="linkexternal">Code</div></a><div class="info-expansion" id="klanjcic2021iuf"><pre><code>@article{klanjcic2021iuf,
+    <li class="publi pub-journal">M. Klanjčić, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Identifying urban features for vulnerable road user safety in Europe</b><br /><a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00339-5">EPJ Data Science 11, 27 (2022)</a><br />
+    <a href="#" onclick="toggle('klanjcic2022iuf');return false;" id="info-klanjcic2022iuf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/klanjcic2022iuf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/89cyu/"><div class="linkexternal">SocArXiv</div></a> &nbsp; <a href="https://github.com/klnmrn/urbanroadsafety"><div class="linkexternal">Code</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-arxiv-id='2201.03402' data-doi='10.1140/epjds/s13688-022-00339-5' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="klanjcic2022iuf"><pre><code>@article{klanjcic2022iuf,
   title = {Identifying urban features for vulnerable road user safety in {E}urope},
   author = {Klanj\v{c}i{\'c}, Marina and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
   journal = {EPJ Data Science},
-  note = {in print},
-  year = {2022}
+  year = {2022},
+  volume = {11},
+  number = {27},
+  doi = {10.1140/epjds/s13688-022-00339-5}
 }</code></pre></div></li>
     <li class="publi pub-journal">M. Szell, S. Mimar, T. Perlman, G. Ghoshal, R. Sinatra<br /><b>Growing urban bicycle networks</b><br /><a href="https://www.nature.com/articles/s41598-022-10783-y">Scientific Reports 12, 6765 (2022)</a><br />
     <a href="#" onclick="toggle('szell2022gub');return false;" id="info-szell2022gub"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2022gub.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2022gub_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2107.02185"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/mszell/bikenwgrowth"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://zenodo.org/record/5083049"><div class="linkexternal">Data</div></a> &nbsp; <a href="http://growbike.net"><div class="linkexternal">Project page</div></a> &nbsp;<span style="vertical-align: middle;" data-badge-popover="bottom" data-badge-type="4" data-arxiv-id='2107.02185' data-hide-no-mentions="true" class="altmetric-embed"></span><div class="info-expansion" id="szell2022gub"><pre><code>@article{szell2022gub,
