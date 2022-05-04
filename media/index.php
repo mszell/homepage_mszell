@@ -32,6 +32,8 @@ echo $featuredarea;
 <h3>Media coverage (selection)</h3>
 	<table>
 	    <!--<tr><td class='std col1 date'>2010-07</td><td class='std'>XXXXX</td><td class='std'>YYYYYY<br /><a href="ZZZZZZ"><div class="linkexternal">Online report</div></a></td></tr> -->
+	    <tr><td class='std col1 date'>2022-05-04</td><td class='std'>Science ORF.at</td><td class='std'>Das optimale Radwegnetz<br /><a href="https://science.orf.at/stories/3212926/"><div class="linkexternal">Online report</div></a></td></tr>
+	    <tr><td class='std col1 date'>2022-05-04</td><td class='std'>Vienna.at</td><td class='std'>Aufbau von Radweg-Netzen: "Schlechteste Wachstumsstrategie" auch in Wien<br /><a href="https://www.vienna.at/aufbau-von-radweg-netzen-schlechteste-wachstumsstrategie-auch-in-wien/7409311"><div class="linkexternal">Online report</div></a></td></tr>
 	    <tr><td class='std col1 date'>2022-03-28</td><td class='std'>ITU Copenhagen</td><td class='std'>New research may help improve Copenhagen’s bicycle infrastructure<br /><a href="https://en.itu.dk/About-ITU/Press/News-from-ITU/2022/Bicycle-networks-uk"><div class="linkexternal">Online report</div></a></td></tr>
 	    <tr><td class='std col1 date'>2022-02-04</td><td class='std'>Science ORF.at</td><td class='std'>Wie soziale Stabilität entsteht<br /><a href="https://science.orf.at/stories/3211308/"><div class="linkexternal">Online report</div></a></td></tr>
 	    <tr><td class='std col1 date'>2022-01</td><td class='std'>Cyklister</td><td class='std'>BRUD I NETVÆRK sender cyklister ud til bilerne

@@ -143,13 +143,13 @@ $featuredarea = <<<EOD
 <hr>
 
     <h2>Recent media coverage</h2>
+      <p>Science ORF.at: <a href="https://science.orf.at/stories/3212926/">Das optimale Radwegnetz</a></p>
+
+      <p>Vienna.at: <a href="https://www.vienna.at/aufbau-von-radweg-netzen-schlechteste-wachstumsstrategie-auch-in-wien/7409311">Aufbau von Radweg-Netzen: "Schlechteste Wachstumsstrategie" auch in Wien</a></p>
+
       <p>ITU Copenhagen: <a href="https://en.itu.dk/About-ITU/Press/News-from-ITU/2022/Bicycle-networks-uk">New research may help improve Copenhagen’s bicycle infrastructure</a></p>
 
       <p>Science ORF.at: <a href="https://science.orf.at/stories/3211308/">Wie soziale Stabilität entsteht</a></p>
-
-      <p>Cyklister: <a href="https://www.cyklistforbundet.dk/aktuelt/magasinet-cyklister/">BRUD I NETVÆRK sender cyklister ud til bilerne i København</a></p>
-
-      <p>Scientific American: <a href="https://www.scientificamerican.com/article/simple-mathematical-law-predicts-movement-in-cities-around-the-world/">Simple Mathematical Law Predicts Movement in Cities around the World</a></p>
 
       <p><a href="../media/">&rarr; See all media coverage</a></p>
 
