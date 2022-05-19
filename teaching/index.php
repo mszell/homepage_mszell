@@ -26,6 +26,14 @@ echo $featuredarea;
 <p>I am generally open to welcome self-funded research visitors if the topic of collaboration makes sense - for such inquiries please contact me via email.</p>
 
 
+<h3>Teaching materials</h3>
+<ul>
+	<li><a href="https://github.com/mszell/geospatialdatascience">Geospatial Data Science</a></br>ECTS Credits: 7.5</br>This course provides an introduction into core concepts and applications of data science based approaches to geospatial data analysis.</li>
+	<li><a href="https://github.com/mszell/fyp2021">First Year Project</a></br>ECTS Credits: 3.75</br>This course aims to familiarize students with the pipeline for Data Science projects.</li>
+	<li><a href="https://github.com/mszell/introdatasci">Introduction to Data Science and Programming</a></br>ECTS Credits: 15.0</br>This course is an introduction to programming, data science and related foundations.</li>
+</ul>
+
+
 <h3>Supervised students and theses</h3>
 <ul>
 	<li class='supervision'>
@@ -86,21 +94,17 @@ a.k.a. Student drop-in hours: Tue 11-12, or by appointment.
 
 
 <h3>Teaching activities</h3>
-<h4>Future semesters</h4>
-	</br>
-	<table>
-		<tr><td class='std col1 date'>Spring 2022</td><td class='std' width='130'>Instructor (75%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=940">Geospatial Data Science (KSGEDAS1KU)</a></br>ECTS Credits: 7.5</td></tr>
-	</table>
-
 <h4>Current semester</h4>
 	</br>
 	<table>
-		<tr><td class='std col1 date'>Fall 2021</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=734">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
+		<tr><td class='std col1 date'>Fall 2022</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=967">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 	</table>
 
 <h4>Past semesters</h4>
 	</br>
 	<table>
+		<tr><td class='std col1 date'>Spring 2022</td><td class='std' width='130'>Instructor (75%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=940">Geospatial Data Science (KSGEDAS1KU)</a></br>ECTS Credits: 7.5</td></tr>
+		<tr><td class='std col1 date'>Fall 2021</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=734">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Spring 2021</td><td class='std' width='130'>Instructor (30%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=590">First Year Project (BSFIYEP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Fall 2020</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=522">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Fall 2019</td><td class='std' width='130'>Instructor (70%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=371">Technical Communication (BSTECOM1KU)</a></br>ECTS Credits: 7.5</td></tr>
