@@ -98,6 +98,11 @@ echo $featuredarea;
 	<ul>
 	<li class='talk talk-invited'>
 	<table>
+	<tr><td class='std col1 date'>2022-06-16<br />2022-06-15</td><td class='std'>Establishing a quantitative science of bicycle networks<br /><a href="https://www.turing.ac.uk/events/ua-20-towards-greener-and-sustainable-cities">UA 2.0 – Towards greener and sustainable cities</a><br/>Exeter, UK</td></tr>
+	</table>
+	</li>
+	<li class='talk talk-invited'>
+	<table>
 	<tr><td class='std col1 date'>2022-05-24</td><td class='std'>Cycling research at NERDS<br />ISI workshop<br/>Turin, Italy</td></tr>
 	</table>
 	</li>

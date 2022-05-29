@@ -32,6 +32,7 @@ echo $featuredarea;
 <h3>Media coverage (selection)</h3>
 	<table>
 	    <!--<tr><td class='std col1 date'>2010-07</td><td class='std'>XXXXX</td><td class='std'>YYYYYY<br /><a href="ZZZZZZ"><div class="linkexternal">Online report</div></a></td></tr> -->
+	    <tr><td class='std col1 date'>2022-05-24</td><td class='std'>Kleine Zeitung</td><td class='std'>Stückwerk ist die schlechteste Strategie<br /><a href="https://www.kleinezeitung.at/auto/6134526/Radwegnetze-fuer-Staedte_Stueckwerk-ist-die-schlechteste-Strategie"><div class="linkexternal">Online report</div></a></td></tr>
 	    <tr><td class='std col1 date'>2022-05-13</td><td class='std'>futurezone</td><td class='std'>Wie man mehr Menschen zum Umstieg auf das Fahrrad bewegt<br /><a href="https://futurezone.at/science/menschen-umstieg-fahrrad-radfahren-radverkehr-netz-radwege-infrastruktur/402005559"><div class="linkexternal">Online report</div></a></td></tr>
 	    <tr><td class='std col1 date'>2022-05-04</td><td class='std'>Science ORF.at</td><td class='std'>Das optimale Radwegnetz<br /><a href="https://science.orf.at/stories/3212926/"><div class="linkexternal">Online report</div></a></td></tr>
 	    <tr><td class='std col1 date'>2022-05-04</td><td class='std'>Vienna.at</td><td class='std'>Aufbau von Radweg-Netzen: "Schlechteste Wachstumsstrategie" auch in Wien<br /><a href="https://www.vienna.at/aufbau-von-radweg-netzen-schlechteste-wachstumsstrategie-auch-in-wien/7409311"><div class="linkexternal">Online report</div></a></td></tr>
