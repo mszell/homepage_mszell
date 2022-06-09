@@ -38,6 +38,31 @@ echo $featuredarea;
 <ul>
 	<li class='supervision'>
 	<table>
+	<tr><td class='std col1 date wfix'>2022<br /></td><td class='std'>MSc, Alexander Boye Menzel, Asger Rud Hansen, Magnus Würtz<br /><b>Bicycle Routing in Copenhagen with a High-fidelity Traffic Signal Model</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2022<br /></td><td class='std'>MSc, Dominik Chomicki<br /><b>Developing a data annotation platform for urban traffic analysis</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2022<br /><a href="../downloads/breum2022cda.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>BA, Simon Breum<br /><b>CycleCV - Detect, Analyze and Track Cyclists’ Movements</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2022<br /></td><td class='std'>BA, Mads Høgenhaug, Marcus Friis, Mikkel Petersen<br /><b>Simulating traffic flow in Dybbølsbro intersection - CycleCV</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2021-2022<br /><a href="../downloads/folco2022dbn.pdf"><div class="filepdf">Article</div></a></td><td class='std'>Lagrange Scholar, Pietro Folco<br /><b>Data-driven bicycle network planning for demand and safety</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
 	<tr><td class='std col1 date wfix'>2021<br /><a href="../downloads/vybornova2021icg.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Anastassia Vybornova<br /><b>Identifying and classifying gaps in the bicycle network of Copenhagen</b>
 	</table>
 	</li>
@@ -53,7 +78,7 @@ echo $featuredarea;
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2019-2021<br /><a href="../downloads/klanjcic2021iuf.pdf"><div class="filepdf">Paper</div></a></td><td class='std'>Lagrange Scholar, Marina Klanjčić<br /><b>Identifying urban features for vulnerable road user safety in Europe</b></td></tr>
+	<tr><td class='std col1 date wfix'>2019-2021<br /><a href="../downloads/klanjcic2022iuf.pdf"><div class="filepdf">Article</div></a></td><td class='std'>Lagrange Scholar, Marina Klanjčić<br /><b>Identifying urban features for vulnerable road user safety in Europe</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
