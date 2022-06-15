@@ -28,6 +28,7 @@ echo $featuredarea;
 	<a href="#" onclick="toggle('organization');return false;" id="info-organization">&darr; Toggle all activities &darr;</a>
 	<div class="expansion" id="organization">
 	<table>
+		<tr><td class='std col1 date'>2022-10-20<br />2022-10-19</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.trmlabs.com/complexdatablocks">ComplexDataBlocks</a> satellite of CCS 2022<br />Palma di Mallorca, Spain</td></tr>
 		<tr><td class='std col1 date'>2022-11-04</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.cityvis.io/workshops/2022/">CityVis 2022</a><br />Potsdam, Germany</td></tr>
 		<tr><td class='std col1 date'>2022-06-09<br />2022-06-06</td><td class='std' width='130'>Co-chair dataset track</td><td class='std'><a href="https://icwsm.org/2022/index.html/">ICWSM-22</a><br />Atlanta, USA</td></tr>
 		<tr><td class='std col1 date'>2021-12-02<br />2021-11-30</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://www.complexnetworks.org/">Complex Networks 2021</a><br />Madrid, Spain</td></tr>
@@ -98,7 +99,7 @@ echo $featuredarea;
 	<ul>
 	<li class='talk talk-invited'>
 	<table>
-	<tr><td class='std col1 date'>2022-06-16<br />2022-06-15</td><td class='std'>Establishing a quantitative science of bicycle networks<br /><a href="https://www.turing.ac.uk/events/ua-20-towards-greener-and-sustainable-cities">UA 2.0 – Towards greener and sustainable cities</a><br/>Exeter, UK</td></tr>
+	<tr><td class='std col1 date'>2022-06-16<br />2022-06-15<br /><a href="../downloads/talk_szell2022eqs.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Establishing a quantitative science of bicycle networks<br /><a href="https://www.turing.ac.uk/events/ua-20-towards-greener-and-sustainable-cities">UA 2.0 – Towards greener and sustainable cities</a><br/>Exeter, UK</td></tr>
 	</table>
 	</li>
 	<li class='talk talk-invited'>
