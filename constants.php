@@ -144,13 +144,13 @@ $featuredarea = <<<EOD
 
     <h2>Recent media coverage</h2>
 
+      <p>Forskerforum: <a href="https://www.forskerforum.dk/magasinet/2022/forskerforum-nr-4-2022">DATANØRDER HAR FUNDET KODEN TIL DET GODE FORSKNINGSMILJØ</a></p>
+
       <p>Radio Ö1: <a href="https://oe1.orf.at/player/20220621/682503">Wissen Aktuell - Radwege verbessern durch Netzwerkforschung</a></p>
 
       <p>Radio Ö1: <a href="https://oe1.orf.at/player/20220602/681583/1654189908281">Dimensionen - Planung funktionaler städtischer Radnetze</a></p>
 
       <p>Kleine Zeitung: <a href="https://www.kleinezeitung.at/auto/6134526/Radwegnetze-fuer-Staedte_Stueckwerk-ist-die-schlechteste-Strategie">Stückwerk ist die schlechteste Strategie</a></p>
-
-      <p>futurezone: <a href="https://futurezone.at/science/menschen-umstieg-fahrrad-radfahren-radverkehr-netz-radwege-infrastruktur/402005559">Wie man mehr Menschen zum Umstieg auf das Fahrrad bewegt</a></p>
 
 
       <p><a href="../media/">&rarr; See all media coverage</a></p>
@@ -162,7 +162,7 @@ EOD;
 $footer = <<<EOD
 <div id="footer">
   <p>
-  http://michael.szell.net &nbsp;|&nbsp; Last update 2022-06-21 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
+  http://michael.szell.net &nbsp;|&nbsp; Last update 2022-06-23 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
   Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
   </p>
 </div>
