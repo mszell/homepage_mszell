@@ -38,11 +38,6 @@ echo $featuredarea;
 <ul>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2022<br /></td><td class='std'>MSc, Alexander Boye Menzel, Asger Rud Hansen, Magnus Würtz<br /><b>Bicycle Routing in Copenhagen with a High-fidelity Traffic Signal Model</b></td></tr>
-	</table>
-	</li>
-	<li class='supervision'>
-	<table>
 	<tr><td class='std col1 date wfix'>2022<br /></td><td class='std'>MSc, Dominik Chomicki<br /><b>Developing a data annotation platform for urban traffic analysis</b></td></tr>
 	</table>
 	</li>
