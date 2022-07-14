@@ -90,7 +90,7 @@ $featuredarea = <<<EOD
     Welcome! I am associate professor at <a href="https://en.itu.dk">ITU Copenhagen</a>, <a href="https://nerds.itu.dk/">NERDS</a>. My research focuses on mobility, sustainable transport, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="http://michael.szell.net/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
-        <div class='updateinfo'>last update 2022-04-28</div>
+        <div class='updateinfo'>last update 2022-07-14</div>
     </div></a>
     			</div>
 
@@ -146,12 +146,11 @@ $featuredarea = <<<EOD
 
       <p>Forskerforum: <a href="https://www.forskerforum.dk/magasinet/2022/forskerforum-nr-4-2022">DATANØRDER HAR FUNDET KODEN TIL DET GODE FORSKNINGSMILJØ</a></p>
 
-      <p>Radio Ö1: <a href="https://oe1.orf.at/player/20220621/682503">Wissen Aktuell - Radwege verbessern durch Netzwerkforschung</a></p>
+      <p>Radio Ö1: <a href="../downloads/radio_oe102.mp3">Wissen Aktuell - Radwege verbessern durch Netzwerkforschung</a></p>
 
-      <p>Radio Ö1: <a href="https://oe1.orf.at/player/20220602/681583/1654189908281">Dimensionen - Planung funktionaler städtischer Radnetze</a></p>
+      <p>Prosabladet: <a href="../downloads/article_prosabladet01.pdf">Ny forskning: "Automated Detection of Missing Links in Bicycle Networks</a></p>
 
-      <p>Kleine Zeitung: <a href="https://www.kleinezeitung.at/auto/6134526/Radwegnetze-fuer-Staedte_Stueckwerk-ist-die-schlechteste-Strategie">Stückwerk ist die schlechteste Strategie</a></p>
-
+      <p>Ingeniøren: <a href="https://pro.ing.dk/datatech/artikel/ugens-data-itu-forskergruppe-vinder-prisen-aarets-forskningsmiljoe-2022">Ugens data: ITU-forskergruppe vinder prisen for årets forskningsmiljø 2022</a></p>
 
       <p><a href="../media/">&rarr; See all media coverage</a></p>
 
@@ -162,7 +161,7 @@ EOD;
 $footer = <<<EOD
 <div id="footer">
   <p>
-  http://michael.szell.net &nbsp;|&nbsp; Last update 2022-06-24 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
+  http://michael.szell.net &nbsp;|&nbsp; Last update 2022-07-14 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
   Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
   </p>
 </div>
