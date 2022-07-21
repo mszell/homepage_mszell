@@ -64,6 +64,17 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   journal = {arXiv preprint arXiv:2203.09378},
   year = {2022}
 }</code></pre></div></li>
+    <li class="publi pub-journal">L. Alessandretti, L.G. Natera Orozco, M. Saberi, M. Szell, F. Battiston<br /><b>Multimodal urban mobility and multilayer transport networks</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083221108190">Environment and Planning B 0, 1-33 (2022)</a><br />
+    <a href="#" onclick="toggle('alessandretti2022mum');return false;" id="info-alessandretti2022mum"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/alessandretti2022mum.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2111.02152"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="alessandretti2022mum"><pre><code>@article{alessandretti2022mum,
+  title = {Multimodal urban mobility and multilayer transport networks},
+  author = {Alessandretti, Laura and Natera Orozco, Luis Guillermo and Saberi, Meead and Szell, Michael and Battiston, Federico},
+  journal = {Environment and Planning B: Urban Analytics and City Science},
+  year = {2022},
+  volume = {0},
+  number = {0},
+  pages = {1--33},
+  doi = {10.1177/23998083221108190}
+}</code></pre></div></li>
     <li class="publi pub-journal">M. Klanjčić, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Identifying urban features for vulnerable road user safety in Europe</b><br /><a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00339-5">EPJ Data Science 11, 27 (2022)</a><br />
     <a href="#" onclick="toggle('klanjcic2022iuf');return false;" id="info-klanjcic2022iuf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/klanjcic2022iuf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/89cyu/"><div class="linkexternal">SocArXiv</div></a> &nbsp; <a href="https://github.com/klnmrn/urbanroadsafety"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://blogs.biomedcentral.com/on-physicalsciences/2022/05/06/identifying-urban-features-for-vulnerable-road-user-safety-in-europe/"><div class="linkexternal">Blog post</div></a><div class="info-expansion" id="klanjcic2022iuf"><pre><code>@article{klanjcic2022iuf,
   title = {Identifying urban features for vulnerable road user safety in {E}urope},
@@ -98,13 +109,6 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2021</h3>
   <ul>
-    <li class="publi pub-preprint">L.G. Natera Orozco, L. Alessandretti, M. Saberi, M. Szell, F. Battiston<br /><b>Multimodal urban mobility and multilayer transport networks</b><br />
-    <a href="#" onclick="toggle('nateraorozco2021mum');return false;" id="info-nateraorozco2021mum"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2021mum.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2111.02152"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="nateraorozco2021mum"><pre><code>@article{nateraorozco2021mum,
-  title = {Multimodal urban mobility and multilayer transport networks},
-  author = {Natera Orozco, Luis Guillermo and Alessandretti, Laura and Saberi, Meead and Szell, Michael and Battiston, Federico},
-  journal = {arXiv preprint arXiv:2111.02152},
-  year = {2021}
-}</code></pre></div></li>
     <li class="publi pub-journal">M. Coscia, M. Szell<br /><b>Multilayer Graph Association Rules for Link Prediction</b><br /><a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18047">
       Proceedings of the International AAAI Conference on Web and Social Media 15(1), 129-139 (2021)</a><br />
     <a href="#" onclick="toggle('coscia2021mga');return false;" id="info-coscia2021mga"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/coscia2021mga.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2008.08351"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="coscia2021mga"><pre><code>@inproceedings{coscia2021mga,
