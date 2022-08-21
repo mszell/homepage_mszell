@@ -99,7 +99,7 @@ echo $featuredarea;
 	<ul>
 	<li class='talk talk-invited'>
 	<table>
-	<tr><td class='std col1 date'>2022-06-16<br />2022-06-15<br /><a href="../downloads/talk_szell2022eqs.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Establishing a quantitative science of bicycle networks<br /><a href="https://www.turing.ac.uk/events/ua-20-towards-greener-and-sustainable-cities">UA 2.0 – Towards greener and sustainable cities</a><br/>Exeter, UK</td></tr>
+	<tr><td class='std col1 date'>2022-06-16<br />2022-06-15<br /><a href="https://www.youtube.com/watch?v=yGW2TsV-LDA"><div class="linkexternal">Recording</div></a><br /><a href="../downloads/talk_szell2022eqs.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Establishing a quantitative science of bicycle networks<br /><a href="https://www.turing.ac.uk/events/ua-20-towards-greener-and-sustainable-cities">UA 2.0 – Towards greener and sustainable cities</a><br/>Exeter, UK</td></tr>
 	</table>
 	</li>
 	<li class='talk talk-invited'>

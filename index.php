@@ -56,6 +56,10 @@ echo $featuredarea;
 </table>
 	</div>
 
+<h3>Current research</h3>
+<p>Watch my keynote to learn about my current research:</p>
+<iframe width="619" height="348" src="https://www.youtube-nocookie.com/embed/yGW2TsV-LDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <h3>Bio</h3>
 <p>
