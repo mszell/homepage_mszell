@@ -42,7 +42,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   <li><b><a href="../downloads/article_politiken01.pdf"><div class="filepdf">Er Danmark en cykelnation?</div></a></b>, Politiken (2022)</li>
   <li><b><a href="https://blogs.biomedcentral.com/on-physicalsciences/2022/05/06/identifying-urban-features-for-vulnerable-road-user-safety-in-europe/">Identifying urban features for vulnerable road user safety in Europe</a></b>, BMC Blog Network (2022)</li>
   <li><b><a href="https://www.altinget.dk/transport/artikel/14-forskere-videnscenter-for-cyklisme-skal-vaere-uafhaengigt-og-forskningsbaseret-ikke-hoere-under-vejdirektoratet">14 forskere: Videnscenter for cyklisme skal ikke høre under Vejdirektoratet</a></b>, Altinget (2021)</li>
-  <li><b><a href="https://pro.ing.dk/mobilitytech/holdning/baeredygtige-byer-kraever-maalrettet-investering-i-cykelinfrastruktur">Bæredygtige byer kræver målrettet investering i cykelinfrastruktur</a></b>, Ingeniøren / Mobilitytech</li>
+  <li><b><a href="https://pro.ing.dk/mobilitytech/holdning/baeredygtige-byer-kraever-maalrettet-investering-i-cykelinfrastruktur">Bæredygtige byer kræver målrettet investering i cykelinfrastruktur</a></b>, Ingeniøren / Mobilitytech (2021)</li>
   <li><b><a href="https://finans.dk/debat/ECE13173026/brug-ny-mobilitetslov-til-at-skabe-et-mere-baeredygtigt-byliv/">Brug ny mobilitetslov til at skabe et mere bæredygtigt byliv</a></b>, FINANS (2021)</li>
   <li><b><a href="https://pro.ing.dk/mobilitytech/holdning/cykling-i-byen-smaa-investeringer-i-infrastruktur-binder-din-sammen">Cykling i byen: Små investeringer i infrastruktur binder din by sammen</a></b>, Ingeniøren / Mobilitytech (2021)</li>
 </ul>

@@ -102,15 +102,19 @@ a.k.a. Student drop-in hours: Tue 11-12, or by appointment.
 
 <h4>Current semester</h4>
 </br>
-<img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"></br></br>
-<img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"></br></br>
-<img src="../images/teachingproject2021_3.png" width="580" alt="Project 3"></br></br>
+<img src="../images/teachingproject2022.png" width="580" alt="Project 1"></br></br>
 
 <h4>Previous semesters</h4>
 </br>
+<img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"></br></br>
+<img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"></br></br>
+<a href="#" onclick="toggle('oldprojects');return false;" id="info-oldprojects">&darr; Toggle all previous project ideas &darr;</a>
+<div class="expansion" id="oldprojects">
+<img src="../images/teachingproject2021_3.png" width="580" alt="Project 3"></br></br>
 <img src="../images/teachingproject2020_1.png" width="580" alt="Project 1"></br></br>
 <img src="../images/teachingproject2020_2.png" width="580" alt="Project 2"></br></br>
 <img src="../images/teachingproject2020_3.png" width="580" alt="Project 3"></br></br>
+</div>
 
 
 <h3>Teaching activities</h3>
