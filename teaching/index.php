@@ -141,9 +141,10 @@ a.k.a. Student drop-in hours: Tue 11-12, or by appointment.
 <h4>Single classes and short-term courses</h4>
 	</br>
 	<table>
-		<tr><td class='std col1 date'>2020-04-21</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=373">Reflections on Data Science (BSREDAS1KU)</a></td></tr>
+		<tr><td class='std col1 date'>2022-09-13</td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1194">IT and Green Transitions</a></td></tr>
+		<tr><td class='std col1 date'>2020-04-21</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=373">Reflections on Data Science</a></td></tr>
 		<tr><td class='std col1 date'>2019-04-17</td><td class='std' width='130'>Guest instructor</td><td class='std'>SG2 Analytisches Gestaltungsprojekt, <a href="https://www.hfg-gmuend.de/Strategische_Gestaltung_2.html">HfG Schwäbisch Gmünd</a></td></tr>
-		<tr><td class='std col1 date'>2017-11-30</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://cns.ceu.edu/courses/data-and-network-visualization">Data and Network Visualization (CNSC 6012)</a></td></tr>
+		<tr><td class='std col1 date'>2017-11-30</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://cns.ceu.edu/courses/data-and-network-visualization">Data and Network Visualization</a></td></tr>
 		<tr><td class='std col1 date'>2017-11-24</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://cns.ceu.edu/courses/justdata-university-wide-course">JustData - University Wide Course</a></td></tr>
 		<tr><td class='std col1 date'>2016-08-23<br />2016-08-18</td><td class='std' width='130'>Seminar chair</td><td class='std'><a href="http://www.alpbach.org/en/session/sem16-seminar-16-understanding-big-data/">Seminar Understanding Big Data, European Forum Alpbach 2016</a><br />Alpbach, Austria</td></tr>
 		</table>
