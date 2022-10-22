@@ -128,13 +128,13 @@ $featuredarea = <<<EOD
 
     <h2>Recent papers</h2>
 
+    <p>Environment and Planning B: <a href="https://journals.sagepub.com/eprint/JAEWNHDIWHYHGXIDNYJC/full">Data-driven micromobility network planning for demand and safety</a></p>
+
     <p>Environment and Planning B: <a href="https://journals.sagepub.com/doi/10.1177/23998083221108190">Multimodal urban mobility and multilayer transport networks</a></p>
 
     <p>EPJ Data Science: <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00339-5">Identifying urban features for vulnerable road user safety in Europe</a></p>
 
     <p>Scientific Reports: <a href="https://www.nature.com/articles/s41598-022-10783-y">Growing urban bicycle networks</a></p>
-
-    <p>Geographical Analysis: <a href="https://doi.org/10.1111/gean.12324">Automated Detection of Missing Links in Bicycle Networks</a></p>
 
     <p><a href="../publications/">&rarr; See all papers</a></p>
 
@@ -159,7 +159,7 @@ EOD;
 $footer = <<<EOD
 <div id="footer">
   <p>
-  http://michael.szell.net &nbsp;|&nbsp; Last update 2022-09-27 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
+  http://michael.szell.net &nbsp;|&nbsp; Last update 2022-10-22 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
   Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
   </p>
 </div>

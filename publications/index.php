@@ -50,19 +50,23 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2022</h3>
   <ul>
-    <li class="publi pub-preprint">P. Folco, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Data-driven bicycle network planning for demand and safety</b><br />
-    <a href="#" onclick="toggle('folco2022dbn');return false;" id="info-folco2022dbn"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/folco2022dbn.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.14619"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/pietrofolco/Data-driven_bicycle_network_planning_for_demand_and_safety"><div class="linkexternal">Code</div></a><div class="info-expansion" id="folco2022dbn"><pre><code>@article{folco2022dbn,
-  title = {Data-driven bicycle network planning for demand and safety},
-  author = {Folco, Pietro and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
-  journal = {arXiv preprint arXiv:2203.14619},
-  year = {2022}
-}</code></pre></div></li>
     <li class="publi pub-preprint">A. Battiston, L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell, R. Schifanella<br /><b>Revealing the determinants of gender inequality in urban cycling with large-scale data</b><br />
     <a href="#" onclick="toggle('battiston2022rdg');return false;" id="info-battiston2022rdg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2022rdg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.09378"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/alibatti/GenderCyclingGapUsingStrava"><div class="linkexternal">Code</div></a><div class="info-expansion" id="battiston2022rdg"><pre><code>@article{battiston2022rdg,
   title = {Revealing the determinants of gender inequality in urban cycling with large-scale data},
   author = {Battison, Alice and Napoli, Ludovico and Bajardi, Paolo and Panisson, Andr{\'e} and Perotti, Alan and Szell, Michael and Schifanella, Rossano},
   journal = {arXiv preprint arXiv:2203.09378},
   year = {2022}
+}</code></pre></div></li>
+    <li class="publi pub-journal">P. Folco, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Data-driven micromobility network planning for demand and safety</b><br />
+    <a href="#" onclick="toggle('folco2022dmn');return false;" id="info-folco2022dmn"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/folco2022dmn.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.14619"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/pietrofolco/Data-driven_bicycle_network_planning_for_demand_and_safety"><div class="linkexternal">Code</div></a><div class="info-expansion" id="folco2022dmn"><pre><code>@article{folco2022dmn,
+  title = {Data-driven micromobility network planning for demand and safety},
+  author = {Folco, Pietro and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
+  journal = {Environment and Planning B: Urban Analytics and City Science},
+  year = {2022},
+  volume = {0},
+  number = {0},
+  pages = {1--16},
+  doi = {10.1177/23998083221135611}
 }</code></pre></div></li>
     <li class="publi pub-journal">L. Alessandretti, L.G. Natera Orozco, M. Saberi, M. Szell, F. Battiston<br /><b>Multimodal urban mobility and multilayer transport networks</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083221108190">Environment and Planning B 0, 1-33 (2022)</a><br />
     <a href="#" onclick="toggle('alessandretti2022mum');return false;" id="info-alessandretti2022mum"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/alessandretti2022mum.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2111.02152"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="alessandretti2022mum"><pre><code>@article{alessandretti2022mum,
