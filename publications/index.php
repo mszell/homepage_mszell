@@ -57,7 +57,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   journal = {arXiv preprint arXiv:2203.09378},
   year = {2022}
 }</code></pre></div></li>
-    <li class="publi pub-journal">P. Folco, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Data-driven micromobility network planning for demand and safety</b><br />
+    <li class="publi pub-journal">P. Folco, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Data-driven micromobility network planning for demand and safety</b><br /><a href="https://journals.sagepub.com/eprint/JAEWNHDIWHYHGXIDNYJC/full">Environment and Planning B 0, 1-16 (2022)</a><br />
     <a href="#" onclick="toggle('folco2022dmn');return false;" id="info-folco2022dmn"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/folco2022dmn.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.14619"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/pietrofolco/Data-driven_bicycle_network_planning_for_demand_and_safety"><div class="linkexternal">Code</div></a><div class="info-expansion" id="folco2022dmn"><pre><code>@article{folco2022dmn,
   title = {Data-driven micromobility network planning for demand and safety},
   author = {Folco, Pietro and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
