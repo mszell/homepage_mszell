@@ -117,7 +117,7 @@ $featuredarea = <<<EOD
 <hr>
 
     <h2>Profiles</h2>
-    <p><a href="http://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ">GScholar</a> | <a href="https://orcid.org/0000-0003-3022-2483">ORCID</a> | <a href="http://arxiv.org/a/szell_m_1">arXiv</a> | <a href="https://github.com/mszell">Github</a></p> 
+    <p><a href="http://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ">Scholar</a> | <a href="https://orcid.org/0000-0003-3022-2483">ORCID</a> | <a href="http://arxiv.org/a/szell_m_1">arXiv</a> | <a href="https://github.com/mszell">Github</a> | <a rel="me" href="https://mastodon.social/@mszll">🐘</a></p> 
 <p>
   <a class="twitter-timeline" href="https://twitter.com/mszll" data-widget-id="438547377662595072">Tweets by @mszll</a>
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
