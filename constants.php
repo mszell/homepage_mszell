@@ -158,10 +158,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>
-  http://michael.szell.net &nbsp;|&nbsp; Last update 2022-10-31 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br />
-  Design of this page is a derivation of <a href="http://hal.elte.hu/~nepusz/">Tam&aacute;s Nepusz' Homepage</a> licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">CC BY-SA 2.0</a>.
-  </p>
+  <p>http://michael.szell.net &nbsp;|&nbsp; Last update 2022-11-03 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
 </div>
 EOD;
 

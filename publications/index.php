@@ -50,6 +50,21 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2022</h3>
   <ul>
+    <li class="publi pub-preprint">S.M. Breum, B. Kostic, M. Szell<br /><b>Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen</b><br />
+    <a href="#" onclick="toggle('breum2022cdl');return false;" id="info-breum2022cdl"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.01301"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/SimonBreum/desirelines"><div class="linkexternal">Code</div></a><div class="info-expansion" id="breum2022cdl"><pre><code>@article{breum2022cdl,
+  title = {Computational Desire Line Analysis of Cyclists on the Dybb{\o}lsbro Intersection in Copenhagen},
+  author = {Breum, Simon Martin and Kostic, Bojan and Szell, Michael},
+  journal = {arXiv preprint arXiv:2211.01301},
+  year = {2022}
+}</code></pre></div></li>
+    <li class="publi pub-preprint">L. Alessandretti, M. Szell<br /><b>Urban Mobility</b><br />
+    <a href="#" onclick="toggle('alessandretti2022um');return false;" id="info-alessandretti2022um"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/alessandretti2022um.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.00355"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/mszell/geospatialdatascience"><div class="linkexternal">Teaching material</div></a><div class="info-expansion" id="alessandretti2022um"><pre><code>@inbook{alessandretti2022um,
+  title = {Compendium of Urban Complexity},
+  author = {Alessandretti, Laura and Szell, Michael},
+  chapter = {Urban Mobility},
+  year = {2022},
+  note = {arXiv preprint arXiv:2211.00355}
+}</code></pre></div></li>
     <li class="publi pub-preprint">A. Battiston, L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell, R. Schifanella<br /><b>Revealing the determinants of gender inequality in urban cycling with large-scale data</b><br />
     <a href="#" onclick="toggle('battiston2022rdg');return false;" id="info-battiston2022rdg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2022rdg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.09378"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/alibatti/GenderCyclingGapUsingStrava"><div class="linkexternal">Code</div></a><div class="info-expansion" id="battiston2022rdg"><pre><code>@article{battiston2022rdg,
   title = {Revealing the determinants of gender inequality in urban cycling with large-scale data},
