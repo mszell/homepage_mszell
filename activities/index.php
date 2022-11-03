@@ -28,6 +28,7 @@ echo $featuredarea;
 	<div class="expansion" id="organization">
 	<table>
 		<tr><td class='std col1 date'>2023-07-20<br />2023-07-17</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2023</a><br />Copenhagen, Denmark</td></tr>
+		<tr><td class='std col1 date'>2023-02-10<br />2023-02-07</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://cnet.fi.uba.ar/netscix23/">NetSciX 2023</a><br />Buenos Aires, Brazil</td></tr>
 		<tr><td class='std col1 date'>2022-11-04</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.cityvis.io/workshops/2022/">CityVis 2022</a><br />Potsdam, Germany</td></tr>
 		<tr><td class='std col1 date'>2022-10-20<br />2022-10-19</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.trmlabs.com/complexdatablocks">ComplexDataBlocks</a> satellite of CCS 2022<br />Palma di Mallorca, Spain</td></tr>
 		<tr><td class='std col1 date'>2022-09-19<br />2017-12-15</td><td class='std' width='130'>Editor</td><td class='std'><a href="http://journals.plos.org/plosone/static/editorial-board">PLOS ONE</a></td></tr>

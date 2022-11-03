@@ -14,7 +14,7 @@ var svg = d3.select("#collabnet").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-d3.json("mszellcollabnet20220329.json", function(error, graph) {
+d3.json("mszellcollabnet20221103.json", function(error, graph) {
   var nodeMap = {};
     graph.nodes.forEach(function(x) { nodeMap[x.name] = x; });
     graph.links = graph.links.map(function(x) {
