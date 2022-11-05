@@ -2,18 +2,18 @@
     width: 100%;
     height: 100%;
     border: #eee 1px solid;
-    font-family: 'Latin Modern Roman', 'Times New Roman', serif, '宋体';
+    font: 13px 'Open Sans', sans-serif;
     font-size: 13px;
     color: #343434;
     overflow: hidden;
     box-sizing: border-box;
-    padding: 3px 0;
+    padding: 0px 0;
     margin: 0;
-    background: #fcfcfc;
+    background: #fcfbfb;
 }
 #my-mastodon-widget .main {
     box-sizing: border-box;
-    padding: 3px 8px;
+    padding: 3px 9px;
     overflow-y: scroll;
     height: 100%;
 }
@@ -21,18 +21,25 @@
     margin: 0;
 }
 #my-mastodon-widget a {
-    color: rgba(170, 0, 0, .5);
+    color: #A00E0E;
 }
+#my-mastodon-widget a:hover {
+    color: #CF4141;
+}
+#my-mastodon-widget a, a:hover, a:link, a:visited {
+  text-decoration: none !important; }
+
 #my-mastodon-widget ::-webkit-scrollbar {
-  width: 7px;
-  height: 7px;
+  width: 9px;
+  height: 9px;
 }
 #my-mastodon-widget ::-webkit-scrollbar-thumb {
   background: #eee;
 }
 #my-mastodon-widget .time {
     color: #aaa;
-    padding-bottom: 5px;
+    padding-bottom: 2px;
+    font-size: 11px;
 }
 #my-mastodon-widget .images .image-wrapper {
     margin-left: 3px;
@@ -51,3 +58,10 @@
     width: 18px;
 }
 
+#my-mastodon-widget hr {
+    border: none;
+    background-color: #343434;
+    color: #343434;
+    height: 1px;
+    width: 100%;
+}

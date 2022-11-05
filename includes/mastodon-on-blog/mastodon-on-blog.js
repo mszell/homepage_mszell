@@ -79,6 +79,7 @@
               `: ''
             }
           <div class="time">${formatTime(d.created_at)}</div>
+          <hr>
         </div>
       `, '')
     Array.from(document.querySelectorAll('.hashtag')).forEach(e => {
