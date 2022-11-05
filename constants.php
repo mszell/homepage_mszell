@@ -1,5 +1,7 @@
 <?php
 
+$URLTOP = "http://michael.szell.net";
+
 $head = <<<EOD
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,14 +15,14 @@ $head = <<<EOD
     <meta name="Author" content="Michael Szell" />
     <meta name="Description" content="Professional homepage of Michael Szell" />
     <meta name="Robots" content="index, follow" />
-    <link rel="stylesheet" href="http://michael.szell.net/includes/main.css" type="text/css" />
-    <link rel="shortcut icon" href="http://michael.szell.net/favicon.ico" type="image/x-icon" />
-    <link rel="icon" href="http://michael.szell.net/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="{$URLTOP}/includes/main.css" type="text/css" />
+    <link rel="shortcut icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-    <script src="http://michael.szell.net/includes/jquery-1.7.2.min.js" type="text/javascript"></script>
-    <script src="http://michael.szell.net/includes/jquery.curvycorners.min.js" type="text/javascript"></script>
-    <script src="http://michael.szell.net/includes/main.js" type="text/javascript"></script>
-    <script src="http://michael.szell.net/includes/d3.min.js" charset="utf-8" type="text/javascript"></script>
+    <script src="{$URLTOP}/includes/jquery-1.7.2.min.js" type="text/javascript"></script>
+    <script src="{$URLTOP}/includes/jquery.curvycorners.min.js" type="text/javascript"></script>
+    <script src="{$URLTOP}/includes/main.js" type="text/javascript"></script>
+    <script src="{$URLTOP}/includes/d3.min.js" charset="utf-8" type="text/javascript"></script>
     <script type="text/javascript" src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
     <script type="text/javascript">
 //<![CDATA[
@@ -63,13 +65,13 @@ $navbar = "
     	<div class='floating-header' style='opacity: 0.85; max-height: 43px; '>
     		<h1>
     			<div class='container'>
-            		<a href='http://michael.szell.net/'>Michael Szell</a>
+            		<a href='{$URLTOP}/'>Michael Szell</a>
     	    		<ul id='menu'>
-            			<li class='menuitem$selected_publications'><a href='http://michael.szell.net/publications/'>Publications</a></li>
-                  <li class='menuitem$selected_activities'><a href='http://michael.szell.net/activities/'>Activities</a></li>
-                  <li class='menuitem$selected_projects'><a href='http://michael.szell.net/projects/'>Projects</a></li>
-                  <li class='menuitem$selected_media'><a href='http://michael.szell.net/media/'>Media</a></li>
-                  <li class='menuitem$selected_teaching'><a href='http://michael.szell.net/teaching/'>Teaching</a></li>
+            			<li class='menuitem$selected_publications'><a href='{$URLTOP}/publications/'>Publications</a></li>
+                  <li class='menuitem$selected_activities'><a href='{$URLTOP}/activities/'>Activities</a></li>
+                  <li class='menuitem$selected_projects'><a href='{$URLTOP}/projects/'>Projects</a></li>
+                  <li class='menuitem$selected_media'><a href='{$URLTOP}/media/'>Media</a></li>
+                  <li class='menuitem$selected_teaching'><a href='{$URLTOP}/teaching/'>Teaching</a></li>
           		</ul>
     			</div>
     		</h1>
@@ -89,7 +91,7 @@ $featuredarea = <<<EOD
     			<div class="portrait-text">
     Welcome! I am associate professor at <a href="https://en.itu.dk">ITU Copenhagen</a>, <a href="https://nerds.itu.dk/">NERDS</a>. My research focuses on mobility, sustainable transport, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
-    <a href="http://michael.szell.net/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
+    <a href="{$URLTOP}/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
         <div class='updateinfo'>last update 2022-11-03</div>
     </div></a>
     			</div>
@@ -117,10 +119,11 @@ $featuredarea = <<<EOD
 <hr>
 
     <h2>Profiles</h2>
-    <p><a href="http://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ">Scholar</a> | <a href="https://orcid.org/0000-0003-3022-2483">ORCID</a> | <a href="http://arxiv.org/a/szell_m_1">arXiv</a> | <a href="https://github.com/mszell">Github</a> | <a rel="me" href="https://mastodon.social/@mszll">🐘</a></p> 
-<p>
-  <a class="twitter-timeline" href="https://twitter.com/mszll" data-widget-id="438547377662595072">Tweets by @mszll</a>
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    <p><a href="http://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ">Scholar</a> | <a href="https://orcid.org/0000-0003-3022-2483">ORCID</a> | <a href="http://arxiv.org/a/szell_m_1">arXiv</a> | <a href="https://github.com/mszell">Github</a> | <a href="https://twitter.com/@mszll"><img src="{$URLTOP}/images/icontwitter.png" height="16" class="logo" style="position: relative; top: 3px;"></a></p> 
+
+<p style="text-align: left;">
+Toots from <a rel="me" href="https://mastodon.social/@mszll">🐘@mszll</a>:
+<iframe src="{$URLTOP}/includes/mastodon-on-blog/index.html" height=300 width=230></iframe>
 </p>
 
 
@@ -158,7 +161,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>http://michael.szell.net &nbsp;|&nbsp; Last update 2022-11-03 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
+  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2022-11-05 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
 </div>
 EOD;
 
