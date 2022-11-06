@@ -2,7 +2,7 @@
 
   const Dataset = document.currentScript.dataset
   const Config = {
-    loadingText: Dataset.loadingText || 'loading...',
+    loadingText: Dataset.loadingText || 'Loading...',
     loadFailText: Dataset.loadFailText || 'load failed',
     rootDOMId: Dataset.rootDomId || 'my-mastodon-widget',
     stylePath: Dataset.stylePath,
@@ -23,7 +23,7 @@
     if (!config.userId) {
       throw new Error('a user id is required.')
     }
-    config.loadingText = config.loadingText || 'loading...'
+    config.loadingText = config.loadingText || 'Loading...'
     config.loadFailText = config.loadFailText || 'load failed'
     config.rootDOMId = config.rootDOMId || 'my-mastodon-widget'
     if (!document.getElementById(config.rootDOMId)) {
@@ -52,6 +52,7 @@
       })
   }
   function showImage (e, imageData) {
+    e.preventDefault()
     e.path[1].innerHTML = imageData.reduce((a, b) =>
       b.type === 'image'
         ? a + `
@@ -98,8 +99,8 @@
       `${html}
         ${d.reblog ? template(d.reblog, true) : template(d)}
       `, '')
-    Array.from(document.querySelectorAll('.hashtag')).forEach(e => {
-      e.remove()
+    Array.from(document.querySelectorAll(`#${config.rootDOMId} .hashtag`)).forEach(e => {
+      e.target = '_blank'
     })
     if (config.stylePath) {
       loadFile(config.stylePath)

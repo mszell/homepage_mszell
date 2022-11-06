@@ -47,25 +47,17 @@
     margin-top: 2px;
     display: inline-block;
     width: 180px;
-    height: 180px;
+    height: 101px;
     overflow: hidden;
 }
 #my-mastodon-widget .images img {
     min-width: 100%;
     min-height: 100%;
     max-width: 100%;
-    object-fit: cover;
+    object-fit: contain;
 }
 #my-mastodon-widget .emoji {
     width: 18px;
-}
-
-#my-mastodon-widget hr {
-    border: none;
-    background-color: #343434;
-    color: #343434;
-    height: 1px;
-    width: 100%;
 }
 
 #my-mastodon-widget .reply::before,
@@ -85,11 +77,14 @@
 #my-mastodon-widget .item {
   padding-bottom: 5px;
   margin-bottom: 8px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #aaa;
 }
 #my-mastodon-widget .content {
   margin-bottom: 5px;
 }
 #my-mastodon-widget .images {
   margin-top: 3px;
+}
+#my-mastodon-widget .hashtag {
+  color: #343434;
 }
