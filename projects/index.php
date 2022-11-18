@@ -18,11 +18,19 @@ echo $featuredarea;
 
 <p>If you are a student looking for student projects, go to <a href='../teaching/'> Teaching</a>.</p>
 
+<h3>datasci.social</h3>
+    <table>
+		<tr><td class='std col1 date'>2022-11</td><td class='std' style='text-align: center;'><a href="https://datasci.social"><img src="../images/logodatascisocial.png" width="58" height="58" alt="GrowBike.Net" class="logo"></a></td><td class='std'><p>A Mastodon community of nice & diverse people researching human-centric data science and adjacent topics, like human-centric data/network science, social data science, computational social science.</p>
+			<a href="https://datasci.social"><div class='linkexternal'>datasci.social</div></a>
+		</td></tr>
+	</table>
+
+
 <h3>GrowBike.Net</h3>
     <table>
-		<tr><td class='std col1 date'>2021-07</td><td class='std' style='text-align: center;'><a href="http://growbike.net"><img src="../images/logogrowbikenet.png" width="58" height="58" alt="GrowBike.Net" class="logo"></a></td><td class='std'><p>An interactive visualization platform growing cohesive urban bicycle networks - something that every modern city should have. Studying these synthetic networks informs us about the geometric limitations of urban bicycle network growth and can lead to better designed bicycle infrastructure in cities.</p>
-		<p>GrowBike.Net accompanies the scientific paper "<a href="https://arxiv.org/abs/2107.02185">Growing Urban Bicycle Networks</a>".</p>
-			<a href="http://growbike.net"><div class='linkexternal'>GrowBike.Net</div></a>
+		<tr><td class='std col1 date'>2021-07</td><td class='std' style='text-align: center;'><a href="https://growbike.net"><img src="../images/logogrowbikenet.png" width="58" height="58" alt="GrowBike.Net" class="logo"></a></td><td class='std'><p>An interactive visualization platform growing cohesive urban bicycle networks - something that every modern city should have. Studying these synthetic networks informs us about the geometric limitations of urban bicycle network growth and can lead to better designed bicycle infrastructure in cities.</p>
+		<p>GrowBike.Net accompanies the scientific paper "<a href="https://www.nature.com/articles/s41598-022-10783-y">Growing Urban Bicycle Networks</a>".</p>
+			<a href="https://growbike.net"><div class='linkexternal'>GrowBike.Net</div></a>
 		</td></tr>
 	</table>
 

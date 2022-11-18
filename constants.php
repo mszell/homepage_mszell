@@ -122,7 +122,7 @@ $featuredarea = <<<EOD
     <p><a href="http://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ">Scholar</a> | <a href="https://orcid.org/0000-0003-3022-2483">ORCID</a> | <a href="http://arxiv.org/a/szell_m_1">arXiv</a> | <a href="https://github.com/mszell">Github</a> | <a href="https://twitter.com/@mszll"><img src="{$URLTOP}/images/icontwitter.png" height="16" class="logo" style="position: relative; top: 3px;"></a></p> 
 
 <p style="text-align: left;">
-Toots from <a rel="me" href="https://mastodon.social/@mszll">🐘@mszll</a>:
+Toots from <a rel="me" href="https://datasci.social/@mszll">🐘@mszll</a>:
 <iframe src="{$URLTOP}/includes/mastodon-on-blog/index.html" height=300 width=230></iframe>
 </p>
 
@@ -161,7 +161,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2022-11-06 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
+  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2022-11-18 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
 </div>
 EOD;
 

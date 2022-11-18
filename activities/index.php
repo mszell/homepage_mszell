@@ -101,6 +101,11 @@ echo $featuredarea;
 	<ul>
 	<li class='talk talk-invited'>
 	<table>
+	<tr><td class='std col1 date'>2022-11-15<br /><a href="../downloads/talk_szell2022cdl.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Computational desire line analysis of cyclists on the Dybbølsbro intersection<br />City of Copenhagen, Technical and Environmental Administration<br/>Copenhagen, Denmark</td></tr>
+	</table>
+	</li>
+	<li class='talk talk-invited'>
+	<table>
 	<tr><td class='std col1 date'>2022-09-22<br /><a href="https://www.youtube.com/watch?v=lDGdGY8iOFg"><div class="linkexternal">Recording</div></a><br /><a href="../downloads/talk_szell2022dbn.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Data-informed bicycle network planning: processes and criticisms<br /><a href="https://www.eventbrite.com/e/gdsl-brown-bag-seminar-with-nerds-it-university-copenhagen-tickets-407899597677">Brown bag seminar series, geographic data science lab</a><br/>Liverpool, UK (remotely)</td></tr>
 	</table>
 	</li>
