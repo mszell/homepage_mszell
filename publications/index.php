@@ -50,6 +50,13 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2022</h3>
   <ul>
+    <li class="publi pub-preprint">M. Coscia, C. Borgelt, M. Szell<br /><b>Fast Multiplex Graph Association Rules for Link Prediction</b><br />
+    <a href="#" onclick="toggle('coscia2022fmg');return false;" id="info-coscia2022fmg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/coscia2022fmg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.12094"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="coscia2022fmg"><pre><code>@inproceedings{coscia2022fmg,
+  title = {Fast Multiplex Graph Association Rules for Link Prediction},
+  author = {Coscia, Michele and Borgelt, Christian and Szell, Michael},
+  journal = {arXiv preprint arXiv:2211.12094},
+  year = {2022}
+}</code></pre></div></li>
     <li class="publi pub-preprint">S.M. Breum, B. Kostic, M. Szell<br /><b>Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen</b><br />
     <a href="#" onclick="toggle('breum2022cdl');return false;" id="info-breum2022cdl"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.01301"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/SimonBreum/desirelines"><div class="linkexternal">Code</div></a><div class="info-expansion" id="breum2022cdl"><pre><code>@article{breum2022cdl,
   title = {Computational Desire Line Analysis of Cyclists on the Dybb{\o}lsbro Intersection in Copenhagen},
