@@ -92,7 +92,7 @@ $featuredarea = <<<EOD
     Welcome! I am associate professor at <a href="https://en.itu.dk">ITU Copenhagen</a>, <a href="https://nerds.itu.dk/">NERDS</a>. My research focuses on mobility, sustainable transport, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="{$URLTOP}/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
-        <div class='updateinfo'>last update 2022-11-03</div>
+        <div class='updateinfo'>last update 2022-12-01</div>
     </div></a>
     			</div>
 
@@ -131,13 +131,13 @@ Toots from <a rel="me" href="https://datasci.social/@mszll">🐘@mszll</a>:
 
     <h2>Recent papers</h2>
 
+    <p>Transport Findings: <a href="https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen">Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen</a></p>
+
     <p>Environment and Planning B: <a href="https://journals.sagepub.com/eprint/JAEWNHDIWHYHGXIDNYJC/full">Data-driven micromobility network planning for demand and safety</a></p>
 
     <p>Environment and Planning B: <a href="https://journals.sagepub.com/doi/10.1177/23998083221108190">Multimodal urban mobility and multilayer transport networks</a></p>
 
     <p>EPJ Data Science: <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00339-5">Identifying urban features for vulnerable road user safety in Europe</a></p>
-
-    <p>Scientific Reports: <a href="https://www.nature.com/articles/s41598-022-10783-y">Growing urban bicycle networks</a></p>
 
     <p><a href="../publications/">&rarr; See all papers</a></p>
 
@@ -161,7 +161,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2022-11-23 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
+  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2022-12-01 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
 </div>
 EOD;
 
