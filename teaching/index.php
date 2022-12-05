@@ -43,7 +43,7 @@ echo $featuredarea;
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2022<br /><a href="../downloads/breum2022cda.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>BA, Simon Breum<br /><b>CycleCV - Detect, Analyze and Track Cyclists’ Movements</b></td></tr>
+	<tr><td class='std col1 date wfix'>2022<br /><a href="../downloads/breum2022cda.pdf"><div class="filepdf">Thesis</div></a><br /><a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a></td><td class='std'>BA, Simon Breum<br /><b>CycleCV - Detect, Analyze and Track Cyclists’ Movements</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
