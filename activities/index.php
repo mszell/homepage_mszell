@@ -101,6 +101,11 @@ echo $featuredarea;
 	<ul>
 	<li class='talk talk-invited'>
 	<table>
+	<tr><td class='std col1 date'>2022-12-07<br /><a href="../downloads/talk_rahbekviero2022smd.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Sustainable mobility and data-driven planning<br />ITU, Launch of <a href="https://ccit.itu.dk/">Center for Climate IT</a><br/>Copenhagen, Denmark</td></tr>
+	</table>
+	</li>
+	<li class='talk talk-invited'>
+	<table>
 	<tr><td class='std col1 date'>2022-11-15<br /><a href="../downloads/talk_szell2022cdl.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Computational desire line analysis of cyclists on the Dybbølsbro intersection<br />City of Copenhagen, Technical and Environmental Administration<br/>Copenhagen, Denmark</td></tr>
 	</table>
 	</li>
