@@ -92,7 +92,7 @@ $featuredarea = <<<EOD
     Welcome! I am associate professor at <a href="https://en.itu.dk">ITU Copenhagen</a>, <a href="https://nerds.itu.dk/">NERDS</a>. My research focuses on mobility, sustainable transport, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="{$URLTOP}/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
-        <div class='updateinfo'>last update 2022-12-01</div>
+        <div class='updateinfo'>last update 2022-12-18</div>
     </div></a>
     			</div>
 
@@ -119,7 +119,7 @@ $featuredarea = <<<EOD
 <hr>
 
     <h2>Profiles</h2>
-    <p><a href="http://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ">Scholar</a> | <a href="https://orcid.org/0000-0003-3022-2483">ORCID</a> | <a href="http://arxiv.org/a/szell_m_1">arXiv</a> | <a href="https://github.com/mszell">Github</a> | <a href="https://twitter.com/@mszll"><img src="{$URLTOP}/images/icontwitter.png" height="16" class="logo" style="position: relative; top: 3px;"></a></p> 
+    <p><a href="http://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ">Scholar</a> | <a href="https://orcid.org/0000-0003-3022-2483">ORCID</a> | <a href="http://arxiv.org/a/szell_m_1">arXiv</a> | <a href="https://github.com/mszell">Github</a> | <a href="https://datasci.social/@mszll"><img src="{$URLTOP}/images/iconmastodon.png" height="17" class="logo" style="position: relative; top: 3px;"></a></p> 
 
 <p style="text-align: left;">
 Toots from <a rel="me" href="https://datasci.social/@mszll">🐘@mszll</a>:
