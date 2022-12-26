@@ -20,15 +20,14 @@ echo $featuredarea;
 <h3>Organization, committees, and editorial work</h3>
 	<table>
 		<tr><td class='std col1 date'>since<br />2019-08-07</td><td class='std' width='130'>Editor</td><td class='std'><a href="https://www.mdpi.com/journal/ijgi/editors">International Journal of Geo-information</a></td></tr>
-		<tr><td class='std col1 date'>since<br />2019-05</td><td class='std'>Main organizer</td><td class='std'><a href="https://twitter.com/databeers_cph">DataBeers Copenhagen</a></td></tr>
 		<tr><td class='std col1 date'>since<br />2018-06-18</td><td class='std' width='130'>Review editor</td><td class='std'><a href="https://www.frontiersin.org/journals/physics/sections/social-physics">Frontiers (Social Physics)</a></td></tr>
 		<tr><td class='std col1 date'>since<br />2018-01-09</td><td class='std' width='130'>Editor</td><td class='std'><a href="http://www.complex-systems.com/">Complex Systems</a></td></tr>
+		<tr><td class='std col1 date'>2023-07-20<br />2023-07-17</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2023</a><br />Copenhagen, Denmark</td></tr>
+		<tr><td class='std col1 date'>2023-04-28<br />2023-04-25</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2023</a><br />Aveiro, Portugal</td></tr>
 	</table>
 	<a href="#" onclick="toggle('organization');return false;" id="info-organization">&darr; Toggle all activities &darr;</a>
 	<div class="expansion" id="organization">
 	<table>
-		<tr><td class='std col1 date'>2023-07-20<br />2023-07-17</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2023</a><br />Copenhagen, Denmark</td></tr>
-		<tr><td class='std col1 date'>2023-04-28<br />2023-04-25</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2023</a><br />Aveiro, Portugal</td></tr>
 		<tr><td class='std col1 date'>2023-02-10<br />2023-02-07</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://cnet.fi.uba.ar/netscix23/">NetSciX 2023</a><br />Buenos Aires, Brazil</td></tr>
 		<tr><td class='std col1 date'>2022-11-04</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.cityvis.io/workshops/2022/">CityVis 2022</a><br />Potsdam, Germany</td></tr>
 		<tr><td class='std col1 date'>2022-10-20<br />2022-10-19</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.trmlabs.com/complexdatablocks">ComplexDataBlocks</a> satellite of CCS 2022<br />Palma di Mallorca, Spain</td></tr>
@@ -45,6 +44,7 @@ echo $featuredarea;
 		<tr><td class='std col1 date'>2020-07-10<br />2020-07-06</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://netsci2020.netscisociety.net/">NetSci 2020</a><br />Rome, Italy</td></tr>
 		<tr><td class='std col1 date'>2020-04-03<br />2020-03-31</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2020</a><br />Exeter, UK</td></tr>
 		<tr><td class='std col1 date'>2020-01-23<br />2020-01-20</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://netscix2020tokyo.github.io/">NetSci-X 2020</a><br />Tokyo, Japan</td></tr>
+		<tr><td class='std col1 date'>2019</td><td class='std'>Main organizer</td><td class='std'><a href="https://twitter.com/databeers_cph">DataBeers Copenhagen</a></td></tr>
 		<tr><td class='std col1 date'>2019-07-10<br />2019-07-08</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.futurecitieschallenge.com/">Future Cities Challenge 2019</a><br />Oxford, UK</td></tr>
 		<tr><td class='std col1 date'>2019-06-14<br />2019-01-07</td><td class='std' width='130'>Handling editor</td><td class='std'><a href="https://collections.plos.org/s/science-of-stories">PLOS ONE, Science of Stories</a></td></tr>
 		<tr><td class='std col1 date'>2019-04-30<br />2017-12-07</td><td class='std' width='130'>Guest editor</td><td class='std'><a href="http://www.mdpi.com/journal/ijgi/special_issues/Human-Centric_Data_Urban">International Journal of Geo-Information, Human-Centric Data Science for Urban Studies</a></td></tr>
