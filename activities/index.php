@@ -22,10 +22,12 @@ echo $featuredarea;
 		<tr><td class='std col1 date'>since<br />2019-08-07</td><td class='std' width='130'>Editor</td><td class='std'><a href="https://www.mdpi.com/journal/ijgi/editors">International Journal of Geo-information</a></td></tr>
 		<tr><td class='std col1 date'>since<br />2018-06-18</td><td class='std' width='130'>Review editor</td><td class='std'><a href="https://www.frontiersin.org/journals/physics/sections/social-physics">Frontiers (Social Physics)</a></td></tr>
 		<tr><td class='std col1 date'>since<br />2018-01-09</td><td class='std' width='130'>Editor</td><td class='std'><a href="http://www.complex-systems.com/">Complex Systems</a></td></tr>
+		<tr><td class='std col1 date'>2023-11-30<br />2023-11-28</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://complexnetworks.org/">Complex Networks 2023</a><br />Nice, France</td></tr>
+		<tr><td class='std col1 date'>2023-09-12</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://ptal-io.github.io/easm2023/">Equitable Accessibility and Sustainable Mobility Workshop 2023 at GIScience 2023</a><br />Leeds, UK</td></tr>
 		<tr><td class='std col1 date'>2023-07-20<br />2023-07-17</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2023</a><br />Copenhagen, Denmark</td></tr>
 		<tr><td class='std col1 date'>2023-04-28<br />2023-04-25</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2023</a><br />Aveiro, Portugal</td></tr>
 	</table>
-	<a href="#" onclick="toggle('organization');return false;" id="info-organization">&darr; Toggle all activities &darr;</a>
+	<a href="#" onclick="toggle('organization');return false;" id="info-organization">&darr; Toggle past activities &darr;</a>
 	<div class="expansion" id="organization">
 	<table>
 		<tr><td class='std col1 date'>2023-02-10<br />2023-02-07</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://cnet.fi.uba.ar/netscix23/">NetSciX 2023</a><br />Buenos Aires, Brazil</td></tr>
@@ -102,7 +104,7 @@ echo $featuredarea;
 	<ul>
 	<li class='talk talk-invited'>
 	<table>
-	<tr><td class='std col1 date'>2022-12-14<br /><a href="../downloads/talk_szell2022bnf.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Bicycle networks: From data quality assessment to computational analysis<br /><a href="https://ccit.itu.dk/">CASA Seminar Series</a><br/>London, UK (remotely)</td></tr>
+	<tr><td class='std col1 date'>2022-12-14<br /><a href="../downloads/talk_szell2022bnf.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Bicycle networks: From data quality assessment to computational analysis<br /><a href="https://www.ucl.ac.uk/bartlett/casa/casa-seminar-series-2022-23">CASA Seminar Series</a><br/>London, UK (remotely)</td></tr>
 	</table>
 	</li>
 	<li class='talk talk-invited'>
@@ -125,6 +127,11 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2022-06-16<br />2022-06-15<br /><a href="https://www.youtube.com/watch?v=yGW2TsV-LDA"><div class="linkexternal">Recording</div></a><br /><a href="../downloads/talk_szell2022eqs.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Establishing a quantitative science of bicycle networks<br /><a href="https://www.turing.ac.uk/events/ua-20-towards-greener-and-sustainable-cities">UA 2.0 – Towards greener and sustainable cities</a><br/>Exeter, UK (remotely)</td></tr>
 	</table>
 	</li>
+	</ul>
+	
+	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all talks &darr;</a>
+	<div class="expansion" id="talks">
+	<ul>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2022-05-24</td><td class='std'>Cycling research at NERDS<br />ISI Foundation workshop<br/>Turin, Italy</td></tr>
@@ -140,11 +147,6 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2022-03-03<br /><a href="../downloads/talk_szell2022ndc.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Netværksanalyse af den danske cykelinfrastruktur<br />General Assembly of the Cycling Embassy of Denmark<br/>Copenhagen, Denmark</td></tr>
 	</table>
 	</li>
-	</ul>
-	
-	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all talks &darr;</a>
-	<div class="expansion" id="talks">
-	<ul>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2021-12-08<br /></td><td class='std'>Finding the missing links in the Copenhagen bike network<br />Copenhagen Municipality<br/>Copenhagen, Denmark</td></tr>
