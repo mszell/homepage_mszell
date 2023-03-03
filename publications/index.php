@@ -48,6 +48,18 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 </ul>
 
 
+<h3>2023</h3>
+  <ul>
+    <li class="publi pub-preprint">A. Rahbek Vierø, A. Vybornova, M. Szell<br /><b>BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</b><br />
+    <a href="#" onclick="toggle('rahbekviero2023btb');return false;" id="info-rahbekviero2023btb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/rahbekviero2023btb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2303.01223"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA"><div class="linkexternal">Code</div></a><div class="info-expansion" id="rahbekviero2023btb"><pre><code>@article{rahbekviero2023btb,
+  title = {BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment},
+  author = {Rahbek Vier{\o}, Ane and Vybornova, Anastassia and Szell, Michael},
+  journal = {arXiv preprint arXiv:2303.01223},
+  doi = {10.48550/arXiv.2303.01223},
+  year = {2023}
+}</code></pre></div></li>
+  </ul>
+
 <h3>2022</h3>
   <ul>
     <li class="publi pub-preprint">M. Coscia, C. Borgelt, M. Szell<br /><b>Fast Multiplex Graph Association Rules for Link Prediction</b><br />
