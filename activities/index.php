@@ -26,6 +26,7 @@ echo $featuredarea;
 		<tr><td class='std col1 date'>2023-09-12</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://ptal-io.github.io/easm2023/">Equitable Accessibility and Sustainable Mobility Workshop 2023 at GIScience 2023</a><br />Leeds, UK</td></tr>
 		<tr><td class='std col1 date'>2023-07-20<br />2023-07-17</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2023</a><br />Copenhagen, Denmark</td></tr>
 		<tr><td class='std col1 date'>2023-04-28<br />2023-04-25</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2023</a><br />Aveiro, Portugal</td></tr>
+		<tr><td class='std col1 date'>2023-04-14</td><td class='std' width='130'>Main organizer</td><td class='std'><a href="https://www.csh.ac.at/event/csh-itu-copenhagen-workshop-sustainable-mobility-data-networks-and-complexity/">CSH-ITU workshop Sustainable Mobility: Data, Networks, and Complexity</a><br />Vienna, Austria</td></tr>
 	</table>
 	<a href="#" onclick="toggle('organization');return false;" id="info-organization">&darr; Toggle past activities &darr;</a>
 	<div class="expansion" id="organization">
@@ -102,6 +103,21 @@ echo $featuredarea;
 
 <h3>Talks</h3>
 	<ul>
+	<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2023-04-20</td><td class='std'>Wie man optimale Radweg-Netze für Städte plant<br />Invited talk at Agenda 21<br/>Vienna, Austria</td></tr>
+	</table>
+	</li>
+	<li class='talk talk-contributed'>
+	<table>
+	<tr><td class='std col1 date'>2023-04-14</td><td class='std'>The Science of Growing Urban Bicycle Networks<br /><a href="https://www.csh.ac.at/event/csh-itu-copenhagen-workshop-sustainable-mobility-data-networks-and-complexity/">Talk at CSH-ITU workshop Sustainable Mobility: Data, Networks, and Complexity</a><br/>Vienna, Austria</td></tr>
+	</table>
+	</li>
+	<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2023-04-04</td><td class='std'>Bicycle infrastructure data and networks: Opportunities and limitations<br /><a href="https://www.csh.ac.at/event/csh-talk-by-michael-szell-bicycle-infrastructure-data-and-networks-opportunities-and-limitations/">Invited talk at CSH</a><br/>Vienna, Austria</td></tr>
+	</table>
+	</li>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2022-12-14<br /><a href="../downloads/talk_szell2022bnf.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Bicycle networks: From data quality assessment to computational analysis<br /><a href="https://www.ucl.ac.uk/bartlett/casa/casa-seminar-series-2022-23">CASA Seminar Series</a><br/>London, UK (remotely)</td></tr>
@@ -578,6 +594,7 @@ echo $featuredarea;
 
 <h3>Advanced training &amp; visits</h3>
     <table>
+    	<tr><td class='std col1 date'>2023-04-23<br />2023-04-03</td><td class='std'>Academic visit and scientific collaboration at <a href="http://csh.ac.at/">Complexity Science Hub</a><br />Vienna, Austria</td></tr>
     	<tr><td class='std col1 date'>2022-06-16<br />2022-05-16</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
     	<tr><td class='std col1 date'>2021-10-22<br />2021-10-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
     	<tr><td class='std col1 date'>2019-06-29<br />2019-06-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
