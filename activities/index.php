@@ -115,7 +115,7 @@ echo $featuredarea;
 	</li>
 	<li class='talk talk-invited'>
 	<table>
-	<tr><td class='std col1 date'>2023-04-04</td><td class='std'>Bicycle infrastructure data and networks: Opportunities and limitations<br /><a href="https://www.csh.ac.at/event/csh-talk-by-michael-szell-bicycle-infrastructure-data-and-networks-opportunities-and-limitations/">Invited talk at CSH</a><br/>Vienna, Austria</td></tr>
+	<tr><td class='std col1 date'>2023-04-04<br /><a href="../downloads/talk_szell2023bid.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Bicycle infrastructure data and networks: Opportunities and limitations<br /><a href="https://www.csh.ac.at/event/csh-talk-by-michael-szell-bicycle-infrastructure-data-and-networks-opportunities-and-limitations/">Invited talk at CSH</a><br/>Vienna, Austria</td></tr>
 	</table>
 	</li>
 	<li class='talk talk-invited'>
