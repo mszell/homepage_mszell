@@ -229,7 +229,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 <h3>2018</h3>
   <ul>
     <li class="publi pub-journal">M. Szell, Y. Ma, R. Sinatra<br /><b>A Nobel opportunity for interdisciplinarity</b><br /><a href="https://doi.org/10.1038/s41567-018-0314-6">Nature Physics 14, 1075-1078 (2018)</a><br />
-    <a href="#" onclick="toggle('szell2018noi');return false;" id="info-szell2018noi"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2018noi.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2018noi_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/1811.00286"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="szell2018noi"><pre><code>@article{szell2018noi,
+    <a href="#" onclick="toggle('szell2018noi');return false;" id="info-szell2018noi"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2018noi.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2018noi_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/1811.00286"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://mszell.github.io/nobelplot/nobelplot.html"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="szell2018noi"><pre><code>@article{szell2018noi,
   title = {A Nobel opportunity for interdisciplinarity},
   author = {Szell, Michael and Ma, Yifang and Sinatra, Roberta},
   journal = {Nature Physics},
@@ -239,7 +239,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   doi = {10.1038/s41567-018-0314-6}
 }</code></pre></div></li>
     <li class="publi pub-journal">M. Szell<br /><b>Crowdsourced quantification and visualization of urban mobility space inequality</b><br /><a href="https://www.cogitatiopress.com/urbanplanning/article/view/1209/">Urban Planning 3, 1-20 (2018)</a><br />
-    <a href="#" onclick="toggle('szell2018cqv');return false;" id="info-szell2018cqv"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2018cqv.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/je5r4"><div class="linkexternal">SocArXiv</div></a><div class="info-expansion" id="szell2018cqv"><pre><code>@article{szell2018cqv,
+    <a href="#" onclick="toggle('szell2018cqv');return false;" id="info-szell2018cqv"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2018cqv.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/je5r4"><div class="linkexternal">SocArXiv</div></a> &nbsp; <a href="https://whatthestreet.com"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="szell2018cqv"><pre><code>@article{szell2018cqv,
   title = {Crowdsourced quantification and visualization of urban mobility space inequality},
   author = {Szell, Michael},
   journal = {Urban Planning},
