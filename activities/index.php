@@ -105,7 +105,7 @@ echo $featuredarea;
 	<ul>
 	<li class='talk talk-invited'>
 	<table>
-	<tr><td class='std col1 date'>2023-04-20</td><td class='std'>Wie man optimale Radweg-Netze für Städte plant<br />Invited talk at Agenda 21<br/>Vienna, Austria</td></tr>
+	<tr><td class='std col1 date'>2023-04-20<br /><a href="../downloads/talk_szell2023wmo.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Wie man optimale Radweg-Netze für Städte plant<br />Invited talk at Eurosolar Austria<br/>Vienna, Austria</td></tr>
 	</table>
 	</li>
 	<li class='talk talk-contributed'>
