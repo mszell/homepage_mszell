@@ -138,14 +138,16 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   number = {6765},
   doi = {10.1038/s41598-022-10783-y}
 }</code></pre></div></li>
-    <li class="publi pub-journal">A. Vybornova, T. Cunha, A. Gühnemann, M. Szell<br /><b>Automated Detection of Missing Links in Bicycle Networks</b><br /><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/gean.12324">Geographical Analysis 0, 1-29 (2022)</a><br />
-    <a href="#" onclick="toggle('vybornova2022adm');return false;" id="info-vybornova2022adm"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2022adm.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/vybornova2022adm_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2201.03402"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bikenwgaps"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://fixbike.net"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="vybornova2022adm"><pre><code>@article{vybornova2022adm,
+    <li class="publi pub-journal">A. Vybornova, T. Cunha, A. Gühnemann, M. Szell<br /><b>Automated Detection of Missing Links in Bicycle Networks</b><br /><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/gean.12324">Geographical Analysis 55(2), 239-267 (2023)</a><br />
+    <a href="#" onclick="toggle('vybornova2023adm');return false;" id="info-vybornova2023adm"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/vybornova2023adm_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2201.03402"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bikenwgaps"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://fixbike.net"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="vybornova2023adm"><pre><code>@article{vybornova2023adm,
   title = {Automated Detection of Missing Links in Bicycle Networks},
   author = {Vybornova, Anastassia and Cunha, Tiago and G{\"u}hnemann, Astrid and Szell, Michael},
   journal = {Geographical Analysis},
-  year = {2022},
-  volume = {0},
-  pages = {1--29}
+  year = {2023},
+  volume = {55},
+  number = {2},
+  pages = {239--267},
+  doi = {10.1111/gean.12324}
 }</code></pre></div></li>
   </ul>
 
