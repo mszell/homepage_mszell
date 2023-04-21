@@ -58,6 +58,16 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   doi = {10.48550/arXiv.2303.01223},
   year = {2023}
 }</code></pre></div></li>
+    <li class="publi pub-journal">A. Battiston, L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell, R. Schifanella<br /><b>Revealing the determinants of gender inequality in urban cycling with large-scale data</b><br /><a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00385-7">EPJ Data Science 12, 9 (2023)</a><br />
+    <a href="#" onclick="toggle('battiston2023rdg');return false;" id="info-battiston2023rdg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2023rdg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.09378"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/alibatti/GenderCyclingGapUsingStrava"><div class="linkexternal">Code</div></a><div class="info-expansion" id="battiston2023rdg"><pre><code>@article{battiston2023rdg,
+  title = {Revealing the determinants of gender inequality in urban cycling with large-scale data},
+  author = {Battison, Alice and Napoli, Ludovico and Bajardi, Paolo and Panisson, Andr{\'e} and Perotti, Alan and Szell, Michael and Schifanella, Rossano},
+  journal = {EPJ Data Science},
+  volume = {12},
+  number = {9},
+  doi = {10.1140/epjds/s13688-023-00385-7}
+  year = {2023}
+}</code></pre></div></li>
   </ul>
 
 <h3>2022</h3>
@@ -76,13 +86,6 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   chapter = {Urban Mobility},
   year = {2022},
   note = {arXiv preprint arXiv:2211.00355}
-}</code></pre></div></li>
-    <li class="publi pub-preprint">A. Battiston, L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell, R. Schifanella<br /><b>Revealing the determinants of gender inequality in urban cycling with large-scale data</b><br />
-    <a href="#" onclick="toggle('battiston2022rdg');return false;" id="info-battiston2022rdg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2022rdg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.09378"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/alibatti/GenderCyclingGapUsingStrava"><div class="linkexternal">Code</div></a><div class="info-expansion" id="battiston2022rdg"><pre><code>@article{battiston2022rdg,
-  title = {Revealing the determinants of gender inequality in urban cycling with large-scale data},
-  author = {Battison, Alice and Napoli, Ludovico and Bajardi, Paolo and Panisson, Andr{\'e} and Perotti, Alan and Szell, Michael and Schifanella, Rossano},
-  journal = {arXiv preprint arXiv:2203.09378},
-  year = {2022}
 }</code></pre></div></li>
     <li class="publi pub-journal">S.M. Breum, B. Kostic, M. Szell<br /><b>Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen</b><br /><a href="https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen">Transport Findings 56683 (2022)</a><br />
     <a href="#" onclick="toggle('breum2022cdl');return false;" id="info-breum2022cdl"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.01301"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/SimonBreum/desirelines"><div class="linkexternal">Code</div></a><div class="info-expansion" id="breum2022cdl"><pre><code>@article{breum2022cdl,
@@ -135,7 +138,6 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   number = {6765},
   doi = {10.1038/s41598-022-10783-y}
 }</code></pre></div></li>
-  
     <li class="publi pub-journal">A. Vybornova, T. Cunha, A. Gühnemann, M. Szell<br /><b>Automated Detection of Missing Links in Bicycle Networks</b><br /><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/gean.12324">Geographical Analysis 0, 1-29 (2022)</a><br />
     <a href="#" onclick="toggle('vybornova2022adm');return false;" id="info-vybornova2022adm"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2022adm.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/vybornova2022adm_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2201.03402"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bikenwgaps"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://fixbike.net"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="vybornova2022adm"><pre><code>@article{vybornova2022adm,
   title = {Automated Detection of Missing Links in Bicycle Networks},

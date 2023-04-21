@@ -110,7 +110,7 @@ echo $featuredarea;
 	</li>
 	<li class='talk talk-contributed'>
 	<table>
-	<tr><td class='std col1 date'>2023-04-14</td><td class='std'>The Science of Growing Urban Bicycle Networks<br /><a href="https://www.csh.ac.at/event/csh-itu-copenhagen-workshop-sustainable-mobility-data-networks-and-complexity/">Talk at CSH-ITU workshop Sustainable Mobility: Data, Networks, and Complexity</a><br/>Vienna, Austria</td></tr>
+	<tr><td class='std col1 date'>2023-04-14<br /><a href="../downloads/talk_szell2023sgu.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>The Science of Growing Urban Bicycle Networks<br /><a href="https://www.csh.ac.at/event/csh-itu-copenhagen-workshop-sustainable-mobility-data-networks-and-complexity/">Talk at CSH-ITU workshop Sustainable Mobility: Data, Networks, and Complexity</a><br/>Vienna, Austria</td></tr>
 	</table>
 	</li>
 	<li class='talk talk-invited'>
