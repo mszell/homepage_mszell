@@ -26,11 +26,11 @@ echo $featuredarea;
 		<tr><td class='std col1 date'>2023-09-12</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://ptal-io.github.io/easm2023/">Equitable Accessibility and Sustainable Mobility Workshop 2023 at GIScience 2023</a><br />Leeds, UK</td></tr>
 		<tr><td class='std col1 date'>2023-07-20<br />2023-07-17</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2023</a><br />Copenhagen, Denmark</td></tr>
 		<tr><td class='std col1 date'>2023-04-28<br />2023-04-25</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2023</a><br />Aveiro, Portugal</td></tr>
-		<tr><td class='std col1 date'>2023-04-14</td><td class='std' width='130'>Main organizer</td><td class='std'><a href="https://www.csh.ac.at/event/csh-itu-copenhagen-workshop-sustainable-mobility-data-networks-and-complexity/">CSH-ITU workshop Sustainable Mobility: Data, Networks, and Complexity</a><br />Vienna, Austria</td></tr>
 	</table>
-	<a href="#" onclick="toggle('organization');return false;" id="info-organization">&darr; Toggle past activities &darr;</a>
+	<a href="#" onclick="toggle('organization');return false;" id="info-organization">&darr; Toggle all activities &darr;</a>
 	<div class="expansion" id="organization">
 	<table>
+		<tr><td class='std col1 date'>2023-04-14</td><td class='std' width='130'>Main organizer</td><td class='std'><a href="https://www.csh.ac.at/event/csh-itu-copenhagen-workshop-sustainable-mobility-data-networks-and-complexity/">CSH-ITU workshop Sustainable Mobility: Data, Networks, and Complexity</a><br />Vienna, Austria</td></tr>
 		<tr><td class='std col1 date'>2023-02-10<br />2023-02-07</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://cnet.fi.uba.ar/netscix23/">NetSciX 2023</a><br />Buenos Aires, Brazil</td></tr>
 		<tr><td class='std col1 date'>2022-11-04</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.cityvis.io/workshops/2022/">CityVis 2022</a><br />Potsdam, Germany</td></tr>
 		<tr><td class='std col1 date'>2022-10-20<br />2022-10-19</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.trmlabs.com/complexdatablocks">ComplexDataBlocks</a> satellite of CCS 2022<br />Palma di Mallorca, Spain</td></tr>
@@ -123,6 +123,11 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2022-12-14<br /><a href="../downloads/talk_szell2022bnf.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Bicycle networks: From data quality assessment to computational analysis<br /><a href="https://www.ucl.ac.uk/bartlett/casa/casa-seminar-series-2022-23">CASA Seminar Series</a><br/>London, UK (remotely)</td></tr>
 	</table>
 	</li>
+	</ul>
+	
+	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all talks &darr;</a>
+	<div class="expansion" id="talks">
+	<ul>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2022-12-07<br /><a href="../downloads/talk_rahbekviero2022smd.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Sustainable mobility and data-driven planning<br />ITU, Launch of <a href="https://ccit.itu.dk/">Center for Climate IT</a><br/>Copenhagen, Denmark</td></tr>
@@ -143,11 +148,6 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2022-06-16<br />2022-06-15<br /><a href="https://www.youtube.com/watch?v=yGW2TsV-LDA"><div class="linkexternal">Recording</div></a><br /><a href="../downloads/talk_szell2022eqs.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Establishing a quantitative science of bicycle networks<br /><a href="https://www.turing.ac.uk/events/ua-20-towards-greener-and-sustainable-cities">UA 2.0 – Towards greener and sustainable cities</a><br/>Exeter, UK (remotely)</td></tr>
 	</table>
 	</li>
-	</ul>
-	
-	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all talks &darr;</a>
-	<div class="expansion" id="talks">
-	<ul>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2022-05-24</td><td class='std'>Cycling research at NERDS<br />ISI Foundation workshop<br/>Turin, Italy</td></tr>
