@@ -145,13 +145,13 @@ Toots from <a rel="me" href="https://datasci.social/@mszll">@mszll@datasci.socia
 
     <h2>Recent media coverage</h2>
 
+      <p>Ingeniøren: <a href="https://pro.ing.dk/mobilitytech/artikel/koebenhavns-politi-om-den-nye-diagonale-cykelsti-husk-vores-bemaerkninger-hvis">Københavns Politi om den nye, diagonale cykelsti: Husk vores bemærkninger, hvis pressen ringer</a></p>
+
       <p>Forskerforum: <a href="https://www.forskerforum.dk/magasinet/2022/forskerforum-nr-4-2022">DATANØRDER HAR FUNDET KODEN TIL DET GODE FORSKNINGSMILJØ</a></p>
 
       <p>Radio Ö1: <a href="../downloads/radio_oe102.mp3">Wissen Aktuell - Radwege verbessern durch Netzwerkforschung</a></p>
 
       <p>Prosabladet: <a href="../downloads/article_prosabladet01.pdf">Ny forskning: "Automated Detection of Missing Links in Bicycle Networks</a></p>
-
-      <p>Ingeniøren: <a href="https://pro.ing.dk/datatech/artikel/ugens-data-itu-forskergruppe-vinder-prisen-aarets-forskningsmiljoe-2022">Ugens data: ITU-forskergruppe vinder prisen for årets forskningsmiljø 2022</a></p>
 
       <p><a href="../media/">&rarr; See all media coverage</a></p>
 
@@ -161,7 +161,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2023-04-24 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
+  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2023-05-05 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
 </div>
 EOD;
 
