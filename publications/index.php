@@ -50,13 +50,16 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2023</h3>
   <ul>
-    <li class="publi pub-preprint">A. Rahbek Vierø, A. Vybornova, M. Szell<br /><b>BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</b><br />
+    <li class="publi pub-journal">A. Rahbek Vierø, A. Vybornova, M. Szell<br /><b>BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083231184471">Environment and Planning B 0, 1-17 (2023)</a><br />
     <a href="#" onclick="toggle('rahbekviero2023btb');return false;" id="info-rahbekviero2023btb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/rahbekviero2023btb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2303.01223"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA"><div class="linkexternal">Code</div></a><div class="info-expansion" id="rahbekviero2023btb"><pre><code>@article{rahbekviero2023btb,
   title = {BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment},
   author = {Rahbek Vier{\o}, Ane and Vybornova, Anastassia and Szell, Michael},
-  journal = {arXiv preprint arXiv:2303.01223},
-  doi = {10.48550/arXiv.2303.01223},
-  year = {2023}
+  journal = {Environment and Planning B: Urban Analytics and City Science},
+  year = {2023},
+  volume = {0},
+  number = {0},
+  pages = {1--17},
+  doi = {10.1177/23998083231184471}
 }</code></pre></div></li>
     <li class="publi pub-journal">A. Battiston, L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell, R. Schifanella<br /><b>Revealing the determinants of gender inequality in urban cycling with large-scale data</b><br /><a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00385-7">EPJ Data Science 12, 9 (2023)</a><br />
     <a href="#" onclick="toggle('battiston2023rdg');return false;" id="info-battiston2023rdg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2023rdg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.09378"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/alibatti/GenderCyclingGapUsingStrava"><div class="linkexternal">Code</div></a><div class="info-expansion" id="battiston2023rdg"><pre><code>@article{battiston2023rdg,

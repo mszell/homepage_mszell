@@ -131,13 +131,13 @@ Toots from <a rel="me" href="https://datasci.social/@mszll">@mszll@datasci.socia
 
     <h2>Recent papers</h2>
 
+    <p>Environment and Planning B: <a href="https://journals.sagepub.com/doi/10.1177/23998083231184471">BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</a></p>
+
     <p>EPJ Data Science: <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00385-7">Revealing the determinants of gender inequality in urban cycling with large-scale data</a></p>
 
     <p>Transport Findings: <a href="https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen">Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen</a></p>
 
     <p>Environment and Planning B: <a href="https://journals.sagepub.com/eprint/JAEWNHDIWHYHGXIDNYJC/full">Data-driven micromobility network planning for demand and safety</a></p>
-
-    <p>Environment and Planning B: <a href="https://journals.sagepub.com/doi/10.1177/23998083221108190">Multimodal urban mobility and multilayer transport networks</a></p>
 
     <p><a href="../publications/">&rarr; See all papers</a></p>
 
@@ -161,7 +161,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2023-05-22 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
+  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2023-06-21 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
 </div>
 EOD;
 
