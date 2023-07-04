@@ -38,6 +38,21 @@ echo $featuredarea;
 <ul>
 	<li class='supervision'>
 	<table>
+	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/schelhaas2023nce.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Jan Leonard Schelhaas and Peter Gregory Mehler<br /><b>The N-Minute City: Evaluating multi-modal accessibility in Denamrk and the United States</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/pliesslarsen2023ehs.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Christian Hedegaard Pliess Larsen<br /><b>Exploring Hedging Strategies for Multiple Players in GeoGuessr: A Study of Centrality in Geospatial Networks</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/zielinska2023bsg.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Anita Zielińska and Edi Begovic<br /><b>Bridging shade gaps in urban bicycle networks</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
 	<tr><td class='std col1 date wfix'>2022<br /></td><td class='std'>MSc, Dominik Chomicki<br /><b>Developing a data annotation platform for urban traffic analysis</b></td></tr>
 	</table>
 	</li>
@@ -58,7 +73,7 @@ echo $featuredarea;
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2021<br /><a href="../downloads/vybornova2021icg.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Anastassia Vybornova<br /><b>Identifying and classifying gaps in the bicycle network of Copenhagen</b>
+	<tr><td class='std col1 date wfix'>2021<br /><a href="../downloads/vybornova2021icg.pdf"><div class="filepdf">Thesis</div></a><br /><a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a></td><td class='std'>MSc, Anastassia Vybornova<br /><b>Identifying and classifying gaps in the bicycle network of Copenhagen</b>
 	</table>
 	</li>
 	<li class='supervision'>
