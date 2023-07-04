@@ -38,7 +38,7 @@ echo $featuredarea;
 <ul>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/schelhaas2023nce.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Jan Leonard Schelhaas and Peter Gregory Mehler<br /><b>The N-Minute City: Evaluating multi-modal accessibility in Denamrk and the United States</b></td></tr>
+	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/schelhaas2023nce.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Jan Leonard Schelhaas and Peter Gregory Mehler<br /><b>The N-Minute City: Evaluating multi-modal accessibility in Denmark and the United States</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
