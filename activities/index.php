@@ -22,14 +22,14 @@ echo $featuredarea;
 		<tr><td class='std col1 date'>since<br />2019-08-07</td><td class='std' width='130'>Editor</td><td class='std'><a href="https://www.mdpi.com/journal/ijgi/editors">International Journal of Geo-information</a></td></tr>
 		<tr><td class='std col1 date'>since<br />2018-06-18</td><td class='std' width='130'>Review editor</td><td class='std'><a href="https://www.frontiersin.org/journals/physics/sections/social-physics">Frontiers (Social Physics)</a></td></tr>
 		<tr><td class='std col1 date'>since<br />2018-01-09</td><td class='std' width='130'>Editor</td><td class='std'><a href="http://www.complex-systems.com/">Complex Systems</a></td></tr>
-		<tr><td class='std col1 date'>2024-04-26<br />2024-04-23</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2024</a><br />Exeter, UK</td></tr>
 		<tr><td class='std col1 date'>2023-11-30<br />2023-11-28</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://complexnetworks.org/">Complex Networks 2023</a><br />Nice, France</td></tr>
 		<tr><td class='std col1 date'>2023-09-12</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://ptal-io.github.io/easm2023/">Equitable Accessibility and Sustainable Mobility Workshop 2023 at GIScience 2023</a><br />Leeds, UK</td></tr>
+		<tr><td class='std col1 date'>2023-07-20<br />2023-07-17</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2023</a><br />Copenhagen, Denmark</td></tr>
+		<tr><td class='std col1 date'>2023-07-17</td><td class='std' width='130'>Main organizer</td><td class='std'><a href="https://github.com/NERDSITU/gdstutorial">Geospatial Data Science tutorial, IC2S2 2023</a><br />Copenhagen, Denmark</td></tr>
 	</table>
 	<a href="#" onclick="toggle('organization');return false;" id="info-organization">&darr; Toggle all activities &darr;</a>
 	<div class="expansion" id="organization">
 	<table>
-		<tr><td class='std col1 date'>2023-07-20<br />2023-07-17</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2023</a><br />Copenhagen, Denmark</td></tr>
 		<tr><td class='std col1 date'>2023-04-28<br />2023-04-25</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2023</a><br />Aveiro, Portugal</td></tr>
 		<tr><td class='std col1 date'>2023-04-14</td><td class='std' width='130'>Main organizer</td><td class='std'><a href="https://www.csh.ac.at/event/csh-itu-copenhagen-workshop-sustainable-mobility-data-networks-and-complexity/">CSH-ITU workshop Sustainable Mobility: Data, Networks, and Complexity</a><br />Vienna, Austria</td></tr>
 		<tr><td class='std col1 date'>2023-02-10<br />2023-02-07</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://cnet.fi.uba.ar/netscix23/">NetSciX 2023</a><br />Buenos Aires, Brazil</td></tr>
@@ -104,6 +104,16 @@ echo $featuredarea;
 
 <h3>Talks</h3>
 	<ul>
+	<li class='talk talk-contributed'>
+	<table>
+	<tr><td class='std col1 date'>2023-07-18<br /><a href="../downloads/talk_szell2023cdl.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen<br /><a href="https://www.ic2s2.org/">IC2S2 2023</a><br/>Copenhagen, Denmark</td></tr>
+	</table>
+	</li>
+	<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2023-07-12</td><td class='std'>Urban Data and Network Science for More Cycling and Walking in Cities<br />Invited talk at Büro Happold<br/>Copenhagen, Denmark</td></tr>
+	</table>
+	</li>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2023-04-20<br /><a href="https://www.youtube.com/watch?v=PEDYhxhS7mk"><div class="linkexternal">Recording</div></a><br /><a href="../downloads/talk_szell2023wmo.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Wie man optimale Radweg-Netze für Städte plant<br />Invited talk at Eurosolar Austria<br/>Vienna, Austria</td></tr>

@@ -29,6 +29,7 @@ echo $featuredarea;
 <h3>Teaching materials</h3>
 <ul>
 	<li><a href="https://github.com/mszell/geospatialdatascience">Geospatial Data Science</a></br>ECTS Credits: 7.5</br>This course provides an introduction into core concepts and applications of data science based approaches to geospatial data analysis.</li>
+	<li><a href="https://github.com/NERDSITU/gdstutorial">Geospatial Data Science Tutorial</a></br>This 3h tutorial is a condensed version of the course above, held at <a href="https://www.ic2s2.org/tutorials.html#geospatial">IC2S2'23</a>.</li>
 	<li><a href="https://github.com/mszell/fyp2021">First Year Project</a></br>ECTS Credits: 3.75</br>This course aims to familiarize students with the pipeline for Data Science projects.</li>
 	<li><a href="https://github.com/mszell/introdatasci">Introduction to Data Science and Programming</a></br>ECTS Credits: 15.0</br>This course is an introduction to programming, data science and related foundations.</li>
 </ul>
@@ -36,6 +37,21 @@ echo $featuredarea;
 
 <h3>Supervised students and theses</h3>
 <ul>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/schelhaas2023nce.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Jan Leonard Schelhaas and Peter Gregory Mehler<br /><b>The N-Minute City: Evaluating multi-modal accessibility in Denmark and the United States</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/pliesslarsen2023ehs.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Christian Hedegaard Pliess Larsen<br /><b>Exploring Hedging Strategies for Multiple Players in GeoGuessr: A Study of Centrality in Geospatial Networks</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/zielinska2023bsg.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Anita Zielińska and Edi Begovic<br /><b>Bridging shade gaps in urban bicycle networks</b></td></tr>
+	</table>
+	</li>
 	<li class='supervision'>
 	<table>
 	<tr><td class='std col1 date wfix'>2022<br /></td><td class='std'>MSc, Dominik Chomicki<br /><b>Developing a data annotation platform for urban traffic analysis</b></td></tr>
@@ -58,7 +74,7 @@ echo $featuredarea;
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2021<br /><a href="../downloads/vybornova2021icg.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Anastassia Vybornova<br /><b>Identifying and classifying gaps in the bicycle network of Copenhagen</b>
+	<tr><td class='std col1 date wfix'>2021<br /><a href="../downloads/vybornova2021icg.pdf"><div class="filepdf">Thesis</div></a><br /><a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a></td><td class='std'>MSc, Anastassia Vybornova<br /><b>Identifying and classifying gaps in the bicycle network of Copenhagen</b>
 	</table>
 	</li>
 	<li class='supervision'>
