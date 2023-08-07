@@ -100,16 +100,13 @@ a.k.a. Student drop-in hours: Tue 11-12, or by appointment.
 <h3>Project ideas</h3>
 <p>Below are some ideas for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please use the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
 
-<h4>Current semester</h4>
 </br>
 <img src="../images/teachingproject2022.png" width="580" alt="Project 1"></br></br>
 
-<h4>Previous semesters</h4>
-</br>
-<img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"></br></br>
-<img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"></br></br>
 <a href="#" onclick="toggle('oldprojects');return false;" id="info-oldprojects">&darr; Toggle all previous project ideas &darr;</a>
 <div class="expansion" id="oldprojects">
+<img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"></br></br>
+<img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"></br></br>
 <img src="../images/teachingproject2021_3.png" width="580" alt="Project 3"></br></br>
 <img src="../images/teachingproject2020_1.png" width="580" alt="Project 1"></br></br>
 <img src="../images/teachingproject2020_2.png" width="580" alt="Project 2"></br></br>
@@ -121,12 +118,13 @@ a.k.a. Student drop-in hours: Tue 11-12, or by appointment.
 <h4>Current semester</h4>
 	</br>
 	<table>
-		<tr><td class='std col1 date'>Fall 2022</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=967">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
+		<tr><td class='std col1 date'>Fall 2023</td><td class='std' width='130'>Instructor (70%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1218">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 	</table>
 
 <h4>Past semesters</h4>
 	</br>
 	<table>
+		<tr><td class='std col1 date'>Fall 2022</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=967">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Spring 2022</td><td class='std' width='130'>Instructor (75%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=940">Geospatial Data Science (KSGEDAS1KU)</a></br>ECTS Credits: 7.5</td></tr>
 		<tr><td class='std col1 date'>Fall 2021</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=734">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Spring 2021</td><td class='std' width='130'>Instructor (30%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=590">First Year Project (BSFIYEP1KU)</a></br>ECTS Credits: 15.0</td></tr>
