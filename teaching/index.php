@@ -122,10 +122,11 @@ a.k.a. Student drop-in hours: Tue 11-12, or by appointment.
 <p>Below are some ideas for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please use the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
 
 </br>
-<img src="../images/teachingproject2022.png" width="580" alt="Project 1"></br></br>
+<img src="../images/teachingproject2023.png" width="580" alt="Projects 2023"></br></br>
 
 <a href="#" onclick="toggle('oldprojects');return false;" id="info-oldprojects">&darr; Toggle all previous project ideas &darr;</a>
 <div class="expansion" id="oldprojects">
+<img src="../images/teachingproject2022.png" width="580" alt="Projects 2022"></br></br>
 <img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"></br></br>
 <img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"></br></br>
 <img src="../images/teachingproject2021_3.png" width="580" alt="Project 3"></br></br>
