@@ -39,7 +39,7 @@ echo $featuredarea;
 <ul>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2023<br /></td><td class='std'>MSc, Carlson M. Büth<br /><b>From Gridlocks to Greenways: Analyzing the Network Effects of Computationally Generated Low Traffic Neighborhoods</b></td></tr>
+	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/buth2023gga.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Carlson M. Büth<br /><b>From Gridlocks to Greenways: Analyzing the Network Effects of Computationally Generated Low Traffic Neighborhoods</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
