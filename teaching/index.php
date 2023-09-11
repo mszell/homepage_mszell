@@ -117,8 +117,7 @@ echo $featuredarea;
 <h3>Office hours</h3>
 a.k.a. Student drop-in hours: Tue 11-12, or by appointment.
 
-
-<h3>Project ideas</h3>
+<h3 id="projectideas">Project ideas</h3>
 <p>Below are some ideas for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please use the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
 
 </br>
