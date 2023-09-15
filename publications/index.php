@@ -58,6 +58,16 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2023</h3>
   <ul>
+    <li class="publi pub-journal">D. Rhoads, C. Rames, A. Solé-Ribalta, M.C. González, M. Szell, J. Borge-Holthoefer<br /><b>Sidewalk networks: Review and outlook</b><br /><a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Computers, Environment and Urban Systems 106, 102031 (2023)</a><br />
+    <a href="#" onclick="toggle('rhoads2023snr');return false;" id="info-rhoads2023snr"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/rhoads2023snr.pdf"><div class="filepdf">Article</div></a><div class="info-expansion" id="rhoads2023snr"><pre><code>@article{rhoads2023snr,
+  title = {Sidewalk networks: Review and outlook},
+  author = {Rhoads, Daniel and Rames, Cl{\'e}ment and Sol{\'e}-Ribalta, Albert and Gonz{\'a}lez, Marta C. and Szell, Michael and Borge-Holthoefer, Javier},
+  journal = {Computers, Environment and Urban Systems},
+  year = {2023},
+  volume = {106},
+  pages = {102031},
+  doi = {10.1016/j.compenvurbsys.2023.102031}
+}</code></pre></div></li>
     <li class="publi pub-journal">A. Rahbek Vierø, A. Vybornova, M. Szell<br /><b>BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083231184471">Environment and Planning B 0, 1-17 (2023)</a><br />
     <a href="#" onclick="toggle('rahbekviero2023btb');return false;" id="info-rahbekviero2023btb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/rahbekviero2023btb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2303.01223"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA"><div class="linkexternal">Code</div></a><div class="info-expansion" id="rahbekviero2023btb"><pre><code>@article{rahbekviero2023btb,
   title = {BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment},

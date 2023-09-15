@@ -92,7 +92,7 @@ $featuredarea = <<<EOD
     Welcome! I am associate professor at <a href="https://en.itu.dk">ITU Copenhagen</a>, <a href="https://nerds.itu.dk/">NERDS</a>. My research focuses on mobility, sustainable transport, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="{$URLTOP}/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
-        <div class='updateinfo'>last update 2023-05-22</div>
+        <div class='updateinfo'>last update 2023-09-15</div>
     </div></a>
     			</div>
 
@@ -130,14 +130,13 @@ Toots from <a rel="me" href="https://datasci.social/@mszll">@mszll@datasci.socia
 <hr>
 
     <h2>Recent papers</h2>
+    <p>Computers, Environment and Urban Systems: <a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Sidewalk networks: Review and outlook</a></p>
 
     <p>Environment and Planning B: <a href="https://journals.sagepub.com/doi/10.1177/23998083231184471">BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</a></p>
 
     <p>EPJ Data Science: <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00385-7">Revealing the determinants of gender inequality in urban cycling with large-scale data</a></p>
 
     <p>Transport Findings: <a href="https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen">Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen</a></p>
-
-    <p>Environment and Planning B: <a href="https://journals.sagepub.com/eprint/JAEWNHDIWHYHGXIDNYJC/full">Data-driven micromobility network planning for demand and safety</a></p>
 
     <p><a href="../publications/">&rarr; See all papers</a></p>
 
@@ -161,7 +160,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2023-09-11 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
+  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2023-09-15 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
 </div>
 EOD;
 
