@@ -105,7 +105,12 @@ echo $featuredarea;
 <!--<p>Nature, PNAS, Physical Review Letters, Physical Review E, New Journal of Physics, Europhysics Letters, Social Networks, Scientific Reports, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Journal of Statistical Mechanics, EPJ Data Science, Condensed Matter Physics, Frontiers, Transportation, Games, ACM Transactions on Knowledge Discovery from Data, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Intelligent Transportation Systems, International Journal of Sustainable Transportation, International Journal of Geographical Information Science, Economics Bulletin, Forum neue Medien Austria, Austrian Science Fund (FWF), Netherlands Organisation for Scientific Research (NWO)</p>-->
 
 <h3>Talks</h3>
-	<ul>
+<ul>
+	<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2023-09-20<br /><a href="../downloads/talk_szell2023sfp.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Stories from 1001 paths (over Dybbølsbro)<br /><a href="https://datasci.social/@DataBeersCph">DataBeers Copenhagen</a><br/>Copenhagen, Denmark</td></tr>
+	</table>
+	</li>
 	<li class='talk talk-contributed'>
 	<table>
 	<tr><td class='std col1 date'>2023-07-18<br /><a href="../downloads/talk_szell2023cdl.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen<br /><a href="https://www.ic2s2.org/">IC2S2 2023</a><br/>Copenhagen, Denmark</td></tr>
