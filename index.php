@@ -78,9 +78,8 @@ Michael Szell is associate professor in Data Science at IT University of Copenha
 
 <h3>Research interests</h3>
 <ul>
-	<li>Urban Data Science, Human mobility, Sustainable transport</li>
-	<li>Data visualization, Complex systems, Network science</li>
-	<li>Quantifying human behavior and social networks, in particular online and in cities</li>
+	<li>Primary: Urban/Geospatial Data Science, Human mobility, Sustainable transport</li>
+	<li>Secondary: Network science, Complex systems, Social networks, Data visualization</li>
 </ul>
 
 
