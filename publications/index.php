@@ -29,7 +29,7 @@ echo $featuredarea;
 </br></br></br>
 <a href="#" onclick="toggle('legend');return false;" id="info-legend">&darr; Toggle legend &darr;</a>
 <div class="expansion" id="legend">
-  <p>Last update 2022-11-03</br>
+  <p>Last update 2023-09-21</br>
   Node color: Most recent date of publication with me</br>
   Node size: Duration of collaboration with me</br>
   Link weight: Number of co-publications<br/>

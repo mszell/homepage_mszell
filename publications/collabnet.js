@@ -4,17 +4,17 @@ var width = 600,
     squeezeby = 0.95
 
 var force = d3.layout.force()
-    .charge(-1300)
+    .charge(-1000)
     .linkStrength( function(edge, i) { if (edge.typ == 0) {return (edge.value+1)/5;} else {return edge.value+1;} } )
     .linkDistance( function(edge, i) { if (edge.typ == 0) {return 16-Math.sqrt(edge.value)/2;} else {return (15+210/Math.sqrt(edge.value+1))/squeezeby;} } )
-    .gravity(0.1)
+    .gravity(0.15)
     .size([width, height]);
 
 var svg = d3.select("#collabnet").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-d3.json("mszellcollabnet20221103.json", function(error, graph) {
+d3.json("mszellcollabnet20230921.json", function(error, graph) {
   var nodeMap = {};
     graph.nodes.forEach(function(x) { nodeMap[x.name] = x; });
     graph.links = graph.links.map(function(x) {
