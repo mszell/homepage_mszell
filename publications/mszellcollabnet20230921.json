@@ -424,6 +424,7 @@
     {"source":"gonzalez","target":"couronne","value":5,"yearfirst":2012,"yearlast":2015, "typ":0},
     {"source":"gonzalez","target":"borgeholthoefer","value":1,"yearfirst":2023,"yearlast":2023, "typ":0},
     {"source":"gonzalez","target":"smoreda","value":5,"yearfirst":2012,"yearlast":2015, "typ":0},
+    {"source":"gonzalez","target":"simini","value":1,"yearfirst":2012,"yearlast":2012, "typ":0},
     {"source":"alessandretti","target":"gauvin","value":1,"yearfirst":2016,"yearlast":2016, "typ":0}
   ]
 }
