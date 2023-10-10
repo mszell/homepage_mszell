@@ -35,7 +35,8 @@ echo $featuredarea;
 </ul>
 
 
-<h3>Supervised students and theses</h3>
+<h3 id="supervisedtheses">Supervised students and theses</h3>
+<p>All theses made available with explicit consent by the students.</p>
 <ul>
 	<li class='supervision'>
 	<table>
