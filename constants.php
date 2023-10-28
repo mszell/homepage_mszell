@@ -89,7 +89,7 @@ $portrait = "
 
 $featuredarea = <<<EOD
     			<div class="portrait-text">
-    Welcome! I am associate professor at <a href="https://en.itu.dk">ITU Copenhagen</a>, <a href="https://nerds.itu.dk/">NERDS</a>. My research focuses on mobility, sustainable transport, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
+    Welcome! I am associate professor at <a href="https://nerds.itu.dk/">NERDS, ITU Copenhagen</a>. My research focuses on sustainable mobility, bicycle networks, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="{$URLTOP}/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
         <div class='updateinfo'>last update 2023-09-15</div>
