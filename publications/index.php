@@ -117,15 +117,15 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   volume = {56683},
   doi = {10.32866/001c.56683}
 }</code></pre></div></li>
-    <li class="publi pub-journal">P. Folco, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Data-driven micromobility network planning for demand and safety</b><br /><a href="https://journals.sagepub.com/eprint/JAEWNHDIWHYHGXIDNYJC/full">Environment and Planning B 0, 1-16 (2022)</a><br />
-    <a href="#" onclick="toggle('folco2022dmn');return false;" id="info-folco2022dmn"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/folco2022dmn.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.14619"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/pietrofolco/Data-driven_bicycle_network_planning_for_demand_and_safety"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://www.datainterfaces.org/projects/biketracks/#turin"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="folco2022dmn"><pre><code>@article{folco2022dmn,
+    <li class="publi pub-journal">P. Folco, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Data-driven micromobility network planning for demand and safety</b><br /><a href="https://doi.org/10.1177/23998083221135611">Environment and Planning B 50(8), 2087-2102 (2023)</a><br />
+    <a href="#" onclick="toggle('folco2023dmn');return false;" id="info-folco2023dmn"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/folco2023dmn.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.14619"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/pietrofolco/Data-driven_bicycle_network_planning_for_demand_and_safety"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://www.datainterfaces.org/projects/biketracks/#turin"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="folco2023dmn"><pre><code>@article{folco2023dmn,
   title = {Data-driven micromobility network planning for demand and safety},
   author = {Folco, Pietro and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
   journal = {Environment and Planning B: Urban Analytics and City Science},
-  year = {2022},
-  volume = {0},
-  number = {0},
-  pages = {1--16},
+  year = {2023},
+  volume = {50},
+  number = {8},
+  pages = {2087--2102},
   doi = {10.1177/23998083221135611}
 }</code></pre></div></li>
     <li class="publi pub-journal">L. Alessandretti, L.G. Natera Orozco, M. Saberi, M. Szell, F. Battiston<br /><b>Multimodal urban mobility and multilayer transport networks</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083221108190">Environment and Planning B 0, 1-33 (2022)</a><br />
