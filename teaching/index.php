@@ -28,10 +28,14 @@ echo $featuredarea;
 
 <h3>Teaching materials</h3>
 <ul>
-	<li><a href="https://github.com/mszell/geospatialdatascience">Geospatial Data Science</a></br>ECTS Credits: 7.5</br>This course provides an introduction into core concepts and applications of data science based approaches to geospatial data analysis.</li>
-	<li><a href="https://github.com/NERDSITU/gdstutorial">Geospatial Data Science Tutorial</a></br>This 3h tutorial is a condensed version of the course above, held at <a href="https://www.ic2s2.org/tutorials.html#geospatial">IC2S2'23</a>.</li>
-	<li><a href="https://github.com/mszell/fyp2021">First Year Project</a></br>ECTS Credits: 3.75</br>This course aims to familiarize students with the pipeline for Data Science projects.</li>
-	<li><a href="https://github.com/mszell/introdatasci">Introduction to Data Science and Programming</a></br>ECTS Credits: 15.0</br>This course is an introduction to programming, data science and related foundations.</li>
+	<li><a href="https://github.com/mszell/geospatialdatascience">Geospatial Data Science</a></br><iframe src="https://ghbtns.com/github-btn.html?user=mszell&repo=geospatialdatascience
+&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe></br>ECTS Credits: 7.5</br>This course provides an introduction into core concepts and applications of data science based approaches to geospatial data analysis.</li>
+	<li><a href="https://github.com/NERDSITU/gdstutorial">Geospatial Data Science Tutorial</a></br><iframe src="https://ghbtns.com/github-btn.html?user=NERDSITU&repo=gdstutorial
+&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe></br>This 3h tutorial is a condensed version of the course above, held at <a href="https://www.ic2s2.org/tutorials.html#geospatial">IC2S2'23</a>.</li>
+	<li><a href="https://github.com/mszell/fyp2021">First Year Project</a></br><iframe src="https://ghbtns.com/github-btn.html?user=mszell&repo=fyp2021
+&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe></br>ECTS Credits: 3.75</br>This course aims to familiarize students with the pipeline for Data Science projects.</li>
+	<li><a href="https://github.com/mszell/introdatasci">Introduction to Data Science and Programming</a></br><iframe src="https://ghbtns.com/github-btn.html?user=mszell&repo=introdatasci
+&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe></br>ECTS Credits: 15.0</br>This course is an introduction to programming, data science and related foundations.</li>
 </ul>
 
 
