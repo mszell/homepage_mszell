@@ -44,7 +44,10 @@ d3.json("mszellcollabnet20230921.json", function(error, graph) {
       .enter().append("circle")
       .attr("class", "node")
       .attr("r", function(d) { return 6+2*Math.max(d.yearlast-d.yearfirst, 0); })
-      .style("fill", function(d) { return "#9"+Math.max(Math.min(9-(d.yearlast-(curyear-9)), 9), 0)+""+Math.max(Math.min(9-(d.yearlast-(curyear-9)), 9), 0)+""; })
+      .style("fill", function(d) { 
+        if (curyear-d.yearlast > 9) {return "#D9D9D9";} // 10y+ old is barely visible
+        else {return "#9"+Math.max(Math.min(9-(d.yearlast-(curyear-9)), 9), 0)+""+Math.max(Math.min(9-(d.yearlast-(curyear-9)), 9), 0)+""; }
+        })
       .call(force.drag)
       .on('mouseover', tip.show) //Added
       .on('mouseout', tip.hide); //Added
