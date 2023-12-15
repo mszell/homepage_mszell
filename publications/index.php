@@ -424,7 +424,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   doi = {10.1073/pnas.1403657111}
 }</code></pre></div></li>
 		<li class="publi pub-other">M. Szell<br /><b>Connecting Paradigms</b><br /><a href="https://www.science.org/doi/full/10.1126/science.1249599">Science 343(6174), 970-971 (2014)</a><br />
-    <a href="#" onclick="toggle('szell2014cp');return false;" id="info-szell2014cp"><div class="filebib">Bib</div></a> &nbsp; <a href="http://www.sciencemag.org/cgi/rapidpdf/343/6174/970?ijkey=doMi4KrdCymkw&keytype=ref&siteid=sci"><div class="filepdf">Article</div></a><div class="info-expansion" id="szell2014cp"><pre><code>@article{szell2014cp,
+    <a href="#" onclick="toggle('szell2014cp');return false;" id="info-szell2014cp"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2014cp.pdf"><div class="filepdf">Article</div></a><div class="info-expansion" id="szell2014cp"><pre><code>@article{szell2014cp,
   title = {Connecting Paradigms},
   author = {Szell, Michael},
   journal = {Science},
