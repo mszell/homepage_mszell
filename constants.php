@@ -92,7 +92,7 @@ $featuredarea = <<<EOD
     Welcome! I am associate professor at <a href="https://nerds.itu.dk/">NERDS, ITU Copenhagen</a>. My research focuses on sustainable mobility, bicycle networks, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="{$URLTOP}/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
-        <div class='updateinfo'>last update 2023-09-15</div>
+        <div class='updateinfo'>last update 2024-02-09</div>
     </div></a>
     			</div>
 
