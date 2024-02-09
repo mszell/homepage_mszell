@@ -135,15 +135,15 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   pages = {2087--2102},
   doi = {10.1177/23998083221135611}
 }</code></pre></div></li>
-    <li class="publi pub-journal">L. Alessandretti, L.G. Natera Orozco, M. Saberi, M. Szell, F. Battiston<br /><b>Multimodal urban mobility and multilayer transport networks</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083221108190">Environment and Planning B 0, 1-33 (2022)</a><br />
-    <a href="#" onclick="toggle('alessandretti2022mum');return false;" id="info-alessandretti2022mum"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/alessandretti2022mum.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2111.02152"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="alessandretti2022mum"><pre><code>@article{alessandretti2022mum,
+    <li class="publi pub-journal">L. Alessandretti, L.G. Natera Orozco, M. Saberi, M. Szell, F. Battiston<br /><b>Multimodal urban mobility and multilayer transport networks</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083221108190">Environment and Planning B 50(8), 2038-2070 (2023)</a><br />
+    <a href="#" onclick="toggle('alessandretti2023mum');return false;" id="info-alessandretti2023mum"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/alessandretti2023mum.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2111.02152"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="alessandretti2023mum"><pre><code>@article{alessandretti2023mum,
   title = {Multimodal urban mobility and multilayer transport networks},
   author = {Alessandretti, Laura and Natera Orozco, Luis Guillermo and Saberi, Meead and Szell, Michael and Battiston, Federico},
   journal = {Environment and Planning B: Urban Analytics and City Science},
-  year = {2022},
-  volume = {0},
-  number = {0},
-  pages = {1--33},
+  year = {2023},
+  volume = {50},
+  number = {8},
+  pages = {2038--2070},
   doi = {10.1177/23998083221108190}
 }</code></pre></div></li>
     <li class="publi pub-journal">M. Klanjčić, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Identifying urban features for vulnerable road user safety in Europe</b><br /><a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00339-5">EPJ Data Science 11, 27 (2022)</a><br />
