@@ -59,7 +59,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 <h3>2023</h3>
   <ul>
     <li class="publi pub-preprint">A. Rahbek Vierø, A. Vybornova, M. Szell<br /><b>How Good Is Open Bicycle Infrastructure Data? A Countrywide Case Study of Denmark</b><br />
-    <a href="#" onclick="toggle('rahbekviero2023hgo.pdf');return false;" id="info-rahbekviero2023hgo.pdf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/rahbekviero2023hgo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2312.02632"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA_BIG"><div class="linkexternal">Code</div></a><div class="info-expansion" id="rahbekviero2023hgo.pdf"><pre><code>@article{rahbekviero2023hgo,
+    <a href="#" onclick="toggle('viero2023hgo.pdf');return false;" id="info-viero2023hgo.pdf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2023hgo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2312.02632"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA_BIG"><div class="linkexternal">Code</div></a><div class="info-expansion" id="viero2023hgo.pdf"><pre><code>@article{viero2023hgo,
   title = {How Good Is Open Bicycle Infrastructure Data? A Countrywide Case Study of Denmark},
   author = {Rahbek Vier{\o}, Ane and Vybornova, Anastassia and Szell, Michael},
   journal = {arXiv preprint arXiv:2312.02632},
@@ -75,15 +75,15 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   pages = {102031},
   doi = {10.1016/j.compenvurbsys.2023.102031}
 }</code></pre></div></li>
-    <li class="publi pub-journal">A. Rahbek Vierø, A. Vybornova, M. Szell<br /><b>BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083231184471">Environment and Planning B 0, 1-17 (2023)</a><br />
-    <a href="#" onclick="toggle('rahbekviero2023btb');return false;" id="info-rahbekviero2023btb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/rahbekviero2023btb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2303.01223"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA"><div class="linkexternal">Code</div></a><div class="info-expansion" id="rahbekviero2023btb"><pre><code>@article{rahbekviero2023btb,
+    <li class="publi pub-journal">A. Rahbek Vierø, A. Vybornova, M. Szell<br /><b>BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083231184471">Environment and Planning B 51(2), 512-528 (2024)</a><br />
+    <a href="#" onclick="toggle('viero2024btb');return false;" id="info-viero2024btb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024btb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2303.01223"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA"><div class="linkexternal">Code</div></a><div class="info-expansion" id="viero2024btb"><pre><code>@article{viero2024btb,
   title = {BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment},
   author = {Rahbek Vier{\o}, Ane and Vybornova, Anastassia and Szell, Michael},
   journal = {Environment and Planning B: Urban Analytics and City Science},
-  year = {2023},
-  volume = {0},
-  number = {0},
-  pages = {1--17},
+  year = {2024},
+  volume = {51},
+  number = {2},
+  pages = {512--528},
   doi = {10.1177/23998083231184471}
 }</code></pre></div></li>
     <li class="publi pub-journal">A. Battiston, L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell, R. Schifanella<br /><b>Revealing the determinants of gender inequality in urban cycling with large-scale data</b><br /><a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00385-7">EPJ Data Science 12, 9 (2023)</a><br />
