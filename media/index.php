@@ -32,6 +32,14 @@ echo $featuredarea;
 <h3>Media coverage (selection)</h3>
 	<table>
 	    <!--<tr><td class='std col1 date'>2010-07</td><td class='std'>XXXXX</td><td class='std'>YYYYYY<br /><a href="ZZZZZZ"><div class="linkexternal">Online report</div></a></td></tr> -->
+	    
+	    <tr><td class='std col1 date'>2024-03-27</td><td class='std'>ORF Wien Heute</td><td class='std'>Radinfrastruktur ausbaufähig<br /><a href="https://tvthek.orf.at/profile/Wien-heute/70018/Wien-heute-vom-27-03-2024/14219951/Radinfrastruktur-ausbaufaehig/15608017"><div class="linkexternal">TV report</div></a> &nbsp; <a href="../downloads/wienheute01.mp4"><div class="linkexternal">Recording</div></a></br>
+	    	<video width="320" height="240" controls>
+  				<source src="../downloads/wienheute01.mp4" type="video/mp4">
+  				Your browser does not support the video tag.
+			</video>
+		</td></tr>
+	    <tr><td class='std col1 date'>2024-03-27</td><td class='std'>wien.orf.at</td><td class='std'>Radwege sollen möglichst direkt verlaufen<br /><a href="https://wien.orf.at/stories/3249925/"><div class="linkexternal">Online report</div></a> &nbsp; <a href="../downloads/article_wienorfat.pdf"><div class="filepdf">Article</div></a></td></tr>
 	    <tr><td class='std col1 date'>2023-05-05</td><td class='std'>Ingeniøren</td><td class='std'>Københavns Politi om den nye, diagonale cykelsti: Husk vores bemærkninger, hvis pressen ringer<br /><a href="https://pro.ing.dk/mobilitytech/artikel/koebenhavns-politi-om-den-nye-diagonale-cykelsti-husk-vores-bemaerkninger-hvis"><div class="linkexternal">Online report</div></a> &nbsp; <a href="../downloads/article_ingenioren02.pdf"><div class="filepdf">Article (EN)</div></a></td></tr>
 	    <tr><td class='std col1 date'>2022-06-23</td><td class='std'>Forskerforum</td><td class='std'> DATANØRDER HAR FUNDET KODEN TIL DET GODE FORSKNINGSMILJØ<br /><a href="https://www.forskerforum.dk/magasinet/2022/forskerforum-nr-4-2022"><div class="linkexternal">Online report</div></a> &nbsp; <a href="../downloads/article_forskerforum01.pdf"><div class="filepdf">Article</div></a></td></tr>
 	    <tr><td class='std col1 date'>2022-06-21</td><td class='std'>Radio Ö1</td><td class='std'>Wissen Aktuell - Radwege verbessern durch Netzwerkforschung<br /><a href="https://oe1.orf.at/player/20220621/682503"><div class="linkexternal">Radio show</div></a> &nbsp; <a href="../downloads/radio_oe102.mp3"><div class="linkexternal">Recording</div></a></td></tr>
