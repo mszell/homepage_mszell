@@ -56,15 +56,23 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   </ul>
 </div>
 
+<h3>2024</h3>
+ <ul>
+    <li class="publi pub-journal">A. Rahbek Vierø, A. Vybornova, M. Szell<br /><b>How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark</b><br />
+        <a href="https://onlinelibrary.wiley.com/doi/10.1111/gean.12400">Geographical Analysis (2024, in print)</a><br />
+    <a href="#" onclick="toggle('viero2024hgo.pdf');return false;" id="info-viero2024hgo.pdf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024hgo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2312.02632"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA_BIG"><div class="linkexternal">Code</div></a><div class="info-expansion" id="viero2024hgo.pdf"><pre><code>@article{viero2024hgo,
+  title = {How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark},
+  author = {Rahbek Vier{\o}, Ane and Vybornova, Anastassia and Szell, Michael},
+  journal = {Geographical Analysis},
+  volume = {0},
+  number = {0},
+  doi = {10.1111/gean.12400}
+  year = {2024}
+}</code></pre></div></li>
+  </ul>
+
 <h3>2023</h3>
   <ul>
-    <li class="publi pub-preprint">A. Rahbek Vierø, A. Vybornova, M. Szell<br /><b>How Good Is Open Bicycle Infrastructure Data? A Countrywide Case Study of Denmark</b><br />
-    <a href="#" onclick="toggle('viero2023hgo.pdf');return false;" id="info-viero2023hgo.pdf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2023hgo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2312.02632"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA_BIG"><div class="linkexternal">Code</div></a><div class="info-expansion" id="viero2023hgo.pdf"><pre><code>@article{viero2023hgo,
-  title = {How Good Is Open Bicycle Infrastructure Data? A Countrywide Case Study of Denmark},
-  author = {Rahbek Vier{\o}, Ane and Vybornova, Anastassia and Szell, Michael},
-  journal = {arXiv preprint arXiv:2312.02632},
-  year = {2023}
-}</code></pre></div></li>
     <li class="publi pub-journal">D. Rhoads, C. Rames, A. Solé-Ribalta, M.C. González, M. Szell, J. Borge-Holthoefer<br /><b>Sidewalk networks: Review and outlook</b><br /><a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Computers, Environment and Urban Systems 106, 102031 (2023)</a><br />
     <a href="#" onclick="toggle('rhoads2023snr');return false;" id="info-rhoads2023snr"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/rhoads2023snr.pdf"><div class="filepdf">Article</div></a><div class="info-expansion" id="rhoads2023snr"><pre><code>@article{rhoads2023snr,
   title = {Sidewalk networks: Review and outlook},
