@@ -58,6 +58,13 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2024</h3>
  <ul>
+    <li class="publi pub-preprint">L.M. Aiello, A. Vybornova, S. Juhász, M. Szell, E. Bokányi<br /><b>Urban highways are barriers to social ties</b><br />
+    <a href="#" onclick="toggle('aiello2024uhb');return false;" id="info-aiello2024uhb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/aiello2024uhb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/aiello2024uhb_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.11596"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="aiello2024uhb"><pre><code>@inproceedings{aiello2024uhb,
+  title = {Urban highways are barriers to social ties},
+  author = {Aiello, Luca Maria and Vybornova, Anastassia and Juhász, S{\'a}ndor and Szell, Michael and Bok{\'a}nyi, Eszter},
+  journal = {arXiv preprint arXiv:2404.11596},
+  year = {2024}
+}</code></pre></div></li>
     <li class="publi pub-journal">A. Rahbek Vierø, A. Vybornova, M. Szell<br /><b>How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark</b><br />
         <a href="https://onlinelibrary.wiley.com/doi/10.1111/gean.12400">Geographical Analysis (2024, in print)</a><br />
     <a href="#" onclick="toggle('viero2024hgo.pdf');return false;" id="info-viero2024hgo.pdf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024hgo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2312.02632"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA_BIG"><div class="linkexternal">Code</div></a><div class="info-expansion" id="viero2024hgo.pdf"><pre><code>@article{viero2024hgo,
