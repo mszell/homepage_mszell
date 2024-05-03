@@ -58,6 +58,13 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2024</h3>
  <ul>
+    <li class="publi pub-preprint">H. Wolf, A.R. Vierø, M. Szell<br /><b>CoolWalks: Assessing the potential of shaded routing for active mobility in urban street networks</b><br />
+    <a href="#" onclick="toggle('wolf2024cap');return false;" id="info-wolf2024cap"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/wolf2024cap.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.01225"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/henrik-wolf/CoolWalks"><div class="linkexternal">Code</div></a><div class="info-expansion" id="wolf2024cap"><pre><code>@article{wolf2024cap,
+  title = {{CoolWalks: Assessing} the potential of shaded routing for active mobility in urban street networks},
+  author = {Wolf, Henrik and Vier{\o}, Ane Rahbek and Szell, Michael},
+  journal = {arXiv preprint arXiv:2405.01225},
+  year = {2024}
+}</code></pre></div></li>
     <li class="publi pub-preprint">C.M. Büth, A. Vybornova, M. Szell<br /><b>superblockify: A Python Package for Automated
 Generation, Visualization, and Analysis of Potential Superblocks in Cities</b><br />
     <a href="#" onclick="toggle('buth2024spp');return false;" id="info-buth2024spp"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/buth2024spp.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.15062"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/superblockify"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://superblockify.city/"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="buth2024spp"><pre><code>@article{buth2024spp,
@@ -74,11 +81,11 @@ Generation, Visualization, and Analysis of Potential Superblocks in Cities},
   journal = {arXiv preprint arXiv:2404.11596},
   year = {2024}
 }</code></pre></div></li>
-    <li class="publi pub-journal">A. Rahbek Vierø, A. Vybornova, M. Szell<br /><b>How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark</b><br />
+    <li class="publi pub-journal">A.R. Vierø, A. Vybornova, M. Szell<br /><b>How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark</b><br />
         <a href="https://onlinelibrary.wiley.com/doi/10.1111/gean.12400">Geographical Analysis (2024, in print)</a><br />
     <a href="#" onclick="toggle('viero2024hgo.pdf');return false;" id="info-viero2024hgo.pdf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024hgo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2312.02632"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA_BIG"><div class="linkexternal">Code</div></a><div class="info-expansion" id="viero2024hgo.pdf"><pre><code>@article{viero2024hgo,
   title = {How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark},
-  author = {Rahbek Vier{\o}, Ane and Vybornova, Anastassia and Szell, Michael},
+  author = {Vier{\o}, Ane Rahbek and Vybornova, Anastassia and Szell, Michael},
   journal = {Geographical Analysis},
   volume = {0},
   number = {0},
@@ -99,10 +106,10 @@ Generation, Visualization, and Analysis of Potential Superblocks in Cities},
   pages = {102031},
   doi = {10.1016/j.compenvurbsys.2023.102031}
 }</code></pre></div></li>
-    <li class="publi pub-journal">A. Rahbek Vierø, A. Vybornova, M. Szell<br /><b>BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083231184471">Environment and Planning B 51(2), 512-528 (2024)</a><br />
+    <li class="publi pub-journal">A.R. Vierø, A. Vybornova, M. Szell<br /><b>BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083231184471">Environment and Planning B 51(2), 512-528 (2024)</a><br />
     <a href="#" onclick="toggle('viero2024btb');return false;" id="info-viero2024btb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024btb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2303.01223"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA"><div class="linkexternal">Code</div></a><div class="info-expansion" id="viero2024btb"><pre><code>@article{viero2024btb,
   title = {BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment},
-  author = {Rahbek Vier{\o}, Ane and Vybornova, Anastassia and Szell, Michael},
+  author = {Vier{\o}, Ane Rahbek and Vybornova, Anastassia and Szell, Michael},
   journal = {Environment and Planning B: Urban Analytics and City Science},
   year = {2024},
   volume = {51},
