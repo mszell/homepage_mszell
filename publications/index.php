@@ -58,6 +58,13 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2024</h3>
  <ul>
+    <li class="publi pub-preprint">A. Lonardi, M. Szell, C. De Bacco<br /><b>Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks</b><br />
+    <a href="#" onclick="toggle('lonardi2024cub');return false;" id="info-lonardi2024cub"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/lonardi2024cub.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.02052"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/cdebacco/MultiOT"><div class="linkexternal">Code</div></a><div class="info-expansion" id="lonardi2024cub"><pre><code>@article{lonardi2024cub,
+  title = {Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks},
+  author = {Lonardi, Alessandro and Szell, Michael and De Bacco, Caterina},
+  journal = {arXiv preprint arXiv:2405.02052},
+  year = {2024}
+}</code></pre></div></li>
     <li class="publi pub-preprint">H. Wolf, A.R. Vierø, M. Szell<br /><b>CoolWalks: Assessing the potential of shaded routing for active mobility in urban street networks</b><br />
     <a href="#" onclick="toggle('wolf2024cap');return false;" id="info-wolf2024cap"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/wolf2024cap.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.01225"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/henrik-wolf/CoolWalks"><div class="linkexternal">Code</div></a><div class="info-expansion" id="wolf2024cap"><pre><code>@article{wolf2024cap,
   title = {{CoolWalks: Assessing} the potential of shaded routing for active mobility in urban street networks},
