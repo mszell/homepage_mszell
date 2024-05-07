@@ -82,7 +82,7 @@ Generation, Visualization, and Analysis of Potential Superblocks in Cities},
   year = {2024}
 }</code></pre></div></li>
     <li class="publi pub-preprint">L.M. Aiello, A. Vybornova, S. Juhász, M. Szell, E. Bokányi<br /><b>Urban highways are barriers to social ties</b><br />
-    <a href="#" onclick="toggle('aiello2024uhb');return false;" id="info-aiello2024uhb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/aiello2024uhb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/aiello2024uhb_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.11596"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="aiello2024uhb"><pre><code>@article{aiello2024uhb,
+    <a href="#" onclick="toggle('aiello2024uhb');return false;" id="info-aiello2024uhb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/aiello2024uhb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/aiello2024uhb_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.11596"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/urban-highways"><div class="linkexternal">Code</div></a><div class="info-expansion" id="aiello2024uhb"><pre><code>@article{aiello2024uhb,
   title = {Urban highways are barriers to social ties},
   author = {Aiello, Luca Maria and Vybornova, Anastassia and Juhász, S{\'a}ndor and Szell, Michael and Bok{\'a}nyi, Eszter},
   journal = {arXiv preprint arXiv:2404.11596},
