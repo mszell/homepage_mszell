@@ -142,13 +142,13 @@ Toots from <a rel="me" href="https://datasci.social/@mszll">@mszll@datasci.socia
 <hr>
     <h2>Recent media coverage</h2>
 
+      <p>The Conversation: <a href="https://theconversation.com/hundreds-of-cities-have-achieved-zero-road-deaths-in-a-year-heres-how-they-did-it-229127">Hundreds of cities have achieved zero road deaths in a year. Here’s how they did it</a></p>
+
       <p>ORF Wien Heute: <a href="https://tvthek.orf.at/profile/Wien-heute/70018/Wien-heute-vom-27-03-2024/14219951/Radinfrastruktur-ausbaufaehig/15608017">Radinfrastruktur ausbaufähig</a></p>
 
       <p>wien.orf.at: <a href="https://wien.orf.at/stories/3249925/">Radwege sollen möglichst direkt verlaufen</a></p>
 
       <p>Ingeniøren: <a href="https://pro.ing.dk/mobilitytech/artikel/koebenhavns-politi-om-den-nye-diagonale-cykelsti-husk-vores-bemaerkninger-hvis">Københavns Politi om den nye, diagonale cykelsti: Husk vores bemærkninger, hvis pressen ringer</a></p>
-
-      <p>Forskerforum: <a href="https://www.forskerforum.dk/magasinet/2022/forskerforum-nr-4-2022">DATANØRDER HAR FUNDET KODEN TIL DET GODE FORSKNINGSMILJØ</a></p>
 
       <p><a href="../media/">&rarr; See all media coverage</a></p>
 
@@ -158,7 +158,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2024-05-07 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
+  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2024-05-14 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
 </div>
 EOD;
 

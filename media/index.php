@@ -33,6 +33,7 @@ echo $featuredarea;
 	<table>
 	    <!--<tr><td class='std col1 date'>2010-07</td><td class='std'>XXXXX</td><td class='std'>YYYYYY<br /><a href="ZZZZZZ"><div class="linkexternal">Online report</div></a></td></tr> -->
 	    
+	    <tr><td class='std col1 date'>2024-05-06</td><td class='std'>The Conversation</td><td class='std'>Hundreds of cities have achieved zero road deaths in a year. Here’s how they did it<br /><a href="https://theconversation.com/hundreds-of-cities-have-achieved-zero-road-deaths-in-a-year-heres-how-they-did-it-229127"><div class="linkexternal">Online report</div></a></td></tr>
 	    <tr><td class='std col1 date'>2024-03-27</td><td class='std'>ORF Wien Heute</td><td class='std'>Radinfrastruktur ausbaufähig<br /><a href="https://tvthek.orf.at/profile/Wien-heute/70018/Wien-heute-vom-27-03-2024/14219951/Radinfrastruktur-ausbaufaehig/15608017"><div class="linkexternal">TV report</div></a> &nbsp; <a href="../downloads/wienheute01.mp4"><div class="linkexternal">Recording</div></a></br>
 	    	<video width="320" height="240" controls>
   				<source src="../downloads/wienheute01.mp4" type="video/mp4">
