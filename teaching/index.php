@@ -17,7 +17,7 @@ echo $featuredarea;
 			<div class="main-with-sidebar">
 
 <h3>BA or MSc supervision</h3>
-<p>Please go to: <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a></p>
+<p>I am not supervising BA or MSc projects until Fall 2025. For supervision opportunities through my colleagues, please go to: <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a></p>
 
 
 <h3>PhD supervision, PostDoc, internships</h3>
@@ -119,17 +119,11 @@ echo $featuredarea;
 	</li>
 </ul>
 
-<h3>Office hours</h3>
-a.k.a. Student drop-in hours: Tue 11-12, or by appointment.
-
 <h3 id="projectideas">Project ideas</h3>
-<p>Below are some ideas for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please use the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
-
-</br>
-<img src="../images/teachingproject2023.png" width="580" alt="Projects 2023"></br></br>
-
+<p>I am not supervising BA or MSc projects until Fall 2025. Below are some previous ideas for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please use the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
 <a href="#" onclick="toggle('oldprojects');return false;" id="info-oldprojects">&darr; Toggle all previous project ideas &darr;</a>
 <div class="expansion" id="oldprojects">
+<img src="../images/teachingproject2023.png" width="580" alt="Projects 2023"></br></br>
 <img src="../images/teachingproject2022.png" width="580" alt="Projects 2022"></br></br>
 <img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"></br></br>
 <img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"></br></br>
@@ -141,15 +135,8 @@ a.k.a. Student drop-in hours: Tue 11-12, or by appointment.
 
 
 <h3>Teaching activities</h3>
-<h4>Current semester</h4>
-	</br>
 	<table>
 		<tr><td class='std col1 date'>Spring 2024</td><td class='std' width='130'>Instructor (100%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1410">Geospatial Data Science (KSGEDAS1KU)</a></br>ECTS Credits: 7.5</td></tr>
-	</table>
-
-<h4>Past semesters</h4>
-	</br>
-	<table>
 		<tr><td class='std col1 date'>Fall 2023</td><td class='std' width='130'>Instructor (70%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1218">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Fall 2022</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=967">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Spring 2022</td><td class='std' width='130'>Instructor (75%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=940">Geospatial Data Science (KSGEDAS1KU)</a></br>ECTS Credits: 7.5</td></tr>
