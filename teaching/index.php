@@ -120,17 +120,18 @@ echo $featuredarea;
 </ul>
 
 <h3 id="projectideas">Project ideas</h3>
-<p>I am not supervising BA or MSc projects until Fall 2025. Below are some previous ideas for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please use the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
+<p>I am not supervising BA or MSc projects until Fall 2025. Below are some previous ideas and results for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please use the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
 <a href="#" onclick="toggle('oldprojects');return false;" id="info-oldprojects">&darr; Toggle all previous project ideas &darr;</a>
 <div class="expansion" id="oldprojects">
-<img src="../images/teachingproject2023.png" width="580" alt="Projects 2023"></br></br>
-<img src="../images/teachingproject2022.png" width="580" alt="Projects 2022"></br></br>
-<img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"></br></br>
+<img src="../images/teachingproject2023.png" width="580" alt="Projects 2023">
+Results: <a href="https://superblockify.city/"><div class="linkexternal">superblockify.city</div></a></br></br>
+<img src="../images/teachingproject2022.png" width="580" alt="Projects 2022">Results: <a href="../downloads/pliesslarsen2023ehs.pdf"><div class="filepdf">Thesis</div></a></br></br>
+<img src="../images/teachingproject2021_1.png" width="580" alt="Project 1">Results: <a href="../downloads/wolf2024cap.pdf"><div class="filepdf">Article</div></a></br></br>
 <img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"></br></br>
 <img src="../images/teachingproject2021_3.png" width="580" alt="Project 3"></br></br>
-<img src="../images/teachingproject2020_1.png" width="580" alt="Project 1"></br></br>
-<img src="../images/teachingproject2020_2.png" width="580" alt="Project 2"></br></br>
-<img src="../images/teachingproject2020_3.png" width="580" alt="Project 3"></br></br>
+<img src="../images/teachingproject2020_1.png" width="580" alt="Project 1">Results: <a href="https://growbike.net/"><div class="linkexternal">growbike.net</div></a></br></br>
+<img src="../images/teachingproject2020_2.png" width="580" alt="Project 2">Results: <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a></br></br>
+<img src="../images/teachingproject2020_3.png" width="580" alt="Project 3">Results: <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a></br></br>
 </div>
 
 
