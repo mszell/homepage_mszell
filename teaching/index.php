@@ -44,6 +44,26 @@ echo $featuredarea;
 <ul>
 	<li class='supervision'>
 	<table>
+	<tr><td class='std col1 date wfix'>2024<br /></td><td class='std'>MSc, Frederik Peter Høngaard<br /><b>Exploring the Potential of Geospatial Data Science for Real Estate Appraisal</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2024<br /></td><td class='std'>MSc, Julius Thomas Markus Roder and Sebastian Rohr Watt<br /><b>Predicting GeoGuessr Locations Using Transformer Models</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2024<br /></td><td class='std'>BA, Gareth Edward Thomas<br /><b>Assessing the availability of protected cycling infrastructure along projected school routes within the city of Copenhagen</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2023<br /></td><td class='std'>MSc, Emil Bak-Møller<br /><b>The Traveling Salesman Problem on Public Transport in Denmark</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
 	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/buth2023gga.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Carlson M. Büth<br /><b>From Gridlocks to Greenways: Analyzing the Network Effects of Computationally Generated Low Traffic Neighborhoods</b></td></tr>
 	</table>
 	</li>
@@ -129,7 +149,7 @@ Results: <a href="https://superblockify.city/"><div class="linkexternal">superbl
 <img src="../images/teachingproject2021_1.png" width="580" alt="Project 1">Results: <a href="../downloads/wolf2024cap.pdf"><div class="filepdf">Article</div></a></br></br>
 <img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"></br></br>
 <img src="../images/teachingproject2021_3.png" width="580" alt="Project 3"></br></br>
-<img src="../images/teachingproject2020_1.png" width="580" alt="Project 1">Results: <a href="https://growbike.net/"><div class="linkexternal">growbike.net</div></a></br></br>
+<img src="../images/teachingproject2020_1.png" width="580" alt="Project 1">Results: <a href="https://growbike.net/"><div class="linkexternal">GrowBike.Net</div></a></br></br>
 <img src="../images/teachingproject2020_2.png" width="580" alt="Project 2">Results: <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a></br></br>
 <img src="../images/teachingproject2020_3.png" width="580" alt="Project 3">Results: <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a></br></br>
 </div>

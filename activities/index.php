@@ -104,8 +104,6 @@ echo $featuredarea;
 	</div>
 
 
-<!--<p>Nature, PNAS, Physical Review Letters, Physical Review E, New Journal of Physics, Europhysics Letters, Social Networks, Scientific Reports, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Journal of Statistical Mechanics, EPJ Data Science, Condensed Matter Physics, Frontiers, Transportation, Games, ACM Transactions on Knowledge Discovery from Data, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Intelligent Transportation Systems, International Journal of Sustainable Transportation, International Journal of Geographical Information Science, Economics Bulletin, Forum neue Medien Austria, Austrian Science Fund (FWF), Netherlands Organisation for Scientific Research (NWO)</p>-->
-
 <h3>Talks</h3>
 <ul>
 	<li class='talk talk-invited'>
@@ -600,7 +598,7 @@ echo $featuredarea;
 <p>Together with a large number of scientists I have decided in 2013 to stop reviewing any article that is published by Elsevier (see <a href="http://thecostofknowledge.com">http://thecostofknowledge.com</a>), so please do not contact me to review for such journals.</p>
 
 <h4>Interdisciplinary, network science</h4>
-<p>Nature, Nature Communications, PNAS, Science Advances, Social Networks, Scientific Reports, Scientific Data, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Network Science, Applied Network Science, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, PLOS Biology</p>
+<p>Nature, Nature Communications, Nature Human Behaviour, PNAS, Science Advances, Social Networks, Scientific Reports, Scientific Data, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Network Science, Applied Network Science, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, PLOS Biology</p>
 <h4>Data science, computer science, mathematics</h4>
 <p>Nature Computational Science, EPJ Data Science, Frontiers, Games, ACM Transactions on Knowledge Discovery from Data, IEEE Transactions on Knowledge and Data Engineering, Economics Bulletin</p>
 <h4>Transportation, GIS, sustainability</h4>
