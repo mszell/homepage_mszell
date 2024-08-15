@@ -72,20 +72,22 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   journal = {arXiv preprint arXiv:2405.01225},
   year = {2024}
 }</code></pre></div></li>
-    <li class="publi pub-preprint">C.M. Büth, A. Vybornova, M. Szell<br /><b>superblockify: A Python Package for Automated
-Generation, Visualization, and Analysis of Potential Superblocks in Cities</b><br />
-    <a href="#" onclick="toggle('buth2024spp');return false;" id="info-buth2024spp"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/buth2024spp.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.15062"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/superblockify"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://superblockify.city/"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="buth2024spp"><pre><code>@article{buth2024spp,
-  title = {superblockify: A Python Package for Automated
-Generation, Visualization, and Analysis of Potential Superblocks in Cities},
-  author = {B{\"u}th, Carlson Moses and Vybornova, Anastassia and Szell, Michael},
-  journal = {arXiv preprint arXiv:2404.15062},
-  year = {2024}
-}</code></pre></div></li>
     <li class="publi pub-preprint">L.M. Aiello, A. Vybornova, S. Juhász, M. Szell, E. Bokányi<br /><b>Urban highways are barriers to social ties</b><br />
     <a href="#" onclick="toggle('aiello2024uhb');return false;" id="info-aiello2024uhb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/aiello2024uhb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/aiello2024uhb_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.11596"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/urban-highways"><div class="linkexternal">Code</div></a><div class="info-expansion" id="aiello2024uhb"><pre><code>@article{aiello2024uhb,
   title = {Urban highways are barriers to social ties},
   author = {Aiello, Luca Maria and Vybornova, Anastassia and Juhász, S{\'a}ndor and Szell, Michael and Bok{\'a}nyi, Eszter},
   journal = {arXiv preprint arXiv:2404.11596},
+  year = {2024}
+}</code></pre></div></li>
+    <li class="publi pub-journal">C.M. Büth, A. Vybornova, M. Szell<br /><b>superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities</b><br /><a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Journal of Open Source Software 9(100), 6798 (2024)</a><br />
+    <a href="#" onclick="toggle('buth2024spp');return false;" id="info-buth2024spp"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/buth2024spp.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.15062"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/superblockify"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://superblockify.city/"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="buth2024spp"><pre><code>@article{buth2024spp,
+  title = {superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities},
+  author = {B{\"u}th, Carlson Moses and Vybornova, Anastassia and Szell, Michael},
+  journal = {Journal of Open Source Software},
+  volume = {9},
+  number = {100},
+  pages = {6798},
+  doi = {10.21105/joss.06798},
   year = {2024}
 }</code></pre></div></li>
     <li class="publi pub-journal">A.R. Vierø, A. Vybornova, M. Szell<br /><b>How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark</b><br />

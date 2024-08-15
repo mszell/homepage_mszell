@@ -49,7 +49,7 @@ function toggle(nr) {
   }
 }
     </script>
-    <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!-- altmetric: https://api.altmetric.com/embeds.html -->
+    <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </head>
 EOD;
 
@@ -129,13 +129,13 @@ Toots from <a rel="me" href="https://datasci.social/@mszll">@mszll@datasci.socia
 
 <hr>
     <h2>Recent papers</h2>
+    <p>Journal of Open Source Software: <a href="https://joss.theoj.org/papers/10.21105/joss.06798">superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities</a></p>
+
     <p>Geographical Analysis: <a href="https://onlinelibrary.wiley.com/share/author/Q7YNZYCRITIQXIVEBE4H?target=10.1111/gean.12400">How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark</a></p>
 
     <p>Computers, Environment and Urban Systems: <a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Sidewalk networks: Review and outlook</a></p>
 
     <p>Environment and Planning B: <a href="https://journals.sagepub.com/doi/10.1177/23998083231184471">BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</a></p>
-
-    <p>EPJ Data Science: <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00385-7">Revealing the determinants of gender inequality in urban cycling with large-scale data</a></p>
 
     <p><a href="../publications/">&rarr; See all papers</a></p>
 
@@ -158,7 +158,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2024-07-18 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
+  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2024-08-15 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
 </div>
 EOD;
 
