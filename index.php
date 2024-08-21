@@ -90,13 +90,11 @@ Michael Szell is associate professor in Data Science at IT University of Copenha
 <h3>Research highlights</h3>
 <table width="619px">
 <tr>
+	<td><a href='https://www.nature.com/articles/s41598-022-10783-y'><img src='images/paperscirepgrowbike.jpg' width='95' title='2022-04-26: Scientific Reports paper on growing urban bicycle networks published' alt='2022-04-26: Scientific Reports paper on growing urban bicycle networks published'></a></td>
 	<td><a href='https://www.nature.com/articles/s41586-021-03480-9'><img src='images/papernaturemobility.jpg' width='95' title='2021-05-26: Nature paper on mobility published' alt='2021-05-26: Nature paper on mobility published'></a></td>
 	<td><a href='https://doi.org/10.1038/s41567-018-0314-6'><img src='images/papernaturephysicsnobel.jpg' width='95' title='2018-11-01: Nature Physics perspective on Nobel Prizes published' alt='2018-11-01: Nature Physics perspective on Nobel Prizes published'></a></td>
-	<td><a href='https://www.cogitatiopress.com/urbanplanning/article/view/1209/'><img src='images/paperurbanplanningmobility.jpg' width='95' title='2018-03-29: Urban Planning paper on mobility space inequality published' alt='2018-03-29: Urban Planning paper on mobility space inequality published'></a></td>
 	<td><a href='http://www.nature.com/nphys/journal/v11/n10/full/nphys3494.html'><img src='images/papernaturephysicstenyears.jpg' width='95' title='2015-10-01: Nature Physics paper on citation networks published and on the cover' alt='2015-10-01: Nature Physics paper on citation networks published and on the cover'></a></td>
 	<td><a href='http://www.pnas.org/content/111/37/13290'><img src='images/paperpnastaxi.jpg' width='94' title='2014-09-16: PNAS paper on taxi shareability published and on the cover' alt='2014-09-16: PNAS paper on taxi shareability published and on the cover'></a></td>
-	<!--<td><a href='http://www.sciencemag.org/content/343/6174/970.full?ijkey=doMi4KrdCymkw&keytype=ref&siteid=sci'><img src='images/sciencebookreview.jpg' width='94' title='2014-02-28: Book review published in Science' alt='2014-02-28: Book review published in Science'></a></td>-->
-	<!--<td><a href='http://www.pnas.org/content/110/12/4703'><img src='images/paperpnasdiabetes.jpg' width='94' title='2013-03-19: PNAS paper on diabetes risk published' alt='2013-03-19: PNAS paper on diabetes risk published'></a></td>-->
 	<td><a href='http://www.pnas.org/content/107/31/13636'><img src='images/paperpnasmultiplex.jpg' width='94' title='2010-08-03: PNAS paper on multiplex networks published' alt='2010-08-03: PNAS paper on multiplex networks published'></a></td>
 </tr>
 </table>
