@@ -18,7 +18,7 @@ $head = <<<EOD
     <link rel="stylesheet" href="{$URLTOP}/includes/main.css" type="text/css" />
     <link rel="shortcut icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
     <link rel="icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
     <script src="{$URLTOP}/includes/jquery-1.7.2.min.js" type="text/javascript"></script>
     <script src="{$URLTOP}/includes/jquery.curvycorners.min.js" type="text/javascript"></script>
     <script src="{$URLTOP}/includes/main.js" type="text/javascript"></script>
