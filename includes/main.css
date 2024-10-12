@@ -432,8 +432,9 @@ d3-tip {
 
 #collabnet{
   position: relative;
-  top:-81px;
-  margin-bottom:-140px;
+  top:-145px;
+  margin-bottom:-255px;
+  z-index: 0;
 }
 
 .info-expansion{
