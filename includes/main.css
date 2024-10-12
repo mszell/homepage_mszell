@@ -4,18 +4,25 @@ http://colorschemedesigner.com/#0011Ttdk4w0w0
 Primary A00E0E
 Darker 782626, 680505
 Lighter CF4141	CF6767
+
+https://modernfontstacks.com/
 */
 
-body {
-  font: 14px 'Open Sans', sans-serif;
+body { 
+  font-family: system-ui, sans-serif;
+  font: 14px;
   color: black;
   margin: 0;
-  font-weight: normal;
+  font-weight: 300;
   background: #FFFFFF url(../images/noise.png) repeat;
   }
 
 .small {
   font-size: 80%;
+}
+
+b {
+  font-weight: 500;
 }
 
 img {
@@ -27,7 +34,7 @@ img {
       border: 1px solid #cccccc;
       color: #680505;
       margin: 0 auto;
-      margin-top: 12px;
+      margin-top: 10px;
       padding: 10px;
       width: 220px;
       height: 140px;
@@ -68,7 +75,7 @@ hr {
 
 .portrait-text {
   width: 595px;
-  padding:8px 0px 8px 0px;
+  padding:8px 0px -8px 0px;
   text-align:justify;
 }
 
@@ -201,7 +208,7 @@ td.wfix {
 
 h1 {
   font-size: 170%;
-  font-weight: lighter;
+  font-weight: 300;
   margin: 0px;
   height: 48px;
   line-height: 45px;
@@ -217,7 +224,7 @@ h1 a {
 
 h2 {
   font-size: 120%;
-  font-weight: lighter;
+  font-weight: 300;
   color: #680505;
   }
 
@@ -228,7 +235,7 @@ h2 a {
 h3 {
   font-size: 120%;
   margin-top: 30px;
-  font-weight: lighter;
+  font-weight: 400;
   color: #680505;}
 
 .featured-area h3 {
@@ -241,8 +248,7 @@ h4 {
   color: #680505;
   margin: 0 0 -14px 0;
   padding: 0;
-  font-style: italic;
-  font-weight: bold; }
+  font-weight: 400; }
 
 .updateinfo {
   font-size: 90%;
@@ -307,9 +313,9 @@ h4 {
 /* Areas in main container */
 .main-area {
   color: black;
-  padding: 1em 0;
+  padding: 0.5em 0;
   text-align: justify;
-  line-height:150%;
+  line-height:140%;
   background: #FFFFFF url(../images/noise.png) repeat; }
 
 .main-with-sidebar {
@@ -321,8 +327,8 @@ h4 {
   background: #f2f2f2 url(../images/noisegrey.png) repeat;
   /* height: 8em; */
   border-bottom: 1px solid #cccccc;
-  padding: 1em 10px;
-  line-height:150%;
+  padding: 1.2em 10px;
+  line-height:140%;
   }
 
 .featured-area h2 {
@@ -334,14 +340,14 @@ h4 {
   clear: right;
   float: right;
   width: 250px;
-  font-weight:lighter;
+  font-weight:200;
   margin: 0 0 0 55px;
   }
 
 .sidebar h2 {
   font-size: 110%;
   padding: 0;
-  font-weight:lighter;
+  font-weight:200;
   clear: both;
   color: black;
   margin-top: 11px;
@@ -362,7 +368,7 @@ h4 {
   top: 0px;
   line-height: 43px;
   font-size: 78%;
-  font-weight: lighter; }
+  font-weight: 200; }
 
 #menu a {
     border: 0px !important; }
@@ -421,7 +427,7 @@ d3-tip {
 
 .node text {
   pointer-events: none;
-  font: 9px helvetica;
+  font: 9px;
 }
 
 #collabnet{

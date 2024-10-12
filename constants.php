@@ -18,7 +18,6 @@ $head = <<<EOD
     <link rel="stylesheet" href="{$URLTOP}/includes/main.css" type="text/css" />
     <link rel="shortcut icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
     <link rel="icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
     <script src="{$URLTOP}/includes/jquery-1.7.2.min.js" type="text/javascript"></script>
     <script src="{$URLTOP}/includes/jquery.curvycorners.min.js" type="text/javascript"></script>
     <script src="{$URLTOP}/includes/main.js" type="text/javascript"></script>
@@ -89,7 +88,7 @@ $portrait = "
 
 $featuredarea = <<<EOD
     			<div class="portrait-text">
-    Welcome! I am associate professor at <a href="https://nerds.itu.dk/">NERDS, ITU Copenhagen</a>. My research focuses on sustainable mobility, bicycle networks, and quantification of interlinked human behavior. My preferred research methods are network analysis, data science, and data visualization.
+    Welcome! I am associate professor at <a href="https://nerds.itu.dk/">NERDS, ITU Copenhagen</a>, researching sustainable mobility, bicycle networks, and social networks. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="{$URLTOP}/downloads/cv_szell.pdf"><div class='filepdf'>Curriculum Vitae<br />
         <div class='updateinfo'>last update 2024-07-18</div>
@@ -111,7 +110,7 @@ $featuredarea = <<<EOD
       <a href='m&#97;i&#108;&#116;o&#58;michael&#046;szell&#064;gmail&#046;com'>michael&#046;szell&#064;gmail&#046;com</a>
       </dd>
       <dt>Address</dt>
-      <dd>Computer Science Dept.<br /><span style='padding-left: 16px;'>ITU Copenhagen<br /><span style='padding-left: 16px;'>Rued Langgaards Vej 7<br /><span style='padding-left: 16px;'>2300 København, Denmark</span></dd>
+      <dd>Computer Science Dept.<br /><span style='padding-left: 16px;'>ITU Copenhagen<br /><span style='padding-left: 16px;'>Rued Langgaards Vej 7<br /><span style='padding-left: 16px;'>2300 København, DK</span></dd>
       <dt>Office</dt>
       <dd>3F11, Kaj Munks Vej 9</dd>
     </dl>
@@ -158,7 +157,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2024-08-21 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
+  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2024-10-12 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
 </div>
 EOD;
 

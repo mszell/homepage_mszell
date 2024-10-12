@@ -16,8 +16,6 @@ echo $featuredarea;
 
 			<div class="main-with-sidebar">
 
-<p>If you are a student looking for student projects, go to <a href='../teaching/'> Teaching</a>.</p>
-
 <h3>superblockify</h3>
     <table>
 		<tr><td class='std col1 date'>2024-04</td><td class='std' style='text-align: center;'><a href="https://superblockify.city"><img src="../images/logosuperblockify.png" width="58" height="58" alt="superblockify" class="logo"></a></td><td class='std'><p>A Python package for partitioning an urban street network into Superblock-like neighborhoods and for visualizing and analyzing the partition results. A Superblock is a set of adjacent urban blocks where vehicular through traffic is prevented or pacified, giving priority to people walking and cycling.</p>

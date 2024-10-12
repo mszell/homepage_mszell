@@ -88,7 +88,7 @@ Michael Szell is associate professor in Data Science at IT University of Copenha
 
 
 <h3>Research highlights</h3>
-<table width="619px" style="text-align: center; font-weight:bold;">
+<table width="619px" style="text-align: center;">
 <tr>
 	<td><a href='https://www.nature.com/articles/s41598-022-10783-y'>Bicycle<br />Networks<br /><img src='images/paperscirepgrowbike.jpg' width='95' title='2022-04-26: Scientific Reports paper on growing urban bicycle networks published' alt='2022-04-26: Scientific Reports paper on growing urban bicycle networks published'><br />2022</a></td>
 	<td><a href='https://www.nature.com/articles/s41586-021-03480-9'>Human<br />Mobility<br /><img src='images/papernaturemobility.jpg' width='95' title='2021-05-26: Nature paper on mobility published' alt='2021-05-26: Nature paper on mobility published'><br />2021</a></td>
