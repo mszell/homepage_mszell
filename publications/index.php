@@ -58,29 +58,46 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2024</h3>
  <ul>
-    <li class="publi pub-preprint">A. Lonardi, M. Szell, C. De Bacco<br /><b>Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks</b><br />
-    <a href="#" onclick="toggle('lonardi2024cub');return false;" id="info-lonardi2024cub"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/lonardi2024cub.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.02052"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/cdebacco/MultiOT"><div class="linkexternal">Code</div></a><div class="info-expansion" id="lonardi2024cub"><pre><code>@article{lonardi2024cub,
+    <li class="publi pub-preprint">
+    <table>
+    <tr><td class='nopad'>
+    A. Lonardi, M. Szell, C. De Bacco<br /><b>Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks</b><br />
+    <a href="#" onclick="toggle('lonardi2024cub');return false;" id="info-lonardi2024cub"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/lonardi2024cub.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.02052"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/cdebacco/MultiOT"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/lonardi2024cub.pdf"><img src="../images/thumb_lonardi2024cub.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="lonardi2024cub"><pre><code>@article{lonardi2024cub,
   title = {Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks},
   author = {Lonardi, Alessandro and Szell, Michael and De Bacco, Caterina},
   journal = {arXiv preprint arXiv:2405.02052},
   year = {2024}
 }</code></pre></div></li>
-    <li class="publi pub-preprint">H. Wolf, A.R. Vierø, M. Szell<br /><b>CoolWalks: Assessing the potential of shaded routing for active mobility in urban street networks</b><br />
-    <a href="#" onclick="toggle('wolf2024cap');return false;" id="info-wolf2024cap"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/wolf2024cap.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.01225"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/henrik-wolf/CoolWalks"><div class="linkexternal">Code</div></a><div class="info-expansion" id="wolf2024cap"><pre><code>@article{wolf2024cap,
+    <li class="publi pub-preprint">
+    <table>
+    <tr><td class='nopad'>
+    H. Wolf, A.R. Vierø, M. Szell<br /><b>CoolWalks: Assessing the potential of shaded routing for active mobility in urban street networks</b><br />
+    <a href="#" onclick="toggle('wolf2024cap');return false;" id="info-wolf2024cap"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/wolf2024cap.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.01225"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/henrik-wolf/CoolWalks"><div class="linkexternal">Code</div></a>
+    </td><td class='nopad'><a href="../downloads/wolf2024cap.pdf"><img src="../images/thumb_wolf2024cap.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="wolf2024cap"><pre><code>@article{wolf2024cap,
   title = {{CoolWalks: Assessing} the potential of shaded routing for active mobility in urban street networks},
   author = {Wolf, Henrik and Vier{\o}, Ane Rahbek and Szell, Michael},
   journal = {arXiv preprint arXiv:2405.01225},
   year = {2024}
 }</code></pre></div></li>
-    <li class="publi pub-preprint">L.M. Aiello, A. Vybornova, S. Juhász, M. Szell, E. Bokányi<br /><b>Urban highways are barriers to social ties</b><br />
-    <a href="#" onclick="toggle('aiello2024uhb');return false;" id="info-aiello2024uhb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/aiello2024uhb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/aiello2024uhb_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.11596"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/urban-highways"><div class="linkexternal">Code</div></a><div class="info-expansion" id="aiello2024uhb"><pre><code>@article{aiello2024uhb,
+    <li class="publi pub-preprint">
+    <table class='full'>
+    <tr><td class='nopad'>
+    L.M. Aiello, A. Vybornova, S. Juhász, M. Szell,..<br /><b>Urban highways are barriers to social ties</b><br />
+    <a href="#" onclick="toggle('aiello2024uhb');return false;" id="info-aiello2024uhb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/aiello2024uhb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/aiello2024uhb_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.11596"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/urban-highways"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/aiello2024uhb.pdf"><img src="../images/thumb_aiello2024uhb.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="aiello2024uhb"><pre><code>@article{aiello2024uhb,
   title = {Urban highways are barriers to social ties},
   author = {Aiello, Luca Maria and Vybornova, Anastassia and Juhász, S{\'a}ndor and Szell, Michael and Bok{\'a}nyi, Eszter},
   journal = {arXiv preprint arXiv:2404.11596},
   year = {2024}
 }</code></pre></div></li>
-    <li class="publi pub-journal">C.M. Büth, A. Vybornova, M. Szell<br /><b>superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities</b><br /><a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Journal of Open Source Software 9(100), 6798 (2024)</a><br />
-    <a href="#" onclick="toggle('buth2024spp');return false;" id="info-buth2024spp"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/buth2024spp.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.15062"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/superblockify"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://superblockify.city/"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="buth2024spp"><pre><code>@article{buth2024spp,
+    <li class="publi pub-journal">
+    <table>
+    <tr><td class='nopad'>
+    C.M. Büth, A. Vybornova, M. Szell<br /><b>superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities</b><br /><a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Journal of Open Source Software 9(100), 6798 (2024)</a><br />
+    <a href="#" onclick="toggle('buth2024spp');return false;" id="info-buth2024spp"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/buth2024spp.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.15062"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/superblockify"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://superblockify.city/"><div class="linkexternal">Project page</div></a></td><td class='nopad'><a href="../downloads/buth2024spp.pdf"><img src="../images/thumb_buth2024spp.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="buth2024spp"><pre><code>@article{buth2024spp,
   title = {superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities},
   author = {B{\"u}th, Carlson Moses and Vybornova, Anastassia and Szell, Michael},
   journal = {Journal of Open Source Software},
@@ -90,9 +107,13 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   doi = {10.21105/joss.06798},
   year = {2024}
 }</code></pre></div></li>
-    <li class="publi pub-journal">A.R. Vierø, A. Vybornova, M. Szell<br /><b>How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark</b><br />
+    <li class="publi pub-journal">
+    <table>
+    <tr><td class='nopad'>
+    A.R. Vierø, A. Vybornova, M. Szell<br /><b>How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark</b><br />
         <a href="https://onlinelibrary.wiley.com/doi/10.1111/gean.12400">Geographical Analysis (2024, in print)</a><br />
-    <a href="#" onclick="toggle('viero2024hgo.pdf');return false;" id="info-viero2024hgo.pdf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024hgo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2312.02632"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA_BIG"><div class="linkexternal">Code</div></a><div class="info-expansion" id="viero2024hgo.pdf"><pre><code>@article{viero2024hgo,
+    <a href="#" onclick="toggle('viero2024hgo.pdf');return false;" id="info-viero2024hgo.pdf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024hgo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2312.02632"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA_BIG"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/viero2024hgo.pdf"><img src="../images/thumb_viero2024hgo.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="viero2024hgo.pdf"><pre><code>@article{viero2024hgo,
   title = {How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark},
   author = {Vier{\o}, Ane Rahbek and Vybornova, Anastassia and Szell, Michael},
   journal = {Geographical Analysis},
@@ -105,8 +126,12 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2023</h3>
   <ul>
-    <li class="publi pub-journal">D. Rhoads, C. Rames, A. Solé-Ribalta, M.C. González, M. Szell, J. Borge-Holthoefer<br /><b>Sidewalk networks: Review and outlook</b><br /><a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Computers, Environment and Urban Systems 106, 102031 (2023)</a><br />
-    <a href="#" onclick="toggle('rhoads2023snr');return false;" id="info-rhoads2023snr"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/rhoads2023snr.pdf"><div class="filepdf">Article</div></a><div class="info-expansion" id="rhoads2023snr"><pre><code>@article{rhoads2023snr,
+    <li class="publi pub-journal">
+    <table class='full'>
+    <tr><td class='nopad'>
+    D. Rhoads, C. Rames, A. Solé-Ribalta, M.C. González, M. Szell,..<br /><b>Sidewalk networks: Review and outlook</b><br /><a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Computers, Environment and Urban Systems 106, 102031 (2023)</a><br />
+    <a href="#" onclick="toggle('rhoads2023snr');return false;" id="info-rhoads2023snr"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/rhoads2023snr.pdf"><div class="filepdf">Article</div></a></td><td class='nopad'><a href="../downloads/rhoads2023snr.pdf"><img src="../images/thumb_rhoads2023snr.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="rhoads2023snr"><pre><code>@article{rhoads2023snr,
   title = {Sidewalk networks: Review and outlook},
   author = {Rhoads, Daniel and Rames, Cl{\'e}ment and Sol{\'e}-Ribalta, Albert and Gonz{\'a}lez, Marta C. and Szell, Michael and Borge-Holthoefer, Javier},
   journal = {Computers, Environment and Urban Systems},
@@ -115,8 +140,12 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   pages = {102031},
   doi = {10.1016/j.compenvurbsys.2023.102031}
 }</code></pre></div></li>
-    <li class="publi pub-journal">A.R. Vierø, A. Vybornova, M. Szell<br /><b>BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083231184471">Environment and Planning B 51(2), 512-528 (2024)</a><br />
-    <a href="#" onclick="toggle('viero2024btb');return false;" id="info-viero2024btb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024btb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2303.01223"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA"><div class="linkexternal">Code</div></a><div class="info-expansion" id="viero2024btb"><pre><code>@article{viero2024btb,
+    <li class="publi pub-journal">
+    <table class='full'>
+    <tr><td class='nopad'>
+    A.R. Vierø, A. Vybornova, M. Szell<br /><b>BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083231184471">Environment and Planning B 51(2), 512-528 (2024)</a><br />
+    <a href="#" onclick="toggle('viero2024btb');return false;" id="info-viero2024btb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024btb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2303.01223"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/viero2024btb.pdf"><img src="../images/thumb_viero2024btb.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="viero2024btb"><pre><code>@article{viero2024btb,
   title = {BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment},
   author = {Vier{\o}, Ane Rahbek and Vybornova, Anastassia and Szell, Michael},
   journal = {Environment and Planning B: Urban Analytics and City Science},
@@ -126,8 +155,12 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   pages = {512--528},
   doi = {10.1177/23998083231184471}
 }</code></pre></div></li>
-    <li class="publi pub-journal">A. Battiston, L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell, R. Schifanella<br /><b>Revealing the determinants of gender inequality in urban cycling with large-scale data</b><br /><a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00385-7">EPJ Data Science 12, 9 (2023)</a><br />
-    <a href="#" onclick="toggle('battiston2023rdg');return false;" id="info-battiston2023rdg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2023rdg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.09378"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/alibatti/GenderCyclingGapUsingStrava"><div class="linkexternal">Code</div></a><div class="info-expansion" id="battiston2023rdg"><pre><code>@article{battiston2023rdg,
+    <li class="publi pub-journal">
+    <table class='full'>
+    <tr><td class='nopad'>
+    A. Battiston, L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell,..<br /><b>Revealing the determinants of gender inequality in urban cycling with large-scale data</b><br /><a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00385-7">EPJ Data Science 12, 9 (2023)</a><br />
+    <a href="#" onclick="toggle('battiston2023rdg');return false;" id="info-battiston2023rdg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2023rdg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.09378"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/alibatti/GenderCyclingGapUsingStrava"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/battiston2023rdg.pdf"><img src="../images/thumb_battiston2023rdg.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="battiston2023rdg"><pre><code>@article{battiston2023rdg,
   title = {Revealing the determinants of gender inequality in urban cycling with large-scale data},
   author = {Battison, Alice and Napoli, Ludovico and Bajardi, Paolo and Panisson, Andr{\'e} and Perotti, Alan and Szell, Michael and Schifanella, Rossano},
   journal = {EPJ Data Science},
@@ -140,23 +173,35 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2022</h3>
   <ul>
-    <li class="publi pub-preprint">M. Coscia, C. Borgelt, M. Szell<br /><b>Fast Multiplex Graph Association Rules for Link Prediction</b><br />
-    <a href="#" onclick="toggle('coscia2022fmg');return false;" id="info-coscia2022fmg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/coscia2022fmg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.12094"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="coscia2022fmg"><pre><code>@inproceedings{coscia2022fmg,
+    <li class="publi pub-preprint">
+    <table class='full'>
+    <tr><td class='nopad'>
+    M. Coscia, C. Borgelt, M. Szell<br /><b>Fast Multiplex Graph Association Rules for Link Prediction</b><br />
+    <a href="#" onclick="toggle('coscia2022fmg');return false;" id="info-coscia2022fmg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/coscia2022fmg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.12094"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/coscia2022fmg.pdf"><img src="../images/thumb_coscia2022fmg.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="coscia2022fmg"><pre><code>@inproceedings{coscia2022fmg,
   title = {Fast Multiplex Graph Association Rules for Link Prediction},
   author = {Coscia, Michele and Borgelt, Christian and Szell, Michael},
   journal = {arXiv preprint arXiv:2211.12094},
   year = {2022}
 }</code></pre></div></li>
-    <li class="publi pub-preprint">L. Alessandretti, M. Szell<br /><b>Urban Mobility</b><br />
-    <a href="#" onclick="toggle('alessandretti2022um');return false;" id="info-alessandretti2022um"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/alessandretti2022um.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.00355"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/mszell/geospatialdatascience"><div class="linkexternal">Teaching material</div></a><div class="info-expansion" id="alessandretti2022um"><pre><code>@inbook{alessandretti2022um,
+    <li class="publi pub-preprint">
+    <table class='full'>
+    <tr><td class='nopad'>
+    L. Alessandretti, M. Szell<br /><b>Urban Mobility</b><br />
+    <a href="#" onclick="toggle('alessandretti2022um');return false;" id="info-alessandretti2022um"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/alessandretti2022um.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.00355"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/mszell/geospatialdatascience"><div class="linkexternal">Teaching material</div></a></td><td class='nopad'><a href="../downloads/alessandretti2022um.pdf"><img src="../images/thumb_alessandretti2022um.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="alessandretti2022um"><pre><code>@inbook{alessandretti2022um,
   title = {Compendium of Urban Complexity},
   author = {Alessandretti, Laura and Szell, Michael},
   chapter = {Urban Mobility},
   year = {2022},
   note = {arXiv preprint arXiv:2211.00355}
 }</code></pre></div></li>
-    <li class="publi pub-journal">S.M. Breum, B. Kostic, M. Szell<br /><b>Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen</b><br /><a href="https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen">Transport Findings 56683 (2022)</a><br />
-    <a href="#" onclick="toggle('breum2022cdl');return false;" id="info-breum2022cdl"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/breum2022cdl_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.01301"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/SimonBreum/desirelines"><div class="linkexternal">Code</div></a><div class="info-expansion" id="breum2022cdl"><pre><code>@article{breum2022cdl,
+    <li class="publi pub-journal">
+    <table class='full'>
+    <tr><td class='nopad'>
+    S.M. Breum, B. Kostic, M. Szell<br /><b>Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen</b><br /><a href="https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen">Transport Findings 56683 (2022)</a><br />
+    <a href="#" onclick="toggle('breum2022cdl');return false;" id="info-breum2022cdl"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/breum2022cdl_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.01301"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/SimonBreum/desirelines"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/breum2022cdl.pdf"><img src="../images/thumb_breum2022cdl.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="breum2022cdl"><pre><code>@article{breum2022cdl,
   title = {Computational Desire Line Analysis of Cyclists on the Dybb{\o}lsbro Intersection in Copenhagen},
   author = {Breum, Simon Martin and Kostic, Bojan and Szell, Michael},
   journal = {Transport Findings},
@@ -164,8 +209,12 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   volume = {56683},
   doi = {10.32866/001c.56683}
 }</code></pre></div></li>
-    <li class="publi pub-journal">P. Folco, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Data-driven micromobility network planning for demand and safety</b><br /><a href="https://doi.org/10.1177/23998083221135611">Environment and Planning B 50(8), 2087-2102 (2023)</a><br />
-    <a href="#" onclick="toggle('folco2023dmn');return false;" id="info-folco2023dmn"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/folco2023dmn.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.14619"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/pietrofolco/Data-driven_bicycle_network_planning_for_demand_and_safety"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://www.datainterfaces.org/projects/biketracks/#turin"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="folco2023dmn"><pre><code>@article{folco2023dmn,
+    <li class="publi pub-journal">
+    <table class='full'>
+    <tr><td class='nopad'>
+    P. Folco, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Data-driven micromobility network planning for demand and safety</b><br /><a href="https://doi.org/10.1177/23998083221135611">Environment and Planning B 50(8), 2087-2102 (2023)</a><br />
+    <a href="#" onclick="toggle('folco2023dmn');return false;" id="info-folco2023dmn"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/folco2023dmn.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.14619"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/pietrofolco/Data-driven_bicycle_network_planning_for_demand_and_safety"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://www.datainterfaces.org/projects/biketracks/#turin"><div class="linkexternal">Project page</div></a></td><td class='nopad'><a href="../downloads/folco2023dmn.pdf"><img src="../images/thumb_folco2023dmn.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="folco2023dmn"><pre><code>@article{folco2023dmn,
   title = {Data-driven micromobility network planning for demand and safety},
   author = {Folco, Pietro and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
   journal = {Environment and Planning B: Urban Analytics and City Science},
@@ -175,8 +224,12 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   pages = {2087--2102},
   doi = {10.1177/23998083221135611}
 }</code></pre></div></li>
-    <li class="publi pub-journal">L. Alessandretti, L.G. Natera Orozco, M. Saberi, M. Szell, F. Battiston<br /><b>Multimodal urban mobility and multilayer transport networks</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083221108190">Environment and Planning B 50(8), 2038-2070 (2023)</a><br />
-    <a href="#" onclick="toggle('alessandretti2023mum');return false;" id="info-alessandretti2023mum"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/alessandretti2023mum.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2111.02152"><div class="linkexternal">arXiv</div></a><div class="info-expansion" id="alessandretti2023mum"><pre><code>@article{alessandretti2023mum,
+    <li class="publi pub-journal">
+    <table class='full'>
+    <tr><td class='nopad'>
+    L. Alessandretti, L.G. Natera Orozco, M. Saberi, M. Szell,..<br /><b>Multimodal urban mobility and multilayer transport networks</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083221108190">Environment and Planning B 50(8), 2038-2070 (2023)</a><br />
+    <a href="#" onclick="toggle('alessandretti2023mum');return false;" id="info-alessandretti2023mum"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/alessandretti2023mum.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2111.02152"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/alessandretti2023mum.pdf"><img src="../images/thumb_alessandretti2023mum.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="alessandretti2023mum"><pre><code>@article{alessandretti2023mum,
   title = {Multimodal urban mobility and multilayer transport networks},
   author = {Alessandretti, Laura and Natera Orozco, Luis Guillermo and Saberi, Meead and Szell, Michael and Battiston, Federico},
   journal = {Environment and Planning B: Urban Analytics and City Science},
@@ -186,8 +239,12 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   pages = {2038--2070},
   doi = {10.1177/23998083221108190}
 }</code></pre></div></li>
-    <li class="publi pub-journal">M. Klanjčić, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Identifying urban features for vulnerable road user safety in Europe</b><br /><a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00339-5">EPJ Data Science 11, 27 (2022)</a><br />
-    <a href="#" onclick="toggle('klanjcic2022iuf');return false;" id="info-klanjcic2022iuf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/klanjcic2022iuf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/89cyu/"><div class="linkexternal">SocArXiv</div></a> &nbsp; <a href="https://github.com/klnmrn/urbanroadsafety"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://blogs.biomedcentral.com/on-physicalsciences/2022/05/06/identifying-urban-features-for-vulnerable-road-user-safety-in-europe/"><div class="linkexternal">Blog post</div></a><div class="info-expansion" id="klanjcic2022iuf"><pre><code>@article{klanjcic2022iuf,
+    <li class="publi pub-journal">
+    <table class='full'>
+    <tr><td class='nopad'>
+    M. Klanjčić, L. Gauvin, M. Tizzoni, M. Szell<br /><b>Identifying urban features for vulnerable road user safety in Europe</b><br /><a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00339-5">EPJ Data Science 11, 27 (2022)</a><br />
+    <a href="#" onclick="toggle('klanjcic2022iuf');return false;" id="info-klanjcic2022iuf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/klanjcic2022iuf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://osf.io/preprints/socarxiv/89cyu/"><div class="linkexternal">SocArXiv</div></a> &nbsp; <a href="https://github.com/klnmrn/urbanroadsafety"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://blogs.biomedcentral.com/on-physicalsciences/2022/05/06/identifying-urban-features-for-vulnerable-road-user-safety-in-europe/"><div class="linkexternal">Blog post</div></a></td><td class='nopad'><a href="../downloads/klanjcic2022iuf.pdf"><img src="../images/thumb_klanjcic2022iuf.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="klanjcic2022iuf"><pre><code>@article{klanjcic2022iuf,
   title = {Identifying urban features for vulnerable road user safety in {E}urope},
   author = {Klanj\v{c}i{\'c}, Marina and Gauvin, Laetitia and Tizzoni, Michele and Szell, Michael},
   journal = {EPJ Data Science},
@@ -196,8 +253,12 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   number = {27},
   doi = {10.1140/epjds/s13688-022-00339-5}
 }</code></pre></div></li>
-    <li class="publi pub-journal">M. Szell, S. Mimar, T. Perlman, G. Ghoshal, R. Sinatra<br /><b>Growing urban bicycle networks</b><br /><a href="https://www.nature.com/articles/s41598-022-10783-y">Scientific Reports 12, 6765 (2022)</a><br />
-    <a href="#" onclick="toggle('szell2022gub');return false;" id="info-szell2022gub"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2022gub.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2022gub_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2107.02185"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/mszell/bikenwgrowth"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://zenodo.org/record/5083049"><div class="linkexternal">Data</div></a> &nbsp; <a href="http://growbike.net"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="szell2022gub"><pre><code>@article{szell2022gub,
+    <li class="publi pub-journal">
+    <table class='full'>
+    <tr><td class='nopad'>
+    M. Szell, S. Mimar, T. Perlman, G. Ghoshal, R. Sinatra<br /><b>Growing urban bicycle networks</b><br /><a href="https://www.nature.com/articles/s41598-022-10783-y">Scientific Reports 12, 6765 (2022)</a><br />
+    <a href="#" onclick="toggle('szell2022gub');return false;" id="info-szell2022gub"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2022gub.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2022gub_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2107.02185"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/mszell/bikenwgrowth"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://zenodo.org/record/5083049"><div class="linkexternal">Data</div></a> &nbsp; <a href="http://growbike.net"><div class="linkexternal">Project page</div></a></td><td class='nopad'><a href="../downloads/szell2022gub.pdf"><img src="../images/thumb_szell2022gub.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="szell2022gub"><pre><code>@article{szell2022gub,
   title = {Growing urban bicycle networks},
   author = {Szell, Michael and Mimar, Sayat and Perlman, Tyler and Ghoshal, Gourab and Sinatra, Roberta},
   journal = {Scientific Reports},
@@ -206,8 +267,12 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   number = {6765},
   doi = {10.1038/s41598-022-10783-y}
 }</code></pre></div></li>
-    <li class="publi pub-journal">A. Vybornova, T. Cunha, A. Gühnemann, M. Szell<br /><b>Automated Detection of Missing Links in Bicycle Networks</b><br /><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/gean.12324">Geographical Analysis 55(2), 239-267 (2023)</a><br />
-    <a href="#" onclick="toggle('vybornova2023adm');return false;" id="info-vybornova2023adm"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/vybornova2023adm_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2201.03402"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bikenwgaps"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://fixbike.net"><div class="linkexternal">Project page</div></a><div class="info-expansion" id="vybornova2023adm"><pre><code>@article{vybornova2023adm,
+    <li class="publi pub-journal">
+    <table class='full'>
+    <tr><td class='nopad'>
+    A. Vybornova, T. Cunha, A. Gühnemann, M. Szell<br /><b>Automated Detection of Missing Links in Bicycle Networks</b><br /><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/gean.12324">Geographical Analysis 55(2), 239-267 (2023)</a><br />
+    <a href="#" onclick="toggle('vybornova2023adm');return false;" id="info-vybornova2023adm"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/vybornova2023adm_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2201.03402"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bikenwgaps"><div class="linkexternal">Code</div></a> &nbsp; <a href="http://fixbike.net"><div class="linkexternal">Project page</div></a></td><td class='nopad'><a href="../downloads/vybornova2023adm.pdf"><img src="../images/thumb_vybornova2023adm.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="vybornova2023adm"><pre><code>@article{vybornova2023adm,
   title = {Automated Detection of Missing Links in Bicycle Networks},
   author = {Vybornova, Anastassia and Cunha, Tiago and G{\"u}hnemann, Astrid and Szell, Michael},
   journal = {Geographical Analysis},
