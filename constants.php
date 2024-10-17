@@ -135,8 +135,6 @@ Toots from <a rel="me" href="https://datasci.social/@mszll">@mszll@datasci.socia
 
     <p>Computers, Environment and Urban Systems: <a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Sidewalk networks: Review and outlook</a></p>
 
-    <p>Environment and Planning B: <a href="https://journals.sagepub.com/doi/10.1177/23998083231184471">BikeDNA: A Tool for Bicycle Infrastructure Data & Network Assessment</a></p>
-
     <p><a href="../publications/">&rarr; See all papers</a></p>
 
 <hr>
@@ -147,8 +145,6 @@ Toots from <a rel="me" href="https://datasci.social/@mszll">@mszll@datasci.socia
       <p>ORF Wien Heute: <a href="https://tvthek.orf.at/profile/Wien-heute/70018/Wien-heute-vom-27-03-2024/14219951/Radinfrastruktur-ausbaufaehig/15608017">Radinfrastruktur ausbaufähig</a></p>
 
       <p>wien.orf.at: <a href="https://wien.orf.at/stories/3249925/">Radwege sollen möglichst direkt verlaufen</a></p>
-
-      <p>Ingeniøren: <a href="https://pro.ing.dk/mobilitytech/artikel/koebenhavns-politi-om-den-nye-diagonale-cykelsti-husk-vores-bemaerkninger-hvis">Københavns Politi om den nye, diagonale cykelsti: Husk vores bemærkninger, hvis pressen ringer</a></p>
 
       <p><a href="../media/">&rarr; See all media coverage</a></p>
 
