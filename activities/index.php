@@ -21,14 +21,15 @@ echo $featuredarea;
 	<table>
 		<tr><td class='std col1 date'>since<br />2018-06-18</td><td class='std' width='130'>Review editor</td><td class='std'><a href="https://www.frontiersin.org/journals/physics/sections/social-physics">Frontiers (Social Physics)</a></td></tr>
 		<tr><td class='std col1 date'>since<br />2018-01-09</td><td class='std' width='130'>Editor</td><td class='std'><a href="http://www.complex-systems.com/">Complex Systems</a></td></tr>
+		<tr><td class='std col1 date'>2025-04-25<br />2025-04-22</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2025</a><br />Fortaleza, Brazil</td></tr>
 		<tr><td class='std col1 date'>2024-07-20<br />2024-07-18</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2024</a><br />Philadelphia, USA</td></tr>
 		<tr><td class='std col1 date'>2024-06-21<br />2024-06-17</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://netsci2024.com/">NetSci 2024</a><br />Québec City, Canada</td></tr>
-		<tr><td class='std col1 date'>2024-04-26<br />2024-04-23</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2024</a><br />Exeter, UK</td></tr>
-		<tr><td class='std col1 date'>2024-01-25<br />2024-01-22</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://netscix2024.netscisociety.org/netscix-2024">NetSciX 2024</a><br />Venice, Italy</td></tr>
 	</table>
 	<a href="#" onclick="toggle('organization');return false;" id="info-organization">&darr; Toggle all activities &darr;</a>
 	<div class="expansion" id="organization">
 	<table>
+		<tr><td class='std col1 date'>2024-04-26<br />2024-04-23</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2024</a><br />Exeter, UK</td></tr>
+		<tr><td class='std col1 date'>2024-01-25<br />2024-01-22</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://netscix2024.netscisociety.org/netscix-2024">NetSciX 2024</a><br />Venice, Italy</td></tr>
 		<tr><td class='std col1 date'>2023-11-30<br />2023-11-28</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://complexnetworks.org/">Complex Networks 2023</a><br />Nice, France</td></tr>
 		<tr><td class='std col1 date'>2023-10-25<br />2019-08-07</td><td class='std' width='130'>Editor</td><td class='std'><a href="https://www.mdpi.com/journal/ijgi/editors">International Journal of Geo-information</a></td></tr>
 		<tr><td class='std col1 date'>2023-09-12</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://ptal-io.github.io/easm2023/">Equitable Accessibility and Sustainable Mobility Workshop 2023 at GIScience 2023</a><br />Leeds, UK</td></tr>
@@ -116,6 +117,11 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2023-07-18<br /><a href="../downloads/talk_szell2023cdl.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen<br /><a href="https://www.ic2s2.org/">IC2S2 2023</a><br/>Copenhagen, Denmark</td></tr>
 	</table>
 	</li>
+	</ul>
+	
+	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all talks &darr;</a>
+	<div class="expansion" id="talks">
+	<ul>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2023-07-12</td><td class='std'>Urban Data and Network Science for More Cycling and Walking in Cities<br />Invited talk at Büro Happold<br/>Copenhagen, Denmark</td></tr>
@@ -141,11 +147,6 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2022-12-14<br /><a href="../downloads/talk_szell2022bnf.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Bicycle networks: From data quality assessment to computational analysis<br /><a href="https://www.ucl.ac.uk/bartlett/casa/casa-seminar-series-2022-23">CASA Seminar Series</a><br/>London, UK (remotely)</td></tr>
 	</table>
 	</li>
-	</ul>
-	
-	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all talks &darr;</a>
-	<div class="expansion" id="talks">
-	<ul>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2022-12-07<br /><a href="../downloads/talk_rahbekviero2022smd.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Sustainable mobility and data-driven planning<br />ITU, Launch of <a href="https://ccit.itu.dk/">Center for Climate IT</a><br/>Copenhagen, Denmark</td></tr>
