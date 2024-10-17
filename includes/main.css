@@ -340,8 +340,9 @@ h4 {
   clear: right;
   float: right;
   width: 250px;
-  font-weight:200;
+  font-weight:250;
   margin: 0 0 0 55px;
+  line-height:140%;
   }
 
 .sidebar h2 {
