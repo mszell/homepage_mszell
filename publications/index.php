@@ -359,7 +359,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <table>
     <tr><td class='nopad'>
     B. Resch, M. Szell<br /><b>Human-Centric Data Science for Urban Studies</b><br /><a href="https://www.mdpi.com/2220-9964/8/12/584">ISPRS International Journal of Geo-Information 8, 584 (2019)</a><br />
-    <a href="#" onclick="toggle('resch2019hds');return false;" id="info-resch2019hds"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/resch2019hds.pdf"><div class="filepdf">Article</div></a></td><td class='nopad'><a href="../downloads/coscia2022fmg.pdf"><img src="../images/thumb_coscia2022fmg.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <a href="#" onclick="toggle('resch2019hds');return false;" id="info-resch2019hds"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/resch2019hds.pdf"><div class="filepdf">Article</div></a></td><td class='nopad'></td></tr></table>
     <div class="info-expansion" id="resch2019hds"><pre><code>@article{resch2019hds,
   title = {Human-Centric Data Science for Urban Studies},
   author = {Resch, Bernd and Szell, Michael},
