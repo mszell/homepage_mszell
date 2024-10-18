@@ -304,8 +304,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
-    M. Schläpfer, L. Dong, K. O'Keeffe, P. Santi, M. Szell,
-  H. Salat, S. Anklesaria, M. Vazifeh, C. Ratti, G.B. West<br /><b>The universal visitation law of human mobility</b><br />
+    M. Schläpfer, L. Dong, K. O'Keeffe, P. Santi, M. Szell,..<br /><b>The universal visitation law of human mobility</b><br />
   <a href="https://www.nature.com/articles/s41586-021-03480-9">Nature 593(7860), 522-527 (2021)</a><br />
   <a href="#" onclick="toggle('schlapfer2021uvl');return false;" id="info-schlapfer2021uvl"><div vb  class="filebib">Bib</div></a> &nbsp; <a href="../downloads/schlapfer2021uvl.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://senseable.mit.edu/wanderlust/"><div class="linkexternal">Project page</div></a></td><td class='nopad'><a href="../downloads/schlapfer2021uvl.pdf"><img src="../images/thumb_schlapfer2021uvl.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="schlapfer2021uvl"><pre><code>@article{schlapfer2021uvl,
@@ -454,8 +453,8 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-other">
     <table>
     <tr><td class='nopad'>
-    Y. Holovatch, O. Mryglod, M. Szell, S. Thurner<br /><b>Analyses of a Virtual World</b><br />In: Maths Meets Myths: Complexity-science approaches to folktales, myths, sagas, and histories (2017), Springer. Eds: R. Kenna, M. MacCarron, P. MacCarron<br />
-    <a href="#" onclick="toggle('holovatch2017avw');return false;" id="info-holovatch2017avw"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/holovatch2017avw.pdf"><div class="filepdf">Chapter</div></a> &nbsp; <a href="https://link.springer.com/chapter/10.1007/978-3-319-39445-9_7"><div class="linkexternal">Publisher</div></a> &nbsp; <a href="http://arxiv.org/abs/1602.01388"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/holovatch2017avw.pdf"><img src="../images/thumb_holovatch2017avw.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    Y. Holovatch, O. Mryglod, M. Szell, S. Thurner<br /><b>Analyses of a Virtual World</b><br /><a href="https://link.springer.com/chapter/10.1007/978-3-319-39445-9_7">In: Maths Meets Myths: Complexity-science approaches to folktales, myths, sagas, and histories (2017)</a><br />
+    <a href="#" onclick="toggle('holovatch2017avw');return false;" id="info-holovatch2017avw"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/holovatch2017avw.pdf"><div class="filepdf">Chapter</div></a> &nbsp; <a href="http://arxiv.org/abs/1602.01388"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/holovatch2017avw.pdf"><img src="../images/thumb_holovatch2017avw.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="holovatch2017avw"><pre><code>@inbook{holovatch2017avw,
   title = {Maths Meets Myths: Complexity-science approaches to folktales, myths, sagas, and histories},
   author = {Holovatch, Yurij and Mryglod, Olesya and Szell, Michael and Thurner, Stefan},
@@ -522,8 +521,8 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 		<li class="publi pub-other">
     <table>
     <tr><td class='nopad'>
-    M. Szell, P. Santi, C. Ratti<br /><b>Trip sharing in the era of self-driving cars</b><br />NYU Marron Institute conference on self-driving vehicles (2015)<br />
-    <a href="#" onclick="toggle('szell2015tse');return false;" id="info-szell2015tse"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2015tse.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="http://marroninstitute.nyu.edu/content/working-papers/trip-sharing-in-the-era-of-self-driving-cars"><div class="linkexternal">Conference</div></a></td><td class='nopad'><a href="../downloads/szell2015tse.pdf"><img src="../images/thumb_szell2015tse.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    M. Szell, P. Santi, C. Ratti<br /><b>Trip sharing in the era of self-driving cars</b><br /><a href="https://marroninstitute.nyu.edu/blog/self-driving-vehicles-conference-2015">NYU Marron Institute conference on self-driving vehicles (2015)</a><br />
+    <a href="#" onclick="toggle('szell2015tse');return false;" id="info-szell2015tse"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2015tse.pdf"><div class="filepdf">Article</div></a></td><td class='nopad'><a href="../downloads/szell2015tse.pdf"><img src="../images/thumb_szell2015tse.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="szell2015tse"><pre><code>@conference{szell2015tse,
   title = {Trip sharing in the era of self-driving cars},
   author = {Szell, Michael and Santi, Paolo and Ratti, Carlo},
@@ -582,7 +581,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 		<li class="publi pub-other">
     <table>
     <tr><td class='nopad'>
-    M. Szell, B. Groß<br /><b>Hubcab - Exploring the Benefits of Shared Taxi Services</b><br /><a href="http://www.degruyter.com/view/books/9783038213925/9783038213925.28/9783038213925.28.xml">In: Decoding the City (2014), Berlin, Basel: De Gruyter. Eds: D. Offenhuber, C. Ratti</a><br /><a href="#" onclick="toggle('szell2014heb');return false;" id="info-szell2014heb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2014heb.pdf"><div class="filepdf">Chapter</div></a></td><td class='nopad'><a href="../downloads/szell2014heb.pdf"><img src="../images/thumb_szell2014heb.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    M. Szell, B. Groß<br /><b>Hubcab - Exploring the Benefits of Shared Taxi Services</b><br /><a href="http://www.degruyter.com/view/books/9783038213925/9783038213925.28/9783038213925.28.xml">In: Decoding the City (2014)</a><br /><a href="#" onclick="toggle('szell2014heb');return false;" id="info-szell2014heb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2014heb.pdf"><div class="filepdf">Chapter</div></a></td><td class='nopad'><a href="../downloads/szell2014heb.pdf"><img src="../images/thumb_szell2014heb.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="szell2014heb"><pre><code>@inbook{szell2014heb,
   title = {Decoding the City},
   author = {Szell, Michael and Gro{\ss}, Benedikt},
@@ -675,7 +674,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 		<li class="publi pub-other">
     <table>
     <tr><td class='nopad'>
-    M. Szell, B. Groß<br /><b>Hubcab - Taxi-Fahrgemeinschaften, digital erkundet</b><br /><a href="http://dx.doi.org/10.1515/9783038210399.29">In: Die Stadt entschlüsseln (2013), Bauwelt Fundamente 150, Birkh&auml;user. Eds: D. Offenhuber, C. Ratti</a><br />
+    M. Szell, B. Groß<br /><b>Hubcab - Taxi-Fahrgemeinschaften, digital erkundet</b><br /><a href="http://dx.doi.org/10.1515/9783038210399.29">In: Die Stadt entschlüsseln (2013), Bauwelt Fundamente 150</a><br />
     <a href="#" onclick="toggle('szell2013htf');return false;" id="info-szell2013htf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2013htf.pdf"><div class="filepdf">Chapter</div></a></td><td class='nopad'><a href="../downloads/szell2013htf.pdf"><img src="../images/thumb_szell2013htf.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="szell2013htf"><pre><code>@inbook{szell2013htf,
   title = {Die Stadt entschl{\"u}sseln},
@@ -787,7 +786,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <table>
     <tr><td class='nopad'>
     M. Szell<br /><b>Statistical physics approaches to large-scale socio-economic networks</b><br />Ph.D. Thesis, University of Vienna (2011)<br />
-    <a href="#" onclick="toggle('szell2011spa');return false;" id="info-szell2011spa"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2011spa.pdf"><div class="filepdf">Thesis</div></a> &nbsp; <a href="http://othes.univie.ac.at/19044/"><div class="linkexternal">E-Thesis</div></a></td><td class='nopad'></td></tr></table>
+    <a href="#" onclick="toggle('szell2011spa');return false;" id="info-szell2011spa"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2011spa.pdf"><div class="filepdf">Thesis</div></a> &nbsp; <a href="http://othes.univie.ac.at/19044/"><div class="linkexternal">E-Thesis</div></a></td><td class='nopad'><a href="../downloads/szell2011spa.pdf"><img src="../images/thumb_szell2011spa.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="szell2011spa"><pre><code>@phdthesis{szell2011spa,
   title = {Statistical physics approaches to large-scale socio-economic networks},
   author = {Szell, Michael},
