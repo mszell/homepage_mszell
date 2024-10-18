@@ -154,7 +154,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2024-10-17 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
+  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2024-10-18 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
 </div>
 EOD;
 
