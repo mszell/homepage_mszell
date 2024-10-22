@@ -129,11 +129,11 @@ Toots from <a rel="me" href="https://datasci.social/@mszll">@mszll@datasci.socia
 
 <hr>
     <h2>Recent papers</h2>
+    <p>Nature: <a href="https://www.nature.com/articles/d41586-024-03435-w">Was the Nobel prize for physics? Yes - not that it matters</a></p>
+
     <p>Journal of Open Source Software: <a href="https://joss.theoj.org/papers/10.21105/joss.06798">superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities</a></p>
 
     <p>Geographical Analysis: <a href="https://onlinelibrary.wiley.com/share/author/Q7YNZYCRITIQXIVEBE4H?target=10.1111/gean.12400">How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark</a></p>
-
-    <p>Computers, Environment and Urban Systems: <a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Sidewalk networks: Review and outlook</a></p>
 
     <p><a href="../publications/">&rarr; See all papers</a></p>
 
@@ -154,7 +154,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2024-10-18 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
+  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2024-10-22 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
 </div>
 EOD;
 
