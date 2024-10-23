@@ -23,7 +23,7 @@ echo $featuredarea;
       <div class="temp" style='font-size:9px;color: white;background-color: #666666;display:inline;padding:2px;'>Other</div>
       -->
 
-<h3>My coauthorship network</h3>
+<h3 style="position: relative; z-index: 12;">My coauthorship network</h3>
 <div id="collabnet"><script src="http://michael.szell.net/publications/collabnet.js" type="text/javascript"></script></div>
 
 </br></br></br>
@@ -36,7 +36,7 @@ echo $featuredarea;
   Link color: Co-publication with me (red) / between my co-authors (grey)</p><br/>
 </div>
 
-<p>
+<p style="position: relative; z-index: 11;">
 Download bib file of my publications: <a href="../downloads/szell.bib">szell.bib</a></br>
 Download a list of my publications: <a href="../downloads/publicationlist_szell.pdf"><span class="filepdf">Publicationlist</span></a>
 </p>
