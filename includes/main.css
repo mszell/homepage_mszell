@@ -8,6 +8,15 @@ Lighter CF4141	CF6767
 https://modernfontstacks.com/
 */
 
+/*https://www.w3schools.com/Css/css_combinators.asp*/
+table img.right{
+  opacity: 0;
+  transition: 0.5s;
+}
+table:hover img.right{
+  opacity: 1;
+}
+
 body { 
   font-family: system-ui, sans-serif;
   font: 14px;
