@@ -27,8 +27,8 @@ echo $featuredarea;
 <div id="collabnet"><script src="http://michael.szell.net/publications/collabnet.js" type="text/javascript"></script></div>
 
 </br></br></br>
-<a href="#" onclick="toggle('legend');return false;" id="info-legend" style="position: relative; z-index: 10;">&darr; Toggle legend &darr;</a>
-<div class="expansion" id="legend">
+<a href="#" onclick="toggle('legend');return false;" id="info-legend" style="position: relative; z-index: 10; text-shadow: 1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;">&darr; Toggle legend &darr;</a>
+<div class="expansion" id="legend" style="position: relative; z-index: 11; text-shadow: 1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff; font-size: 90%;">
   <p>Last update 2024-05-06</br>
   Node color: Most recent date of publication with me</br>
   Node size: Duration of collaboration with me</br>
@@ -36,7 +36,7 @@ echo $featuredarea;
   Link color: Co-publication with me (red) / between my co-authors (grey)</p><br/>
 </div>
 
-<p style="position: relative; z-index: 11;">
+<p style="position: relative; z-index: 11; text-shadow: 1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;">
 Download bib file of my publications: <a href="../downloads/szell.bib">szell.bib</a></br>
 Download a list of my publications: <a href="../downloads/publicationlist_szell.pdf"><span class="filepdf">Publicationlist</span></a>
 </p>
