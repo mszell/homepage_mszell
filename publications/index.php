@@ -95,10 +95,10 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-other">
     <table>
     <tr><td class='nopad'>
-    M. Szell, Y. Ma, R. Sinatra<br /><b>Was the Nobel prize for physics? Yes - not that it matters</b><br /><a href="https://www.nature.com/articles/d41586-024-03435-w">Nature 634, 782 (2024)</a><br />
+    M. Szell, Y. Ma, R. Sinatra<br /><b>Was the Nobel prize for physics? Yes — not that it matters</b><br /><a href="https://www.nature.com/articles/d41586-024-03435-w">Nature 634, 782 (2024)</a><br />
     <a href="#" onclick="toggle('szell2024wnp');return false;" id="info-szell2024wnp"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2024wnp.pdf"><div class="filepdf">Article</div></a></td><td class='nopad'></td><td class='nopad'><a href="../downloads/szell2024wnp.pdf"><img src="../images/thumb_szell2024wnp.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="szell2024wnp"><pre><code>@article{szell2024wnp,
-  title = {Was the {Nobel} prize for physics? {Yes} - not that it matters},
+  title = {Was the {Nobel} prize for physics? {Yes} -- not that it matters},
   author = {Szell, Michael and Ma, Yifang and Sinatra, Roberta},
   journal = {Nature},
   year = {2024},

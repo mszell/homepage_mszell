@@ -92,7 +92,7 @@ $featuredarea = <<<EOD
     Welcome! I am associate professor at <a href="https://nerds.itu.dk/">NERDS, ITU Copenhagen</a>, researching sustainable mobility, bicycle networks, and social networks. My preferred research methods are network analysis, data science, and data visualization.
     <br /><br />
     <a href="{$URLTOP}/downloads/cv_szell.pdf"><div class='filepdf' style="position: relative; z-index: 10;">Curriculum Vitae<br />
-        <div class='updateinfo'>last update 2024-10-22</div>
+        <div class='updateinfo'>last update 2024-11-01</div>
     </div></a>
     			</div>
 
@@ -129,7 +129,7 @@ Toots from <a rel="me" href="https://datasci.social/@mszll">@mszll@datasci.socia
 
 <hr>
     <h2>Recent papers</h2>
-    <p>Nature: <a href="https://www.nature.com/articles/d41586-024-03435-w">Was the Nobel prize for physics? Yes - not that it matters</a></p>
+    <p>Nature: <a href="https://www.nature.com/articles/d41586-024-03435-w">Was the Nobel prize for physics? Yes — not that it matters</a></p>
 
     <p>Journal of Open Source Software: <a href="https://joss.theoj.org/papers/10.21105/joss.06798">superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities</a></p>
 
@@ -154,7 +154,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2024-10-23 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
+  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2024-11-01 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
 </div>
 EOD;
 
