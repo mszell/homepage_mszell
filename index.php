@@ -77,7 +77,7 @@ echo $featuredarea;
 
 <h3>Bio</h3>
 <p>
-Michael Szell is associate professor in Data Science at IT University of Copenhagen, external faculty at the Complexity Science Hub Vienna, and affiliate at the AI Pioneer Centre. His research quantifies the patterns behind interlinked human behavior and human-built structures through mining large-scale data sets. He follows an interdisciplinary approach using methods from data science and network science. Michael's current focus is on sustainable urban mobility and urban data science. He has also developed several interactive data visualization platforms such as <a href="https://whatthestreet.com">What the Street!?</a>, and the award-winning massive multiplayer online game <a href="https://www.pardus.at">Pardus</a>.
+Michael Szell is associate professor in Data Science at IT University of Copenhagen, external faculty at the Complexity Science Hub Vienna, and affiliate at the AI Pioneer Centre. His research quantifies the patterns behind interlinked human behavior and human-built structures through mining large-scale data sets. He follows an interdisciplinary approach using methods from data science and network science. Michael's current focus is on sustainable urban mobility and urban data science. He has also co-developed several interactive data visualization platforms such as <a href="https://whatthestreet.com">What the Street!?</a>, and the award-winning massive multiplayer online game <a href="https://www.pardus.at">Pardus</a>.
 </p>
 
 
