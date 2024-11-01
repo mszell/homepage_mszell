@@ -103,8 +103,6 @@ $featuredarea = <<<EOD
     		<div class="container">
     			<div class="sidebar">
 
-    <h2>Contact</h2>
-
     <dl class="compact">
       <dt>Email</dt>
       <dd>
@@ -114,39 +112,19 @@ $featuredarea = <<<EOD
       <dd>Computer Science Dept.<br /><span style='padding-left: 16px;'>ITU Copenhagen<br /><span style='padding-left: 16px;'>Rued Langgaards Vej 7<br /><span style='padding-left: 16px;'>2300 København, DK</span></dd>
       <dt>Office</dt>
       <dd>3F11, Kaj Munks Vej 9</dd>
+      <dt>Profiles</dt>
+      <dd>
+        <a rel="me" href="http://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ"><img src="{$URLTOP}/images/icongooglescholar.png" height="17" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
+        <a rel="me" href="https://orcid.org/0000-0003-3022-2483"><img src="{$URLTOP}/images/iconorcid.png" height="17" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
+        <a rel="me" href="http://arxiv.org/a/szell_m_1"><img src="{$URLTOP}/images/iconarxiv.png" height="17" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
+        <a rel="me" href="https://github.com/mszell"><img src="{$URLTOP}/images/icongithub.png" height="17" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
+        <a rel="me" href="https://datasci.social/@mszll"><img src="{$URLTOP}/images/iconmastodon.png" height="17" class="logo" style="position: relative; top: 3px;"></a></dd>
     </dl>
 
-<hr>
-
-    <h2>Profiles</h2>
-    <p><a href="http://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ">Scholar</a> | <a href="https://orcid.org/0000-0003-3022-2483">ORCID</a> | <a href="http://arxiv.org/a/szell_m_1">arXiv</a> | <a href="https://github.com/mszell">Github</a> | <a rel="me" href="https://datasci.social/@mszll"><img src="{$URLTOP}/images/iconmastodon.png" height="17" class="logo" style="position: relative; top: 3px;"></a></p> 
-
-<p style="text-align: left;">
+<p style="text-align: left;"></br>
 Toots from <a rel="me" href="https://datasci.social/@mszll">@mszll@datasci.social</a>
-<iframe src="{$URLTOP}/includes/mastodon-on-blog/index.html" height=300 width=230></iframe>
+<iframe src="{$URLTOP}/includes/mastodon-on-blog/index.html" height=360 width=230></iframe>
 </p>
-
-
-<hr>
-    <h2>Recent papers</h2>
-    <p>Nature: <a href="https://www.nature.com/articles/d41586-024-03435-w">Was the Nobel prize for physics? Yes — not that it matters</a></p>
-
-    <p>Journal of Open Source Software: <a href="https://joss.theoj.org/papers/10.21105/joss.06798">superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities</a></p>
-
-    <p>Geographical Analysis: <a href="https://onlinelibrary.wiley.com/share/author/Q7YNZYCRITIQXIVEBE4H?target=10.1111/gean.12400">How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark</a></p>
-
-    <p><a href="../publications/">&rarr; See all papers</a></p>
-
-<hr>
-    <h2>Recent media coverage</h2>
-
-      <p>The Conversation: <a href="https://theconversation.com/hundreds-of-cities-have-achieved-zero-road-deaths-in-a-year-heres-how-they-did-it-229127">Hundreds of cities have achieved zero road deaths in a year. Here’s how they did it</a></p>
-
-      <p>ORF Wien Heute: <a href="https://tvthek.orf.at/profile/Wien-heute/70018/Wien-heute-vom-27-03-2024/14219951/Radinfrastruktur-ausbaufaehig/15608017">Radinfrastruktur ausbaufähig</a></p>
-
-      <p>wien.orf.at: <a href="https://wien.orf.at/stories/3249925/">Radwege sollen möglichst direkt verlaufen</a></p>
-
-      <p><a href="../media/">&rarr; See all media coverage</a></p>
 
     			</div>
 EOD;
