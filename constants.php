@@ -109,7 +109,7 @@ $featuredarea = <<<EOD
       <a href='m&#97;i&#108;&#116;o&#58;michael&#046;szell&#064;gmail&#046;com'>michael&#046;szell&#064;gmail&#046;com</a>
       </dd>
       <dt>Address</dt>
-      <dd>Computer Science Dept.<br /><span style='padding-left: 16px;'>ITU Copenhagen<br /><span style='padding-left: 16px;'>Rued Langgaards Vej 7<br /><span style='padding-left: 16px;'>2300 København, DK</span></dd>
+      <dd>ITU Copenhagen<br /><span style='padding-left: 16px;'>Rued Langgaards Vej 7</span><br /><span style='padding-left: 16px;'>2300 København, DK</span></dd>
       <dt>Office</dt>
       <dd>3F11, Kaj Munks Vej 9</dd>
       <dt>Profiles</dt>
