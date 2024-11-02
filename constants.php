@@ -88,51 +88,42 @@ $portrait = "
     			</div>";
 
 $featuredarea = <<<EOD
-    			<div class="portrait-text">
-    Welcome! I am associate professor at <a href="https://nerds.itu.dk/">NERDS, ITU Copenhagen</a>, researching sustainable mobility, bicycle networks, and social networks. My preferred research methods are network analysis, data science, and data visualization.
+  <div class="portrait-text">
+    I am associate professor at <a href="https://nerds.itu.dk/">NERDS (ITU Copenhagen)</a> researching sustainable mobility and bicycle networks via network analysis, data science, and data visualization.
     <br /><br />
-    <a href="{$URLTOP}/downloads/cv_szell.pdf"><div class='filepdf' style="position: relative; z-index: 10;">Curriculum Vitae<br />
-        <div class='updateinfo'>last update 2024-11-01</div>
-    </div></a>
-    			</div>
+    <table class="full">
+      <tr>
+        <td>
+          <a href="{$URLTOP}/downloads/cv_szell.pdf">
+            <div class='filepdf' style="position: relative; z-index: 10;">Curriculum Vitae<br />
+            </div>
+          </a>
+        </td>
+        <td style="text-align: right; position: relative; z-index: 10;">
+          <a rel="me" href="mailto:michael.szell@gmail.com"><img src="{$URLTOP}/images/iconemail.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
+          <a rel="me" href="http://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ"><img src="{$URLTOP}/images/icongooglescholar.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
+          <a rel="me" href="https://orcid.org/0000-0003-3022-2483"><img src="{$URLTOP}/images/iconorcid.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
+          <a rel="me" href="http://arxiv.org/a/szell_m_1"><img src="{$URLTOP}/images/iconarxiv.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
+          <a rel="me" href="https://github.com/mszell"><img src="{$URLTOP}/images/icongithub.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
+          <a rel="me" href="https://datasci.social/@mszll"><img src="{$URLTOP}/images/iconmastodon.png" height="20" class="logo" style="position: relative; top: 3px;"></a>
+        </td>
+      </tr>
+    </table>
+  </div>
 
-    		</div>
-    	</div>
+  </div>
+  </div>
 
-    	<div class="main-area">
-    		<div class="container">
-    			<div class="sidebar">
-
-    <dl class="compact">
-      <dt>Email</dt>
-      <dd>
-      <a href='m&#97;i&#108;&#116;o&#58;michael&#046;szell&#064;gmail&#046;com'>michael&#046;szell&#064;gmail&#046;com</a>
-      </dd>
-      <dt>Address</dt>
-      <dd>ITU Copenhagen<br /><span style='padding-left: 16px;'>Rued Langgaards Vej 7</span><br /><span style='padding-left: 16px;'>2300 København, DK</span></dd>
-      <dt>Office</dt>
-      <dd>3F11, Kaj Munks Vej 9</dd>
-      <dt>Profiles</dt>
-      <dd>
-        <a rel="me" href="http://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ"><img src="{$URLTOP}/images/icongooglescholar.png" height="17" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
-        <a rel="me" href="https://orcid.org/0000-0003-3022-2483"><img src="{$URLTOP}/images/iconorcid.png" height="17" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
-        <a rel="me" href="http://arxiv.org/a/szell_m_1"><img src="{$URLTOP}/images/iconarxiv.png" height="17" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
-        <a rel="me" href="https://github.com/mszell"><img src="{$URLTOP}/images/icongithub.png" height="17" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
-        <a rel="me" href="https://datasci.social/@mszll"><img src="{$URLTOP}/images/iconmastodon.png" height="17" class="logo" style="position: relative; top: 3px;"></a></dd>
-    </dl>
-
-<p style="text-align: left;"></br>
-Toots from <a rel="me" href="https://datasci.social/@mszll">@mszll@datasci.social</a>
-<iframe src="{$URLTOP}/includes/mastodon-on-blog/index.html" height=360 width=230></iframe>
-</p>
-
-    			</div>
+	<div class="main-area">
+		<div class="container">
 EOD;
 
 
 $footer = <<<EOD
 <div id="footer">
-  <p>{$URLTOP} &nbsp;|&nbsp; Last update 2024-11-01 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></p>
+  <p>michael.szell.net &nbsp;|&nbsp; Last update 2024-11-02 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></br>
+    ITU Copenhagen, Rued Langgaards Vej 7, 2300 København, DK
+  </p>
 </div>
 EOD;
 

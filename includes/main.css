@@ -20,6 +20,7 @@ table:hover img.right{
 body { 
   font-family: system-ui, sans-serif;
   font: 14px;
+  font-size: 115%;
   color: black;
   margin: 0;
   font-weight: 300;
@@ -43,7 +44,7 @@ img {
       border: 1px solid #cccccc;
       color: #680505;
       margin: 0 auto;
-      margin-top: 10px;
+      margin-top: 6px;
       padding: 10px;
       width: 220px;
       height: 140px;
@@ -83,9 +84,10 @@ hr {
 }
 
 .portrait-text {
-  width: 595px;
+  width: 495px;
   padding:8px 0px -8px 0px;
   text-align:justify;
+  font-size: 95%;
 }
 
 img.logo {
@@ -164,23 +166,6 @@ li
   background-image: none;
 }
 
-/* Compact definition lists */
-dl.compact dt {
-  width: 70px;
-  float: left;
-  clear: left;
-  color: #680505;
-  margin-left: 16px;
-  line-height:150%;
-  }
-
-dl.compact dd {
-  display: block;
-  border-left: 70px solid transparent;
-  margin-left: 0 !important;
-  line-height:150%;
-  }
-
 td {
   vertical-align: top;
 }
@@ -209,7 +194,7 @@ td.wfix {
 
 /* Container */
 .container {
-  width: 900px;
+  width: 800px;
   margin: auto;
   position: relative;
   padding-left: 20px;
@@ -227,7 +212,7 @@ td.wfix {
   background: #000000; }
 
 h1 {
-  font-size: 170%;
+  font-size: 150%;
   font-weight: 300;
   margin: 0px;
   height: 48px;
@@ -273,13 +258,6 @@ h4 {
   padding: 0;
   font-weight: 400; }
 
-.updateinfo {
-  font-size: 90%;
-  color: #999999;
-  display:inline;
-  padding: 0px;
-}
-
 .filepdf {
   background: url(../images/iconpdf.gif) left top;
   background-repeat: no-repeat;
@@ -315,34 +293,34 @@ h4 {
 /* Footer */
 #footer {
   font-size: 80%;
-  line-height: 180%;
+  line-height: 135%;
   background-color: #222222;
   text-align: center;
   vertical-align: middle;
-  color: #666666;
-  border-top: 1px solid #A00E0E;
+  color: #888888;
+  border-top: 1px solid #000000;
   clear: both;
   background: #222222 url(../images/gradientfooter.png) repeat-x top;
-  height: 50px;
-  min-height: 50px;
+  height: 66px;
+  min-height: 66px;
   }
 
 #footer a {
-  color: #888888 !important; }
+  color: #AAAAAA !important; }
 
 #footer a:hover {
-  border-bottom: 1px solid #888888 !important; }
+  border-bottom: 1px solid #AAAAAA !important; }
 
 /* Areas in main container */
 .main-area {
   color: black;
   padding: 0.5em 0;
   text-align: justify;
-  line-height:140%;
+  line-height:135%;
   background: #FFFFFF url(../images/noise.png) repeat; }
 
 .main-with-sidebar {
-  padding-right: 305px !important;
+  padding: 0 40px 0px 20px !important;
   }
 
 /* Featured area styling */
@@ -351,35 +329,12 @@ h4 {
   /* height: 8em; */
   border-bottom: 1px solid #cccccc;
   padding: 1.2em 10px;
-  line-height:140%;
+  line-height:135%;
+  color: #333333;
   }
 
 .featured-area h2 {
   margin-top: 0; }
-
-/* Sidebar-related styling */
-.sidebar {
-  font-size: 90%;
-  clear: right;
-  float: right;
-  width: 250px;
-  font-weight:250;
-  margin: 0 0 0 55px;
-  line-height:140%;
-  }
-
-.sidebar h2 {
-  font-size: 110%;
-  padding: 0;
-  font-weight:200;
-  clear: both;
-  color: black;
-  margin-top: 11px;
-  margin-bottom: 0px;
-  }
-
-.sidebar p {
-  margin: 8px 0px 10px 16px; }
 
 /* Menu styling */
 #menu {
@@ -437,7 +392,7 @@ table.full{
 }
 
 
-
+/* collabnet */
 .node {
   stroke: #fff;
   stroke-width: 1.5px;
