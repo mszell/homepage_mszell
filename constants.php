@@ -16,6 +16,7 @@ $head = <<<EOD
     <meta name="Description" content="Professional homepage of Michael Szell" />
     <meta name="Robots" content="index, follow" />
     <meta name="fediverse:creator" content="mszll@datasci.social" />
+    <meta name="viewport" content="width=840, initial-scale=0.45">
     <link rel="stylesheet" href="{$URLTOP}/includes/main.css" type="text/css" />
     <link rel="shortcut icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
     <link rel="icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
