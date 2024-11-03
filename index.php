@@ -72,7 +72,7 @@ echo $featuredarea;
 
 <h3>Current research</h3>
 <p>Watch my keynote to learn about my current research:</p>
-<iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/yGW2TsV-LDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href='https://www.youtube.com/watch?v=yGW2TsV-LDA'><img src="images/keynote.jpg" width="740" height="415" alt="Keynote Michael Szell IT University of Copenhagen"></a>
 
 
 <h3>Bio</h3>
@@ -91,12 +91,12 @@ Michael Szell is associate professor in Data Science at IT University of Copenha
 <h3>Research highlights</h3>
 <table width="740px" style="text-align: center;">
 <tr>
-	<td><a href='https://www.nature.com/articles/s41598-022-10783-y'>Bicycle<br />Networks<br /><img src='images/paperscirepgrowbike.jpg' width='114' title='2022-04-26: Scientific Reports paper on growing urban bicycle networks published' alt='2022-04-26: Scientific Reports paper on growing urban bicycle networks published'><br />2022</a></td>
-	<td><a href='https://www.nature.com/articles/s41586-021-03480-9'>Human<br />Mobility<br /><img src='images/papernaturemobility.jpg' width='114' title='2021-05-26: Nature paper on mobility published' alt='2021-05-26: Nature paper on mobility published'><br />2021</a></td>
-	<td><a href='https://doi.org/10.1038/s41567-018-0314-6'>Nobel<br />Prizes<br /><img src='images/papernaturephysicsnobel.jpg' width='114' title='2018-11-01: Nature Physics perspective on Nobel Prizes published' alt='2018-11-01: Nature Physics perspective on Nobel Prizes published'><br />2018</a></td>
-	<td><a href='http://www.nature.com/nphys/journal/v11/n10/full/nphys3494.html'>Citation<br />Networks<br /><img src='images/papernaturephysicstenyears.jpg' width='114' title='2015-10-01: Nature Physics paper on citation networks published and on the cover' alt='2015-10-01: Nature Physics paper on citation networks published and on the cover'><br />2015</a></td>
-	<td><a href='http://www.pnas.org/content/111/37/13290'>Taxi<br />Sharing<br /><img src='images/paperpnastaxi.jpg' width='114' title='2014-09-16: PNAS paper on taxi shareability published and on the cover' alt='2014-09-16: PNAS paper on taxi shareability published and on the cover'><br />2014</a></td>
-	<td><a href='http://www.pnas.org/content/107/31/13636'>Social<br />Networks<br /><img src='images/paperpnasmultiplex.jpg' width='114' title='2010-08-03: PNAS paper on multiplex networks published' alt='2010-08-03: PNAS paper on multiplex networks published'><br />2010</a></td>
+	<td><a href='https://www.nature.com/articles/s41598-022-10783-y'>Bicycle<br />Networks<br /><img src='images/paperscirepgrowbike.jpg' width='114' height='152' title='2022-04-26: Scientific Reports paper on growing urban bicycle networks published' alt='2022-04-26: Scientific Reports paper on growing urban bicycle networks published'><br />2022</a></td>
+	<td><a href='https://www.nature.com/articles/s41586-021-03480-9'>Human<br />Mobility<br /><img src='images/papernaturemobility.jpg' width='114' height='152' title='2021-05-26: Nature paper on mobility published' alt='2021-05-26: Nature paper on mobility published'><br />2021</a></td>
+	<td><a href='https://doi.org/10.1038/s41567-018-0314-6'>Nobel<br />Prizes<br /><img src='images/papernaturephysicsnobel.jpg' width='114' height='152' title='2018-11-01: Nature Physics perspective on Nobel Prizes published' alt='2018-11-01: Nature Physics perspective on Nobel Prizes published'><br />2018</a></td>
+	<td><a href='http://www.nature.com/nphys/journal/v11/n10/full/nphys3494.html'>Citation<br />Networks<br /><img src='images/papernaturephysicstenyears.jpg' width='114' height='152' title='2015-10-01: Nature Physics paper on citation networks published and on the cover' alt='2015-10-01: Nature Physics paper on citation networks published and on the cover'><br />2015</a></td>
+	<td><a href='http://www.pnas.org/content/111/37/13290'>Taxi<br />Sharing<br /><img src='images/paperpnastaxi.jpg' width='114' height='152' title='2014-09-16: PNAS paper on taxi shareability published and on the cover' alt='2014-09-16: PNAS paper on taxi shareability published and on the cover'><br />2014</a></td>
+	<td><a href='http://www.pnas.org/content/107/31/13636'>Social<br />Networks<br /><img src='images/paperpnasmultiplex.jpg' width='114' height='152' title='2010-08-03: PNAS paper on multiplex networks published' alt='2010-08-03: PNAS paper on multiplex networks published'><br />2010</a></td>
 </tr>
 </table>
 
