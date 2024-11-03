@@ -2,6 +2,13 @@
 
 $URLTOP = "http://michael.szell.net";
 
+if ($section == "publications") { # Load d3 js only on the publications page
+  $jsload = "<script src='{$URLTOP}/includes/d3.min.js' charset='utf-8' type='text/javascript'></script>
+    <script type='text/javascript' src='http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js'></script>";
+} else {
+  $jsload = "";
+}
+
 $head = <<<EOD
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -20,8 +27,7 @@ $head = <<<EOD
     <link rel="stylesheet" href="{$URLTOP}/includes/main.css" type="text/css" />
     <link rel="shortcut icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
     <link rel="icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
-    <script src="{$URLTOP}/includes/d3.min.js" charset="utf-8" type="text/javascript"></script>
-    <script type="text/javascript" src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+    {$jsload}
     <script type="text/javascript">
 //<![CDATA[
 function toggle(nr) {
