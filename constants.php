@@ -21,7 +21,6 @@ $head = <<<EOD
     <link rel="shortcut icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
     <link rel="icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
     <script src="{$URLTOP}/includes/jquery-1.7.2.min.js" type="text/javascript"></script>
-    <script src="{$URLTOP}/includes/main.js" type="text/javascript"></script>
     <script src="{$URLTOP}/includes/d3.min.js" charset="utf-8" type="text/javascript"></script>
     <script type="text/javascript" src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
     <script type="text/javascript">
