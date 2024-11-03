@@ -49,6 +49,7 @@ img {
       height: 140px;
       background-repeat: no-repeat;
       border-radius: 20px;
+      z-index: 100;
   }
 
 hr {
@@ -331,6 +332,9 @@ h4 {
   padding: 1.2em 10px;
   line-height:135%;
   color: #333333;
+  z-index: 90;
+  opacity: 0.85;
+  position: relative;
   }
 
 .featured-area h2 {
@@ -415,7 +419,7 @@ d3-tip {
 
 #collabnet{
   position: relative;
-  top:-190px;
+  top:-180px;
   margin-bottom:-340px;
   z-index: 0;
 }
