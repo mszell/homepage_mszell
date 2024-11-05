@@ -109,12 +109,12 @@ echo $featuredarea;
 <ul>
 	<li class='talk talk-invited'>
 	<table>
-	<tr><td class='std col1 date'>2023-09-20<br /><a href="../downloads/talk_szell2023sfp.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Stories from 1001 paths (over Dybbølsbro)<br /><a href="https://datasci.social/@DataBeersCph">DataBeers Copenhagen</a><br/>Copenhagen, Denmark</td></tr>
+	<tr><td class='std col1 date'>2024-11-06<br /><a href="../downloads/talk_szell2024dsb.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Data Science of Bicycle Networks<br /><a href="https://www.eurosdr.net/">145th EuroSDR Board of Delegates meeting</a><br/>Copenhagen, Denmark</td></tr>
 	</table>
 	</li>
-	<li class='talk talk-contributed'>
+	<li class='talk talk-invited'>
 	<table>
-	<tr><td class='std col1 date'>2023-07-18<br /><a href="../downloads/talk_szell2023cdl.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen<br /><a href="https://www.ic2s2.org/">IC2S2 2023</a><br/>Copenhagen, Denmark</td></tr>
+	<tr><td class='std col1 date'>2023-09-20<br /><a href="../downloads/talk_szell2023sfp.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Stories from 1001 paths (over Dybbølsbro)<br /><a href="https://datasci.social/@DataBeersCph">DataBeers Copenhagen</a><br/>Copenhagen, Denmark</td></tr>
 	</table>
 	</li>
 	</ul>
@@ -122,6 +122,11 @@ echo $featuredarea;
 	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all talks &darr;</a>
 	<div class="expansion" id="talks">
 	<ul>
+	<li class='talk talk-contributed'>
+	<table>
+	<tr><td class='std col1 date'>2023-07-18<br /><a href="../downloads/talk_szell2023cdl.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen<br /><a href="https://www.ic2s2.org/">IC2S2 2023</a><br/>Copenhagen, Denmark</td></tr>
+	</table>
+	</li>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2023-07-12</td><td class='std'>Urban Data and Network Science for More Cycling and Walking in Cities<br />Invited talk at Büro Happold<br/>Copenhagen, Denmark</td></tr>
