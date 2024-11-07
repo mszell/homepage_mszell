@@ -106,7 +106,6 @@ $featuredarea = <<<EOD
           <a rel="me" href="mailto:michael.szell@gmail.com"><img src="{$URLTOP}/images/iconemail.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
           <a rel="me" href="http://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ"><img src="{$URLTOP}/images/icongooglescholar.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
           <a rel="me" href="https://orcid.org/0000-0003-3022-2483"><img src="{$URLTOP}/images/iconorcid.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
-          <a rel="me" href="http://arxiv.org/a/szell_m_1"><img src="{$URLTOP}/images/iconarxiv.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
           <a rel="me" href="https://github.com/mszell"><img src="{$URLTOP}/images/icongithub.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
           <a rel="me" href="https://datasci.social/@mszll"><img src="{$URLTOP}/images/iconmastodon.png" height="20" class="logo" style="position: relative; top: 3px;"></a>
         </td>
