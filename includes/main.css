@@ -17,6 +17,15 @@ table:hover img.right{
   opacity: 1;
 }
 
+a img.logo{
+  filter: brightness(100%) opacity(100%);
+  transition: 0.25s;
+}
+a:hover img.logo{
+  filter: brightness(135%) opacity(75%);
+  transition: 0.2s;
+}
+
 body { 
   font-family: system-ui, sans-serif;
   font-size: 1.05rem;
@@ -364,6 +373,7 @@ h4 {
   position: relative;
   text-shadow: #680505 -1px -1px 0px;
   border-style: none;
+  transition: 0.25s;
   }
 
 
@@ -375,6 +385,7 @@ h4 {
 #menu li:hover {
   background-color: #000000;
   text-shadow: #222222 -1px -1px 0px;
+  transition: 0.2s;
   }
 
 #menu li a {
