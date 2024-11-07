@@ -19,7 +19,8 @@ table:hover img.right{
 
 body { 
   font-family: system-ui, sans-serif;
-  font-size: 18px;
+  font-size: 1.05rem;
+  line-height: 1.5;
   color: black;
   margin: 0;
   font-weight: 300;
@@ -48,7 +49,7 @@ img {
       width: 220px;
       height: 140px;
       background-repeat: no-repeat;
-      border-radius: 20px;
+      border-radius: 18px;
       z-index: 100;
   }
 
@@ -86,9 +87,8 @@ hr {
 
 .portrait-text {
   width: 495px;
-  padding:8px 0px -8px 0px;
-  text-align:justify;
-  font-size: 95%;
+  padding: 10px 0px -10px 0px;
+  text-align: justify;
 }
 
 img.logo {
@@ -317,7 +317,6 @@ h4 {
   color: black;
   padding: 0.5em 0;
   text-align: justify;
-  line-height:135%;
   background: #FFFFFF url(../images/noise.png) repeat; }
 
 .main-with-sidebar {
@@ -330,10 +329,9 @@ h4 {
   /* height: 8em; */
   border-bottom: 1px solid #cccccc;
   padding: 1.2em 10px;
-  line-height:135%;
   color: #333333;
   z-index: 90;
-  opacity: 0.9;
+  opacity: 0.92;
   position: relative;
   }
 
