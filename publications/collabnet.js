@@ -49,8 +49,14 @@ d3.json("mszellcollabnet20240506.json", function(error, graph) {
         else {return "#9"+Math.max(Math.min(9-(d.yearlast-(curyear-9)), 9), 0)+""+Math.max(Math.min(9-(d.yearlast-(curyear-9)), 9), 0)+""; }
         })
       .call(force.drag)
-      .on('mouseover', tip.show) //Added
-      .on('mouseout', tip.hide); //Added
+      .on("mouseover", function(d) { 
+        tip.show(d)
+        d3.select(this).attr("class", "node-active");
+      })
+      .on("mouseout",  function(d) {
+        tip.hide(d)
+        d3.select(this).attr("class", "node"); 
+      });
 
   force.on("tick", function() {
     graph.nodes[0].x = width / 2;
