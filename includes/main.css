@@ -415,10 +415,11 @@ table.full{
 .link0 { stroke: #AAA; stroke-opacity: 0.7;}
 
 
-d3-tip {
+.d3-tip {
     line-height: 1;
     color: black;
     text-align: center;
+    text-shadow: 1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
 }
 
 .node text {
