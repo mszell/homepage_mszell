@@ -84,7 +84,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-preprint">
     <table class='full'>
     <tr><td class='nopad'>
-    L.M. Aiello, A. Vybornova, S. Juhász, M. Szell,..<br /><b>Urban highways are barriers to social ties</b><br />
+    L.M. Aiello, A. Vybornova, S. Juhász, M. Szell, E. Bokányi<br /><b>Urban highways are barriers to social ties</b><br />
     <a href="#" onclick="toggle('aiello2024uhb');return false;" id="info-aiello2024uhb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/aiello2024uhb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/aiello2024uhb_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.11596"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/urban-highways"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/aiello2024uhb.pdf"><img src="../images/thumb_aiello2024uhb.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="aiello2024uhb"><pre><code>@article{aiello2024uhb,
   title = {Urban highways are barriers to social ties},
@@ -143,7 +143,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-journal">
     <table class='full'>
     <tr><td class='nopad'>
-    D. Rhoads, C. Rames, A. Solé-Ribalta, M.C. González, M. Szell,..<br /><b>Sidewalk networks: Review and outlook</b><br /><a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Computers, Environment and Urban Systems 106, 102031 (2023)</a><br />
+    D. Rhoads, C. Rames, A. Solé-Ribalta, M.C. González, M. Szell, J. Borge-Holthoefer<br /><b>Sidewalk networks: Review and outlook</b><br /><a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Computers, Environment and Urban Systems 106, 102031 (2023)</a><br />
     <a href="#" onclick="toggle('rhoads2023snr');return false;" id="info-rhoads2023snr"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/rhoads2023snr.pdf"><div class="filepdf">Article</div></a></td><td class='nopad'><a href="../downloads/rhoads2023snr.pdf"><img src="../images/thumb_rhoads2023snr.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="rhoads2023snr"><pre><code>@article{rhoads2023snr,
   title = {Sidewalk networks: Review and outlook},
@@ -172,7 +172,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-journal">
     <table class='full'>
     <tr><td class='nopad'>
-    A. Battiston, L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell,..<br /><b>Revealing the determinants of gender inequality in urban cycling with large-scale data</b><br /><a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00385-7">EPJ Data Science 12, 9 (2023)</a><br />
+    A. Battiston, L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell, R. Schifanella<br /><b>Revealing the determinants of gender inequality in urban cycling with large-scale data</b><br /><a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00385-7">EPJ Data Science 12, 9 (2023)</a><br />
     <a href="#" onclick="toggle('battiston2023rdg');return false;" id="info-battiston2023rdg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2023rdg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2203.09378"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/alibatti/GenderCyclingGapUsingStrava"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/battiston2023rdg.pdf"><img src="../images/thumb_battiston2023rdg.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="battiston2023rdg"><pre><code>@article{battiston2023rdg,
   title = {Revealing the determinants of gender inequality in urban cycling with large-scale data},
@@ -241,7 +241,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-journal">
     <table class='full'>
     <tr><td class='nopad'>
-    L. Alessandretti, L.G. Natera Orozco, M. Saberi, M. Szell,..<br /><b>Multimodal urban mobility and multilayer transport networks</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083221108190">Environment and Planning B 50(8), 2038-2070 (2023)</a><br />
+    L. Alessandretti, L.G. Natera Orozco, M. Saberi, M. Szell, F. Battiston<br /><b>Multimodal urban mobility and multilayer transport networks</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083221108190">Environment and Planning B 50(8), 2038-2070 (2023)</a><br />
     <a href="#" onclick="toggle('alessandretti2023mum');return false;" id="info-alessandretti2023mum"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/alessandretti2023mum.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2111.02152"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/alessandretti2023mum.pdf"><img src="../images/thumb_alessandretti2023mum.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="alessandretti2023mum"><pre><code>@article{alessandretti2023mum,
   title = {Multimodal urban mobility and multilayer transport networks},
@@ -318,7 +318,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
-    M. Schläpfer, L. Dong, K. O'Keeffe, P. Santi, M. Szell,..<br /><b>The universal visitation law of human mobility</b><br />
+    M. Schläpfer, L. Dong, K. O'Keeffe, P. Santi, M. Szell, H. Salat, S. Anklesaria, M. Vazifeh, C. Ratti, G.B. West<br /><b>The universal visitation law of human mobility</b><br />
   <a href="https://www.nature.com/articles/s41586-021-03480-9">Nature 593(7860), 522-527 (2021)</a><br />
   <a href="#" onclick="toggle('schlapfer2021uvl');return false;" id="info-schlapfer2021uvl"><div vb  class="filebib">Bib</div></a> &nbsp; <a href="../downloads/schlapfer2021uvl.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://senseable.mit.edu/wanderlust/"><div class="linkexternal">Project page</div></a></td><td class='nopad'><a href="../downloads/schlapfer2021uvl.pdf"><img src="../images/thumb_schlapfer2021uvl.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="schlapfer2021uvl"><pre><code>@article{schlapfer2021uvl,
@@ -385,7 +385,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
-    F. Battiston, F. Musciotto, D. Wang,..<br /><b>Taking census of physics</b><br /><a href="https://www.nature.com/articles/s42254-018-0005-3">Nature Reviews Physics 1, 89-97 (2019)</a><br />
+    F. Battiston, F. Musciotto, D. Wang, A.-L. Barabási, M. Szell, R. Sinatra<br /><b>Taking census of physics</b><br /><a href="https://www.nature.com/articles/s42254-018-0005-3">Nature Reviews Physics 1, 89-97 (2019)</a><br />
     <a href="#" onclick="toggle('battiston2019tcp');return false;" id="info-battiston2019tcp"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/battiston2019tcp.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/battiston2019tcp_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/1901.02789"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/battiston2019tcp.pdf"><img src="../images/thumb_battiston2019tcp.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="battiston2019tcp"><pre><code>@article{battiston2019tcp,
   title = {Taking census of physics},
@@ -439,11 +439,11 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
-    S. Grauwin, M. Szell, S. Sobolevsky, P. H&ouml;vel, F. Simini,..<br /><b>Identifying and modeling the structural discontinuities of human interactions</b><br /><a href="http://www.nature.com/articles/srep46677">Scientific Reports 7, 46677 (2017)</a><br />
+    S. Grauwin, M. Szell, S. Sobolevsky, P. H&ouml;vel, F. Simini, M. Vanhoof, Z. Smoreda, A.-L. Barabási, C. Ratti<br /><b>Identifying and modeling the structural discontinuities of human interactions</b><br /><a href="http://www.nature.com/articles/srep46677">Scientific Reports 7, 46677 (2017)</a><br />
     <a href="#" onclick="toggle('grauwin2017ims');return false;" id="info-grauwin2017ims"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/grauwin2017ims.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/grauwin2017ims_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/1509.03149"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/grauwin2017ims.pdf"><img src="../images/thumb_grauwin2017ims.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="grauwin2017ims"><pre><code>@article{grauwin2017ims,
   title = {Identifying and modeling the structural discontinuities of human interactions},
-  author = {Grauwin, Sebastian and Szell, Michael and Sobolevsky, Stanislav and H{\"o}vel, Philipp and Simini, Filippo and Vanhoof, Maarten and Smoreda, bigniew and Barab{\'a}si, Albert-L{\'a}szl{\'o} and Ratti, Carlo},
+  author = {Grauwin, Sebastian and Szell, Michael and Sobolevsky, Stanislav and H{\"o}vel, Philipp and Simini, Filippo and Vanhoof, Maarten and Smoreda, Zbigniew and Barab{\'a}si, Albert-L{\'a}szl{\'o} and Ratti, Carlo},
   journal = {Scientific Reports},
   year = {2017},
   volume = {7},
@@ -453,7 +453,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
-    R. Tachet, O. Sagarra, P. Santi, G. Resta, M. Szell,..<br /><b>Scaling law of urban ride sharing</b><br /><a href="http://www.nature.com/articles/srep42868">Scientific Reports 7, 42868 (2017)</a><br />
+    R. Tachet, O. Sagarra, P. Santi, G. Resta, M. Szell, S.H. Strogatz, C. Ratti<br /><b>Scaling law of urban ride sharing</b><br /><a href="http://www.nature.com/articles/srep42868">Scientific Reports 7, 42868 (2017)</a><br />
     <a href="#" onclick="toggle('tachet2017slu');return false;" id="info-tachet2017slu"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/tachet2017slu.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/tachet2017slu_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="http://arxiv.org/abs/1610.09921"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/tachet2017slu.pdf"><img src="../images/thumb_tachet2017slu.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="tachet2017slu"><pre><code>@article{tachet2017slu,
   title = {Scaling law of urban ride sharing},
@@ -486,7 +486,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
-    M. Nyhan, S. Sobolevsky, C. Kang, P. Robinson, A. Corti,..<br /><b>Predicting vehicular emissions in high spatial resolution using pervasively measured transportation data and microscopic emissions model</b><br /><a href="http://www.sciencedirect.com/science/article/pii/S1352231016304502">Atmospheric Environment 140, 352-363 (2016)</a><br />
+    M. Nyhan, S. Sobolevsky, C. Kang, P. Robinson, A. Corti, M. Szell, D. Streets, Z. Lu, R. Britter, S.R.H. Barrett, C. Ratti<br /><b>Predicting vehicular emissions in high spatial resolution using pervasively measured transportation data and microscopic emissions model</b><br /><a href="http://www.sciencedirect.com/science/article/pii/S1352231016304502">Atmospheric Environment 140, 352-363 (2016)</a><br />
     <a href="#" onclick="toggle('nyhan2016pve');return false;" id="info-nyhan2016pve"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nyhan2016pve.pdf"><div class="filepdf">Article</div></a></td><td class='nopad'><a href="../downloads/nyhan2016pve.pdf"><img src="../images/thumb_nyhan2016pve.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="nyhan2016pve"><pre><code>@article{nyhan2016pve,
   title = {Predicting vehicular emissions in high spatial resolution using pervasively measured transportation data and microscopic emissions model},
@@ -609,7 +609,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 		<li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
-    P. Santi, G. Resta, M. Szell, S. Sobolevsky, S. Strogatz,..<br /><b>Quantifying the benefits of vehicle pooling with shareability networks</b><br /><a href="http://www.pnas.org/content/111/37/13290">PNAS 111(37), 13290-13294 (2014)</a><br />
+    P. Santi, G. Resta, M. Szell, S. Sobolevsky, S.H. Strogatz, C. Ratti<br /><b>Quantifying the benefits of vehicle pooling with shareability networks</b><br /><a href="http://www.pnas.org/content/111/37/13290">PNAS 111(37), 13290-13294 (2014)</a><br />
     <a href="#" onclick="toggle('santi2014qbv');return false;" id="info-santi2014qbv"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/santi2014qbv.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/santi2014qbv_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="http://arxiv.org/abs/1310.2963"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="http://www.hubcab.org"><div class="linkexternal">Project page</div></a></td><td class='nopad'><a href="../downloads/santi2014qbv.pdf"><img src="../images/thumb_santi2014qbv.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="santi2014qbv"><pre><code>@article{santi2014qbv,
   title = {Quantifying the benefits of vehicle pooling with shareability networks},
@@ -673,7 +673,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 		<li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
-    S. Sobolevsky, M. Szell, R. Campari, T. Couronné, Z. Smoreda,..<br /><b>Delineating geographical regions with networks of human interactions in an extensive set of countries</b><br /><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0081707">PLOS ONE 8(12), e81707 (2013)</a><br />
+    S. Sobolevsky, M. Szell, R. Campari, T. Couronné, Z. Smoreda, C. Ratti<br /><b>Delineating geographical regions with networks of human interactions in an extensive set of countries</b><br /><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0081707">PLOS ONE 8(12), e81707 (2013)</a><br />
     <a href="#" onclick="toggle('sobolevsky2013dgr');return false;" id="info-sobolevsky2013dgr"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/sobolevsky2013dgr.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/sobolevsky2013dgr_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="http://arxiv.org/abs/1310.1829"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/sobolevsky2013dgr.pdf"><img src="../images/thumb_sobolevsky2013dgr.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="sobolevsky2013dgr"><pre><code>@article{sobolevsky2013dgr,
   title = {Delineating geographical regions with networks of human interactions in an extensive set of countries},
@@ -719,7 +719,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 	  <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
-    S. Thurner, P. Klimek, M. Szell, G. Duftschmid, G. Endel,..<br /><b>Quantification of excess-risk for diabetes when born in times of hunger, in an entire population of a nation, across a century</b><br /><a href="http://dx.doi.org/10.1073/pnas.1215626110">PNAS 110(12), 4703-4707 (2013)</a><br />
+    S. Thurner, P. Klimek, M. Szell, G. Duftschmid, G. Endel, A. Kautzky-Willer, D.C. Kasper<br /><b>Quantification of excess-risk for diabetes when born in times of hunger, in an entire population of a nation, across a century</b><br /><a href="http://dx.doi.org/10.1073/pnas.1215626110">PNAS 110(12), 4703-4707 (2013)</a><br />
 	  <a href="#" onclick="toggle('thurner2013qer');return false;" id="info-thurner2013qer"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/thurner2013qer.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/thurner2013qer_si.pdf"><div class="filepdf">SI</div></a></td><td class='nopad'><a href="../downloads/thurner2013qer.pdf"><img src="../images/thumb_thurner2013qer.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="thurner2013qer"><pre><code>@article{thurner2013qer,
   title = {Quantification of excess risk for diabetes for those born in times of hunger, in an entire population of a nation, across a century},
