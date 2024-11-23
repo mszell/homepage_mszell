@@ -21,13 +21,14 @@ echo $featuredarea;
 	<table>
 		<tr><td class='std col1 date'>since<br />2018-06-18</td><td class='std' width='130'>Review editor</td><td class='std'><a href="https://www.frontiersin.org/journals/physics/sections/social-physics">Frontiers (Social Physics)</a></td></tr>
 		<tr><td class='std col1 date'>since<br />2018-01-09</td><td class='std' width='130'>Editor</td><td class='std'><a href="http://www.complex-systems.com/">Complex Systems</a></td></tr>
+		<tr><td class='std col1 date'>2025-06-18<br />2025-06-16</td><td class='std' width='130'>Social Media Chair</td><td class='std'><a href="https://www.icssi.org/">ICSSI 2025</a><br />Copenhagen, Denmark</td></tr>
 		<tr><td class='std col1 date'>2025-04-25<br />2025-04-22</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2025</a><br />Fortaleza, Brazil</td></tr>
-		<tr><td class='std col1 date'>2024-07-20<br />2024-07-18</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2024</a><br />Philadelphia, USA</td></tr>
-		<tr><td class='std col1 date'>2024-06-21<br />2024-06-17</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://netsci2024.com/">NetSci 2024</a><br />Québec City, Canada</td></tr>
 	</table>
 	<a href="#" onclick="toggle('organization');return false;" id="info-organization">&darr; Toggle all activities &darr;</a>
 	<div class="expansion" id="organization">
 	<table>
+		<tr><td class='std col1 date'>2024-07-20<br />2024-07-18</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2024</a><br />Philadelphia, USA</td></tr>
+		<tr><td class='std col1 date'>2024-06-21<br />2024-06-17</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://netsci2024.com/">NetSci 2024</a><br />Québec City, Canada</td></tr>
 		<tr><td class='std col1 date'>2024-04-26<br />2024-04-23</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2024</a><br />Exeter, UK</td></tr>
 		<tr><td class='std col1 date'>2024-01-25<br />2024-01-22</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://netscix2024.netscisociety.org/netscix-2024">NetSciX 2024</a><br />Venice, Italy</td></tr>
 		<tr><td class='std col1 date'>2023-11-30<br />2023-11-28</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://complexnetworks.org/">Complex Networks 2023</a><br />Nice, France</td></tr>
