@@ -16,10 +16,52 @@ echo $featuredarea;
 
 			<div class="main-with-sidebar">
 
-<h3>Funded grant projects</h3>
-tba
+<h3>Funded grants</h3>
+<p>Shown are only projects where I was PI. For further projects see my <a href="../downloads/cv_szell.pdf">CV</a>.</p>
+<h4>JUST STREETS</h4>
+	<table>
+		<tr><td class='std col1 date'>2027-06<br/>2024-01</td><td class='std' style='text-align: center;'><a href="https://www.just-streets.eu/"><img src="../images/logojuststreets.png" width="58" alt="JUST STREETS" class="logo"></a></br></br><a href="https://cordis.europa.eu/project/id/101104240"><img src="../images/logoeu.png" width="58" alt="EU Project" class="logo"></a></td><td class='std'><p>This EU Horizon project (Grant ID 101104240) includes over 30 partners and 12 European cities representing more than 4.5 million citizens. The project aims to transform cities’ car-centered mobility narratives that take for granted that streets are for motorized traffic only, to promote walking, cycling and other active modes of mobility.</p>
+			<a href="https://www.just-streets.eu/"><div class='linkexternal'>Project page</div></a> &nbsp; <a href="https://cordis.europa.eu/project/id/101104240"><div class='linkexternal'>Funder</div></a>
 
-<p>For further funded projects where I was not PI, see my <a href="../downloads/cv_szell.pdf">CV</a>.</p>
+			<p>ITU's funding share: 298,725 EUR<br/>
+			Funding 1 PhD student</p>
+		</td></tr>
+		<tr><td colspan=2>Output</td><td class='std'><a href="../downloads/buth2024spp.pdf"><div class="filepdf">superblockify (2024)</div></a></td></tr>
+	</table>
+	</br>
+
+<h4>Netværksanalyse af den danske cykelinfrastruktur</h4>
+	<table>
+		<tr><td class='std col1 date'>2024-12<br/>2022-01</td><td class='std' style='text-align: center;'><a href="https://www.trm.dk/nyheder/2021/aftale-om-nye-cykelstier-i-alle-dele-af-landet/"><img src="../images/logovejdirektoratet.png" width="58" alt="Vejdirektoratet" class="logo"></a></td><td class='std'><p>The project "Network analysis of the Danish cycling infrastructure", funded by the Danish Ministry of Transport / Vejdirektoratet (Grant ID CP21-033), applies metrics and tools from network analysis on Danish open data bicycle infrastructure networks, to develop a scientific, evidence-based framework to suggest where to add new network connections or other interventions for improving sustainable bicycle infrastructure.</p>
+			<a href="https://www.trm.dk/nyheder/2021/aftale-om-nye-cykelstier-i-alle-dele-af-landet/"><div class='linkexternal'>Funder</div></a>
+
+			<p>ITU's funding share: 2,019,485 DKK (~271,000 EUR)<br/>
+			Funding 1 PhD student</p>
+		</td></tr>
+		<tr><td colspan=2>Output</td><td class='std'>
+		 <a href="../downloads/viero2024hgo.pdf"><div class="filepdf">Denmark-wide data quality (2024)</div></a></br>
+		 <a href="../downloads/viero2024btb.pdf"><div class="filepdf">BikeDNA (2023)</div></a></br>
+		 <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Missing links detection (2023)</div></a></br>
+		 <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Cyclist desire lines (2022)</div></a></br>
+		 <a href="../downloads/szell2022gub.pdf"><div class="filepdf">Urban bicycle networks (2022)</div></a>
+		</td></tr>
+	</table>
+</br>
+
+<h4>Konfliktus és vita nagy szociális hálózatokban</h4>
+	<table>
+		<tr><td class='std col1 date'>2019-08<br/>2016-09</td><td class='std' style='text-align: center;'><a href="https://mta.hu/english"><img src="../images/logomta.png" width="58" alt="MTA" class="logo"></a></td><td class='std'><p>The project "Conflict and Controversy in Large Social Networks", funded by the Hungarian Academy of Sciences (Premium Post Doctorate Research Programme 2016), develops a bottom-up understanding of the universal mechanisms of conflict and controversy in complex social systems by analyzing multiple large-scale data sets of human behavior using advanced data mining techniques and statistical tools.</p>
+			<a href="https://mta.hu/english"><div class='linkexternal'>Funder</div></a>
+
+			<p>Funding: 23,885,000 HUF (~77,000 EUR)<br/>
+			Funding myself. I discontinued this grant in Oct 2017 due to assuming an Assistant Professor position.</p>
+		</td></tr>
+		<tr><td colspan=2>Output</td><td class='std'>
+		 <a href="../downloads/grauwin2017ims.pdf"><div class="filepdf">Discontinuities of human interactions (2017)</div></a></br>
+		 <a href="../downloads/tachet2017slu.pdf"><div class="filepdf">Scaling law of urban ride sharing (2017)</div></a></br>
+		</td></tr>
+	</table>
+
 
 <h3>Data visualization and software projects</h3>
 <h4>superblockify</h4>
