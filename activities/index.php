@@ -621,15 +621,15 @@ echo $featuredarea;
     <table>
     	<tr><td class='std col1 date'>2023-04-23<br />2023-04-03</td><td class='std'>Academic visit and scientific collaboration at <a href="http://csh.ac.at/">Complexity Science Hub</a><br />Vienna, Austria</td></tr>
     	<tr><td class='std col1 date'>2022-06-16<br />2022-05-16</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
-    	<tr><td class='std col1 date'>2021-10-22<br />2021-10-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
-    	<tr><td class='std col1 date'>2019-06-29<br />2019-06-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
-    	<tr><td class='std col1 date'>2018-07-06<br />2018-06-18</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
-    	<tr><td class='std col1 date'>2017-07-21<br />2017-07-19</td><td class='std'>Academic visit and scientific collaboration at the <a href="https://www.nico.northwestern.edu/">Northwestern Institute on Complex Systems (NICO)</a><br />Evanston, USA</td></tr>
     </table>
 	
 	<a href="#" onclick="toggle('training');return false;" id="info-training">&darr; Toggle all activities &darr;</a>
 	<div class="expansion" id="training">
 	<table>
+    	<tr><td class='std col1 date'>2021-10-22<br />2021-10-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
+    	<tr><td class='std col1 date'>2019-06-29<br />2019-06-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
+    	<tr><td class='std col1 date'>2018-07-06<br />2018-06-18</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
+    	<tr><td class='std col1 date'>2017-07-21<br />2017-07-19</td><td class='std'>Academic visit and scientific collaboration at the <a href="https://www.nico.northwestern.edu/">Northwestern Institute on Complex Systems (NICO)</a><br />Evanston, USA</td></tr>
     	<tr><td class='std col1 date'>2017-07-29<br />2017-06-24</td><td class='std'>Academic visit and scientific collaboration at the <a href="http://www.barabasilab.com/">Center for Complex Network Research</a>, <a href="http://www.northeastern.edu/">Northeastern University</a><br />Boston, USA</td></tr>
     	<tr><td class='std col1 date'>2016-04-15<br />2016-03-28</td><td class='std'>Academic visit and scientific collaboration at the Center for Network Science, Central European University<br />Budapest, Hungary</td></tr>
     	<tr><td class='std col1 date'>2014-08-22<br />2014-08-21</td><td class='std'><a href="https://conferences.ll.mit.edu/graphex/">Graph Exploitation Symposium</a><br />Dedham, USA</td></tr>
