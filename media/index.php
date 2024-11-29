@@ -16,6 +16,11 @@ echo $featuredarea;
 
 			<div class="main-with-sidebar">
 
+<h3>Download photo</h3>
+Click thumbnails to download hi-res versions:</br>
+<a href="../images/mszell2019_3x4_hires.jpg"><img height="160" src="../images/mszell.jpg"></a> &nbsp; <a href="../images/mszell2019_1x1_hires.jpg"><img height="160" src="../images/mszell2019_1x1_lowres.jpg"></a>
+
+
 <h3>Media coverage highlights</h3>
 <table width="619px">
 <tr>
