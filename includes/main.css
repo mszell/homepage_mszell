@@ -434,8 +434,9 @@ table.full{
 
 #collabnet{
   position: relative;
-  top:-180px;
+  top:-150px;
   margin-bottom:-340px;
+  margin-left: 70px;
   z-index: 0;
 }
 
