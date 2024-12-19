@@ -107,6 +107,21 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-other">
     <table>
     <tr><td class='nopad'>
+    A.R. Vierø, M. Szell<br /><b>Teaching spatial data science</b><br /><a href="https://journals.aau.dk/index.php/gfp/article/view/8383">Geoforum Perspektiv 23(44), 52-57 (2024)</a><br />
+    <a href="#" onclick="toggle('viero2024tsd');return false;" id="info-viero2024tsd"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024tsd.pdf"><div class="filepdf">Article</div></a><td class='nopad'><a href="../downloads/viero2024tsd.pdf"><img src="../images/thumb_viero2024tsd.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="viero2024tsd"><pre><code>@article{viero2024tsd,
+  title = {Teaching spatial data science},
+  author = {Vier{\o}, Ane Rahbek and Szell, Michael},
+  journal = {Geoforum Perspektiv},
+  year = {2024},
+  volume = {23},
+  number = {44},
+  pages = {52--57},
+  doi = {10.54337/ojs.perspektiv.v23i44.8383}
+}</code></pre></div></li>
+    <li class="publi pub-other">
+    <table>
+    <tr><td class='nopad'>
     M. Szell, Y. Ma, R. Sinatra<br /><b>Was the Nobel prize for physics? Yes — not that it matters</b><br /><a href="https://www.nature.com/articles/d41586-024-03435-w">Nature 634, 782 (2024)</a><br />
     <a href="#" onclick="toggle('szell2024wnp');return false;" id="info-szell2024wnp"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2024wnp.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://doi.org/10.5281/zenodo.14047761"><div class="linkexternal">Zenodo</div></a></td><td class='nopad'></td><td class='nopad'><a href="../downloads/szell2024wnp.pdf"><img src="../images/thumb_szell2024wnp.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="szell2024wnp"><pre><code>@article{szell2024wnp,
