@@ -61,6 +61,18 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-preprint">
     <table>
     <tr><td class='nopad'>
+    A. Vybornova, A.R. Vierø, M. Szell<br /><b>BikeNodePlanner: a data-driven decision support tool for bicycle node network planning</b><br />
+    <a href="#" onclick="toggle('vybornova2024bdd');return false;" id="info-vybornova2024bdd"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2024bdd.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2412.20270"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bike-node-planner/"><div class="linkexternal">Code</div></a>
+    </td><td class='nopad'><a href="../downloads/vybornova2024bdd.pdf"><img src="../images/thumb_vybornova2024bdd.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="vybornova2024bdd"><pre><code>@article{vybornova2024bdd,
+  title = {BikeNodePlanner: a data-driven decision support tool for bicycle node network planning},
+  author = {Vybornova, Anastassia and Vier{\o}, Ane Rahbek and Szell, Michael},
+  journal = {arXiv preprint arXiv:2412.20270},
+  year = {2024}
+}</code></pre></div></li>
+    <li class="publi pub-preprint">
+    <table>
+    <tr><td class='nopad'>
     A.R. Vierø, M. Szell<br /><b>Network analysis of the Danish bicycle infrastructure: Bikeability across urban-rural divides</b><br />
     <a href="#" onclick="toggle('viero2024nad');return false;" id="info-viero2024nad"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024nad.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2412.06083"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/dk_network_analysis"><div class="linkexternal">Code</div></a>
     </td><td class='nopad'><a href="../downloads/viero2024nad.pdf"><img src="../images/thumb_viero2024nad.png" height="118" alt="Paper" class="right"></a></td></tr></table>
