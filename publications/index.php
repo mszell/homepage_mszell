@@ -164,16 +164,17 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <table>
     <tr><td class='nopad'>
     A.R. Vierø, A. Vybornova, M. Szell<br /><b>How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark</b><br />
-        <a href="https://onlinelibrary.wiley.com/doi/10.1111/gean.12400">Geographical Analysis (2024, in print)</a><br />
-    <a href="#" onclick="toggle('viero2024hgo.pdf');return false;" id="info-viero2024hgo.pdf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024hgo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2312.02632"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA_BIG"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/viero2024hgo.pdf"><img src="../images/thumb_viero2024hgo.png" height="118" alt="Paper" class="right"></a></td></tr></table>
-    <div class="info-expansion" id="viero2024hgo.pdf"><pre><code>@article{viero2024hgo,
+        <a href="https://onlinelibrary.wiley.com/doi/10.1111/gean.12400">Geographical Analysis 57(1), 52-87 (2025)</a><br />
+    <a href="#" onclick="toggle('viero2025hgo.pdf');return false;" id="info-viero2025hgo.pdf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2025hgo.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2312.02632"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA_BIG"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/viero2025hgo.pdf"><img src="../images/thumb_viero2025hgo.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="viero2025hgo.pdf"><pre><code>@article{viero2025hgo,
   title = {How Good Is Open Bicycle Network Data? A Countrywide Case Study of Denmark},
   author = {Vier{\o}, Ane Rahbek and Vybornova, Anastassia and Szell, Michael},
   journal = {Geographical Analysis},
-  volume = {0},
-  number = {0},
+  volume = {57},
+  number = {1},
+  pages = {52--87},
   doi = {10.1111/gean.12400},
-  year = {2024}
+  year = {2025}
 }</code></pre></div></li>
   </ul>
 
