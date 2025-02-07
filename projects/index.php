@@ -25,8 +25,10 @@ echo $featuredarea;
 
 			<p>ITU's funding share: 298,725 EUR<br/>
 			Funding 1 PhD student</p>
+			<b>Output</b></br>
+			<a href="../downloads/lonardi2025cub.pdf"><div class="filepdf">Optimal transport routing (2025)</div></a></br>
+			<a href="../downloads/buth2024spp.pdf"><div class="filepdf">superblockify (2024)</div></a>
 		</td></tr>
-		<tr><td colspan=2>Output</td><td class='std'><a href="../downloads/buth2024spp.pdf"><div class="filepdf">superblockify (2024)</div></a></td></tr>
 	</table>
 	</br>
 
@@ -37,8 +39,8 @@ echo $featuredarea;
 
 			<p>ITU's funding share: 2,019,485 DKK (~271,000 EUR)<br/>
 			Funding 1 PhD student</p>
-		</td></tr>
-		<tr><td colspan=2>Output</td><td class='std'>
+		 <b>Output</b></br>
+		 <a href="../downloads/lonardi2025cub.pdf"><div class="filepdf">Optimal transport routing (2025)</div></a></br>
 		 <a href="../downloads/viero2024hgo.pdf"><div class="filepdf">Denmark-wide data quality (2024)</div></a></br>
 		 <a href="../downloads/viero2024btb.pdf"><div class="filepdf">BikeDNA (2023)</div></a></br>
 		 <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Missing links detection (2023)</div></a></br>
@@ -55,8 +57,7 @@ echo $featuredarea;
 
 			<p>Funding: 23,885,000 HUF (~77,000 EUR)<br/>
 			Funding myself. I discontinued this grant in Oct 2017 due to assuming an Assistant Professor position.</p>
-		</td></tr>
-		<tr><td colspan=2>Output</td><td class='std'>
+			<b>Output</b></br>
 		 <a href="../downloads/grauwin2017ims.pdf"><div class="filepdf">Discontinuities of human interactions (2017)</div></a></br>
 		 <a href="../downloads/tachet2017slu.pdf"><div class="filepdf">Scaling law of urban ride sharing (2017)</div></a></br>
 		</td></tr>
