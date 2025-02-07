@@ -56,6 +56,26 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   </ul>
 </div>
 
+<h3>2025</h3>
+ <ul>
+    <li class="publi pub-journal">
+    <table>
+    <tr><td class='nopad'>
+    A. Lonardi, M. Szell, C. De Bacco<br /><b>Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks</b><br /><a href="https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0532">Journal of the Royal Society Interface 22(223), 1-12 (2025)</a><br />
+    <a href="#" onclick="toggle('lonardi2025cub');return false;" id="info-lonardi2025cub"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/lonardi2025cub.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.02052"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/cdebacco/MultiOT"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/lonardi2025cub.pdf"><img src="../images/thumb_lonardi2025cub.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="lonardi2025cub"><pre><code>@article{lonardi2025cub,
+  title = {Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks},
+  author = {Lonardi, Alessandro and Szell, Michael and De Bacco, Caterina},
+  journal = {Journal of the Royal Society Interface},
+  year = {2025},
+  volume = {22},
+  number = {223},
+  pages = {1--12},
+  doi = {10.1098/rsif.2024.0532}
+}</code></pre></div></li>
+  </ul>
+
+
 <h3>2024</h3>
  <ul>
     <li class="publi pub-preprint">
@@ -80,17 +100,6 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   title = {{Network analysis of the Danish bicycle infrastructure: Bikeability across urban-rural divides}},
   author = {Vier{\o}, Ane Rahbek and Szell, Michael},
   journal = {arXiv preprint arXiv:2412.06083},
-  year = {2024}
-}</code></pre></div></li>
-    <li class="publi pub-preprint">
-    <table>
-    <tr><td class='nopad'>
-    A. Lonardi, M. Szell, C. De Bacco<br /><b>Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks</b><br />
-    <a href="#" onclick="toggle('lonardi2024cub');return false;" id="info-lonardi2024cub"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/lonardi2024cub.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.02052"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/cdebacco/MultiOT"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/lonardi2024cub.pdf"><img src="../images/thumb_lonardi2024cub.png" height="118" alt="Paper" class="right"></a></td></tr></table>
-    <div class="info-expansion" id="lonardi2024cub"><pre><code>@article{lonardi2024cub,
-  title = {Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks},
-  author = {Lonardi, Alessandro and Szell, Michael and De Bacco, Caterina},
-  journal = {arXiv preprint arXiv:2405.02052},
   year = {2024}
 }</code></pre></div></li>
     <li class="publi pub-preprint">
