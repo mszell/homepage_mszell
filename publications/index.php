@@ -59,6 +59,21 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 <h3>2025</h3>
  <ul>
     <li class="publi pub-journal">
+    <table class='full'>
+    <tr><td class='nopad'>
+    L.M. Aiello, A. Vybornova, S. Juhász, M. Szell, E. Bokányi<br /><b>Urban highways are barriers to social ties</b><br /><a href="https://www.pnas.org/doi/10.1073/pnas.2408937122">PNAS 122(10), e2408937122 (2025)</a><br />
+    <a href="#" onclick="toggle('aiello2025uhb');return false;" id="info-aiello2025uhb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/aiello2025uhb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/aiello2025uhb_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.11596"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/urban-highways"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/aiello2025uhb.pdf"><img src="../images/thumb_aiello2025uhb.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="aiello2025uhb"><pre><code>@article{aiello2025uhb,
+  title={Urban highways are barriers to social ties},
+  author={Aiello, Luca Maria and Vybornova, Anastassia and Juh{\'a}sz, S{\'a}ndor and Szell, Michael and Bok{\'a}nyi, Eszter},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={122},
+  number={10},
+  pages={e2408937122},
+  year={2025},
+  doi={10.1073/pnas.2408937122}
+}</code></pre></div></li>
+    <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
     A. Lonardi, M. Szell, C. De Bacco<br /><b>Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks</b><br /><a href="https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0532">Journal of the Royal Society Interface 22(223), 1-12 (2025)</a><br />
@@ -112,17 +127,6 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   title = {{CoolWalks: Assessing} the potential of shaded routing for active mobility in urban street networks},
   author = {Wolf, Henrik and Vier{\o}, Ane Rahbek and Szell, Michael},
   journal = {arXiv preprint arXiv:2405.01225},
-  year = {2024}
-}</code></pre></div></li>
-    <li class="publi pub-preprint">
-    <table class='full'>
-    <tr><td class='nopad'>
-    L.M. Aiello, A. Vybornova, S. Juhász, M. Szell, E. Bokányi<br /><b>Urban highways are barriers to social ties</b><br />
-    <a href="#" onclick="toggle('aiello2025uhb');return false;" id="info-aiello2025uhb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/aiello2025uhb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/aiello2025uhb_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.11596"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/urban-highways"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/aiello2025uhb.pdf"><img src="../images/thumb_aiello2025uhb.png" height="118" alt="Paper" class="right"></a></td></tr></table>
-    <div class="info-expansion" id="aiello2025uhb"><pre><code>@article{aiello2025uhb,
-  title = {Urban highways are barriers to social ties},
-  author = {Aiello, Luca Maria and Vybornova, Anastassia and Juhász, S{\'a}ndor and Szell, Michael and Bok{\'a}nyi, Eszter},
-  journal = {arXiv preprint arXiv:2404.11596},
   year = {2024}
 }</code></pre></div></li>
     <li class="publi pub-other">
