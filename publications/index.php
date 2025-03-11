@@ -76,7 +76,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
-    A. Lonardi, M. Szell, C. De Bacco<br /><b>Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks</b><br /><a href="https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0532">Journal of the Royal Society Interface 22(223), 1-12 (2025)</a><br />
+    A. Lonardi, M. Szell, C. De Bacco<br /><b>Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks</b><br /><a href="https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0532">Journal of the Royal Society Interface 22(223), 20240532 (2025)</a><br />
     <a href="#" onclick="toggle('lonardi2025cub');return false;" id="info-lonardi2025cub"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/lonardi2025cub.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.02052"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/cdebacco/MultiOT"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/lonardi2025cub.pdf"><img src="../images/thumb_lonardi2025cub.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="lonardi2025cub"><pre><code>@article{lonardi2025cub,
   title = {Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks},
@@ -85,7 +85,6 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   year = {2025},
   volume = {22},
   number = {223},
-  pages = {1--12},
   doi = {10.1098/rsif.2024.0532}
 }</code></pre></div></li>
   </ul>
