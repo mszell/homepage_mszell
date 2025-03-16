@@ -108,7 +108,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <table>
     <tr><td class='nopad'>
     A.R. Vierø, M. Szell<br /><b>Network analysis of the Danish bicycle infrastructure: Bikeability across urban-rural divides</b><br />
-    <a href="#" onclick="toggle('viero2024nad');return false;" id="info-viero2024nad"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024nad.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2412.06083"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/dk_network_analysis"><div class="linkexternal">Code</div></a>
+    <a href="#" onclick="toggle('viero2024nad');return false;" id="info-viero2024nad"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024nad.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2412.06083"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/dk_network_analysis"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://bikenetwork.dk"><div class="linkexternal">Project page</div></a>
     </td><td class='nopad'><a href="../downloads/viero2024nad.pdf"><img src="../images/thumb_viero2024nad.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="viero2024nad"><pre><code>@article{viero2024nad,
   title = {{Network analysis of the Danish bicycle infrastructure: Bikeability across urban-rural divides}},

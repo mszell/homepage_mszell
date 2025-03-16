@@ -28,7 +28,7 @@ echo $featuredarea;
 			<b>Output</b></br>
 			<a href="../downloads/aiello2025uhb.pdf"><div class="filepdf">Highways are social barriers (2025)</div></a></br>
 			<a href="../downloads/lonardi2025cub.pdf"><div class="filepdf">Optimal transport routing (2025)</div></a></br>
-			<a href="../downloads/buth2024spp.pdf"><div class="filepdf">superblockify (2024)</div></a>
+			<a href="../downloads/buth2024spp.pdf"><div class="filepdf">superblockify (2024)</div></a> &nbsp; <a href="https://superblockify.city"><div class="linkexternal">Software</div></a>
 		</td></tr>
 	</table>
 	</br>
@@ -42,8 +42,8 @@ echo $featuredarea;
 			Funding 1 PhD student</p>
 		 <b>Output</b></br>
 		 <a href="../downloads/lonardi2025cub.pdf"><div class="filepdf">Optimal transport routing (2025)</div></a></br>
-		 <a href="../downloads/viero2024hgo.pdf"><div class="filepdf">Denmark-wide data quality (2024)</div></a></br>
-		 <a href="../downloads/viero2024btb.pdf"><div class="filepdf">BikeDNA (2023)</div></a></br>
+		 <a href="../downloads/viero2024hgo.pdf"><div class="filepdf">Denmark-wide data quality (2024)</div></a> &nbsp; <a href="https://bikenetwork.dk"><div class="linkexternal">Visualization</div></a></br>
+		 <a href="../downloads/viero2024btb.pdf"><div class="filepdf">BikeDNA (2023)</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA"><div class="linkexternal">Software</div></a></br>
 		 <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Missing links detection (2023)</div></a></br>
 		 <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Cyclist desire lines (2022)</div></a></br>
 		 <a href="../downloads/szell2022gub.pdf"><div class="filepdf">Urban bicycle networks (2022)</div></a>
