@@ -17,7 +17,7 @@ echo $featuredarea;
 			<div class="main-with-sidebar">
 
 <h3>BA or MSc supervision</h3>
-<p>I am not supervising BA or MSc projects until Fall 2025. For supervision opportunities through my colleagues, please go to: <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a></p>
+<p>Please go to: <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a></p>
 
 
 <h3>PhD supervision, PostDoc, internships</h3>
@@ -140,7 +140,7 @@ echo $featuredarea;
 </ul>
 
 <h3 id="projectideas">Project ideas</h3>
-<p>I am not supervising BA or MSc projects until Fall 2025. Below are some previous ideas and results for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please use the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
+<p>Below are some previous ideas and results for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please use the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
 <a href="#" onclick="toggle('oldprojects');return false;" id="info-oldprojects">&darr; Toggle all previous project ideas &darr;</a>
 <div class="expansion" id="oldprojects">
 <img src="../images/teachingproject2023.png" width="580" alt="Projects 2023">

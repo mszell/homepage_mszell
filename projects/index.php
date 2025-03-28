@@ -35,7 +35,7 @@ echo $featuredarea;
 
 <h4>Network analysis of the Danish cycling infrastructure</h4>
 	<table>
-		<tr><td class='std col1 date'>2024-12<br/>2022-01</td><td class='std' style='text-align: center;'><a href="https://www.trm.dk/nyheder/2021/aftale-om-nye-cykelstier-i-alle-dele-af-landet/"><img src="../images/logovejdirektoratet.png" width="58" alt="Vejdirektoratet" class="logo"></a></td><td class='std'><p>The project "Netværksanalyse af den danske cykelinfrastruktur", funded by the Danish Ministry of Transport / Vejdirektoratet (Grant ID CP21-033), applies metrics and tools from network analysis on Danish open data bicycle infrastructure networks, to develop a scientific, evidence-based framework to suggest where to add new network connections or other interventions for improving sustainable bicycle infrastructure.</p>
+		<tr><td class='std col1 date'>2025-03<br/>2022-01</td><td class='std' style='text-align: center;'><a href="https://www.trm.dk/nyheder/2021/aftale-om-nye-cykelstier-i-alle-dele-af-landet/"><img src="../images/logovejdirektoratet.png" width="58" alt="Vejdirektoratet" class="logo"></a></td><td class='std'><p>The project "Netværksanalyse af den danske cykelinfrastruktur", funded by the Danish Ministry of Transport / Vejdirektoratet (Grant ID CP21-033), applies metrics and tools from network analysis on Danish open data bicycle infrastructure networks, to develop a scientific, evidence-based framework to suggest where to add new network connections or other interventions for improving sustainable bicycle infrastructure.</p>
 			<a href="https://www.trm.dk/nyheder/2021/aftale-om-nye-cykelstier-i-alle-dele-af-landet/"><div class='linkexternal'>Funder</div></a>
 
 			<p>ITU's funding share: 2,019,485 DKK (~271,000 EUR)<br/>
