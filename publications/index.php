@@ -41,14 +41,12 @@ Download bib file of my publications: <a href="../downloads/szell.bib">szell.bib
 Download a list of my publications: <a href="../downloads/publicationlist_szell.pdf"><span class="filepdf">Publicationlist</span></a>
 </p>
 
-<h3>Non-academic</h3>
-<ul>
-  <li><b><a href="../downloads/article_politiken01.pdf"><div class="filepdf">Er Danmark en cykelnation?</div></a></b>, Politiken (2022)</li>
-  <li><b><a href="https://blogs.biomedcentral.com/on-physicalsciences/2022/05/06/identifying-urban-features-for-vulnerable-road-user-safety-in-europe/">Identifying urban features for vulnerable road user safety in Europe</a></b>, BMC Blog Network (2022)</li>
-</ul>
-<a href="#" onclick="toggle('nonacademic');return false;" id="info-nonacademic">&darr; Toggle all non-academic publications &darr;</a>
+<a href="#" onclick="toggle('nonacademic');return false;" id="info-nonacademic">&darr; Toggle non-academic publications &darr;</a>
 <div class="expansion" id="nonacademic">
+  <h3>Non-academic</h3>
   <ul>
+    <li><b><a href="../downloads/article_politiken01.pdf"><div class="filepdf">Er Danmark en cykelnation?</div></a></b>, Politiken (2022)</li>
+    <li><b><a href="https://blogs.biomedcentral.com/on-physicalsciences/2022/05/06/identifying-urban-features-for-vulnerable-road-user-safety-in-europe/">Identifying urban features for vulnerable road user safety in Europe</a></b>, BMC Blog Network (2022)</li>
     <li><b><a href="https://www.altinget.dk/transport/artikel/14-forskere-videnscenter-for-cyklisme-skal-vaere-uafhaengigt-og-forskningsbaseret-ikke-hoere-under-vejdirektoratet">14 forskere: Videnscenter for cyklisme skal ikke høre under Vejdirektoratet</a></b>, Altinget (2021)</li>
     <li><b><a href="https://pro.ing.dk/mobilitytech/holdning/baeredygtige-byer-kraever-maalrettet-investering-i-cykelinfrastruktur">Bæredygtige byer kræver målrettet investering i cykelinfrastruktur</a></b>, Ingeniøren / Mobilitytech (2021)</li>
     <li><b><a href="https://finans.dk/debat/ECE13173026/brug-ny-mobilitetslov-til-at-skabe-et-mere-baeredygtigt-byliv/">Brug ny mobilitetslov til at skabe et mere bæredygtigt byliv</a></b>, FINANS (2021)</li>
