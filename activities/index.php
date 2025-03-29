@@ -602,8 +602,8 @@ echo $featuredarea;
 
 
 <h3>Review service</h3>
-<p>Together with a large number of scientists I have decided in 2013 to stop reviewing any article that is published by Elsevier (see <a href="http://thecostofknowledge.com">http://thecostofknowledge.com</a>), so please do not contact me to review for such journals.</p>
-<p><a href="#" onclick="toggle('declineelsevier');return false;" id="info-declineelsevier">Decline message</a>
+<p>Together with a large number of scientists I have decided in 2013 to stop reviewing any article that is published by Elsevier (see <a href="http://thecostofknowledge.com">http://thecostofknowledge.com</a>), so please do not contact me to review for such journals:</p>
+<p><a href="#" onclick="toggle('declineelsevier');return false;" id="info-declineelsevier">Decline message Elsevier</a>
 <div class="info-expansion" id="declineelsevier"><pre class="wrap">Dear Editor,
 
 Thank you for asking me to referee this paper.
@@ -611,6 +611,18 @@ Thank you for asking me to referee this paper.
 As much as I would like to accept your invitation, I am part of a large number of scientists that have decided not to referee any article that is published by Elsevier (see http://thecostofknowledge.com).
 
 I strongly believe that publicly funded scientific research should be freely available to everyone. Elsevier is the antithesis to that statement. The company is known for making exorbitant profits without adding much value to the peer review process, for forcing universities to buy overpriced bundles of journals, and for aggressively lobbying lawmakers against the move to open access.</pre></div></p>
+
+<p>Since 2025 I have decided to stop reviewing any article by venues of the Royal Society, so please do not contact me to review for such journals:</p>
+
+<p><a href="#" onclick="toggle('declineroysoc');return false;" id="info-declineroysoc">Decline message Royal Society</a>
+<div class="info-expansion" id="declineroysoc"><pre class="wrap">Dear Editor,
+
+Thank you for asking me to referee this paper.
+
+As much as I would like to accept your invitation, I have decided not to referee any article that is published by the Royal Society, after the Society's decision to keep Elon Musk as its fellow (see: https://www.theguardian.com/technology/2025/mar/25/royal-society-decides-not-to-take-disciplinary-action-against-elon-musk).
+
+Elon Musk is leading a large-scale effort to destroy science and its benefits to humanity, therefore he is the anti-thesis to the Society's mission "to recognise, promote and support excellence in science and to encourage the development and use of science for the benefit of humanity". Fellows of the Royal Society argued that revoking Musk’s fellowship could undermine trust in science. Unfortunately, not revoking Musk's fellowship has underminded my trust in the Royal Society. The Royal Society is free to keep Musk's fellowship; in turn I am free to not provide my free labor to the Royal Society.</pre></div></p>
+
 
 <h4>Interdisciplinary, network science</h4>
 <p>Nature, Nature Communications, Nature Human Behaviour, PNAS, Science Advances, Social Networks, Scientific Reports, Scientific Data, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Network Science, Applied Network Science, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, PLOS Biology</p>
