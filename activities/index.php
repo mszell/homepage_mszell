@@ -621,7 +621,7 @@ Thank you for asking me to referee this paper.
 
 As much as I would like to accept your invitation, I have decided not to referee any article that is published by the Royal Society, after the Society's decision to keep Elon Musk as its fellow (see: https://www.theguardian.com/technology/2025/mar/25/royal-society-decides-not-to-take-disciplinary-action-against-elon-musk).
 
-Elon Musk is leading a large-scale effort to destroy science and its benefits to humanity, therefore he is the anti-thesis to the Society's mission "to recognise, promote and support excellence in science and to encourage the development and use of science for the benefit of humanity". Fellows of the Royal Society argued that revoking Musk’s fellowship could undermine trust in science. Unfortunately, not revoking Musk's fellowship has underminded my trust in the Royal Society. The Royal Society is free to keep Musk's fellowship; in turn I am free to not provide my free labor to the Royal Society.</pre></div></p>
+Elon Musk is leading a large-scale effort to destroy science and its benefits to humanity, therefore he is the antithesis to the Society's mission "to recognise, promote and support excellence in science and to encourage the development and use of science for the benefit of humanity". Fellows of the Royal Society argued that revoking Musk’s fellowship could undermine trust in science. Unfortunately, not revoking Musk's fellowship has undermined my trust in the Royal Society. The Royal Society is free to keep Musk's fellowship; in turn I am free to not provide my free labor to the Royal Society.</pre></div></p>
 
 
 <h4>Interdisciplinary, network science</h4>
