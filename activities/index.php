@@ -603,6 +603,14 @@ echo $featuredarea;
 
 <h3>Review service</h3>
 <p>Together with a large number of scientists I have decided in 2013 to stop reviewing any article that is published by Elsevier (see <a href="http://thecostofknowledge.com">http://thecostofknowledge.com</a>), so please do not contact me to review for such journals.</p>
+<p><a href="#" onclick="toggle('declineelsevier');return false;" id="info-declineelsevier">Decline message</a>
+<div class="info-expansion" id="declineelsevier"><pre class="wrap">Dear Editor,
+
+Thank you for asking me to referee this paper.
+
+As much as I would like to accept your invitation, I am part of a large number of scientists that have decided not to referee any article that is published by Elsevier (see http://thecostofknowledge.com).
+
+I strongly believe that publicly funded scientific research should be freely available to everyone. Elsevier is the antithesis to that statement. The company is known for making exorbitant profits without adding much value to the peer review process, for forcing universities to buy overpriced bundles of journals, and for aggressively lobbying lawmakers against the move to open access.</pre></div></p>
 
 <h4>Interdisciplinary, network science</h4>
 <p>Nature, Nature Communications, Nature Human Behaviour, PNAS, Science Advances, Social Networks, Scientific Reports, Scientific Data, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Network Science, Applied Network Science, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, PLOS Biology</p>
