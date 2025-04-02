@@ -44,6 +44,11 @@ echo $featuredarea;
 <ul>
 	<li class='supervision'>
 	<table>
+	<tr><td class='std col1 date wfix'>2020-2024<br /><a href="https://en.itu.dk/Research/PhD-Programme/PhD-Defences/PhD-Defences-2025/March/Anastassia-Vybornova"><div class="filepdf">Thesis</div></a></td><td class='std'>PhD, Anastassia Vybornova<br /><b>Urban Data Science for Sustainable Mobility</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
 	<tr><td class='std col1 date wfix'>2024<br /></td><td class='std'>MSc, Frederik Peter Høngaard<br /><b>Exploring the Potential of Geospatial Data Science for Real Estate Appraisal</b></td></tr>
 	</table>
 	</li>
