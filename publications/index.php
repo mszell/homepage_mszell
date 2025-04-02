@@ -158,7 +158,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
-    C.M. Büth, A. Vybornova, M. Szell<br /><b>superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities</b><br /><a href="https://authors.elsevier.com/sd/article/S0198-9715(23)00094-7">Journal of Open Source Software 9(100), 6798 (2024)</a><br />
+    C.M. Büth, A. Vybornova, M. Szell<br /><b>superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities</b><br /><a href="https://joss.theoj.org/papers/10.21105/joss.06798">Journal of Open Source Software 9(100), 6798 (2024)</a><br />
     <a href="#" onclick="toggle('buth2024spp');return false;" id="info-buth2024spp"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/buth2024spp.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.15062"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/superblockify"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://superblockify.city/"><div class="linkexternal">Project page</div></a></td><td class='nopad'><a href="../downloads/buth2024spp.pdf"><img src="../images/thumb_buth2024spp.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="buth2024spp"><pre><code>@article{buth2024spp,
   title = {superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities},
