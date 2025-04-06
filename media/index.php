@@ -24,12 +24,15 @@ Click thumbnails to download hi-res versions:</br>
 <h3>Media coverage highlights</h3>
 <table width="619px">
 <tr>
-	<td><a href='https://www.fastcompany.com/40441392/see-just-how-much-of-a-citys-land-is-used-for-parking-spaces'><img src='../images/logofastcompany.png' width='100' title='2017-07-20: Fast Company' alt='2017-07-20: Fast Company'></a></td>
+	<td><a href='https://www.fastcompany.com/91308597/heres-more-proof-that-highways-are-terrible-for-cities'><img src='../images/logofastcompany.png' width='100' title='2025-04-01: Fast Company' alt='2025-04-01: Fast Company'></a><br /><a href='https://www.fastcompany.com/40441392/see-just-how-much-of-a-citys-land-is-used-for-parking-spaces'><img src='../images/logofastcompany.png' width='100' title='2017-07-20: Fast Company' alt='2017-07-20: Fast Company'></a></td>
 	<td><a href='https://www.citylab.com/transportation/2017/07/a-visual-inventory-of-parking-lots/532677/'><img src='../images/logocitylab.png' width='100' title='2017-07-06: Citylab' alt='2017-07-06: Citylab'></a></td>
 	<td><a href='http://www.huffingtonpost.com/tarun-wadhwa/could-lyft-and-uber-put-p_b_6172140.html'><img src='../images/logohuffpost.png' width='100' title='2015-01-17: The Huffington Post' alt='2015-01-17: The Huffington Post'></a></td>
-	<td><a href='http://news.nationalgeographic.com/news/energy/2014/09/140902-taxi-sharing-study-mit/'><img src='../images/logonationalgeographic.png' width='100' title='2014-09-03: National Geographic' alt='2014-09-03: National Geographic'></a></td>
+	<td><a href='https://www.nationalgeographic.com/science/article/140902-taxi-sharing-study-mit'><img src='../images/logonationalgeographic.png' width='100' title='2014-09-03: National Geographic' alt='2014-09-03: National Geographic'></a></td>
 	<td><a href='http://www.nytimes.com/2014/09/02/science/sharing-taxis-nyc-mathematics.html'><img src='../images/logonewyorktimes.png' width='100' title='2014-09-01: The New York Times' alt='2014-09-01: The New York Times'></a></td>
-	<td><a href='http://www.technologyreview.com/aroundmit/525246/social-medias-law-of-short-messages/'><img src='../images/logomittechnologyreview.png' width='100' title='2014-02-27: MIT Technology Review' alt='2014-02-27: MIT Technology Review'></a></td>
+	<td><a href='https://www.technologyreview.com/2014/02/27/13912/social-medias-law-of-short-messages/'><img src='../images/logomittechnologyreview.png' width='100' title='2014-02-27: MIT Technology Review' alt='2014-02-27: MIT Technology Review'></a><br /><a href='https://www.technologyreview.com/2014/02/18/174135/the-ties-that-divide/'><img src='../images/logomittechnologyreview.png' width='100' title='2014-02-18: MIT Technology Review' alt='2014-02-18: MIT Technology Review'></a>
+	</td>
+	<td><a href='https://www.technologyreview.com/2013/12/30/174768/telecommunications-data-show-civic-dividing-lines-in-major-countries/'><img src='../images/logomittechnologyreview.png' width='100' title='2013-12-30: MIT Technology Review' alt='2013-12-30: MIT Technology Review'></a><br /><a href='https://www.technologyreview.com/2012/05/23/185977/how-men-and-women-manage-their-social-networks-differently/'><img src='../images/logomittechnologyreview.png' width='100' title='2012-05-23: MIT Technology Review' alt='2012-05-23: MIT Technology Review'></a>
+	</td>
 </tr>
 </table>
 
