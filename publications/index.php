@@ -57,6 +57,21 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 <h3>2025</h3>
  <ul>
     <li class="publi pub-journal">
+    <table>
+    <tr><td class='nopad'>
+    H. Wolf, A.R. Vierø, M. Szell<br /><b>CoolWalks for active mobility in urban street networks</b><br /><a href="https://www.nature.com/articles/s41598-025-97200-2">Scientific Reports 15, 14911 (2025)</a><br />
+    <a href="#" onclick="toggle('wolf2025cam');return false;" id="info-wolf2025cam"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/wolf2025cam.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.01225"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/henrik-wolf/CoolWalks"><div class="linkexternal">Code</div></a>
+    </td><td class='nopad'><a href="../downloads/wolf2025cam.pdf"><img src="../images/thumb_wolf2025cam.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="wolf2025cam"><pre><code>@article{wolf2025cam,
+  title = {{CoolWalks} for active mobility in urban street networks},
+  author = {Wolf, Henrik and Vier{\o}, Ane Rahbek and Szell, Michael},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {14911},
+  doi = {10.1038/s41598-025-97200-2}
+}</code></pre></div></li>
+    <li class="publi pub-journal">
     <table class='full'>
     <tr><td class='nopad'>
     L.M. Aiello, A. Vybornova, S. Juhász, M. Szell, E. Bokányi<br /><b>Urban highways are barriers to social ties</b><br /><a href="https://www.pnas.org/doi/10.1073/pnas.2408937122">PNAS 122(10), e2408937122 (2025)</a><br />
@@ -112,18 +127,6 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   title = {{Network analysis of the Danish bicycle infrastructure: Bikeability across urban-rural divides}},
   author = {Vier{\o}, Ane Rahbek and Szell, Michael},
   journal = {arXiv preprint arXiv:2412.06083},
-  year = {2024}
-}</code></pre></div></li>
-    <li class="publi pub-preprint">
-    <table>
-    <tr><td class='nopad'>
-    H. Wolf, A.R. Vierø, M. Szell<br /><b>CoolWalks: Assessing the potential of shaded routing for active mobility in urban street networks</b><br />
-    <a href="#" onclick="toggle('wolf2024cap');return false;" id="info-wolf2024cap"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/wolf2024cap.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.01225"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/henrik-wolf/CoolWalks"><div class="linkexternal">Code</div></a>
-    </td><td class='nopad'><a href="../downloads/wolf2024cap.pdf"><img src="../images/thumb_wolf2024cap.png" height="118" alt="Paper" class="right"></a></td></tr></table>
-    <div class="info-expansion" id="wolf2024cap"><pre><code>@article{wolf2024cap,
-  title = {{CoolWalks: Assessing} the potential of shaded routing for active mobility in urban street networks},
-  author = {Wolf, Henrik and Vier{\o}, Ane Rahbek and Szell, Michael},
-  journal = {arXiv preprint arXiv:2405.01225},
   year = {2024}
 }</code></pre></div></li>
     <li class="publi pub-other">
