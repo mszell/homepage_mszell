@@ -26,6 +26,7 @@ echo $featuredarea;
 			<p>ITU's funding share: 298,725 EUR<br/>
 			Funding 1 PhD student</p>
 			<b>Output</b></br>
+			<a href="../downloads/wolf2025cam.pdf"><div class="filepdf">CoolWalks (2025)</div></a></br>
 			<a href="../downloads/aiello2025uhb.pdf"><div class="filepdf">Highways are social barriers (2025)</div></a></br>
 			<a href="../downloads/lonardi2025cub.pdf"><div class="filepdf">Optimal transport routing (2025)</div></a></br>
 			<a href="../downloads/buth2024spp.pdf"><div class="filepdf">superblockify (2024)</div></a> &nbsp; <a href="https://superblockify.city"><div class="linkexternal">Software</div></a>
