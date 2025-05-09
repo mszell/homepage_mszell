@@ -19,6 +19,7 @@ echo $featuredarea;
 
 <h3>Organization, committees, and editorial work</h3>
 	<table>
+		<tr><td class='std col1 date'>since<br />2023-11</td><td class='std' width='130'>Guest editor</td><td class='std'><a href="https://iopscience.iop.org/collections/jpcomplex-231012-387">Journal of Physics: Complexity, Urban Mobility and Green Transportation in Sustainable Cities</a></td></tr>
 		<tr><td class='std col1 date'>since<br />2018-06-18</td><td class='std' width='130'>Review editor</td><td class='std'><a href="https://www.frontiersin.org/journals/physics/sections/social-physics">Frontiers (Social Physics)</a></td></tr>
 		<tr><td class='std col1 date'>since<br />2018-01-09</td><td class='std' width='130'>Editor</td><td class='std'><a href="http://www.complex-systems.com/">Complex Systems</a></td></tr>
 		<tr><td class='std col1 date'>2025-06-18<br />2025-06-16</td><td class='std' width='130'>Social Media Chair</td><td class='std'><a href="https://www.icssi.org/">ICSSI 2025</a><br />Copenhagen, Denmark</td></tr>
