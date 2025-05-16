@@ -60,7 +60,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <table>
     <tr><td class='nopad'>
     H. Wolf, A.R. Vierø, M. Szell<br /><b>CoolWalks for active mobility in urban street networks</b><br /><a href="https://www.nature.com/articles/s41598-025-97200-2">Scientific Reports 15, 14911 (2025)</a><br />
-    <a href="#" onclick="toggle('wolf2025cam');return false;" id="info-wolf2025cam"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/wolf2025cam.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.01225"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/henrik-wolf/CoolWalks"><div class="linkexternal">Code</div></a>
+    <a href="#" onclick="toggle('wolf2025cam');return false;" id="info-wolf2025cam"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/wolf2025cam.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/wolf2025cam_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.01225"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/henrik-wolf/CoolWalks"><div class="linkexternal">Code</div></a>
     </td><td class='nopad'><a href="../downloads/wolf2025cam.pdf"><img src="../images/thumb_wolf2025cam.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="wolf2025cam"><pre><code>@article{wolf2025cam,
   title = {{CoolWalks} for active mobility in urban street networks},
