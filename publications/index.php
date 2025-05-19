@@ -59,6 +59,20 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
+    A.R. Vierø, M. Szell<br /><b>Network analysis of the Danish bicycle infrastructure: Bikeability across urban-rural divides</b><br />
+        <a href="https://onlinelibrary.wiley.com/doi/10.1111/gean.12400">Geographical Analysis (2025)</a><br />
+    <a href="#" onclick="toggle('viero2025nad');return false;" id="info-viero2025nad"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2025nad.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/viero2025nad_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2412.06083"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/dk_network_analysis"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://bikenetwork.dk"><div class="linkexternal">Project page</div></a>
+    </td><td class='nopad'><a href="../downloads/viero2025nad.pdf"><img src="../images/thumb_viero2025nad.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="viero2025nad"><pre><code>@article{viero2025nad,
+  title = {{Network analysis of the Danish bicycle infrastructure: Bikeability across urban-rural divides}},
+  author = {Vier{\o}, Ane Rahbek and Szell, Michael},
+  journal = {Geographical Analysis},
+  doi = {10.1111/gean.70012},
+  year = {2025}
+}</code></pre></div></li>
+    <li class="publi pub-journal">
+    <table>
+    <tr><td class='nopad'>
     H. Wolf, A.R. Vierø, M. Szell<br /><b>CoolWalks for active mobility in urban street networks</b><br /><a href="https://www.nature.com/articles/s41598-025-97200-2">Scientific Reports 15, 14911 (2025)</a><br />
     <a href="#" onclick="toggle('wolf2025cam');return false;" id="info-wolf2025cam"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/wolf2025cam.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/wolf2025cam_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2405.01225"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/henrik-wolf/CoolWalks"><div class="linkexternal">Code</div></a>
     </td><td class='nopad'><a href="../downloads/wolf2025cam.pdf"><img src="../images/thumb_wolf2025cam.png" height="118" alt="Paper" class="right"></a></td></tr></table>
@@ -115,18 +129,6 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   title = {BikeNodePlanner: a data-driven decision support tool for bicycle node network planning},
   author = {Vybornova, Anastassia and Vier{\o}, Ane Rahbek and Hansen, Kirsten Krogh and Szell, Michael},
   journal = {arXiv preprint arXiv:2412.20270},
-  year = {2024}
-}</code></pre></div></li>
-    <li class="publi pub-preprint">
-    <table>
-    <tr><td class='nopad'>
-    A.R. Vierø, M. Szell<br /><b>Network analysis of the Danish bicycle infrastructure: Bikeability across urban-rural divides</b><br />
-    <a href="#" onclick="toggle('viero2024nad');return false;" id="info-viero2024nad"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2024nad.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2412.06083"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/dk_network_analysis"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://bikenetwork.dk"><div class="linkexternal">Project page</div></a>
-    </td><td class='nopad'><a href="../downloads/viero2024nad.pdf"><img src="../images/thumb_viero2024nad.png" height="118" alt="Paper" class="right"></a></td></tr></table>
-    <div class="info-expansion" id="viero2024nad"><pre><code>@article{viero2024nad,
-  title = {{Network analysis of the Danish bicycle infrastructure: Bikeability across urban-rural divides}},
-  author = {Vier{\o}, Ane Rahbek and Szell, Michael},
-  journal = {arXiv preprint arXiv:2412.06083},
   year = {2024}
 }</code></pre></div></li>
     <li class="publi pub-other">

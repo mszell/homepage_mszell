@@ -42,7 +42,7 @@ echo $featuredarea;
 			<p>ITU's funding share: 2,019,485 DKK (~271,000 EUR)<br/>
 			Funding 1 PhD student</p>
 		 <b>Output</b></br>
-		 <a href="../downloads/viero2024nad.pdf"><div class="filepdf">Denmark-wide network analysis (2025)</div></a> &nbsp; <a href="https://bikenetwork.dk"><div class="linkexternal">Visualization</div></a></br>
+		 <a href="../downloads/viero2025nad.pdf"><div class="filepdf">Denmark-wide network analysis (2025)</div></a> &nbsp; <a href="https://bikenetwork.dk"><div class="linkexternal">Visualization</div></a></br>
 		 <a href="../downloads/lonardi2025cub.pdf"><div class="filepdf">Optimal transport routing (2025)</div></a></br>
 		 <a href="../downloads/viero2025hgo.pdf"><div class="filepdf">Denmark-wide data quality (2025)</div></a> &nbsp; <a href="https://anerv.github.io/bikedna_webmap/"><div class="linkexternal">Visualization</div></a></br>
 		 <a href="../downloads/viero2024btb.pdf"><div class="filepdf">BikeDNA (2023)</div></a> &nbsp; <a href="https://github.com/anerv/BikeDNA"><div class="linkexternal">Software</div></a></br>
