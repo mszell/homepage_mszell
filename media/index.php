@@ -41,6 +41,7 @@ Click thumbnails to download hi-res versions:</br>
 	<table>
 	    <!--<tr><td class='std col1 date'>2010-07</td><td class='std'>XXXXX</td><td class='std'>YYYYYY<br /><a href="ZZZZZZ"><div class="linkexternal">Online report</div></a></td></tr> -->
 	    
+	    <tr><td class='std col1 date'>2025-05-09</td><td class='std'>Kossuth Rádió</td><td class='std'>Trend-idők<br /><a href="https://mediaklikk.hu/radio-lejatszo-kossuth/?date=2025-05-09_15-11-10&enddate=2025-05-09_15-34-58&ch=mr1"><div class="linkexternal">Online report</div></a></td></tr>
 		<tr><td class='std col1 date'>2025-04-02</td><td class='std'>Origo</td><td class='std'>Szétzilálják a társas kapcsolatainkat a városi autópályák<br /><a href="https://www.origo.hu/tudomany/2025/04/varosi-autopalyak-csokkentik-a-tarsadalmi-kapcsolatokat"><div class="linkexternal">Online report</div></a></td></tr>
 	    <tr><td class='std col1 date'>2025-04-01</td><td class='std'>Fast Company</td><td class='std'>Here’s more proof that highways are terrible for cities<br /><a href="https://www.fastcompany.com/91308597/heres-more-proof-that-highways-are-terrible-for-cities"><div class="linkexternal">Online report</div></a></td></tr>
 		<tr><td class='std col1 date'>2025-03-14</td><td class='std'>Next City</td><td class='std'>Highways Block Social Connection. A New Study Shows Just How Much.<br /><a href="https://nextcity.org/urbanist-news/new-study-shows-how-much-highways-block-social-connection"><div class="linkexternal">Online report</div></a></td></tr>
