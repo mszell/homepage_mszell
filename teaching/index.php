@@ -40,13 +40,41 @@ echo $featuredarea;
 
 
 <h3 id="supervisedtheses">Supervised students and theses</h3>
-<p>All theses made available with explicit consent by the students.</p>
+<h4>PhD theses</h4>
 <ul>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2020-2024<br /><a href="https://en.itu.dk/Research/PhD-Programme/PhD-Defences/PhD-Defences-2025/March/Anastassia-Vybornova"><div class="filepdf">Thesis</div></a></td><td class='std'>PhD, Anastassia Vybornova<br /><b>Urban Data Science for Sustainable Mobility</b></td></tr>
+	<tr><td class='std col1 date wfix'>2022-2025<br /><a href="https://en.itu.dk/Research/PhD-Programme/PhD-Defences/PhD-Defences-2025/May/Ane-Rahbek-Vier_"><div class="filepdf">Thesis</div></a></td><td class='std'>PhD, Ane Rahbek Vierø<br /><b>Network Analysis of Denmark’s Bicycle Infrastructure: Data & Infrastructure for All?</b></td></tr>
 	</table>
 	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2021-2024<br /><a href="https://en.itu.dk/Research/PhD-Programme/PhD-Defences/PhD-Defences-2025/March/Anastassia-Vybornova"><div class="filepdf">Thesis</div></a></td><td class='std'>PhD, Anastassia Vybornova<br /><b>Urban Data Science for Sustainable Mobility</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2018-2021<br /><a href="https://github.com/nateraluis/PhD-thesis/blob/main/natera-orozco_luis-guillermo.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>PhD, Luis Guillermo Natera Orozco<br /><b>Multilayer network analysis of sustainable, multimodal urban transport networks</b></td></tr>
+	</table>
+	</li>
+</ul>
+
+<h4>Post-MSc supervision</h4>
+<ul>
+<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2021-2022<br /><a href="../downloads/folco2023dmn.pdf"><div class="filepdf">Article</div></a></td><td class='std'>Lagrange Scholar, Pietro Folco<br /><b>Data-driven bicycle network planning for demand and safety</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2019-2021<br /><a href="../downloads/klanjcic2022iuf.pdf"><div class="filepdf">Article</div></a></td><td class='std'>Lagrange Scholar, Marina Klanjčić<br /><b>Identifying urban features for vulnerable road user safety in Europe</b></td></tr>
+	</table>
+	</li>
+</ul>
+
+<h4>BA &amp; MSc theses</h4>
+<ul>
 	<li class='supervision'>
 	<table>
 	<tr><td class='std col1 date wfix'>2024<br /></td><td class='std'>MSc, Frederik Peter Høngaard<br /><b>Exploring the Potential of Geospatial Data Science for Real Estate Appraisal</b></td></tr>
@@ -104,11 +132,6 @@ echo $featuredarea;
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2021-2022<br /><a href="../downloads/folco2022dbn.pdf"><div class="filepdf">Article</div></a></td><td class='std'>Lagrange Scholar, Pietro Folco<br /><b>Data-driven bicycle network planning for demand and safety</b></td></tr>
-	</table>
-	</li>
-	<li class='supervision'>
-	<table>
 	<tr><td class='std col1 date wfix'>2021<br /><a href="../downloads/vybornova2021icg.pdf"><div class="filepdf">Thesis</div></a><br /><a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a></td><td class='std'>MSc, Anastassia Vybornova<br /><b>Identifying and classifying gaps in the bicycle network of Copenhagen</b>
 	</table>
 	</li>
@@ -120,16 +143,6 @@ echo $featuredarea;
 	<li class='supervision'>
 	<table>
 	<tr><td class='std col1 date wfix'>2021<br /><a href="../downloads/begovic2021qcb.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>BA, Edi Begovic and Høgni Ziska Maree Jacobsen<br /><b>Quantifying cyclist behavior at intersections using automated video analysis</b></td></tr>
-	</table>
-	</li>
-	<li class='supervision'>
-	<table>
-	<tr><td class='std col1 date wfix'>2019-2021<br /><a href="../downloads/klanjcic2022iuf.pdf"><div class="filepdf">Article</div></a></td><td class='std'>Lagrange Scholar, Marina Klanjčić<br /><b>Identifying urban features for vulnerable road user safety in Europe</b></td></tr>
-	</table>
-	</li>
-	<li class='supervision'>
-	<table>
-	<tr><td class='std col1 date wfix'>2018-2021<br /><a href="https://github.com/nateraluis/PhD-thesis/blob/main/natera-orozco_luis-guillermo.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>PhD, Luis Guillermo Natera Orozco<br /><b>Multilayer network analysis of sustainable, multimodal urban transport networks</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
@@ -149,19 +162,21 @@ echo $featuredarea;
 <a href="#" onclick="toggle('oldprojects');return false;" id="info-oldprojects">&darr; Toggle all previous project ideas &darr;</a>
 <div class="expansion" id="oldprojects">
 <img src="../images/teachingproject2023.png" width="580" alt="Projects 2023">
-Results: <a href="https://superblockify.city/"><div class="linkexternal">superblockify.city</div></a></br></br>
-<img src="../images/teachingproject2022.png" width="580" alt="Projects 2022">Results: <a href="../downloads/pliesslarsen2023ehs.pdf"><div class="filepdf">Thesis</div></a></br></br>
-<img src="../images/teachingproject2021_1.png" width="580" alt="Project 1">Results: <a href="../downloads/wolf2024cap.pdf"><div class="filepdf">Article</div></a></br></br>
+</br>Results: <a href="https://superblockify.city/"><div class="linkexternal">superblockify.city</div></a></br></br>
+<img src="../images/teachingproject2022.png" width="580" alt="Projects 2022"></br>Results: <a href="../downloads/pliesslarsen2023ehs.pdf"><div class="filepdf">Thesis</div></a></br></br>
+<img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"></br>Results: <a href="../downloads/wolf2025cap.pdf"><div class="filepdf">Article</div></a></br></br>
 <img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"></br></br>
 <img src="../images/teachingproject2021_3.png" width="580" alt="Project 3"></br></br>
-<img src="../images/teachingproject2020_1.png" width="580" alt="Project 1">Results: <a href="https://growbike.net/"><div class="linkexternal">GrowBike.Net</div></a></br></br>
-<img src="../images/teachingproject2020_2.png" width="580" alt="Project 2">Results: <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a></br></br>
-<img src="../images/teachingproject2020_3.png" width="580" alt="Project 3">Results: <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a></br></br>
+<img src="../images/teachingproject2020_1.png" width="580" alt="Project 1"></br>Results: <a href="https://growbike.net/"><div class="linkexternal">GrowBike.Net</div></a></br></br>
+<img src="../images/teachingproject2020_2.png" width="580" alt="Project 2"></br>Results: <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a></br></br>
+<img src="../images/teachingproject2020_3.png" width="580" alt="Project 3"></br>Results: <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a></br></br>
 </div>
 
 
 <h3>Teaching activities</h3>
 	<table>
+		<tr><td class='std col1 date'>Fall 2025</td><td class='std' width='130'>Instructor (50%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1727">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
+		<tr><td class='std col1 date'>Spring 2025</td><td class='std' width='130'>Instructor (20%)</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1638">Geospatial Data Science (KSGEDAS1KU)</a></br>ECTS Credits: 7.5</td></tr>
 		<tr><td class='std col1 date'>Spring 2024</td><td class='std' width='130'>Instructor (100%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1410">Geospatial Data Science (KSGEDAS1KU)</a></br>ECTS Credits: 7.5</td></tr>
 		<tr><td class='std col1 date'>Fall 2023</td><td class='std' width='130'>Instructor (70%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1218">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Fall 2022</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=967">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
