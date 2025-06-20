@@ -56,6 +56,22 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2025</h3>
  <ul>
+    <li class="publi pub-other">
+    <table class='full'>
+    <tr><td class='nopad'>
+    L. Alessandretti, M. Szell<br /><b>Urban Mobility</b><br /><a href="https://link.springer.com/chapter/10.1007/978-3-031-82666-5_4">In: Compendium of Urban Complexity (2025)</a><br />
+    <a href="#" onclick="toggle('alessandretti2025um');return false;" id="info-alessandretti2025um"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/alessandretti2025um.pdf"><div class="filepdf">Chapter</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.00355"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/mszell/geospatialdatascience"><div class="linkexternal">Teaching material</div></a></td><td class='nopad'><a href="../downloads/alessandretti2025um.pdf"><img src="../images/thumb_alessandretti2025um.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="alessandretti2025um"><pre><code>@inbook{alessandretti2025um,
+  author = {Alessandretti, Laura and Szell, Michael},
+  editor = {Rybski, Diego},
+  title = {Urban Mobility},
+  booktitle = {Compendium of Urban Complexity},
+  year = {2025},
+  publisher = {Springer Nature Switzerland},
+  pages = {75--98},
+  isbn = {978-3-031-82666-5},
+  doi = {10.1007/978-3-031-82666-5_4}
+}</code></pre></div></li>
     <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
@@ -91,14 +107,14 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     L.M. Aiello, A. Vybornova, S. Juhász, M. Szell, E. Bokányi<br /><b>Urban highways are barriers to social ties</b><br /><a href="https://www.pnas.org/doi/10.1073/pnas.2408937122">PNAS 122(10), e2408937122 (2025)</a><br />
     <a href="#" onclick="toggle('aiello2025uhb');return false;" id="info-aiello2025uhb"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/aiello2025uhb.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/aiello2025uhb_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2404.11596"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/NERDSITU/urban-highways"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/aiello2025uhb.pdf"><img src="../images/thumb_aiello2025uhb.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="aiello2025uhb"><pre><code>@article{aiello2025uhb,
-  title={Urban highways are barriers to social ties},
-  author={Aiello, Luca Maria and Vybornova, Anastassia and Juh{\'a}sz, S{\'a}ndor and Szell, Michael and Bok{\'a}nyi, Eszter},
-  journal={Proceedings of the National Academy of Sciences},
-  volume={122},
-  number={10},
-  pages={e2408937122},
-  year={2025},
-  doi={10.1073/pnas.2408937122}
+  title = {Urban highways are barriers to social ties},
+  author = {Aiello, Luca Maria and Vybornova, Anastassia and Juh{\'a}sz, S{\'a}ndor and Szell, Michael and Bok{\'a}nyi, Eszter},
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {122},
+  number = {10},
+  pages = {e2408937122},
+  year = {2025},
+  doi = {10.1073/pnas.2408937122}
 }</code></pre></div></li>
     <li class="publi pub-journal">
     <table>
@@ -252,18 +268,6 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   author = {Coscia, Michele and Borgelt, Christian and Szell, Michael},
   journal = {arXiv preprint arXiv:2211.12094},
   year = {2022}
-}</code></pre></div></li>
-    <li class="publi pub-preprint">
-    <table class='full'>
-    <tr><td class='nopad'>
-    L. Alessandretti, M. Szell<br /><b>Urban Mobility</b><br />
-    <a href="#" onclick="toggle('alessandretti2022um');return false;" id="info-alessandretti2022um"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/alessandretti2022um.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.00355"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/mszell/geospatialdatascience"><div class="linkexternal">Teaching material</div></a></td><td class='nopad'><a href="../downloads/alessandretti2022um.pdf"><img src="../images/thumb_alessandretti2022um.png" height="118" alt="Paper" class="right"></a></td></tr></table>
-    <div class="info-expansion" id="alessandretti2022um"><pre><code>@inbook{alessandretti2022um,
-  title = {Compendium of Urban Complexity},
-  author = {Alessandretti, Laura and Szell, Michael},
-  chapter = {Urban Mobility},
-  year = {2022},
-  note = {arXiv preprint arXiv:2211.00355}
 }</code></pre></div></li>
     <li class="publi pub-journal">
     <table class='full'>
