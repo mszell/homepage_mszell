@@ -56,6 +56,19 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2025</h3>
  <ul>
+    <li class="publi pub-journal">
+    <table>
+    <tr><td class='nopad'>
+    A. Vybornova, A.R. Vierø, K.K. Hansen, M. Szell<br /><b>BikeNodePlanner: A data-driven decision support tool for bicycle node network planning</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083251355999">Environment and Planning B (2025)</a><br />
+    <a href="#" onclick="toggle('vybornova2025bdd');return false;" id="info-vybornova2025bdd"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2025bdd.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2412.20270"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bike-node-planner/"><div class="linkexternal">Code</div></a>
+    </td><td class='nopad'><a href="../downloads/vybornova2025bdd.pdf"><img src="../images/thumb_vybornova2025bdd.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="vybornova2025bdd"><pre><code>@article{vybornova2025bdd,
+  title = {BikeNodePlanner: A data-driven decision support tool for bicycle node network planning},
+  author = {Vybornova, Anastassia and Vier{\o}, Ane Rahbek and Hansen, Kirsten Krogh and Szell, Michael},
+  journal = {Environment and Planning B: Urban Analytics and City Science},
+  year = {2025},
+  doi = {10.1177/23998083251355999}
+}</code></pre></div></li>
     <li class="publi pub-other">
     <table class='full'>
     <tr><td class='nopad'>
@@ -135,18 +148,6 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h3>2024</h3>
  <ul>
-    <li class="publi pub-preprint">
-    <table>
-    <tr><td class='nopad'>
-    A. Vybornova, A.R. Vierø, K.K. Hansen, M. Szell<br /><b>BikeNodePlanner: a data-driven decision support tool for bicycle node network planning</b><br />
-    <a href="#" onclick="toggle('vybornova2024bdd');return false;" id="info-vybornova2024bdd"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2024bdd.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2412.20270"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bike-node-planner/"><div class="linkexternal">Code</div></a>
-    </td><td class='nopad'><a href="../downloads/vybornova2024bdd.pdf"><img src="../images/thumb_vybornova2024bdd.png" height="118" alt="Paper" class="right"></a></td></tr></table>
-    <div class="info-expansion" id="vybornova2024bdd"><pre><code>@article{vybornova2024bdd,
-  title = {BikeNodePlanner: a data-driven decision support tool for bicycle node network planning},
-  author = {Vybornova, Anastassia and Vier{\o}, Ane Rahbek and Hansen, Kirsten Krogh and Szell, Michael},
-  journal = {arXiv preprint arXiv:2412.20270},
-  year = {2024}
-}</code></pre></div></li>
     <li class="publi pub-other">
     <table>
     <tr><td class='nopad'>
