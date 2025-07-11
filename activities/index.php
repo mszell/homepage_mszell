@@ -20,7 +20,6 @@ echo $featuredarea;
 <h3>Organization, committees, and editorial work</h3>
 	<table>
 		<tr><td class='std col1 date'>since<br />2023-11</td><td class='std' width='130'>Guest editor</td><td class='std'><a href="https://iopscience.iop.org/collections/jpcomplex-231012-387">Journal of Physics: Complexity, Urban Mobility and Green Transportation in Sustainable Cities</a></td></tr>
-		<tr><td class='std col1 date'>since<br />2018-06-18</td><td class='std' width='130'>Review editor</td><td class='std'><a href="https://www.frontiersin.org/journals/physics/sections/social-physics">Frontiers (Social Physics)</a></td></tr>
 		<tr><td class='std col1 date'>since<br />2018-01-09</td><td class='std' width='130'>Editor</td><td class='std'><a href="http://www.complex-systems.com/">Complex Systems</a></td></tr>
 		<tr><td class='std col1 date'>2026-02-20<br />2026-02-17</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://netscix2026.github.io/">NetSciX 2026</a><br />Auckland, New Zealand</td></tr>
 		<tr><td class='std col1 date'>2025-06-18<br />2025-06-16</td><td class='std' width='130'>Social Media Chair</td><td class='std'><a href="https://www.icssi.org/">ICSSI 2025</a><br />Copenhagen, Denmark</td></tr>
@@ -64,6 +63,7 @@ echo $featuredarea;
 		<tr><td class='std col1 date'>2018-12-13<br />2018-12-11</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://www.complexnetworks.org/">Complex Networks 2018</a><br />Cambridge, UK</td></tr>
 		<tr><td class='std col1 date'>2018-09-28<br />2018-09-23</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://ccs2018.web.auth.gr/">Conference on Complex Systems 2018</a><br />Thessaloniki, Greece</td></tr>
 		<tr><td class='std col1 date'>2018-07-27<br />2018-07-22</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://www.necsi.edu/events/iccs2018/">ICCS 2018</a><br />Cambridge, USA</td></tr>
+		<tr><td class='std col1 date'>since<br />2018-06-18</td><td class='std' width='130'>Community reviewer</td><td class='std'><a href="https://www.frontiersin.org/journals/physics/sections/social-physics">Frontiers (Social Physics)</a></td></tr>
 		<tr><td class='std col1 date'>2018-03-08<br />2018-03-05</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://complenet.weebly.com/">CompleNet 2018</a><br />Boston, USA</td></tr>
 		<tr><td class='std col1 date'>2018-01-31<br />2017-05-04</td><td class='std' width='130'>Guest editor</td><td class='std'><a href="https://epjdatascience.springeropen.com/cfp-humanmobility">EPJ Data Science, Individual and Collective Human Mobility: Description, Modelling, Prediction</a></td></tr>
 		<tr><td class='std col1 date'>2017-12-01<br />2017-11-29</td><td class='std' width='130'>Program committee</td><td class='std'><a href="http://www.complexnetworks.org/">Complex Networks 2017</a><br />Lyon, France</td></tr>
@@ -108,23 +108,28 @@ echo $featuredarea;
 	</div>
 
 
-<h3>Talks</h3>
+<h3>Presentations</h3>
 <ul>
+	<li class='talk talk-contributed'>
+	<table>
+	<tr><td class='std col1 date'>2025-07-22<br /><a href="../downloads/poster_szell2025cwb.pdf"><div class="filepdf">Poster</div></a></td><td class='std'>Country-wide bicycle network analysis and planning with the human in the loop (Poster)<br /><a href="https://www.ic2s2-2025.org/">IC2S2 2025</a><br/>Norrköping, Sweden</td></tr>
+	</table>
+	</li>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2024-11-06<br /><a href="../downloads/talk_szell2024dsb.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Data Science of Bicycle Networks<br /><a href="https://www.eurosdr.net/">145th EuroSDR Board of Delegates meeting</a><br/>Copenhagen, Denmark</td></tr>
 	</table>
 	</li>
+	</ul>
+	
+	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all presentations &darr;</a>
+	<div class="expansion" id="talks">
+	<ul>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2023-09-20<br /><a href="../downloads/talk_szell2023sfp.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Stories from 1001 paths (over Dybbølsbro)<br /><a href="https://datasci.social/@DataBeersCph">DataBeers Copenhagen</a><br/>Copenhagen, Denmark</td></tr>
 	</table>
 	</li>
-	</ul>
-	
-	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all talks &darr;</a>
-	<div class="expansion" id="talks">
-	<ul>
 	<li class='talk talk-contributed'>
 	<table>
 	<tr><td class='std col1 date'>2023-07-18<br /><a href="../downloads/talk_szell2023cdl.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen<br /><a href="https://www.ic2s2.org/">IC2S2 2023</a><br/>Copenhagen, Denmark</td></tr>
