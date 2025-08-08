@@ -4,15 +4,15 @@ $URLTOP = "https://michael.szell.net";
 
 if ($section == "publications") { # Load d3 js only on the publications page
   $jsload = "<script src='{$URLTOP}/includes/d3.min.js' charset='utf-8' type='text/javascript'></script>
-    <script type='text/javascript' src='http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js'></script>";
+    <script type='text/javascript' src='https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js'></script>";
 } else {
   $jsload = "";
 }
 
 $head = <<<EOD
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-    <html xmlns="http://www.w3.org/1999/xhtml">
+        "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="https://www.w3.org/1999/xhtml">
 
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -104,7 +104,7 @@ $featuredarea = <<<EOD
         </td>
         <td style="text-align: right; position: relative; z-index: 10;">
           <a rel="me" href="mailto:michael.szell@gmail.com"><img src="{$URLTOP}/images/iconemail.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
-          <a rel="me" href="http://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ"><img src="{$URLTOP}/images/icongooglescholar.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
+          <a rel="me" href="https://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ"><img src="{$URLTOP}/images/icongooglescholar.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
           <a rel="me" href="https://orcid.org/0000-0003-3022-2483"><img src="{$URLTOP}/images/iconorcid.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
           <a rel="me" href="https://github.com/mszell"><img src="{$URLTOP}/images/icongithub.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
           <a rel="me" href="https://bsky.app/profile/mszll.datasci.social.ap.brid.gy"><img src="{$URLTOP}/images/iconbluesky.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
