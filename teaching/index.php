@@ -175,7 +175,7 @@ echo $featuredarea;
 
 <h3>Teaching activities</h3>
 	<table>
-		<tr><td class='std col1 date'>Fall 2025</td><td class='std' width='130'>Instructor (50%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1727">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
+		<tr><td class='std col1 date'>Fall 2025</td><td class='std' width='130'>Instructor (60%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1727">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Spring 2025</td><td class='std' width='130'>Instructor (20%)</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1638">Geospatial Data Science (KSGEDAS1KU)</a></br>ECTS Credits: 7.5</td></tr>
 		<tr><td class='std col1 date'>Spring 2024</td><td class='std' width='130'>Instructor (100%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1410">Geospatial Data Science (KSGEDAS1KU)</a></br>ECTS Credits: 7.5</td></tr>
 		<tr><td class='std col1 date'>Fall 2023</td><td class='std' width='130'>Instructor (70%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1218">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
@@ -194,6 +194,7 @@ echo $featuredarea;
 <h4>Single classes and short-term courses</h4>
 	</br>
 	<table>
+		<tr><td class='std col1 date'>2025-09-10<br /></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1798">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>
 		<tr><td class='std col1 date'>2023-10-31<br /><a href="../downloads/teaching_szell2023smd.pdf"><div class="filepdf">Slides</div></a></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1307">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>
 		<tr><td class='std col1 date'>2022-09-13<br /><a href="../downloads/teaching_szell2022smd.pdf"><div class="filepdf">Slides</div></a></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1194">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>
 		<tr><td class='std col1 date'>2020-04-21</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=373">Reflections on Data Science</a></td></tr>
