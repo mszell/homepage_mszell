@@ -1,6 +1,6 @@
 <?php
 
-$URLTOP = "http://michael.szell.net";
+$URLTOP = "https://michael.szell.net";
 
 if ($section == "publications") { # Load d3 js only on the publications page
   $jsload = "<script src='{$URLTOP}/includes/d3.min.js' charset='utf-8' type='text/javascript'></script>
@@ -124,7 +124,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>michael.szell.net &nbsp;|&nbsp; Last update 2025-07-10 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></br>
+  <p>michael.szell.net &nbsp;|&nbsp; Last update 2025-08-08 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></br>
     ITU Copenhagen, Rued Langgaards Vej 7, 2300 København, DK
   </p>
 </div>

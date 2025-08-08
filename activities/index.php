@@ -615,7 +615,7 @@ echo $featuredarea;
 
 Thank you for asking me to referee this paper.
 
-As much as I would like to accept your invitation, I am part of a large number of scientists that have decided not to referee any article that is published by Elsevier (see http://thecostofknowledge.com).
+As much as I would like to accept your invitation, I am part of a large number of scientists that have decided since 2013 not to referee any article that is published by Elsevier (see http://thecostofknowledge.com).
 
 I strongly believe that publicly funded scientific research should be freely available to everyone. Elsevier is the antithesis to that statement. The company is known for making exorbitant profits without adding much value to the peer review process, for forcing universities to buy overpriced bundles of journals, and for aggressively lobbying lawmakers against the move to open access.</pre></div></p>
 
