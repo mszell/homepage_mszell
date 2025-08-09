@@ -63,7 +63,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <a href="#" onclick="toggle('sebastiao2025tob');return false;" id="info-sebastiao2025tob"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/sebastiao2025tob.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2507.13005"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/sebastiao2025tob.pdf"><img src="../images/thumb_sebastiao2025tob.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="sebastiao2025tob"><pre><code>@article{sebastiao2025tob,
   title = {The Trade-Off between Directness and Coverage in Transport Network Growth},
-  author = {Sebastiao, Clément and Vybornova, Anastassia and Vierø, Ane Rahbek and Aiello, Luca Maria and Szell, Michael},
+  author = {Sebastiao, Cl{\'e}ment and Vybornova, Anastassia and Vier{\o}, Ane Rahbek and Aiello, Luca Maria and Szell, Michael},
   journal = {arXiv preprint arXiv:2507.13005},
   year = {2025}
 }</code></pre></div></li>
