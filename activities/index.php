@@ -609,6 +609,17 @@ echo $featuredarea;
 
 
 <h2>Review service</h2>
+<h3>Interdisciplinary, network science</h3>
+<p>Nature, Nature Communications, Nature Human Behaviour, PNAS, Science Advances, Social Networks, Scientific Reports, Scientific Data, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Network Science, Applied Network Science, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, PLOS Biology</p>
+<h3>Data science, computer science, mathematics</h3>
+<p>Nature Computational Science, EPJ Data Science, Frontiers, Games, ACM Transactions on Knowledge Discovery from Data, IEEE Transactions on Knowledge and Data Engineering, Economics Bulletin</p>
+<h3>Transportation, GIS, sustainability</h3>
+<p>Nature Sustainability, Transportation, IEEE Transactions on Intelligent Transportation Systems, Environment and Planning B, International Journal of Sustainable Transportation, Sustainability, Transportation Research Part B, International Journal of Geographical Information Science, GeoInformatica</p>
+<h3>Physics</h3>
+<p>Physical Review Letters, Physical Review E, New Journal of Physics, Europhysics Letters, Journal of Statistical Mechanics, Condensed Matter Physics</p>
+<h3>Publishers, national and international agencies</h3>
+<p>Cambridge University Press, World Bank, Netherlands Organisation for Scientific Research (NWO), Forum neue Medien Austria</p>
+<h3>Blacklists</h3>
 <p>Together with a large number of scientists I have decided in 2013 to stop reviewing any article that is published by Elsevier (see <a href="https://thecostofknowledge.com">https://thecostofknowledge.com</a>), so please do not contact me to review for such journals:</p>
 <p><a href="#" onclick="toggle('declineelsevier');return false;" id="info-declineelsevier">Decline message Elsevier</a>
 <div class="info-expansion" id="declineelsevier"><pre class="wrap">Dear Editor,
@@ -629,19 +640,6 @@ Thank you for asking me to referee this paper.
 As much as I would like to accept your invitation, I have decided not to referee any article that is published by the Royal Society, after the Society's decision to keep Elon Musk as its fellow (see: https://www.theguardian.com/technology/2025/mar/25/royal-society-decides-not-to-take-disciplinary-action-against-elon-musk).
 
 Elon Musk is leading a large-scale effort to destroy science and its benefits to humanity, therefore he is the antithesis to the Society's mission "to recognise, promote and support excellence in science and to encourage the development and use of science for the benefit of humanity". Fellows of the Royal Society argued that revoking Musk’s fellowship could undermine trust in science. Unfortunately, not revoking Musk's fellowship has undermined my trust in the Royal Society. The Royal Society is free to keep Musk's fellowship; in turn I am free to not provide my free labor to the Royal Society.</pre></div></p>
-
-
-<h3>Interdisciplinary, network science</h3>
-<p>Nature, Nature Communications, Nature Human Behaviour, PNAS, Science Advances, Social Networks, Scientific Reports, Scientific Data, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Network Science, Applied Network Science, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, PLOS Biology</p>
-<h3>Data science, computer science, mathematics</h3>
-<p>Nature Computational Science, EPJ Data Science, Frontiers, Games, ACM Transactions on Knowledge Discovery from Data, IEEE Transactions on Knowledge and Data Engineering, Economics Bulletin</p>
-<h3>Transportation, GIS, sustainability</h3>
-<p>Nature Sustainability, Transportation, IEEE Transactions on Intelligent Transportation Systems, Environment and Planning B, International Journal of Sustainable Transportation, Sustainability, Transportation Research Part B, International Journal of Geographical Information Science, GeoInformatica</p>
-<h3>Physics</h3>
-<p>Physical Review Letters, Physical Review E, New Journal of Physics, Europhysics Letters, Journal of Statistical Mechanics, Condensed Matter Physics</p>
-<h3>Publishers, national and international agencies</h3>
-<p>Cambridge University Press, World Bank, Netherlands Organisation for Scientific Research (NWO), Forum neue Medien Austria</p>
-<br />
 
 
 <h2>Advanced training &amp; visits</h2>

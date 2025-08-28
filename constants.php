@@ -9,6 +9,20 @@ if ($section == "publications") { # Load d3 js only on the publications page
   $jsload = "";
 }
 
+if ($section == "publications") {
+  $metadesc = "Academic and non-academic publications of Michael Szell, and his co-authorship network";
+} elseif ($section == "activities") {
+  $metadesc = "Organization, committees, editorial work, presentations, review service, and advanced training and visits of Michael Szell";
+} elseif ($section == "projects") {
+  $metadesc = "Funded grants and data visualization and software projects of Michael Szell";
+} elseif ($section == "media") {
+  $metadesc = "Media and media coverage about Michael Szell";
+} elseif ($section == "teaching") {
+  $metadesc = "Supervision (information to apply, theses, project ideas), teaching materials, and teaching activities of Michael Szell";
+} else {
+  $metadesc = "Professional homepage of Michael Szell";
+}
+
 $head = <<<EOD
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
         "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -20,7 +34,7 @@ $head = <<<EOD
     <title>Michael Szell's professional homepage</title>
     <meta name="Title" content="Michael Szell" />
     <meta name="Author" content="Michael Szell" />
-    <meta name="Description" content="Professional homepage of Michael Szell" />
+    <meta name="Description" content="{$metadesc}" />
     <meta name="Robots" content="index, follow" />
     <meta name="fediverse:creator" content="mszll@datasci.social" />
     <meta name="viewport" content="width=840, initial-scale=0.45">
