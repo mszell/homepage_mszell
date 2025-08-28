@@ -16,17 +16,17 @@ echo $featuredarea;
 
 			<div class="main-with-sidebar">
 
-<h3>BA or MSc supervision</h3>
+<h2>BA or MSc supervision</h2>
 <p>Please go to: <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a></p>
 
 
-<h3>PhD supervision, PostDoc, internships</h3>
+<h2>PhD supervision, PostDoc, internships</h2>
 <p>Any PhD or PostDoc opportunities are announced on our group webpage: <a href="https://nerds.itu.dk/">nerds.itu.dk</a></p>
 
 <p>I am generally open to welcome self-funded research visitors if the topic of collaboration makes sense - for such inquiries please contact me via email.</p>
 
 
-<h3>Teaching materials</h3>
+<h2>Teaching materials</h2>
 <ul>
 	<li><a href="https://github.com/mszell/geospatialdatascience">Geospatial Data Science</a></br><iframe src="https://ghbtns.com/github-btn.html?user=mszell&repo=geospatialdatascience
 &type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe></br>ECTS Credits: 7.5</br>This course provides an introduction into core concepts and applications of data science based approaches to geospatial data analysis.</li>
@@ -39,8 +39,8 @@ echo $featuredarea;
 </ul>
 
 
-<h3 id="supervisedtheses">Supervised students and theses</h3>
-<h4>PhD theses</h4>
+<h2 id="supervisedtheses">Supervised students and theses</h2>
+<h3>PhD theses</h3>
 <ul>
 	<li class='supervision'>
 	<table>
@@ -59,7 +59,7 @@ echo $featuredarea;
 	</li>
 </ul>
 
-<h4>Post-MSc supervision</h4>
+<h3>Post-MSc supervision</h3>
 <ul>
 <li class='supervision'>
 	<table>
@@ -73,7 +73,7 @@ echo $featuredarea;
 	</li>
 </ul>
 
-<h4>BA &amp; MSc theses</h4>
+<h3>BA &amp; MSc theses</h3>
 <ul>
 	<li class='supervision'>
 	<table>
@@ -157,7 +157,7 @@ echo $featuredarea;
 	</li>
 </ul>
 
-<h3 id="projectideas">Project ideas</h3>
+<h2 id="projectideas">Project ideas</h2>
 <p>Below are some previous ideas and results for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please use the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
 <img src="../images/teachingproject2023.png" width="580" alt="Projects 2023">
 </br>Results: <a href="https://superblockify.city/"><div class="linkexternal">superblockify.city</div></a></br></br>
@@ -173,7 +173,9 @@ echo $featuredarea;
 </div>
 
 
-<h3>Teaching activities</h3>
+<h2>Teaching activities</h2>
+	<h3>Full courses</h3>
+	</br>
 	<table>
 		<tr><td class='std col1 date'>Fall 2025</td><td class='std' width='130'>Instructor (60%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1727">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Fall 2025</td><td class='std' width='130'>Lab manager</td><td class='std'><a href="https://learnit.itu.dk/course/view.php?id=3025653">StudyLab 1. semester BDS</a></td></tr>
@@ -195,7 +197,7 @@ echo $featuredarea;
 		<tr><td class='std col1 date'>Spring 2018</td><td class='std' width='130'>Instructor,</br>Course manager</td><td class='std'><a href="https://cns.ceu.edu/courses/statistical-methods-network-science-and-data-analysis">Statistical Methods in Network Science and Data Analysis (CNSC 6013)</a></br>Credits: 4.0, ECTS Credits: 8.0</td></tr>
 	</table>
 
-<h4>Single classes and short-term courses</h4>
+	<h3>Single classes and short-term courses</h3>
 	</br>
 	<table>
 		<tr><td class='std col1 date'>2025-09-10<br /></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1798">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>

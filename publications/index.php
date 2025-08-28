@@ -23,7 +23,7 @@ echo $featuredarea;
       <div class="temp" style='font-size:9px;color: white;background-color: #666666;display:inline;padding:2px;'>Other</div>
       -->
 
-<h3>My coauthorship network</h3>
+<h2>My coauthorship network</h2>
 <div id="collabnet"><script src="https://michael.szell.net/publications/collabnet.js" type="text/javascript"></script></div>
 
 </br></br></br>
@@ -43,7 +43,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <a href="#" onclick="toggle('nonacademic');return false;" id="info-nonacademic">&darr; Toggle non-academic publications &darr;</a>
 <div class="expansion" id="nonacademic">
-  <h3>Non-academic</h3>
+  <h2>Non-academic</h2>
   <ul>
     <li><b><a href="../downloads/article_politiken01.pdf"><div class="filepdf">Er Danmark en cykelnation?</div></a></b>, Politiken (2022)</li>
     <li><b><a href="https://blogs.biomedcentral.com/on-physicalsciences/2022/05/06/identifying-urban-features-for-vulnerable-road-user-safety-in-europe/">Identifying urban features for vulnerable road user safety in Europe</a></b>, BMC Blog Network (2022)</li>
@@ -54,7 +54,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   </ul>
 </div>
 
-<h3>2025</h3>
+<h2>2025</h2>
  <ul>
     <li class="publi pub-preprint">
     <table class='full'>
@@ -157,7 +157,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   </ul>
 
 
-<h3>2024</h3>
+<h2>2024</h2>
  <ul>
     <li class="publi pub-other">
     <table>
@@ -221,7 +221,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 }</code></pre></div></li>
   </ul>
 
-<h3>2023</h3>
+<h2>2023</h2>
   <ul>
     <li class="publi pub-journal">
     <table class='full'>
@@ -268,7 +268,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 }</code></pre></div></li>
   </ul>
 
-<h3>2022</h3>
+<h2>2022</h2>
   <ul>
     <li class="publi pub-preprint">
     <table class='full'>
@@ -369,7 +369,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 }</code></pre></div></li>
   </ul>
 
-<h3>2021</h3>
+<h2>2021</h2>
   <ul>
     <li class="publi pub-journal">
     <table>
@@ -404,7 +404,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 }</code></pre></div></li>
 </ul>
 
-<h3>2020</h3>
+<h2>2020</h2>
   <ul>
     <li class="publi pub-journal">
     <table>
@@ -437,7 +437,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   </ul>
 
 
-<h3>2019</h3>
+<h2>2019</h2>
   <ul>
     <li class="publi pub-other">
     <table>
@@ -471,7 +471,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 
 
-<h3>2018</h3>
+<h2>2018</h2>
   <ul>
     <li class="publi pub-journal">
     <table>
@@ -505,7 +505,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 
 
-<h3>2017</h3>
+<h2>2017</h2>
   <ul>
     <li class="publi pub-journal">
     <table>
@@ -552,7 +552,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 }</code></pre></div></li>
   </ul>
 
-<h3>2016</h3>
+<h2>2016</h2>
   <ul>
     <li class="publi pub-journal">
     <table>
@@ -571,7 +571,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 }</code></pre></div></li>
   </ul>
 
-<h3>2015</h3>
+<h2>2015</h2>
 	<ul>
 		<li class="publi pub-other">
     <table>
@@ -646,7 +646,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 	</ul>
 
 
-<h3>2014</h3>
+<h2>2014</h2>
 	<ul>
 		<li class="publi pub-other">
     <table>
@@ -739,7 +739,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 }</code></pre></div></li>
 	</ul>
 
-<h3>2013</h3>
+<h2>2013</h2>
 	<ul>
 		<li class="publi pub-journal">
     <table>
@@ -818,7 +818,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 }</code></pre></div></li>
 	</ul>
 
-<h3>2012</h3>
+<h2>2012</h2>
 	<ul>
 		<li class="publi pub-journal">
     <table>
@@ -865,7 +865,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 }</code></pre></div></li>
 	</ul>
 
-<h3>2011</h3>
+<h2>2011</h2>
     <ul>
 		<li class="publi pub-other">
     <table>
@@ -886,7 +886,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     </ul>
 
 
-<h3>2010</h3>
+<h2>2010</h2>
     <ul>
 		<li class="publi pub-journal">
     <table>
@@ -920,7 +920,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 	</ul>
 
 
-<h3>pre-2010</h3>
+<h2>pre-2010</h2>
 	<ul>
 		<li class="publi pub-other">
     <table>

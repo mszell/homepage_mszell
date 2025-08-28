@@ -12,12 +12,12 @@ if ($section == "publications") { # Load d3 js only on the publications page
 $head = <<<EOD
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
         "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-    <html xmlns="https://www.w3.org/1999/xhtml">
+    <html xmlns="https://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Michael Szell</title>
+    <title>Michael Szell's professional homepage</title>
     <meta name="Title" content="Michael Szell" />
     <meta name="Author" content="Michael Szell" />
     <meta name="Description" content="Professional homepage of Michael Szell" />
@@ -103,12 +103,12 @@ $featuredarea = <<<EOD
           </a>
         </td>
         <td style="text-align: right; position: relative; z-index: 10;">
-          <a rel="me" href="mailto:michael.szell@gmail.com"><img src="{$URLTOP}/images/iconemail.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
-          <a rel="me" href="https://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ"><img src="{$URLTOP}/images/icongooglescholar.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
-          <a rel="me" href="https://orcid.org/0000-0003-3022-2483"><img src="{$URLTOP}/images/iconorcid.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
-          <a rel="me" href="https://github.com/mszell"><img src="{$URLTOP}/images/icongithub.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
-          <a rel="me" href="https://bsky.app/profile/mszll.datasci.social.ap.brid.gy"><img src="{$URLTOP}/images/iconbluesky.png" height="20" class="logo" style="position: relative; top: 3px;"></a>&nbsp;
-          <a rel="me" href="https://datasci.social/@mszll"><img src="{$URLTOP}/images/iconmastodon.png" height="20" class="logo" style="position: relative; top: 3px;"></a>
+          <a rel="me" href="mailto:michael.szell@gmail.com"><img src="{$URLTOP}/images/iconemail.png" height="20" class="logo" style="position: relative; top: 3px;" alt="Email"></a>&nbsp;
+          <a rel="me" href="https://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ"><img src="{$URLTOP}/images/icongooglescholar.png" height="20" class="logo" style="position: relative; top: 3px;" alt="Google Scholar"></a>&nbsp;
+          <a rel="me" href="https://orcid.org/0000-0003-3022-2483"><img src="{$URLTOP}/images/iconorcid.png" height="20" class="logo" style="position: relative; top: 3px;" alt="ORCID"></a>&nbsp;
+          <a rel="me" href="https://github.com/mszell"><img src="{$URLTOP}/images/icongithub.png" height="20" class="logo" style="position: relative; top: 3px;" alt="Github"></a>&nbsp;
+          <a rel="me" href="https://bsky.app/profile/mszll.datasci.social.ap.brid.gy"><img src="{$URLTOP}/images/iconbluesky.png" height="20" class="logo" style="position: relative; top: 3px;" alt="Bluesky"></a>&nbsp;
+          <a rel="me" href="https://datasci.social/@mszll"><img src="{$URLTOP}/images/iconmastodon.png" height="20" class="logo" style="position: relative; top: 3px;" alt="Mastodon"></a>
         </td>
       </tr>
     </table>
@@ -124,7 +124,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>michael.szell.net &nbsp;|&nbsp; Last update 2025-08-25 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></br>
+  <p>michael.szell.net &nbsp;|&nbsp; Last update 2025-08-28 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></br>
     ITU Copenhagen, Rued Langgaards Vej 7, 2300 København, DK
   </p>
 </div>

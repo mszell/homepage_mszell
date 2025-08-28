@@ -16,7 +16,7 @@ echo $featuredarea;
 
 			<div class="main-with-sidebar">
 
-<h3>News</h3>
+<h2>News</h2>
 <table>
 	<tr><td class='std col1 date'>2025-07-01</td><td class='std'><a href="https://journals.sagepub.com/doi/10.1177/23998083251355999"><img src="images/newsepb.png" width="64" height="64" alt="Environment and Planning B" class="logo"></a></td><td class='std'>Paper published in <a href="https://journals.sagepub.com/doi/10.1177/23998083251355999">Environment and Planning B</a> on BikeNodePlanner: A data-driven decision support tool for bicycle node network planning. See also the <a href="https://github.com/anastassiavybornova/bike-node-planner">project page</a>.</td></tr>
 	<tr><td class='std col1 date'>2025-06-19</td><td class='std'><a href="https://link.springer.com/chapter/10.1007/978-3-031-82666-5_4"><img src="images/newsspringer.png" width="64" height="64" alt="Springer" class="logo"></a></td><td class='std'>Book chapter published in <a href="https://link.springer.com/chapter/10.1007/978-3-031-82666-5_4">Compendium of Urban Complexity (Springer)</a> on Urban Mobility.</td></tr>
@@ -78,25 +78,25 @@ echo $featuredarea;
 </table>
 	</div>
 
-<h3>Current research</h3>
+<h2>Current research</h2>
 <p>Watch my keynote to learn about my current research:</p>
 <a href='https://www.youtube.com/watch?v=yGW2TsV-LDA'><img src="images/keynote.jpg" width="740" height="415" alt="Keynote Michael Szell IT University of Copenhagen"></a>
 
 
-<h3>Bio</h3>
+<h2>Bio</h2>
 <p>
 Michael Szell is associate professor in Data Science at the <a href="https://nerds.itu.dk/">NEtwoRks, Data, and Society (NERDS) research group</a> which he co-founded at IT University of Copenhagen. He is also external faculty at the Complexity Science Hub and affiliate at the Pioneer Centre for Artificial Intelligence. With an interdisciplinary background in network science and complex systems, Michael is quantitatively researching bicycle networks and sustainable mobility following an urban/geospatial data science approach. Along the way he develops methods and open-source tools for sustainable transport planning. His research strives for transport justice, rejecting car-centrism, towards a human-centric, livable future. For that goal, Michael is also co-developing interactive data visualization platforms such as <a href="https://whatthestreet.com">What the Street!?</a>. Apart from these efforts, he is co-developer of the award-winning massive multiplayer online game <a href="https://www.pardus.at">Pardus</a>.
 </p>
 
 
-<h3>Research interests</h3>
+<h2>Research interests</h2>
 <ul>
 	<li>Primary: Urban/Geospatial Data Science, Sustainable mobility, Bicycle networks</li>
 	<li>Secondary: Network science, Complex systems, Social networks, Data visualization</li>
 </ul>
 
 
-<h3>Research highlights</h3>
+<h2>Research highlights</h2>
 <table width="740px" style="text-align: center;">
 <tr>
 	<td><a href='https://www.pnas.org/doi/10.1073/pnas.2408937122'>Highway<br />Barriers<br /><img src='images/paperpnashighways.jpg' width='97' height='129' title='2025-03-04: PNAS paper on highway barriers to social ties published' alt='2025-03-04: PNAS paper on highway barriers to social ties published'><br />2025</a></td>
@@ -110,7 +110,7 @@ Michael Szell is associate professor in Data Science at the <a href="https://ner
 </table>
 
 
-<h3>Data visualization highlights</h3>
+<h2>Data visualization highlights</h2>
 <table width="740px">
 <tr>
 	<td><a href='https://growbike.net'><img src='images/datavizgrowbikenet.jpg' width='360' height='226' title='2021-07: GrowBike.Net' alt='2021-07: GrowBike.Net'></a></td>
@@ -123,7 +123,7 @@ Michael Szell is associate professor in Data Science at the <a href="https://ner
 </table>
 
 
-<h3>Education</h3>
+<h2>Education</h2>
 <table>
 	<tr><td class='std col1 date'>2012 / 03</td><td class='std' style='text-align: center;'><a href="https://www.univie.ac.at/en/"><img src="images/logounivienna.png" width="64" height="64" alt="University of Vienna" class="logo"></a></td><td class='std'>Ph.D. in Physics, University of Vienna<br/>
 		<a href="downloads/szell2011spa.pdf"><div class='filepdf'>Ph.D. Thesis</div></a>
@@ -135,7 +135,7 @@ Michael Szell is associate professor in Data Science at the <a href="https://ner
 
 
 
-<h3>Current positions</h3>
+<h2>Current positions</h2>
 <table>
 	<tr><td class='std col1 date'>since<br />2020 / 10</td></td><td class='std' style='text-align: center;'><a href="https://en.itu.dk/"><img src="images/logoitu.png" width="58" height="58" alt="IT University of Copenhagen" class="logo"></a></td><td class='std'>Associate professor, <a href="https://en.itu.dk/Research/Research-Sections/Data-Science">Data Science Section</a>, <a href="https://en.itu.dk/">IT University of Copenhagen</a></td></tr>
 	<tr><td class='std col1 date'>since<br />2023 / 02</td></td><td class='std' style='text-align: center;'><a href="https://www.aicentre.dk/"><img src="images/logop1.png" width="58" height="58" alt="AI Pioneer Centre" class="logo"></a></td><td class='std'>Affiliate, <a href="https://www.aicentre.dk/">Pioneer Centre for Artificial Intelligence</a></td></tr>
@@ -145,7 +145,7 @@ Michael Szell is associate professor in Data Science at the <a href="https://ner
 </table>
 
 
-<h3>Past positions</h3>
+<h2>Past positions</h2>
 <table>
 	<tr><td class='std col1 date'>2024 / 10<br />2021 / 11</td></td><td class='std' style='text-align: center;'><a href="https://www.isi.it/en/home"><img src="images/logoisi.png" width="58" height="58" alt="ISI Foundation" class="logo"></a></td><td class='std'>External researcher, <a href="https://www.isi.it/en/home">ISI Foundation</a></td></tr>
 	<tr><td class='std col1 date'>2020 / 09<br />2019 / 02</td></td><td class='std' style='text-align: center;'><a href="https://en.itu.dk/"><img src="images/logoitu.png" width="58" height="58" alt="IT University of Copenhagen" class="logo"></a></td><td class='std'>Assistant professor, <a href="https://en.itu.dk/research/departments/computer-science-department">Computer Science Department</a>, <a href="https://en.itu.dk/">IT University of Copenhagen</a></td></tr>

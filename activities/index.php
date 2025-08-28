@@ -17,7 +17,7 @@ echo $featuredarea;
 			<div class="main-with-sidebar">
 
 
-<h3>Organization, committees, and editorial work</h3>
+<h2>Organization, committees, and editorial work</h2>
 	<table>
 		<tr><td class='std col1 date'>since<br />2023-11</td><td class='std' width='130'>Guest editor</td><td class='std'><a href="https://iopscience.iop.org/collections/jpcomplex-231012-387">Journal of Physics: Complexity, Urban Mobility and Green Transportation in Sustainable Cities</a></td></tr>
 		<tr><td class='std col1 date'>since<br />2018-01-09</td><td class='std' width='130'>Editor</td><td class='std'><a href="https://www.complex-systems.com/">Complex Systems</a></td></tr>
@@ -108,7 +108,7 @@ echo $featuredarea;
 	</div>
 
 
-<h3>Presentations</h3>
+<h2>Presentations</h2>
 <ul>
 	<li class='talk talk-contributed'>
 	<table>
@@ -608,7 +608,7 @@ echo $featuredarea;
 	</div>
 
 
-<h3>Review service</h3>
+<h2>Review service</h2>
 <p>Together with a large number of scientists I have decided in 2013 to stop reviewing any article that is published by Elsevier (see <a href="https://thecostofknowledge.com">https://thecostofknowledge.com</a>), so please do not contact me to review for such journals:</p>
 <p><a href="#" onclick="toggle('declineelsevier');return false;" id="info-declineelsevier">Decline message Elsevier</a>
 <div class="info-expansion" id="declineelsevier"><pre class="wrap">Dear Editor,
@@ -631,20 +631,20 @@ As much as I would like to accept your invitation, I have decided not to referee
 Elon Musk is leading a large-scale effort to destroy science and its benefits to humanity, therefore he is the antithesis to the Society's mission "to recognise, promote and support excellence in science and to encourage the development and use of science for the benefit of humanity". Fellows of the Royal Society argued that revoking Musk’s fellowship could undermine trust in science. Unfortunately, not revoking Musk's fellowship has undermined my trust in the Royal Society. The Royal Society is free to keep Musk's fellowship; in turn I am free to not provide my free labor to the Royal Society.</pre></div></p>
 
 
-<h4>Interdisciplinary, network science</h4>
+<h3>Interdisciplinary, network science</h3>
 <p>Nature, Nature Communications, Nature Human Behaviour, PNAS, Science Advances, Social Networks, Scientific Reports, Scientific Data, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Network Science, Applied Network Science, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, PLOS Biology</p>
-<h4>Data science, computer science, mathematics</h4>
+<h3>Data science, computer science, mathematics</h3>
 <p>Nature Computational Science, EPJ Data Science, Frontiers, Games, ACM Transactions on Knowledge Discovery from Data, IEEE Transactions on Knowledge and Data Engineering, Economics Bulletin</p>
-<h4>Transportation, GIS, sustainability</h4>
+<h3>Transportation, GIS, sustainability</h3>
 <p>Nature Sustainability, Transportation, IEEE Transactions on Intelligent Transportation Systems, Environment and Planning B, International Journal of Sustainable Transportation, Sustainability, Transportation Research Part B, International Journal of Geographical Information Science, GeoInformatica</p>
-<h4>Physics</h4>
+<h3>Physics</h3>
 <p>Physical Review Letters, Physical Review E, New Journal of Physics, Europhysics Letters, Journal of Statistical Mechanics, Condensed Matter Physics</p>
-<h4>Publishers, national and international agencies</h4>
+<h3>Publishers, national and international agencies</h3>
 <p>Cambridge University Press, World Bank, Netherlands Organisation for Scientific Research (NWO), Forum neue Medien Austria</p>
 <br />
 
 
-<h3>Advanced training &amp; visits</h3>
+<h2>Advanced training &amp; visits</h2>
     <table>
     	<tr><td class='std col1 date'>2023-04-23<br />2023-04-03</td><td class='std'>Academic visit and scientific collaboration at <a href="https://csh.ac.at/">Complexity Science Hub</a><br />Vienna, Austria</td></tr>
     	<tr><td class='std col1 date'>2022-06-16<br />2022-05-16</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
