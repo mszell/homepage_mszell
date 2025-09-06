@@ -2,9 +2,34 @@
 
 $URLTOP = "https://michael.szell.net";
 
-if ($section == "publications") { # Load d3 js only on the publications page
+if ($section == "publications") { # Load d3 and bib toggle js only on the publications page
   $jsload = "<script src='{$URLTOP}/includes/d3.min.js' charset='utf-8' type='text/javascript'></script>
-    <script type='text/javascript' src='https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js'></script>";
+    <script type='text/javascript' src='https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js'></script>
+    <script type='text/javascript'>
+//<![CDATA[
+function toggle(nr) {
+  if(document.layers) {
+    if(document.layers[nr].display == 'block') {
+      document.layers[nr].display = 'none';
+    } else {
+      document.layers[nr].display = 'block';
+    }
+
+  } else if(document.all) {
+    if(document.all[nr].style.display == 'block') {
+      document.all[nr].style.display = 'none';
+    } else {
+      document.all[nr].style.display = 'block';
+    }
+  } else if(document.getElementById) {
+    if(document.getElementById(nr).style.display == 'block') {
+      document.getElementById(nr).style.display = 'none';
+    } else {
+      document.getElementById(nr).style.display = 'block';
+    }
+  }
+}
+    </script>";
 } else {
   $jsload = "";
 }
@@ -42,31 +67,6 @@ $head = <<<EOD
     <link rel="shortcut icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
     <link rel="icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
     {$jsload}
-    <script type="text/javascript">
-//<![CDATA[
-function toggle(nr) {
-  if(document.layers) {
-    if(document.layers[nr].display == 'block') {
-      document.layers[nr].display = 'none';
-    } else {
-      document.layers[nr].display = 'block';
-    }
-
-  } else if(document.all) {
-    if(document.all[nr].style.display == 'block') {
-      document.all[nr].style.display = 'none';
-    } else {
-      document.all[nr].style.display = 'block';
-    }
-  } else if(document.getElementById) {
-    if(document.getElementById(nr).style.display == 'block') {
-      document.getElementById(nr).style.display = 'none';
-    } else {
-      document.getElementById(nr).style.display = 'block';
-    }
-  }
-}
-    </script>
     </head>
 EOD;
 
@@ -138,7 +138,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>michael.szell.net &nbsp;|&nbsp; Last update 2025-08-28 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></br>
+  <p>michael.szell.net &nbsp;|&nbsp; Last update 2025-09-06 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></br>
     ITU Copenhagen, Rued Langgaards Vej 7, 2300 København, DK
   </p>
 </div>

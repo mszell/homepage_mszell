@@ -27,22 +27,24 @@ echo $featuredarea;
 <div id="collabnet"><script src="https://michael.szell.net/publications/collabnet.js" type="text/javascript"></script></div>
 
 </br></br></br>
-<a href="#" onclick="toggle('legend');return false;" id="info-legend" style="position: relative; z-index: 10; text-shadow: 1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;">&darr; Toggle legend &darr;</a>
-<div class="expansion" id="legend" style="position: relative; z-index: 11; text-shadow: 1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff; font-size: 90%;">
-  <p>Last update 2025-04-30</br>
-  Node color: Most recent date of publication with me</br>
-  Node size: Duration of collaboration with me</br>
-  Link weight: Number of co-publications<br/>
-  Link color: Co-publication with me (red) / between my co-authors (grey)</p><br/>
-</div>
+
+
+<details>
+    <summary style="position: relative; z-index: 10; text-shadow: 1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;">Toggle legend</summary>
+    <p style="position: relative; z-index: 11; text-shadow: 1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff; font-size: 90%;">Last update 2025-04-30</br>
+      Node color: Most recent date of publication with me</br>
+      Node size: Duration of collaboration with me</br>
+      Link weight: Number of co-publications<br/>
+      Link color: Co-publication with me (red) / between my co-authors (grey)</p><br/>
+</details>
 
 <p style="position: relative; z-index: 11; text-shadow: 1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;">
 Download bib file of my publications: <a href="../downloads/szell.bib">szell.bib</a></br>
 Download a list of my publications: <a href="../downloads/publicationlist_szell.pdf"><span class="filepdf">Publicationlist</span></a>
 </p>
 
-<a href="#" onclick="toggle('nonacademic');return false;" id="info-nonacademic">&darr; Toggle non-academic publications &darr;</a>
-<div class="expansion" id="nonacademic">
+<details style="position: relative; z-index: 12;">
+    <summary>Toggle non-academic publications</summary>
   <h2>Non-academic</h2>
   <ul>
     <li><b><a href="../downloads/article_politiken01.pdf"><div class="filepdf">Er Danmark en cykelnation?</div></a></b>, Politiken (2022)</li>
@@ -52,7 +54,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li><b><a href="https://finans.dk/debat/ECE13173026/brug-ny-mobilitetslov-til-at-skabe-et-mere-baeredygtigt-byliv/">Brug ny mobilitetslov til at skabe et mere bæredygtigt byliv</a></b>, FINANS (2021)</li>
     <li><b><a href="https://pro.ing.dk/mobilitytech/holdning/cykling-i-byen-smaa-investeringer-i-infrastruktur-binder-din-sammen">Cykling i byen: Små investeringer i infrastruktur binder din by sammen</a></b>, Ingeniøren / Mobilitytech (2021)</li>
   </ul>
-</div>
+</details>
 
 <h2>2025</h2>
  <ul>

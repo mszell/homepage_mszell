@@ -23,9 +23,10 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2025-05-22</td><td class='std'><a href="https://nerds.itu.dk/2025/05/23/ane-defends-her-phd-network-analysis-of-denmarks-bicycle-infrastructure/"><img src="images/newsgraduation.png" width="64" height="64" alt="Graduation" class="logo"></a></td><td class='std'>My PhD student Ane Rahbek Vierø defended her thesis <a href="https://nerds.itu.dk/2025/05/23/ane-defends-her-phd-network-analysis-of-denmarks-bicycle-infrastructure/">Network analysis of Denmark’s bicycle infrastructure</a>. See also the <a href="https://nerds.itu.dk/2025/05/23/ane-defends-her-phd-network-analysis-of-denmarks-bicycle-infrastructure/">NERDS News</a>.</td></tr>
 	<tr><td class='std col1 date'>2025-05-19</td><td class='std'><a href="https://onlinelibrary.wiley.com/share/author/MRAQ2CXZVUXAJARTRTMY?target=10.1111/gean.70012"><img src="images/newsgean.png" width="64" height="16" alt="Geographical Analysis" class="logo"></a></td><td class='std'>Paper published in <a href="https://onlinelibrary.wiley.com/share/author/MRAQ2CXZVUXAJARTRTMY?target=10.1111/gean.70012">Geographical Analysis</a> on Network Analysis of the Danish Bicycle Infrastructure. See also the <a href="https://bikenetwork.dk">project page</a>.</td></tr>
 </table>
-	<a href="#" onclick="toggle('news');return false;" id="info-news">&darr; Toggle all news &darr;</a>
-	<div class="expansion" id="news">
-<table>
+
+<details>
+  <summary>Toggle all news</summary>
+  <table>
 	<tr><td class='std col1 date'>2025-04-28</td><td class='std'><a href="https://www.nature.com/articles/s41598-025-97200-2"><img src="images/newsscirep.jpg" width="64" height="64" alt="Scientific Reports" class="logo"></a></td><td class='std'>Paper published in <a href="https://www.nature.com/articles/s41598-025-97200-2">Scientific Reports</a> on CoolWalks for active mobility in urban street networks.</td></tr>
 	<tr><td class='std col1 date'>2025-03-31</td><td class='std'><a href="https://nerds.itu.dk/2025/04/01/anastassia-defends-her-phd-urban-data-science-for-sustainable-mobility/"><img src="images/newsgraduation.png" width="64" height="64" alt="Graduation" class="logo"></a></td><td class='std'>My PhD student Anastassia Vybornova defended her thesis <a href="https://en.itu.dk/Research/PhD-Programme/PhD-Defences/PhD-Defences-2025/March/Anastassia-Vybornova">Urban Data Science for Sustainable Mobility</a>. See also the <a href="https://nerds.itu.dk/2025/04/01/anastassia-defends-her-phd-urban-data-science-for-sustainable-mobility/">NERDS News</a>.</td></tr>
 	<tr><td class='std col1 date'>2025-03-04</td><td class='std'><a href="https://www.pnas.org/doi/10.1073/pnas.2408937122"><img src="images/newspnas.png" width="64" height="43" alt="PNAS" class="logo"></a></td><td class='std'>Paper published in <a href="https://www.pnas.org/doi/10.1073/pnas.2408937122">PNAS</a> on Urban highways are barriers to social ties.</td></tr>
@@ -75,8 +76,8 @@ echo $featuredarea;
 	<tr><td class='std col1 date'>2017-12-15</td><td class='std'><a href="https://journals.plos.org/plosone/static/editorial-board"><img src="images/newsplosone.jpg" width="76" height="86" alt="PLOS ONE" class="logo"></a></td><td class='std'>Joined <a href="https://journals.plos.org/plosone/static/editorial-board">Editorial Board of PLOS ONE</a></td></tr>
 	<tr><td class='std col1 date'>2017-12-05</td><td class='std'><a href="https://www.mdpi.com/journal/ijgi/special_issues/Human-Centric_Data_Urban"><img src="images/newsijgi.png" width="76" height="68" alt="International Journal of Geo-information" class="logo"></a></td><td class='std'>Call for papers at International Journal of Geo-information:<br /><a href="https://www.mdpi.com/journal/ijgi/special_issues/Human-Centric_Data_Urban">Human-Centric Data Science for Urban Studies</a><br />Editors: Resch, Szell<br />Submission deadline: 2019-04-30</td></tr>
 	<tr><td class='std col1 date'>2017-05-04</td><td class='std'><a href="https://epjdatascience.springeropen.com/cfp-humanmobility"><img src="images/newsepjdatascience.jpg" width="64" height="64" alt="EPJ Data Science" class="logo"></a></td><td class='std'>Call for papers at EPJ Data Science:<br /><a href="https://epjdatascience.springeropen.com/cfp-humanmobility">Individual and Collective Human Mobility:<br />Description, Modelling, Prediction</a><br />Editors: Simini, Ghoshal, Pappalardo, Szell, H&ouml;vel<br />Submission deadline (extended): 2018-01-31</td></tr>
-</table>
-	</div>
+	</table>
+</details>
 
 <h2>Current research</h2>
 <p>Watch my keynote to learn about my current research:</p>

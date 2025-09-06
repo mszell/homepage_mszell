@@ -24,8 +24,8 @@ echo $featuredarea;
 		<tr><td class='std col1 date'>2026-02-20<br />2026-02-17</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://netscix2026.github.io/">NetSciX 2026</a><br />Auckland, New Zealand</td></tr>
 		<tr><td class='std col1 date'>2025-06-18<br />2025-06-16</td><td class='std' width='130'>Social Media Chair</td><td class='std'><a href="https://www.icssi.org/">ICSSI 2025</a><br />Copenhagen, Denmark</td></tr>
 	</table>
-	<a href="#" onclick="toggle('organization');return false;" id="info-organization">&darr; Toggle all activities &darr;</a>
-	<div class="expansion" id="organization">
+	<details>
+  	<summary>Toggle all activities</summary>
 	<table>
 		<tr><td class='std col1 date'>2025-04-25<br />2025-04-22</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://complenet.weebly.com/">CompleNet 2025</a><br />Fortaleza, Brazil</td></tr>
 		<tr><td class='std col1 date'>2024-07-20<br />2024-07-18</td><td class='std' width='130'>Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2024</a><br />Philadelphia, USA</td></tr>
@@ -105,7 +105,7 @@ echo $featuredarea;
 		<tr><td class='std col1 date'>2011-09-16<br />2011-09-12</td><td class='std'>Main organizer,<br />Program committee</td><td class='std'><a href="https://www.eccs2011.eu/">European Conference on Complex Systems 2011</a><br />Vienna, Austria</td></tr>
 		<tr><td class='std col1 date'>2010-03-12<br />2010-03-10</td><td class='std'>Main organizer</td><td class='std'><a href="https://www.complex-systems.meduniwien.ac.at/events/costworkshop201003/">COST MP0801 workshop Processes on Networks</a><br />Vienna, Austria</td></tr>
     </table>
-	</div>
+	</details>
 
 
 <h2>Presentations</h2>
@@ -122,8 +122,8 @@ echo $featuredarea;
 	</li>
 	</ul>
 	
-	<a href="#" onclick="toggle('talks');return false;" id="info-talks">&darr; Toggle all presentations &darr;</a>
-	<div class="expansion" id="talks">
+	<details>
+  	<summary>Toggle all presentations</summary>
 	<ul>
 	<li class='talk talk-invited'>
 	<table>
@@ -605,7 +605,7 @@ echo $featuredarea;
 	</table>
 	</li>
 	</ul>
-	</div>
+	</details>
 
 
 <h2>Review service</h2>
@@ -621,25 +621,27 @@ echo $featuredarea;
 <p>Cambridge University Press, World Bank, Netherlands Organisation for Scientific Research (NWO), Forum neue Medien Austria</p>
 <h3>Blacklists</h3>
 <p>Together with a large number of scientists I have decided in 2013 to stop reviewing any article that is published by Elsevier (see <a href="https://thecostofknowledge.com">https://thecostofknowledge.com</a>), so please do not contact me to review for such journals:</p>
-<p><a href="#" onclick="toggle('declineelsevier');return false;" id="info-declineelsevier">Decline message Elsevier</a>
-<div class="info-expansion" id="declineelsevier"><pre class="wrap">Dear Editor,
+<details open>
+  <summary>Decline message Elsevier</summary>
+  <pre class="wrap highlightbg">Dear Editor,
 
 Thank you for asking me to referee this paper.
 
 As much as I would like to accept your invitation, I am part of a large number of scientists that have decided since 2013 not to referee any article that is published by Elsevier (see https://thecostofknowledge.com).
 
-I strongly believe that publicly funded scientific research should be freely available to everyone. Elsevier is the antithesis to that statement. The company is known for making exorbitant profits without adding much value to the peer review process, for forcing universities to buy overpriced bundles of journals, and for aggressively lobbying lawmakers against the move to open access.</pre></div></p>
+I strongly believe that publicly funded scientific research should be freely available to everyone. Elsevier is the antithesis to that statement. The company is known for making exorbitant profits without adding much value to the peer review process, for forcing universities to buy overpriced bundles of journals, and for aggressively lobbying lawmakers against the move to open access.</pre></details>
 
 <p>Since 2025 I have decided to stop reviewing any article by venues of the Royal Society, so please do not contact me to review for such journals:</p>
 
-<p><a href="#" onclick="toggle('declineroysoc');return false;" id="info-declineroysoc">Decline message Royal Society</a>
-<div class="info-expansion" id="declineroysoc"><pre class="wrap">Dear Editor,
+<details open>
+  <summary>Decline message Royal Society</summary>
+  <pre class="wrap highlightbg">Dear Editor,
 
 Thank you for asking me to referee this paper.
 
-As much as I would like to accept your invitation, I have decided not to referee any article that is published by the Royal Society, after the Society's decision to keep Elon Musk as its fellow (see: https://www.theguardian.com/technology/2025/mar/25/royal-society-decides-not-to-take-disciplinary-action-against-elon-musk).
+As much as I would like to accept your invitation, I have decided since 2025 not to referee any article that is published by the Royal Society, after the Society's decision to keep Elon Musk as its fellow (see: https://www.theguardian.com/technology/2025/mar/25/royal-society-decides-not-to-take-disciplinary-action-against-elon-musk).
 
-Elon Musk is leading a large-scale effort to destroy science and its benefits to humanity, therefore he is the antithesis to the Society's purported mission "to recognise, promote and support excellence in science and to encourage the development and use of science for the benefit of humanity". Fellows of the Royal Society argued that revoking Musk’s fellowship could undermine trust in science. Unfortunately, not revoking Musk's fellowship has undermined my trust in the Royal Society. The Royal Society is free to keep Musk's fellowship; in turn I am free to not provide my free labor to the Royal Society.</pre></div></p>
+Elon Musk has been leading a large-scale effort to destroy science and its benefits to humanity, therefore he is the antithesis to the Society's purported mission "to recognise, promote and support excellence in science and to encourage the development and use of science for the benefit of humanity". Fellows of the Royal Society argued that revoking Musk’s fellowship could undermine trust in science. Unfortunately, not revoking Musk's fellowship has undermined my trust in the Royal Society. The Royal Society is free to keep Musk's fellowship; in turn I am free to not provide my free labor to the Royal Society.</pre></details>
 
 
 <h2>Advanced training &amp; visits</h2>
@@ -648,8 +650,8 @@ Elon Musk is leading a large-scale effort to destroy science and its benefits to
     	<tr><td class='std col1 date'>2022-06-16<br />2022-05-16</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
     </table>
 	
-	<a href="#" onclick="toggle('training');return false;" id="info-training">&darr; Toggle all activities &darr;</a>
-	<div class="expansion" id="training">
+	<details>
+  	<summary>Toggle all activities</summary>
 	<table>
     	<tr><td class='std col1 date'>2021-10-22<br />2021-10-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
     	<tr><td class='std col1 date'>2019-06-29<br />2019-06-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br />Turin, Italy</td></tr>
@@ -669,7 +671,7 @@ Elon Musk is leading a large-scale effort to destroy science and its benefits to
 	    <tr><td class='std col1 date'>2009-07-24<br />2009-07-13</td><td class='std'><a href="https://www.sun.ceu.hu/01-about/course-archive/2009/02-courses/course-sites/complex/index-complex.php">Summer school Complex Systems and Social Simulation at the Central European University</a><br />Budapest, Hungary</td></tr>
 	    <tr><td class='std col1 date'>2009-07-05<br />2009-06-28</td><td class='std'><a href="https://www.jacobs-university.de/stepsinevolution/">Summer school Steps in Evolution at the Jacobs University</a><br />Bremen, Germany</td></tr>
     </table>
-	</div>
+	</details>
 
 
 

@@ -122,16 +122,20 @@ img.right {
 .float-left {
   float: left; }
 
-a, a:hover, a:link, a:visited {
+a, a:hover, a:link, a:visited, summary, summary:hover {
   text-decoration: none !important; }
 
-a {
+a, summary {
   color: #A00E0E;
   }
 
-a:hover {
+a:hover, summary:hover {
   color: #CF4141;
   }
+
+summary {
+  margin-top: -10px;
+}
 
 pre.wrap{ /* Source: https://stackoverflow.com/a/248013 */
   white-space: pre-wrap;       /* Since CSS 2.1 */
@@ -439,11 +443,11 @@ table.full{
   z-index: 0;
 }
 
-.info-expansion{
-  display: none;
+.highlightbg{
   background-color: #FFE7E7;
 }
 
-.expansion{
+.info-expansion{
   display: none;
+  background-color: #FFE7E7;
 }
