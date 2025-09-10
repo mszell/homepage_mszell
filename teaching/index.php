@@ -200,7 +200,7 @@ echo $featuredarea;
 	<h3>Single classes and short-term courses</h3>
 	</br>
 	<table>
-		<tr><td class='std col1 date'>2025-09-10<br /></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1798">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>
+		<tr><td class='std col1 date'>2025-09-10<br /><a href="../downloads/teaching_szell2025smd.pdf"><div class="filepdf">Slides</div></a><br /></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1798">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>
 		<tr><td class='std col1 date'>2023-10-31<br /><a href="../downloads/teaching_szell2023smd.pdf"><div class="filepdf">Slides</div></a></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1307">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>
 		<tr><td class='std col1 date'>2022-09-13<br /><a href="../downloads/teaching_szell2022smd.pdf"><div class="filepdf">Slides</div></a></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1194">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>
 		<tr><td class='std col1 date'>2020-04-21</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=373">Reflections on Data Science</a></td></tr>
