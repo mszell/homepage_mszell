@@ -24,7 +24,7 @@ echo $featuredarea;
 			<a href="https://www.just-streets.eu/"><div class='linkexternal'>Project page</div></a> &nbsp; <a href="https://cordis.europa.eu/project/id/101104240"><div class='linkexternal'>Funder</div></a>
 
 			<p>ITU's funding share: 298,725 EUR<br/>
-			Funding 1 PhD student</p>
+			Funding 1 PhD student (Clément Sebastiao)</p>
 			<b>Output</b></br>
 			<a href="../downloads/wolf2025cam.pdf"><div class="filepdf">CoolWalks (2025)</div></a></br>
 			<a href="../downloads/aiello2025uhb.pdf"><div class="filepdf">Highways are social barriers (2025)</div></a></br>
@@ -40,7 +40,7 @@ echo $featuredarea;
 			<a href="https://www.trm.dk/nyheder/2021/aftale-om-nye-cykelstier-i-alle-dele-af-landet/"><div class='linkexternal'>Funder</div></a>
 
 			<p>ITU's funding share: 2,019,485 DKK (~271,000 EUR)<br/>
-			Funding 1 PhD student</p>
+			Funding 1 PhD student (Ane Rahbek Vierø)</p>
 		 <b>Output</b></br>
 		 <a href="../downloads/viero2025nad.pdf"><div class="filepdf">Denmark-wide network analysis (2025)</div></a> &nbsp; <a href="https://bikenetwork.dk"><div class="linkexternal">Visualization</div></a></br>
 		 <a href="../downloads/lonardi2025cub.pdf"><div class="filepdf">Optimal transport routing (2025)</div></a></br>
@@ -144,7 +144,7 @@ echo $featuredarea;
 		<tr><td class='std col1 date'>2014-02</td><td class='std' style='text-align: center;'><a href="https://senseable.mit.edu/tweetbursts/"><img src="../images/logotweetbursts.png" width="58" height="58" alt="Tweet Bursts" class="logo"></a></td><td class='std'><p>Webpage and visualizations accompanying the scientific paper "<a href="https://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0089052">Contraction of online response to major events</a>".</p>
 			<a href="https://senseable.mit.edu/tweetbursts/"><div class='linkexternal'>Tweet Bursts</div></a>
 		</br></br>In the news: 
-		<a href="https://www.technologyreview.com/aroundmit/525246/social-medias-law-of-short-messages/"><div class='linkexternal'>MIT Technology Review</div></a> &nbsp; 
+		<a href="https://www.technologyreview.com/2014/02/27/13912/social-medias-law-of-short-messages/"><div class='linkexternal'>MIT Technology Review</div></a> &nbsp; 
 		</br><a href="../media/">&rarr; See all media coverage</a>
 		</td></tr>
 	</table>
