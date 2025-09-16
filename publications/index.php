@@ -62,7 +62,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <table class='full'>
     <tr><td class='nopad'>
     C. Sebastiao, A. Vybornova, A.R. Vierø, L.M. Aiello, M. Szell<br /><b>The Trade-Off between Directness and Coverage in Transport Network Growth</b><br />
-    <a href="#" onclick="toggle('sebastiao2025tob');return false;" id="info-sebastiao2025tob"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/sebastiao2025tob.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2507.13005"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/sebastiao2025tob.pdf"><img src="../images/thumb_sebastiao2025tob.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <a href="#" onclick="toggle('sebastiao2025tob');return false;" id="info-sebastiao2025tob"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/sebastiao2025tob.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2507.13005"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/csebastiao/orderbike"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/sebastiao2025tob.pdf"><img src="../images/thumb_sebastiao2025tob.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="sebastiao2025tob"><pre><code>@article{sebastiao2025tob,
   title = {The Trade-Off between Directness and Coverage in Transport Network Growth},
   author = {Sebastiao, Cl{\'e}ment and Vybornova, Anastassia and Vier{\o}, Ane Rahbek and Aiello, Luca Maria and Szell, Michael},
@@ -72,7 +72,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
-    A. Vybornova, A.R. Vierø, K.K. Hansen, M. Szell<br /><b>BikeNodePlanner: A data-driven decision support tool for bicycle node network planning</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083251355999">Environment and Planning B (2025)</a><br />
+    A. Vybornova, A.R. Vierø, K.K. Hansen, M. Szell<br /><b>BikeNodePlanner: A data-driven decision support tool for bicycle node network planning</b><br /><a href="https://journals.sagepub.com/doi/10.1177/23998083251355999">Environment and Planning B 52(7), 1771-1780 (2025)</a><br />
     <a href="#" onclick="toggle('vybornova2025bdd');return false;" id="info-vybornova2025bdd"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/vybornova2025bdd.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2412.20270"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anastassiavybornova/bike-node-planner/"><div class="linkexternal">Code</div></a>
     </td><td class='nopad'><a href="../downloads/vybornova2025bdd.pdf"><img src="../images/thumb_vybornova2025bdd.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="vybornova2025bdd"><pre><code>@article{vybornova2025bdd,
@@ -80,6 +80,9 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   author = {Vybornova, Anastassia and Vier{\o}, Ane Rahbek and Hansen, Kirsten Krogh and Szell, Michael},
   journal = {Environment and Planning B: Urban Analytics and City Science},
   year = {2025},
+  volume = {52},
+  number = {7},
+  pages = {1771--1780},
   doi = {10.1177/23998083251355999}
 }</code></pre></div></li>
     <li class="publi pub-other">
@@ -102,15 +105,18 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <table>
     <tr><td class='nopad'>
     A.R. Vierø, M. Szell<br /><b>Network analysis of the Danish bicycle infrastructure: Bikeability across urban-rural divides</b><br />
-        <a href="https://onlinelibrary.wiley.com/doi/10.1111/gean.12400">Geographical Analysis (2025)</a><br />
+        <a href="https://onlinelibrary.wiley.com/doi/10.1111/gean.12400">Geographical Analysis 57(1), 52-87 (2025)</a><br />
     <a href="#" onclick="toggle('viero2025nad');return false;" id="info-viero2025nad"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/viero2025nad.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/viero2025nad_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2412.06083"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/anerv/dk_network_analysis"><div class="linkexternal">Code</div></a> &nbsp; <a href="https://bikenetwork.dk"><div class="linkexternal">Project page</div></a>
     </td><td class='nopad'><a href="../downloads/viero2025nad.pdf"><img src="../images/thumb_viero2025nad.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="viero2025nad"><pre><code>@article{viero2025nad,
   title = {{Network analysis of the Danish bicycle infrastructure: Bikeability across urban-rural divides}},
   author = {Vier{\o}, Ane Rahbek and Szell, Michael},
   journal = {Geographical Analysis},
-  doi = {10.1111/gean.70012},
-  year = {2025}
+  year = {2025},
+  volume = {57},
+  number = {1},
+  pages = {52--87},
+  doi = {10.1111/gean.70012}
 }</code></pre></div></li>
     <li class="publi pub-journal">
     <table>
