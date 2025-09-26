@@ -282,7 +282,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <table class='full'>
     <tr><td class='nopad'>
     M. Coscia, C. Borgelt, M. Szell<br /><b>Fast Multiplex Graph Association Rules for Link Prediction</b><br />
-    <a href="#" onclick="toggle('coscia2022fmg');return false;" id="info-coscia2022fmg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/coscia2022fmg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.12094"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/coscia2022fmg.pdf"><img src="../images/thumb_coscia2022fmg.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <a href="#" onclick="toggle('coscia2022fmg');return false;" id="info-coscia2022fmg"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/coscia2022fmg.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2211.12094"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://www.michelecoscia.com/?page%20id=1857"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/coscia2022fmg.pdf"><img src="../images/thumb_coscia2022fmg.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="coscia2022fmg"><pre><code>@inproceedings{coscia2022fmg,
   title = {Fast Multiplex Graph Association Rules for Link Prediction},
   author = {Coscia, Michele and Borgelt, Christian and Szell, Michael},
@@ -384,7 +384,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <tr><td class='nopad'>
     M. Coscia, M. Szell<br /><b>Multilayer Graph Association Rules for Link Prediction</b><br /><a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18047">
       Proceedings of ICWSM 15(1), 129-139 (2021)</a><br />
-    <a href="#" onclick="toggle('coscia2021mga');return false;" id="info-coscia2021mga"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/coscia2021mga.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2008.08351"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/coscia2021mga.pdf"><img src="../images/thumb_coscia2021mga.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <a href="#" onclick="toggle('coscia2021mga');return false;" id="info-coscia2021mga"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/coscia2021mga.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2008.08351"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://www.michelecoscia.com/?page%20id=1857#magmaold"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/coscia2021mga.pdf"><img src="../images/thumb_coscia2021mga.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="coscia2021mga"><pre><code>@inproceedings{coscia2021mga,
   title = {Multilayer Graph Association Rules for Link Prediction},
   author = {Coscia, Michele and Szell, Michael},
@@ -419,7 +419,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <tr><td class='nopad'>
     L.G. Natera Orozco, F. Battiston, G. Iñiguez, M. Szell<br /><b>Data-driven strategies for optimal bicycle network growth</b><br />
     <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201130">Royal Society Open Science 7:201130 (2020)</a><br />
-    <a href="#" onclick="toggle('nateraorozco2020dso');return false;" id="info-nateraorozco2019dso"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020dso.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/1907.07080"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/nateraorozco2020dso.pdf"><img src="../images/thumb_nateraorozco2020dso.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <a href="#" onclick="toggle('nateraorozco2020dso');return false;" id="info-nateraorozco2019dso"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020dso.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/1907.07080"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/nateraluis/bicycle-network-growth"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/nateraorozco2020dso.pdf"><img src="../images/thumb_nateraorozco2020dso.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="nateraorozco2020dso"><pre><code>@article{nateraorozco2020dso,
   title = {Data-driven strategies for optimal bicycle network growth},
   author = {Natera Orozco, Luis Guillermo and Battiston, Federico and I{\~n}iguez, Gerardo and Szell, Michael},
@@ -433,7 +433,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <table>
     <tr><td class='nopad'>
     L.G. Natera Orozco, F. Battiston, G. Iñiguez, M. Szell<br /><b>Extracting the multimodal fingerprint of urban transportation networks</b><br /><a href="https://transportfindings.org/article/13171-extracting-the-multimodal-fingerprint-of-urban-transportation-networks">Transport Findings 13171 (2020)</a><br />
-    <a href="#" onclick="toggle('nateraorozco2020emf');return false;" id="info-nateraorozco2020emf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020emf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2006.03435"><div class="linkexternal">arXiv</div></a></td><td class='nopad'><a href="../downloads/nateraorozco2020emf.pdf"><img src="../images/thumb_nateraorozco2020emf.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <a href="#" onclick="toggle('nateraorozco2020emf');return false;" id="info-nateraorozco2020emf"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/nateraorozco2020emf.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2006.03435"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/nateraluis/Multimodal-Fingerprint"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/nateraorozco2020emf.pdf"><img src="../images/thumb_nateraorozco2020emf.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="nateraorozco2020emf"><pre><code>@article{nateraorozco2020emf,
   title = {Extracting the multimodal fingerprint of urban transportation networks},
   author = {Natera Orozco, Luis Guillermo and Battiston, Federico and I{\~n}iguez, Gerardo and Szell, Michael},
