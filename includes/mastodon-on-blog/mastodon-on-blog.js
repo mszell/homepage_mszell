@@ -58,7 +58,7 @@
         ? a + `
           <div class="image-wrapper">
             <a href="${b.preview_url}" target="_blank">
-              <img src="${b.preview_url}" />
+              <img src="${b.preview_url}">
             </a>
           </div>`
         : a

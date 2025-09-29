@@ -49,23 +49,22 @@ if ($section == "publications") {
 }
 
 $head = <<<EOD
-    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-    <html xmlns="https://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <!DOCTYPE html>
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 
     <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Michael Szell's professional homepage</title>
-    <meta name="Title" content="Michael Szell" />
-    <meta name="Author" content="Michael Szell" />
-    <meta name="Description" content="{$metadesc}" />
-    <meta name="Robots" content="index, follow" />
-    <meta name="fediverse:creator" content="mszll@datasci.social" />
+    <meta name="Title" content="Michael Szell">
+    <meta name="Author" content="Michael Szell">
+    <meta name="Description" content="{$metadesc}">
+    <meta name="Robots" content="index, follow">
+    <meta name="fediverse:creator" content="mszll@datasci.social">
     <meta name="viewport" content="width=840, initial-scale=0.45">
-    <link rel="stylesheet" href="{$URLTOP}/includes/main.css" type="text/css" />
-    <link rel="shortcut icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
-    <link rel="icon" href="{$URLTOP}/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="{$URLTOP}/includes/main.css" type="text/css">
+    <link rel="shortcut icon" href="{$URLTOP}/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="{$URLTOP}/favicon.ico" type="image/x-icon">
     {$jsload}
     </head>
 EOD;
@@ -107,12 +106,12 @@ $portrait = "
 $featuredarea = <<<EOD
   <div class="portrait-text">
     Hi! I am associate professor at <a href="https://nerds.itu.dk/">NERDS (ITU Copenhagen)</a> researching sustainable mobility and bicycle networks through network analysis, data science, and data visualization.
-    <br /><br />
+    <br><br>
     <table class="full">
       <tr>
         <td>
           <a href="{$URLTOP}/downloads/cv_szell.pdf">
-            <div class='filepdf' style="position: relative; z-index: 10;">Curriculum Vitae<br />
+            <div class='filepdf' style="position: relative; z-index: 10;">Curriculum Vitae<br>
             </div>
           </a>
         </td>
@@ -138,7 +137,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>michael.szell.net &nbsp;|&nbsp; Last update 2025-09-26 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a></br>
+  <p>michael.szell.net &nbsp;|&nbsp; Last update 2025-09-29 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br>
     ITU Copenhagen, Rued Langgaards Vej 7, 2300 København, DK
   </p>
 </div>

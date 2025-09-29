@@ -28,14 +28,14 @@ echo $featuredarea;
 
 <h2>Teaching materials</h2>
 <ul>
-	<li><a href="https://github.com/mszell/geospatialdatascience">Geospatial Data Science</a></br><iframe src="https://ghbtns.com/github-btn.html?user=mszell&repo=geospatialdatascience
-&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe></br>ECTS Credits: 7.5</br>This course provides an introduction into core concepts and applications of data science based approaches to geospatial data analysis.</li>
-	<li><a href="https://github.com/NERDSITU/gdstutorial">Geospatial Data Science Tutorial</a></br><iframe src="https://ghbtns.com/github-btn.html?user=NERDSITU&repo=gdstutorial
-&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe></br>This 3h tutorial is a condensed version of the course above, held at <a href="https://www.ic2s2.org/tutorials.html#geospatial">IC2S2'23</a>.</li>
-	<li><a href="https://github.com/mszell/fyp2021">First Year Project</a></br><iframe src="https://ghbtns.com/github-btn.html?user=mszell&repo=fyp2021
-&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe></br>ECTS Credits: 3.75</br>This course aims to familiarize students with the pipeline for Data Science projects.</li>
-	<li><a href="https://github.com/mszell/introdatasci">Introduction to Data Science and Programming</a></br><iframe src="https://ghbtns.com/github-btn.html?user=mszell&repo=introdatasci
-&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe></br>ECTS Credits: 15.0</br>This course is an introduction to programming, data science and related foundations.</li>
+	<li><a href="https://github.com/mszell/geospatialdatascience">Geospatial Data Science</a><br><iframe src="https://ghbtns.com/github-btn.html?user=mszell&repo=geospatialdatascience
+&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe><br>ECTS Credits: 7.5<br>This course provides an introduction into core concepts and applications of data science based approaches to geospatial data analysis.</li>
+	<li><a href="https://github.com/NERDSITU/gdstutorial">Geospatial Data Science Tutorial</a><br><iframe src="https://ghbtns.com/github-btn.html?user=NERDSITU&repo=gdstutorial
+&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe><br>This 3h tutorial is a condensed version of the course above, held at <a href="https://www.ic2s2.org/tutorials.html#geospatial">IC2S2'23</a>.</li>
+	<li><a href="https://github.com/mszell/fyp2021">First Year Project</a><br><iframe src="https://ghbtns.com/github-btn.html?user=mszell&repo=fyp2021
+&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe><br>ECTS Credits: 3.75<br>This course aims to familiarize students with the pipeline for Data Science projects.</li>
+	<li><a href="https://github.com/mszell/introdatasci">Introduction to Data Science and Programming</a><br><iframe src="https://ghbtns.com/github-btn.html?user=mszell&repo=introdatasci
+&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe><br>ECTS Credits: 15.0<br>This course is an introduction to programming, data science and related foundations.</li>
 </ul>
 
 
@@ -44,17 +44,17 @@ echo $featuredarea;
 <ul>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2022-2025<br /><a href="https://en.itu.dk/Research/PhD-Programme/PhD-Defences/PhD-Defences-2025/May/Ane-Rahbek-Vier_"><div class="filepdf">Thesis</div></a></td><td class='std'>PhD, Ane Rahbek Vierø<br /><b>Network Analysis of Denmark’s Bicycle Infrastructure: Data & Infrastructure for All?</b></td></tr>
+	<tr><td class='std col1 date wfix'>2022-2025<br><a href="https://en.itu.dk/Research/PhD-Programme/PhD-Defences/PhD-Defences-2025/May/Ane-Rahbek-Vier_"><div class="filepdf">Thesis</div></a></td><td class='std'>PhD, Ane Rahbek Vierø<br><b>Network Analysis of Denmark’s Bicycle Infrastructure: Data & Infrastructure for All?</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2021-2024<br /><a href="https://en.itu.dk/Research/PhD-Programme/PhD-Defences/PhD-Defences-2025/March/Anastassia-Vybornova"><div class="filepdf">Thesis</div></a></td><td class='std'>PhD, Anastassia Vybornova<br /><b>Urban Data Science for Sustainable Mobility</b></td></tr>
+	<tr><td class='std col1 date wfix'>2021-2024<br><a href="https://en.itu.dk/Research/PhD-Programme/PhD-Defences/PhD-Defences-2025/March/Anastassia-Vybornova"><div class="filepdf">Thesis</div></a></td><td class='std'>PhD, Anastassia Vybornova<br><b>Urban Data Science for Sustainable Mobility</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2018-2021<br /><a href="https://github.com/nateraluis/PhD-thesis/blob/main/natera-orozco_luis-guillermo.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>PhD, Luis Guillermo Natera Orozco<br /><b>Multilayer network analysis of sustainable, multimodal urban transport networks</b></td></tr>
+	<tr><td class='std col1 date wfix'>2018-2021<br><a href="https://github.com/nateraluis/PhD-thesis/blob/main/natera-orozco_luis-guillermo.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>PhD, Luis Guillermo Natera Orozco<br><b>Multilayer network analysis of sustainable, multimodal urban transport networks</b></td></tr>
 	</table>
 	</li>
 </ul>
@@ -63,12 +63,12 @@ echo $featuredarea;
 <ul>
 <li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2021-2022<br /><a href="../downloads/folco2023dmn.pdf"><div class="filepdf">Article</div></a></td><td class='std'>Lagrange Scholar, Pietro Folco<br /><b>Data-driven bicycle network planning for demand and safety</b></td></tr>
+	<tr><td class='std col1 date wfix'>2021-2022<br><a href="../downloads/folco2023dmn.pdf"><div class="filepdf">Article</div></a></td><td class='std'>Lagrange Scholar, Pietro Folco<br><b>Data-driven bicycle network planning for demand and safety</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2019-2021<br /><a href="../downloads/klanjcic2022iuf.pdf"><div class="filepdf">Article</div></a></td><td class='std'>Lagrange Scholar, Marina Klanjčić<br /><b>Identifying urban features for vulnerable road user safety in Europe</b></td></tr>
+	<tr><td class='std col1 date wfix'>2019-2021<br><a href="../downloads/klanjcic2022iuf.pdf"><div class="filepdf">Article</div></a></td><td class='std'>Lagrange Scholar, Marina Klanjčić<br><b>Identifying urban features for vulnerable road user safety in Europe</b></td></tr>
 	</table>
 	</li>
 </ul>
@@ -77,82 +77,82 @@ echo $featuredarea;
 <ul>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2024<br /></td><td class='std'>MSc, Frederik Peter Høngaard<br /><b>Exploring the Potential of Geospatial Data Science for Real Estate Appraisal</b></td></tr>
+	<tr><td class='std col1 date wfix'>2024<br></td><td class='std'>MSc, Frederik Peter Høngaard<br><b>Exploring the Potential of Geospatial Data Science for Real Estate Appraisal</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2024<br /></td><td class='std'>MSc, Julius Thomas Markus Roder and Sebastian Rohr Watt<br /><b>Predicting GeoGuessr Locations Using Transformer Models</b></td></tr>
+	<tr><td class='std col1 date wfix'>2024<br></td><td class='std'>MSc, Julius Thomas Markus Roder and Sebastian Rohr Watt<br><b>Predicting GeoGuessr Locations Using Transformer Models</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2024<br /></td><td class='std'>BA, Gareth Edward Thomas<br /><b>Assessing the availability of protected cycling infrastructure along projected school routes within the city of Copenhagen</b></td></tr>
+	<tr><td class='std col1 date wfix'>2024<br></td><td class='std'>BA, Gareth Edward Thomas<br><b>Assessing the availability of protected cycling infrastructure along projected school routes within the city of Copenhagen</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2023<br /></td><td class='std'>MSc, Emil Bak-Møller<br /><b>The Traveling Salesman Problem on Public Transport in Denmark</b></td></tr>
+	<tr><td class='std col1 date wfix'>2023<br></td><td class='std'>MSc, Emil Bak-Møller<br><b>The Traveling Salesman Problem on Public Transport in Denmark</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/buth2023gga.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Carlson M. Büth<br /><b>From Gridlocks to Greenways: Analyzing the Network Effects of Computationally Generated Low Traffic Neighborhoods</b></td></tr>
+	<tr><td class='std col1 date wfix'>2023<br><a href="../downloads/buth2023gga.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Carlson M. Büth<br><b>From Gridlocks to Greenways: Analyzing the Network Effects of Computationally Generated Low Traffic Neighborhoods</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/schelhaas2023nce.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Jan Leonard Schelhaas and Peter Gregory Mehler<br /><b>The N-Minute City: Evaluating multi-modal accessibility in Denmark and the United States</b></td></tr>
+	<tr><td class='std col1 date wfix'>2023<br><a href="../downloads/schelhaas2023nce.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Jan Leonard Schelhaas and Peter Gregory Mehler<br><b>The N-Minute City: Evaluating multi-modal accessibility in Denmark and the United States</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/pliesslarsen2023ehs.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Christian Hedegaard Pliess Larsen<br /><b>Exploring Hedging Strategies for Multiple Players in GeoGuessr: A Study of Centrality in Geospatial Networks</b></td></tr>
+	<tr><td class='std col1 date wfix'>2023<br><a href="../downloads/pliesslarsen2023ehs.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Christian Hedegaard Pliess Larsen<br><b>Exploring Hedging Strategies for Multiple Players in GeoGuessr: A Study of Centrality in Geospatial Networks</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2023<br /><a href="../downloads/zielinska2023bsg.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Anita Zielińska and Edi Begovic<br /><b>Bridging shade gaps in urban bicycle networks</b></td></tr>
+	<tr><td class='std col1 date wfix'>2023<br><a href="../downloads/zielinska2023bsg.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Anita Zielińska and Edi Begovic<br><b>Bridging shade gaps in urban bicycle networks</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2022<br /></td><td class='std'>MSc, Dominik Chomicki<br /><b>Developing a data annotation platform for urban traffic analysis</b></td></tr>
+	<tr><td class='std col1 date wfix'>2022<br></td><td class='std'>MSc, Dominik Chomicki<br><b>Developing a data annotation platform for urban traffic analysis</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2022<br /><a href="../downloads/breum2022cda.pdf"><div class="filepdf">Thesis</div></a><br /><a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a></td><td class='std'>BA, Simon Breum<br /><b>CycleCV - Detect, Analyze and Track Cyclists’ Movements</b></td></tr>
+	<tr><td class='std col1 date wfix'>2022<br><a href="../downloads/breum2022cda.pdf"><div class="filepdf">Thesis</div></a><br><a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a></td><td class='std'>BA, Simon Breum<br><b>CycleCV - Detect, Analyze and Track Cyclists’ Movements</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2022<br /></td><td class='std'>BA, Mads Høgenhaug, Marcus Friis, Mikkel Petersen<br /><b>Simulating traffic flow in Dybbølsbro intersection - CycleCV</b></td></tr>
+	<tr><td class='std col1 date wfix'>2022<br></td><td class='std'>BA, Mads Høgenhaug, Marcus Friis, Mikkel Petersen<br><b>Simulating traffic flow in Dybbølsbro intersection - CycleCV</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2021<br /><a href="../downloads/vybornova2021icg.pdf"><div class="filepdf">Thesis</div></a><br /><a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a></td><td class='std'>MSc, Anastassia Vybornova<br /><b>Identifying and classifying gaps in the bicycle network of Copenhagen</b>
+	<tr><td class='std col1 date wfix'>2021<br><a href="../downloads/vybornova2021icg.pdf"><div class="filepdf">Thesis</div></a><br><a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a></td><td class='std'>MSc, Anastassia Vybornova<br><b>Identifying and classifying gaps in the bicycle network of Copenhagen</b>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2020-2021<br /><a href="../downloads/koldingandersen2021div.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Cecilia Laura Kolding Andersen and Morten Lynghede<br /><b>Developing an Interactive Visualization of Bicycle Network Growth</b></td></tr>
+	<tr><td class='std col1 date wfix'>2020-2021<br><a href="../downloads/koldingandersen2021div.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Cecilia Laura Kolding Andersen and Morten Lynghede<br><b>Developing an Interactive Visualization of Bicycle Network Growth</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2021<br /><a href="../downloads/begovic2021qcb.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>BA, Edi Begovic and Høgni Ziska Maree Jacobsen<br /><b>Quantifying cyclist behavior at intersections using automated video analysis</b></td></tr>
+	<tr><td class='std col1 date wfix'>2021<br><a href="../downloads/begovic2021qcb.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>BA, Edi Begovic and Høgni Ziska Maree Jacobsen<br><b>Quantifying cyclist behavior at intersections using automated video analysis</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2020<br /></td><td class='std'>MSc, Albert-Hose Llebaria Holda<br /><b>Sustainable roof mapping from satellite image inventory</b>
+	<tr><td class='std col1 date wfix'>2020<br></td><td class='std'>MSc, Albert-Hose Llebaria Holda<br><b>Sustainable roof mapping from satellite image inventory</b>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2020<br /></td><td class='std'>BA, Martin Bedsted Villandsen<br /><b>The impact of data visualizations for decision making in a scale-up business</b>
+	<tr><td class='std col1 date wfix'>2020<br></td><td class='std'>BA, Martin Bedsted Villandsen<br><b>The impact of data visualizations for decision making in a scale-up business</b>
 	</table>
 	</li>
 </ul>
@@ -160,54 +160,54 @@ echo $featuredarea;
 <h2 id="projectideas">Project ideas</h2>
 <p>Below are some previous ideas and results for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please use the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
 <img src="../images/teachingproject2023.png" width="580" alt="Projects 2023">
-</br>Results: <a href="https://superblockify.city/"><div class="linkexternal">superblockify.city</div></a></br></br>
+<br>Results: <a href="https://superblockify.city/"><div class="linkexternal">superblockify.city</div></a><br><br>
 <details>
   	<summary>Toggle all previous project ideas</summary>
-<img src="../images/teachingproject2022.png" width="580" alt="Projects 2022"></br>Results: <a href="../downloads/pliesslarsen2023ehs.pdf"><div class="filepdf">Thesis</div></a></br></br>
-<img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"></br>Results: <a href="../downloads/wolf2025cam.pdf"><div class="filepdf">Article</div></a></br></br>
-<img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"></br></br>
-<img src="../images/teachingproject2021_3.png" width="580" alt="Project 3"></br></br>
-<img src="../images/teachingproject2020_1.png" width="580" alt="Project 1"></br>Results: <a href="https://growbike.net/"><div class="linkexternal">GrowBike.Net</div></a></br></br>
-<img src="../images/teachingproject2020_2.png" width="580" alt="Project 2"></br>Results: <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a></br></br>
-<img src="../images/teachingproject2020_3.png" width="580" alt="Project 3"></br>Results: <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a></br></br>
+<img src="../images/teachingproject2022.png" width="580" alt="Projects 2022"><br>Results: <a href="../downloads/pliesslarsen2023ehs.pdf"><div class="filepdf">Thesis</div></a><br><br>
+<img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"><br>Results: <a href="../downloads/wolf2025cam.pdf"><div class="filepdf">Article</div></a><br><br>
+<img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"><br><br>
+<img src="../images/teachingproject2021_3.png" width="580" alt="Project 3"><br><br>
+<img src="../images/teachingproject2020_1.png" width="580" alt="Project 1"><br>Results: <a href="https://growbike.net/"><div class="linkexternal">GrowBike.Net</div></a><br><br>
+<img src="../images/teachingproject2020_2.png" width="580" alt="Project 2"><br>Results: <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a><br><br>
+<img src="../images/teachingproject2020_3.png" width="580" alt="Project 3"><br>Results: <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a><br><br>
 </details>
 
 
 <h2>Teaching activities</h2>
 	<h3>Full courses</h3>
-	</br>
+	<br>
 	<table>
-		<tr><td class='std col1 date'>Fall 2025</td><td class='std' width='130'>Instructor (60%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1727">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
+		<tr><td class='std col1 date'>Fall 2025</td><td class='std' width='130'>Instructor (60%),<br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1727">Introduction to Data Science and Programming (BSINDSP1KU)</a><br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Fall 2025</td><td class='std' width='130'>Lab manager</td><td class='std'><a href="https://learnit.itu.dk/course/view.php?id=3025653">StudyLab 1. semester BDS</a></td></tr>
-		<tr><td class='std col1 date'>Spring 2025</td><td class='std' width='130'>Instructor (20%)</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1638">Geospatial Data Science (KSGEDAS1KU)</a></br>ECTS Credits: 7.5</td></tr>
-		<tr><td class='std col1 date'>Spring 2024</td><td class='std' width='130'>Instructor (100%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1410">Geospatial Data Science (KSGEDAS1KU)</a></br>ECTS Credits: 7.5</td></tr>
-		<tr><td class='std col1 date'>Fall 2023</td><td class='std' width='130'>Instructor (70%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1218">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
+		<tr><td class='std col1 date'>Spring 2025</td><td class='std' width='130'>Instructor (20%)</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1638">Geospatial Data Science (KSGEDAS1KU)</a><br>ECTS Credits: 7.5</td></tr>
+		<tr><td class='std col1 date'>Spring 2024</td><td class='std' width='130'>Instructor (100%),<br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1410">Geospatial Data Science (KSGEDAS1KU)</a><br>ECTS Credits: 7.5</td></tr>
+		<tr><td class='std col1 date'>Fall 2023</td><td class='std' width='130'>Instructor (70%),<br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1218">Introduction to Data Science and Programming (BSINDSP1KU)</a><br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Fall 2023</td><td class='std' width='130'>Lab manager</td><td class='std'><a href="https://learnit.itu.dk/course/view.php?id=3023431">StudyLab 1. semester BDS</a></td></tr>
-		<tr><td class='std col1 date'>Fall 2022</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=967">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
+		<tr><td class='std col1 date'>Fall 2022</td><td class='std' width='130'>Instructor (65%),<br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=967">Introduction to Data Science and Programming (BSINDSP1KU)</a><br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Fall 2022</td><td class='std' width='130'>Lab manager</td><td class='std'><a href="https://learnit.itu.dk/course/view.php?id=3022113">StudyLab 1. semester BDS</a></td></tr>
-		<tr><td class='std col1 date'>Spring 2022</td><td class='std' width='130'>Instructor (75%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=940">Geospatial Data Science (KSGEDAS1KU)</a></br>ECTS Credits: 7.5</td></tr>
-		<tr><td class='std col1 date'>Fall 2021</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=734">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
+		<tr><td class='std col1 date'>Spring 2022</td><td class='std' width='130'>Instructor (75%),<br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=940">Geospatial Data Science (KSGEDAS1KU)</a><br>ECTS Credits: 7.5</td></tr>
+		<tr><td class='std col1 date'>Fall 2021</td><td class='std' width='130'>Instructor (65%),<br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=734">Introduction to Data Science and Programming (BSINDSP1KU)</a><br>ECTS Credits: 15.0</td></tr>
 		<tr><td class='std col1 date'>Fall 2021</td><td class='std' width='130'>Lab manager</td><td class='std'><a href="https://learnit.itu.dk/course/view.php?id=3021190">StudyLab 1. semester BDS</a></td></tr>
-		<tr><td class='std col1 date'>Spring 2021</td><td class='std' width='130'>Instructor (30%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=590">First Year Project (BSFIYEP1KU)</a></br>ECTS Credits: 15.0</td></tr>
-		<tr><td class='std col1 date'>Fall 2020</td><td class='std' width='130'>Instructor (65%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=522">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
-		<tr><td class='std col1 date'>Fall 2019</td><td class='std' width='130'>Instructor (70%),</br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=371">Technical Communication (BSTECOM1KU)</a></br>ECTS Credits: 7.5</td></tr>
-		<tr><td class='std col1 date'>Fall 2019</td><td class='std' width='130'>Instructor (50%)</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=282">Introduction to Data Science and Programming (BSINDSP1KU)</a></br>ECTS Credits: 15.0</td></tr>
-		<tr><td class='std col1 date'>Fall 2018</td><td class='std' width='130'>Instructor,</br>Course manager</td><td class='std'><a href="https://courses.ceu.edu/courses/data-and-network-visualization-0">Data and Network Visualization (DNDS 6002)</a></br>Credits: 2.0, ECTS Credits: 4.0</td></tr>
-		<tr><td class='std col1 date'>Fall 2018</td><td class='std' width='130'>Instructor,</br>Course manager</td><td class='std'><a href="https://courses.ceu.edu/courses/urban-networks-and-human-mobility">Urban Networks and Human Mobility (DNDS 6003)</a></br>Credits: 2.0, ECTS Credits: 4.0</td></tr>
-		<tr><td class='std col1 date'>Spring 2018</td><td class='std' width='130'>Instructor,</br>Course manager</td><td class='std'><a href="https://cns.ceu.edu/courses/statistical-methods-network-science-and-data-analysis">Statistical Methods in Network Science and Data Analysis (CNSC 6013)</a></br>Credits: 4.0, ECTS Credits: 8.0</td></tr>
+		<tr><td class='std col1 date'>Spring 2021</td><td class='std' width='130'>Instructor (30%),<br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=590">First Year Project (BSFIYEP1KU)</a><br>ECTS Credits: 15.0</td></tr>
+		<tr><td class='std col1 date'>Fall 2020</td><td class='std' width='130'>Instructor (65%),<br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=522">Introduction to Data Science and Programming (BSINDSP1KU)</a><br>ECTS Credits: 15.0</td></tr>
+		<tr><td class='std col1 date'>Fall 2019</td><td class='std' width='130'>Instructor (70%),<br>Course manager</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=371">Technical Communication (BSTECOM1KU)</a><br>ECTS Credits: 7.5</td></tr>
+		<tr><td class='std col1 date'>Fall 2019</td><td class='std' width='130'>Instructor (50%)</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=282">Introduction to Data Science and Programming (BSINDSP1KU)</a><br>ECTS Credits: 15.0</td></tr>
+		<tr><td class='std col1 date'>Fall 2018</td><td class='std' width='130'>Instructor,<br>Course manager</td><td class='std'><a href="https://courses.ceu.edu/courses/data-and-network-visualization-0">Data and Network Visualization (DNDS 6002)</a><br>Credits: 2.0, ECTS Credits: 4.0</td></tr>
+		<tr><td class='std col1 date'>Fall 2018</td><td class='std' width='130'>Instructor,<br>Course manager</td><td class='std'><a href="https://courses.ceu.edu/courses/urban-networks-and-human-mobility">Urban Networks and Human Mobility (DNDS 6003)</a><br>Credits: 2.0, ECTS Credits: 4.0</td></tr>
+		<tr><td class='std col1 date'>Spring 2018</td><td class='std' width='130'>Instructor,<br>Course manager</td><td class='std'><a href="https://cns.ceu.edu/courses/statistical-methods-network-science-and-data-analysis">Statistical Methods in Network Science and Data Analysis (CNSC 6013)</a><br>Credits: 4.0, ECTS Credits: 8.0</td></tr>
 	</table>
 
 	<h3>Single classes and short-term courses</h3>
-	</br>
+	<br>
 	<table>
-		<tr><td class='std col1 date'>2025-09-10<br /><a href="../downloads/teaching_szell2025smd.pdf"><div class="filepdf">Slides</div></a><br /></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1798">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>
-		<tr><td class='std col1 date'>2023-10-31<br /><a href="../downloads/teaching_szell2023smd.pdf"><div class="filepdf">Slides</div></a></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1307">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>
-		<tr><td class='std col1 date'>2022-09-13<br /><a href="../downloads/teaching_szell2022smd.pdf"><div class="filepdf">Slides</div></a></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1194">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>
+		<tr><td class='std col1 date'>2025-09-10<br><a href="../downloads/teaching_szell2025smd.pdf"><div class="filepdf">Slides</div></a><br></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1798">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>
+		<tr><td class='std col1 date'>2023-10-31<br><a href="../downloads/teaching_szell2023smd.pdf"><div class="filepdf">Slides</div></a></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1307">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>
+		<tr><td class='std col1 date'>2022-09-13<br><a href="../downloads/teaching_szell2022smd.pdf"><div class="filepdf">Slides</div></a></td><td class='std' width='130'>Instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=1194">IT and Green Transitions</a> - Sustainable Mobility and Data-driven Planning</td></tr>
 		<tr><td class='std col1 date'>2020-04-21</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://learnit.itu.dk/local/coursebase/view.php?ciid=373">Reflections on Data Science</a></td></tr>
 		<tr><td class='std col1 date'>2019-04-17</td><td class='std' width='130'>Guest instructor</td><td class='std'>SG2 Analytisches Gestaltungsprojekt, <a href="https://www.hfg-gmuend.de/Strategische_Gestaltung_2.html">HfG Schwäbisch Gmünd</a></td></tr>
 		<tr><td class='std col1 date'>2017-11-30</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://cns.ceu.edu/courses/data-and-network-visualization">Data and Network Visualization</a></td></tr>
 		<tr><td class='std col1 date'>2017-11-24</td><td class='std' width='130'>Guest instructor</td><td class='std'><a href="https://cns.ceu.edu/courses/justdata-university-wide-course">JustData - University Wide Course</a></td></tr>
-		<tr><td class='std col1 date'>2016-08-23<br />2016-08-18</td><td class='std' width='130'>Seminar chair</td><td class='std'><a href="https://www.alpbach.org/en/session/sem16-seminar-16-understanding-big-data/">Seminar Understanding Big Data, European Forum Alpbach 2016</a><br />Alpbach, Austria</td></tr>
+		<tr><td class='std col1 date'>2016-08-23<br>2016-08-18</td><td class='std' width='130'>Seminar chair</td><td class='std'><a href="https://www.alpbach.org/en/session/sem16-seminar-16-understanding-big-data/">Seminar Understanding Big Data, European Forum Alpbach 2016</a><br>Alpbach, Austria</td></tr>
 		</table>
 
 	</div>
