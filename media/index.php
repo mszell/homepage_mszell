@@ -18,11 +18,11 @@ echo $featuredarea;
 
 <h2>Download photo</h2>
 Click thumbnails to download hi-res versions:<br>
-<a href="../images/mszell2019_3x4_hires.jpg"><img height="160" src="../images/mszell.jpg"></a> &nbsp; <a href="../images/mszell2019_1x1_hires.jpg"><img height="160" src="../images/mszell2019_1x1_lowres.jpg"></a>
+<a href="../images/mszell2019_3x4_hires.jpg"><img height="160" src="../images/mszell.jpg" alt="Portrait photo of Michael Szell"></a> &nbsp; <a href="../images/mszell2019_1x1_hires.jpg"><img height="160" src="../images/mszell2019_1x1_lowres.jpg" alt="Portrait photo of Michael Szell"></a>
 
 
 <h2>Media coverage highlights</h2>
-<table width="619px">
+<table style="width: 619px;">
 <tr>
 	<td><a href='https://www.fastcompany.com/91308597/heres-more-proof-that-highways-are-terrible-for-cities'><img src='../images/logofastcompany.png' width='100' title='2025-04-01: Fast Company' alt='2025-04-01: Fast Company'></a><br><a href='https://www.fastcompany.com/40441392/see-just-how-much-of-a-citys-land-is-used-for-parking-spaces'><img src='../images/logofastcompany.png' width='100' title='2017-07-20: Fast Company' alt='2017-07-20: Fast Company'></a></td>
 	<td><a href='https://www.citylab.com/transportation/2017/07/a-visual-inventory-of-parking-lots/532677/'><img src='../images/logocitylab.png' width='100' title='2017-07-06: Citylab' alt='2017-07-06: Citylab'></a></td>
