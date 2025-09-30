@@ -108,7 +108,7 @@ echo $featuredarea;
 
 <h3>What the Street!?</h3>
     <table>
-		<tr><td class='std col1 date'>2017-06</td><td class='std' style='text-align: center;'><a href="https://whatthestreet.com/"><img src="../images/logowhatthestreet.png" width="58" height="58" alt="What the Street!?" class="logo"></a></td><td class='std'><p>An online platform for the interactive exploration of city-wide mobility spaces. The aim of What the Street!? is to facilitate the intuitive exploration of (wasted) mobility space in cities, exploring to which extent space is distributed unevenly between different modes of transportation, and how massive areas of car parking could be regained for the public. What the Street?! was added to <a href="https://futurium.de/">Futurium</a>'s permanent exhibition in 2019.</a></p>
+		<tr><td class='std col1 date'>2017-06</td><td class='std' style='text-align: center;'><a href="https://whatthestreet.com/"><img src="../images/logowhatthestreet.png" width="58" height="58" alt="What the Street!?" class="logo"></a></td><td class='std'><p>An online platform for the interactive exploration of city-wide mobility spaces. The aim of What the Street!? is to facilitate the intuitive exploration of (wasted) mobility space in cities, exploring to which extent space is distributed unevenly between different modes of transportation, and how massive areas of car parking could be regained for the public. What the Street?! was added to <a href="https://futurium.de/">Futurium</a>'s permanent exhibition in 2019.</p>
 			<a href="https://whatthestreet.com/"><div class='linkexternal'>What the Street!?</div></a> &nbsp; <a href="https://michael.szell.net/whatthestreet/"><div class='linkexternal'>Posters</div></a>
 
 		<br><br>Awards: <a href="https://www.cityvis.io/competition.php?year=2018">City Vis 2018</a>
@@ -159,7 +159,7 @@ echo $featuredarea;
 
 
 
-<h2>Oil Imperium</h3>
+<h3>Oil Imperium</h3>
 	<table>
 		<tr><td class='std col1 date'>2000</td><td class='std' style='text-align: center;'><a href="https://www.ticalc.org/archives/files/fileinfo/346/34680.html"><img src="../images/projects_oilimperium.png" width="64" height="64" alt="Oil Imperium" class="logo"></a></td><td class='std'><p>Based on reLINE's 1989 PC game "OIL IMPERIUM", you are a manager trying to make money with oil. There exist 4 world regions with separate price indices, where you are able to purchase fields and sell your extracted oil. As the game takes its course, fires break out, sabotages can happen, and delivery treaties may be signed. The TI-92 game was <a href="https://www.ticalc.org/archives/news/articles/11/114/114076.html">featured on ticalc.org</a>.</p>
 			<a href="https://www.ticalc.org/archives/files/fileinfo/346/34680.html"><div class='linkexternal'>Ticalc</div></a></td></tr>

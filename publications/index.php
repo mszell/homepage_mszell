@@ -24,7 +24,7 @@ echo $featuredarea;
       -->
 
 <h2>My coauthorship network</h2>
-<div id="collabnet"><script src="https://michael.szell.net/publications/collabnet.js" type="text/javascript"></script></div>
+<div id="collabnet"><script src="https://michael.szell.net/publications/collabnet.js"></script></div>
 
 <br><br><br>
 
@@ -47,7 +47,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <summary>Toggle non-academic publications</summary>
   <h2>Non-academic</h2>
   <ul>
-    <li><b><a href="../downloads/article_politiken01.pdf"><div class="filepdf">Er Danmark en cykelnation?</div></a></b>, Politiken (2022)</li>
+    <li><div class="filepdf"><a href="../downloads/article_politiken01.pdf"><b>Er Danmark en cykelnation?</b></a></div>, Politiken (2022)</li>
     <li><b><a href="https://blogs.biomedcentral.com/on-physicalsciences/2022/05/06/identifying-urban-features-for-vulnerable-road-user-safety-in-europe/">Identifying urban features for vulnerable road user safety in Europe</a></b>, BMC Blog Network (2022)</li>
     <li><b><a href="https://www.altinget.dk/transport/artikel/14-forskere-videnscenter-for-cyklisme-skal-vaere-uafhaengigt-og-forskningsbaseret-ikke-hoere-under-vejdirektoratet">14 forskere: Videnscenter for cyklisme skal ikke høre under Vejdirektoratet</a></b>, Altinget (2021)</li>
     <li><b><a href="https://pro.ing.dk/mobilitytech/holdning/baeredygtige-byer-kraever-maalrettet-investering-i-cykelinfrastruktur">Bæredygtige byer kræver målrettet investering i cykelinfrastruktur</a></b>, Ingeniøren / Mobilitytech (2021)</li>
@@ -399,7 +399,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <tr><td class='nopad'>
     M. Schläpfer, L. Dong, K. O'Keeffe, P. Santi, M. Szell, H. Salat, S. Anklesaria, M. Vazifeh, C. Ratti, G.B. West<br><b>The universal visitation law of human mobility</b><br>
   <a href="https://www.nature.com/articles/s41586-021-03480-9">Nature 593(7860), 522-527 (2021)</a><br>
-  <a href="#" onclick="toggle('schlapfer2021uvl');return false;" id="info-schlapfer2021uvl"><div vb  class="filebib">Bib</div></a> &nbsp; <a href="../downloads/schlapfer2021uvl.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://senseable.mit.edu/wanderlust/"><div class="linkexternal">Project page</div></a></td><td class='nopad'><a href="../downloads/schlapfer2021uvl.pdf"><img src="../images/thumb_schlapfer2021uvl.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+  <a href="#" onclick="toggle('schlapfer2021uvl');return false;" id="info-schlapfer2021uvl"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/schlapfer2021uvl.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://senseable.mit.edu/wanderlust/"><div class="linkexternal">Project page</div></a></td><td class='nopad'><a href="../downloads/schlapfer2021uvl.pdf"><img src="../images/thumb_schlapfer2021uvl.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="schlapfer2021uvl"><pre><code>@article{schlapfer2021uvl,
   title = {The universal visitation law of human mobility},
   author = {Schl{\"a}pfer, Markus and Dong, Lei and O'Keefee, Kevin and Santi, Paolo and Szell, Michael and Salat, Hadrien and Anklesaria, Samuel and Vazifeh, Mohammad and Ratti, Carlo and West, Geoffrey B.},

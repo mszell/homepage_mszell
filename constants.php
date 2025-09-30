@@ -3,9 +3,9 @@
 $URLTOP = "https://michael.szell.net";
 
 if ($section == "publications") { # Load d3 and bib toggle js only on the publications page
-  $jsload = "<script src='{$URLTOP}/includes/d3.min.js' charset='utf-8' type='text/javascript'></script>
-    <script type='text/javascript' src='https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js'></script>
-    <script type='text/javascript'>
+  $jsload = "<script src='{$URLTOP}/includes/d3.min.js'></script>
+    <script src='https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js'></script>
+    <script>
 //<![CDATA[
 function toggle(nr) {
   if(document.layers) {
@@ -80,7 +80,7 @@ $selected_teaching = ($section == "teaching" ? " selected" : "");
 $navbar = "
     	<div class='floating-header' style='opacity: 0.85; max-height: 43px; '>
     		<h1>
-    			<div class='container'>
+    			<span class='container' style='display: block;'>
             		<a href='{$URLTOP}/'>Michael Szell</a>
     	    		<ul id='menu'>
             			<li class='menuitem$selected_publications'><a href='{$URLTOP}/publications/'>Publications</a></li>
@@ -89,14 +89,14 @@ $navbar = "
                   <li class='menuitem$selected_media'><a href='{$URLTOP}/media/'>Media</a></li>
                   <li class='menuitem$selected_teaching'><a href='{$URLTOP}/teaching/'>Teaching</a></li>
           		</ul>
-    			</div>
+    			</span>
     		</h1>
         </div>
         ";
 
 
 $portrait = "
-    	<div style='background-color: white; height: 43px; background-position: initial initial; background-repeat: initial initial; ' class='floating-header-spacer'></div>
+    	<div style='background-color: white; height: 43px; background-position: center; background-repeat: initial; ' class='floating-header-spacer'></div>
       <div class='featured-area'>
     	  <div class='container'>
           <div class='float-right' style='padding-right:18px;'>
@@ -137,7 +137,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>michael.szell.net &nbsp;|&nbsp; Last update 2025-09-29 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br>
+  <p>michael.szell.net &nbsp;|&nbsp; Last update 2025-09-30 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br>
     ITU Copenhagen, Rued Langgaards Vej 7, 2300 København, DK
   </p>
 </div>

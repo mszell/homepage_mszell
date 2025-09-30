@@ -98,7 +98,7 @@ Michael Szell is associate professor in Data Science at the <a href="https://ner
 
 
 <h2>Research highlights</h2>
-<table width="740px" style="text-align: center;">
+<table style="text-align: center; width: 740px;">
 <tr>
 	<td><a href='https://www.pnas.org/doi/10.1073/pnas.2408937122'>Highway<br>Barriers<br><img src='images/paperpnashighways.jpg' width='97' height='129' title='2025-03-04: PNAS paper on highway barriers to social ties published' alt='2025-03-04: PNAS paper on highway barriers to social ties published' loading="lazy"><br>2025</a></td>
 	<td><a href='https://www.nature.com/articles/s41598-022-10783-y'>Bicycle<br>Networks<br><img src='images/paperscirepgrowbike.jpg' width='97' height='129' title='2022-04-26: Scientific Reports paper on growing urban bicycle networks published' alt='2022-04-26: Scientific Reports paper on growing urban bicycle networks published' loading="lazy"><br>2022</a></td>
@@ -112,7 +112,7 @@ Michael Szell is associate professor in Data Science at the <a href="https://ner
 
 
 <h2>Data visualization highlights</h2>
-<table width="740px">
+<table style="width: 740px;">
 <tr>
 	<td><a href='https://growbike.net'><img src='images/datavizgrowbikenet.jpg' width='360' height='226' title='2021-07: GrowBike.Net' alt='2021-07: GrowBike.Net' loading="lazy"></a></td>
 	<td><a href='https://github.com/mszell/taxonomybikenw'><img src='images/datavizbikenwapproaches.png' width='360' height='226' title='2021-01: Taxonomy of Urban Bicycle Network Approaches' alt='2021-01: Taxonomy of Urban Bicycle Network Approaches' loading="lazy"></a></td>
