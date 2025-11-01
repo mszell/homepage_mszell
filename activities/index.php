@@ -19,8 +19,7 @@ echo $featuredarea;
 
 <h2>Organization, committees, and editorial work</h2>
 	<table>
-		<tr><td class='std col1 date'>since<br>2023-11</td><td class='std' style="width: 130px;">Guest editor</td><td class='std'><a href="https://iopscience.iop.org/collections/jpcomplex-231012-387">Journal of Physics: Complexity, Urban Mobility and Green Transportation in Sustainable Cities</a></td></tr>
-		<tr><td class='std col1 date'>since<br>2018-01-09</td><td class='std' style="width: 130px;">Editor</td><td class='std'><a href="https://www.complex-systems.com/">Complex Systems</a></td></tr>
+		<tr><td class='std col1 date'>2025-06<br>2023-11</td><td class='std' style="width: 130px;">Guest editor</td><td class='std'><a href="https://iopscience.iop.org/collections/jpcomplex-231012-387">Journal of Physics: Complexity, Urban Mobility and Green Transportation in Sustainable Cities</a></td></tr>
 		<tr><td class='std col1 date'>2026-02-20<br>2026-02-17</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://netscix2026.github.io/">NetSciX 2026</a><br>Auckland, New Zealand</td></tr>
 		<tr><td class='std col1 date'>2025-06-18<br>2025-06-16</td><td class='std' style="width: 130px;">Social Media Chair</td><td class='std'><a href="https://www.icssi.org/">ICSSI 2025</a><br>Copenhagen, Denmark</td></tr>
 	</table>
@@ -58,6 +57,7 @@ echo $featuredarea;
 		<tr><td class='std col1 date'>2019</td><td class='std'>Main organizer</td><td class='std'><a href="https://twitter.com/databeers_cph">DataBeers Copenhagen</a></td></tr>
 		<tr><td class='std col1 date'>2019-07-10<br>2019-07-08</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://www.futurecitieschallenge.com/">Future Cities Challenge 2019</a><br>Oxford, UK</td></tr>
 		<tr><td class='std col1 date'>2019-06-14<br>2019-01-07</td><td class='std' style="width: 130px;">Handling editor</td><td class='std'><a href="https://collections.plos.org/s/science-of-stories">PLOS ONE, Science of Stories</a></td></tr>
+		<tr><td class='std col1 date'>since<br>2018-01-09</td><td class='std' style="width: 130px;">Editor</td><td class='std'><a href="https://www.complex-systems.com/">Complex Systems</a></td></tr>
 		<tr><td class='std col1 date'>2019-04-30<br>2017-12-07</td><td class='std' style="width: 130px;">Guest editor</td><td class='std'><a href="https://www.mdpi.com/journal/ijgi/special_issues/Human-Centric_Data_Urban">International Journal of Geo-Information, Human-Centric Data Science for Urban Studies</a></td></tr>
 		<tr><td class='std col1 date'>2019-03-21<br>2019-03-18</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://complenet.weebly.com/">CompleNet 2019</a><br>Tarragona, Spain</td></tr>
 		<tr><td class='std col1 date'>2018-12-13<br>2018-12-11</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://www.complexnetworks.org/">Complex Networks 2018</a><br>Cambridge, UK</td></tr>
