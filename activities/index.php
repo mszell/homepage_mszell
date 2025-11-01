@@ -618,7 +618,7 @@ echo $featuredarea;
 <h3>Physics</h3>
 <p>Physical Review Letters, Physical Review E, New Journal of Physics, Europhysics Letters, Journal of Statistical Mechanics, Condensed Matter Physics</p>
 <h3>Publishers, national and international agencies</h3>
-<p>Cambridge University Press, World Bank, Netherlands Organisation for Scientific Research (NWO), Forum neue Medien Austria</p>
+<p>Cambridge University Press, Chapman &amp; Hall/CRC, World Bank, Netherlands Organisation for Scientific Research (NWO), Forum neue Medien Austria</p>
 <h3>Blacklists</h3>
 <p>Together with a large number of scientists I have decided in 2013 to stop reviewing any article that is published by Elsevier (see <a href="https://thecostofknowledge.com">https://thecostofknowledge.com</a>), so please do not contact me to review for such journals:</p>
 <details open>
