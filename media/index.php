@@ -17,8 +17,8 @@ echo $featuredarea;
 			<div class="main-with-sidebar">
 
 <h2>Download photo</h2>
-Click thumbnails to download hi-res versions:<br>
-<a href="../images/mszell2019_3x4_hires.jpg"><img height="160" src="../images/mszell.jpg" alt="Portrait photo of Michael Szell"></a> &nbsp; <a href="../images/mszell2019_1x1_hires.jpg"><img height="160" src="../images/mszell2019_1x1_lowres.jpg" alt="Portrait photo of Michael Szell"></a>
+Click thumbnails to download hi-res versions. Both images are released to the public domain via <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.<br>
+<a href="../images/mszell202511_3x4_hires.jpg"><img height="160" src="../images/mszell.jpg" alt="Portrait photo of Michael Szell (Nov 2025)"></a> &nbsp; <a href="../images/mszell202511_1x1_hires.jpg"><img height="160" src="../images/mszell202511_1x1_lowres.jpg" alt="Portrait photo of Michael Szell (Nov 2025)"></a>
 
 
 <h2>Media coverage highlights</h2>
