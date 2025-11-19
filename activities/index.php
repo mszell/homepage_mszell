@@ -19,13 +19,14 @@ echo $featuredarea;
 
 <h2>Organization, committees, and editorial work</h2>
 	<table>
-		<tr><td class='std col1 date'>2025-06<br>2023-11</td><td class='std' style="width: 130px;">Guest editor</td><td class='std'><a href="https://iopscience.iop.org/collections/jpcomplex-231012-387">Journal of Physics: Complexity, Urban Mobility and Green Transportation in Sustainable Cities</a></td></tr>
+		<tr><td class='std col1 date'>2026-05-08<br>2026-05-04</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://complenet.weeblysite.com/">CompleNet 2026</a><br>Zaragoza, Spain</td></tr>
 		<tr><td class='std col1 date'>2026-02-20<br>2026-02-17</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://netscix2026.github.io/">NetSciX 2026</a><br>Auckland, New Zealand</td></tr>
 		<tr><td class='std col1 date'>2025-06-18<br>2025-06-16</td><td class='std' style="width: 130px;">Social Media Chair</td><td class='std'><a href="https://www.icssi.org/">ICSSI 2025</a><br>Copenhagen, Denmark</td></tr>
 	</table>
 	<details>
   	<summary>Toggle all activities</summary>
 	<table>
+		<tr><td class='std col1 date'>2025-06<br>2023-11</td><td class='std' style="width: 130px;">Guest editor</td><td class='std'><a href="https://iopscience.iop.org/collections/jpcomplex-231012-387">Journal of Physics: Complexity, Urban Mobility and Green Transportation in Sustainable Cities</a></td></tr>
 		<tr><td class='std col1 date'>2025-04-25<br>2025-04-22</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://complenet.weebly.com/">CompleNet 2025</a><br>Fortaleza, Brazil</td></tr>
 		<tr><td class='std col1 date'>2024-07-20<br>2024-07-18</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2024</a><br>Philadelphia, USA</td></tr>
 		<tr><td class='std col1 date'>2024-06-21<br>2024-06-17</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://netsci2024.com/">NetSci 2024</a><br>Québec City, Canada</td></tr>
