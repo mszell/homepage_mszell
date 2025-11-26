@@ -137,7 +137,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>michael.szell.net &nbsp;|&nbsp; Last update 2025-11-19 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br>
+  <p>michael.szell.net &nbsp;|&nbsp; Last update 2025-11-26 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br>
     ITU Copenhagen, Rued Langgaards Vej 7, 2300 København, DK
   </p>
 </div>
