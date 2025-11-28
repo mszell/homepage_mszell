@@ -16,7 +16,7 @@ echo $featuredarea;
 
 			<div class="main-with-sidebar">
 
-<h2>BA or MSc supervision</h2>
+<h2>BSc or MSc supervision</h2>
 <p>Please go to: <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a></p>
 
 
@@ -69,7 +69,7 @@ echo $featuredarea;
 	</li>
 </ul>
 
-<h3>BA &amp; MSc theses</h3>
+<h3>BSc &amp; MSc theses</h3>
 <ul>
 	<li class='supervision'>
 	<table>
@@ -83,12 +83,17 @@ echo $featuredarea;
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2024<br></td><td class='std'>BA, Gareth Edward Thomas<br><b>Assessing the availability of protected cycling infrastructure along projected school routes within the city of Copenhagen</b></td></tr>
+	<tr><td class='std col1 date wfix'>2024<br></td><td class='std'>BSc, Gareth Edward Thomas<br><b>Assessing the availability of protected cycling infrastructure along projected school routes within the city of Copenhagen</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
 	<tr><td class='std col1 date wfix'>2023<br></td><td class='std'>MSc, Emil Bak-Møller<br><b>The Traveling Salesman Problem on Public Transport in Denmark</b></td></tr>
+	</table>
+	</li>
+	<li class='supervision'>
+	<table>
+	<tr><td class='std col1 date wfix'>2023<br></td><td class='std'>MSc, Henrik Wolf<br><b>CoolWalks: understanding shade as a strategy for climate change adaption</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
@@ -118,12 +123,12 @@ echo $featuredarea;
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2022<br><a href="../downloads/breum2022cda.pdf"><div class="filepdf">Thesis</div></a><br><a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a></td><td class='std'>BA, Simon Breum<br><b>CycleCV - Detect, Analyze and Track Cyclists’ Movements</b></td></tr>
+	<tr><td class='std col1 date wfix'>2022<br><a href="../downloads/breum2022cda.pdf"><div class="filepdf">Thesis</div></a><br><a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a></td><td class='std'>BSc, Simon Breum<br><b>CycleCV - Detect, Analyze and Track Cyclists’ Movements</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2022<br></td><td class='std'>BA, Mads Høgenhaug, Marcus Friis, Mikkel Petersen<br><b>Simulating traffic flow in Dybbølsbro intersection - CycleCV</b></td></tr>
+	<tr><td class='std col1 date wfix'>2022<br></td><td class='std'>BSc, Mads Høgenhaug, Marcus Friis, Mikkel Petersen<br><b>Simulating traffic flow in Dybbølsbro intersection - CycleCV</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
@@ -138,7 +143,7 @@ echo $featuredarea;
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2021<br><a href="../downloads/begovic2021qcb.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>BA, Edi Begovic and Høgni Ziska Maree Jacobsen<br><b>Quantifying cyclist behavior at intersections using automated video analysis</b></td></tr>
+	<tr><td class='std col1 date wfix'>2021<br><a href="../downloads/begovic2021qcb.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>BSc, Edi Begovic and Høgni Ziska Maree Jacobsen<br><b>Quantifying cyclist behavior at intersections using automated video analysis</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
@@ -148,7 +153,7 @@ echo $featuredarea;
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2020<br></td><td class='std'>BA, Martin Bedsted Villandsen<br><b>The impact of data visualizations for decision making in a scale-up business</b>
+	<tr><td class='std col1 date wfix'>2020<br></td><td class='std'>BSc, Martin Bedsted Villandsen<br><b>The impact of data visualizations for decision making in a scale-up business</b>
 	</table>
 	</li>
 </ul>
@@ -156,16 +161,16 @@ echo $featuredarea;
 <h2 id="projectideas">Project ideas</h2>
 <p>Below are some previous ideas and results for Master’s theses, Bachelor projects and other projects for students at IT University of Copenhagen. Please use the contact form at <a href="https://nerds.itu.dk/students/">https://nerds.itu.dk/students/</a> to get started. Feel free to propose your own ideas.</p>
 <img src="../images/teachingproject2023.png" width="580" alt="Projects 2023">
-<br>Results: <a href="https://superblockify.city/"><div class="linkexternal">superblockify.city</div></a><br><br>
+<br>Results: <a href="https://superblockify.city/"><div class="linkexternal">superblockify.city</div></a> <a href="../downloads/buth2023gga.pdf"><div class="filepdf">Thesis</div></a> <a href="../downloads/buth2024spp.pdf"><div class="filepdf">Article</div></a><br><br>
 <details>
   	<summary>Toggle all previous project ideas</summary>
 <img src="../images/teachingproject2022.png" width="580" alt="Projects 2022"><br>Results: <a href="../downloads/pliesslarsen2023ehs.pdf"><div class="filepdf">Thesis</div></a><br><br>
 <img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"><br>Results: <a href="../downloads/wolf2025cam.pdf"><div class="filepdf">Article</div></a><br><br>
 <img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"><br><br>
 <img src="../images/teachingproject2021_3.png" width="580" alt="Project 3"><br><br>
-<img src="../images/teachingproject2020_1.png" width="580" alt="Project 1"><br>Results: <a href="https://growbike.net/"><div class="linkexternal">GrowBike.Net</div></a><br><br>
-<img src="../images/teachingproject2020_2.png" width="580" alt="Project 2"><br>Results: <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a><br><br>
-<img src="../images/teachingproject2020_3.png" width="580" alt="Project 3"><br>Results: <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a><br><br>
+<img src="../images/teachingproject2020_1.png" width="580" alt="Project 1"><br>Results: <a href="https://growbike.net/"><div class="linkexternal">GrowBike.Net</div></a> <a href="../downloads/koldingandersen2021div.pdf"><div class="filepdf">Thesis</div></a><br><br>
+<img src="../images/teachingproject2020_2.png" width="580" alt="Project 2"><br>Results: <a href="../downloads/breum2022cda.pdf"><div class="filepdf">Thesis</div></a> <a href="../downloads/breum2022cdl.pdf"><div class="filepdf">Article</div></a> <a href="../downloads/begovic2021qcb.pdf"><div class="filepdf">Thesis</div></a><br><br>
+<img src="../images/teachingproject2020_3.png" width="580" alt="Project 3"><br>Results: <a href="https://fixbike.net/"><div class="linkexternal">fixbike.net</div></a> <a href="../downloads/vybornova2021icg.pdf"><div class="filepdf">Thesis</div></a> <a href="../downloads/vybornova2023adm.pdf"><div class="filepdf">Article</div></a><br><br>
 </details>
 
 
