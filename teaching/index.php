@@ -93,7 +93,7 @@ echo $featuredarea;
 	</li>
 	<li class='supervision'>
 	<table>
-	<tr><td class='std col1 date wfix'>2023<br></td><td class='std'>MSc, Henrik Wolf<br><b>CoolWalks: understanding shade as a strategy for climate change adaption</b></td></tr>
+	<tr><td class='std col1 date wfix'>2023<br><a href="../downloads/wolf2023cus.pdf"><div class="filepdf">Thesis</div></a></td><td class='std'>MSc, Henrik Wolf<br><b>CoolWalks: understanding shade as a strategy for climate change adaption</b></td></tr>
 	</table>
 	</li>
 	<li class='supervision'>
@@ -165,7 +165,7 @@ echo $featuredarea;
 <details>
   	<summary>Toggle all previous project ideas</summary>
 <img src="../images/teachingproject2022.png" width="580" alt="Projects 2022"><br>Results: <a href="../downloads/pliesslarsen2023ehs.pdf"><div class="filepdf">Thesis</div></a><br><br>
-<img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"><br>Results: <a href="../downloads/wolf2025cam.pdf"><div class="filepdf">Article</div></a><br><br>
+<img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"><br>Results: <a href="../downloads/wolf2023cus.pdf"><div class="filepdf">Thesis</div></a> <a href="../downloads/wolf2025cam.pdf"><div class="filepdf">Article</div></a><br><br>
 <img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"><br><br>
 <img src="../images/teachingproject2021_3.png" width="580" alt="Project 3"><br><br>
 <img src="../images/teachingproject2020_1.png" width="580" alt="Project 1"><br>Results: <a href="https://growbike.net/"><div class="linkexternal">GrowBike.Net</div></a> <a href="../downloads/koldingandersen2021div.pdf"><div class="filepdf">Thesis</div></a><br><br>
