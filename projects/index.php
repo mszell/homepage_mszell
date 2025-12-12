@@ -18,6 +18,19 @@ echo $featuredarea;
 
 <h2>Funded grants</h2>
 <p>Shown are only projects where I was PI. For further projects see my <a href="../downloads/cv_szell.pdf">CV</a>.</p>
+<h3>Bicycle network planning for a greener future made in Denmark:<br>From network growth algorithms to user-friendly planning software</h3>
+	<table>
+		<tr><td class='std col1 date'>2026-12<br>2026-01</td><td class='std' style='text-align: center;'><a href="https://innovationsfonden.dk/en/p/innoexplorer/innoexplorer-round-3-2025-eng"><img src="../images/newsinnovationfund.jpg" width="64" alt="Innovation Fund Denmark" class="logo"></a></td><td class='std'><p>This 1-year project, funded by the Innovation Fund Denmark, has two goals: 1) take existing algorithms from our bicycle network research that we developed in the past years, and turn them into software that is usable by urban planners, 2) visualize the solutions on a web platform to guide urban planners on their usage.</p>
+			<a href="https://innovationsfonden.dk/en/p/innoexplorer/innoexplorer-round-3-2025-eng"><div class='linkexternal'>Funder</div></a>
+
+			<p>ITU's funding share: 1,404,000 DKK (~188,000 EUR)<br>
+			Funding 1 research software engineer (Manuel Knepper) and 1 web developer</p>
+			<b>Output</b><br>
+			TBA
+		</td></tr>
+	</table>
+	<br>
+
 <h3>JUST STREETS</h3>
 	<table>
 		<tr><td class='std col1 date'>2027-06<br>2024-01</td><td class='std' style='text-align: center;'><a href="https://www.just-streets.eu/"><img src="../images/logojuststreets.png" width="58" alt="JUST STREETS" class="logo"></a><br><br><a href="https://cordis.europa.eu/project/id/101104240"><img src="../images/logoeu.png" width="58" alt="EU Project" class="logo"></a></td><td class='std'><p>This EU Horizon project (Grant ID 101104240) includes over 30 partners and 12 European cities representing more than 4.5 million citizens. The project aims to transform cities’ car-centered mobility narratives that take for granted that streets are for motorized traffic only, to promote walking, cycling and other active modes of mobility.</p>
