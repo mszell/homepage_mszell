@@ -644,6 +644,14 @@ As much as I would like to accept your invitation, I have decided since 2025 not
 
 Elon Musk has been leading a large-scale effort to destroy science and its benefits to humanity, therefore he is the antithesis to the Society's purported mission "to recognise, promote and support excellence in science and to encourage the development and use of science for the benefit of humanity". Fellows of the Royal Society argued that revoking Musk’s fellowship could undermine trust in science. Unfortunately, not revoking Musk's fellowship has undermined my trust in the Royal Society. The Royal Society is free to keep Musk's fellowship; in turn I am free to not provide my free labor to the Royal Society.</pre></details>
 
+<p>Since 2026 I have decided to stop reviewing for US-based conferences, so please do not contact me to review for such conferences:</p>
+
+<details open>
+  <summary>Decline message US-based conferences</summary>
+  <pre class="wrap highlightbg">Dear Colleague,
+
+thank you for asking. As much as I would like to accept your invitation, this year I cannot review for the conference unfortunately, as I couldn't attend even in principle because of political repression in the host country. I won't review for conferences in the US for the foreseeable future - thank you for your understanding.</pre></details>
+
 
 <h2>Advanced training &amp; visits</h2>
     <table>
