@@ -87,9 +87,17 @@ echo $featuredarea;
 
 
 <h2>Bio</h2>
-<p>
+<details>
+  <summary>max. 50 words bio</summary>
+  <pre class="wrap highlightbg">Michael Szell is an Associate Professor at the Networks, Data, and Society (NERDS) research group at the IT University of Copenhagen. Michael is researching sustainable mobility and bicycle networks through network analysis, data science, and data visualization.</pre></details>
+
+<p></p>
+
+<details open>
+  <summary>max. 150 words bio</summary>
+<pre class="wrap highlightbg">
 Michael Szell is associate professor in Data Science at the <a href="https://nerds.itu.dk/">Networks, Data, and Society (NERDS) research group</a> which he co-founded at IT University of Copenhagen. He is also external faculty at the Complexity Science Hub and affiliate at the Pioneer Centre for Artificial Intelligence. With an interdisciplinary background in network science and complex systems, Michael is quantitatively researching bicycle networks and sustainable mobility following an urban/geospatial data science approach. Along the way he develops methods and open-source tools for sustainable transport planning. His research is motivated by transport justice, rejecting car-centrism, towards a human-centric, livable future. For that goal, Michael is also co-developing interactive data visualization platforms such as <a href="https://whatthestreet.com">What the Street!?</a>. Apart from these efforts, he is co-developer of the award-winning massive multiplayer online game <a href="https://www.pardus.at">Pardus</a>.
-</p>
+</pre></details>
 
 
 <h2>Research interests</h2>
