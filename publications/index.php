@@ -56,19 +56,24 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
   </ul>
 </details>
 
-<h2>2025</h2>
+<h2>2026</h2>
  <ul>
-    <li class="publi pub-preprint">
+    <li class="publi pub-journal">
     <table class='full'>
     <tr><td class='nopad'>
-    C. Sebastiao, A. Vybornova, A.R. Vierø, L.M. Aiello, M. Szell<br><b>The Trade-Off between Directness and Coverage in Transport Network Growth</b><br>
+    C. Sebastiao, A. Vybornova, A.R. Vierø, L.M. Aiello, M. Szell<br><b>The Trade-Off between Directness and Coverage in Transport Network Growth</b><br><a href="https://link.springer.com/article/10.1007/s41109-026-00792-5">Applied Network Science (2026)</a><br>
     <a href="#" onclick="toggle('sebastiao2025tob');return false;" id="info-sebastiao2025tob"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/sebastiao2025tob.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2507.13005"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/csebastiao/orderbike"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/sebastiao2025tob.pdf"><img src="../images/thumb_sebastiao2025tob.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="sebastiao2025tob"><pre><code>@article{sebastiao2025tob,
   title = {The Trade-Off between Directness and Coverage in Transport Network Growth},
   author = {Sebastiao, Cl{\'e}ment and Vybornova, Anastassia and Vier{\o}, Ane Rahbek and Aiello, Luca Maria and Szell, Michael},
-  journal = {arXiv preprint arXiv:2507.13005},
-  year = {2025}
+  journal = {Applied Network Science},
+  year = {2026},
+  note = {accepted for publication}
 }</code></pre></div></li>
+</ul>
+
+<h2>2025</h2>
+ <ul>
     <li class="publi pub-journal">
     <table>
     <tr><td class='nopad'>
