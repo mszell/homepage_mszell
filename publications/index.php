@@ -58,6 +58,17 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 
 <h2>2026</h2>
  <ul>
+    <li class="publi pub-preprint">
+    <table class='full'>
+    <tr><td class='nopad'>
+    M. Szell, A. Vybornova, A.R. Vierø<br><b>Quality assessment of a country-wide bicycle node network with loop census analysis</b><br>
+    <a href="#" onclick="toggle('szell2026qac');return false;" id="info-szell2026qac"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/szell2026qac.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="../downloads/szell2026qac_si.pdf"><div class="filepdf">SI</div></a> &nbsp; <a href="https://arxiv.org/abs/2604.07029"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/mszell/bikenwloops"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/szell2026qac.pdf"><img src="../images/thumb_szell2026qac.png" height="118" alt="Paper" class="right"></a></td></tr></table>
+    <div class="info-expansion" id="szell2026qac"><pre><code>@article{szell2026qac,
+  title = {Quality assessment of a country-wide bicycle node network with loop census analysis},
+  author = {Szell, Michael and Vybornova, Anastassia and Vier{\o}, Ane Rahbek},
+  journal = {arXiv preprint arXiv:2604.07029},
+  year = {2026}
+}</code></pre></div></li>
     <li class="publi pub-journal">
     <table class='full'>
     <tr><td class='nopad'>
