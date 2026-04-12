@@ -113,6 +113,17 @@ echo $featuredarea;
 <ul>
 	<li class='talk talk-contributed'>
 	<table>
+	<tr><td class='std col1 date'>2026-04-16<br><a href="../downloads/talk_szell2026bdo.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>BikeNetKit: Developing an open-source
+bicycle network software suite for urban planners<br><a href="https://2026.gisruk.org/">GISRUK 2026</a><br>Birmingham, UK</td></tr>
+	</table>
+	</li>
+	<li class='talk talk-contributed'>
+	<table>
+	<tr><td class='std col1 date'>2026-04-16<br><a href="../downloads/talk_szell2026qac.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Quality assessment of a country-wide bicycle node network with loop census analysis<br><a href="https://2026.gisruk.org/">GISRUK 2026</a><br>Birmingham, UK</td></tr>
+	</table>
+	</li>
+	<li class='talk talk-contributed'>
+	<table>
 	<tr><td class='std col1 date'>2025-07-22<br><a href="../downloads/poster_szell2025cwb.pdf"><div class="filepdf">Poster</div></a></td><td class='std'>Country-wide bicycle network analysis and planning with the human in the loop (Poster)<br><a href="https://www.ic2s2-2025.org/">IC2S2 2025</a><br>Norrköping, Sweden</td></tr>
 	</table>
 	</li>
