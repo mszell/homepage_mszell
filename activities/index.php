@@ -113,13 +113,13 @@ echo $featuredarea;
 <ul>
 	<li class='talk talk-contributed'>
 	<table>
-	<tr><td class='std col1 date'>2026-04-16<br><a href="../downloads/talk_szell2026bdo.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>BikeNetKit: Developing an open-source
+	<tr><td class='std col1 date'>2026-04-16<br><a href="../downloads/talk_szell2026bdo.pdf"><div class="filepdf">Slides</div></a><br><a href="https://zenodo.org/records/19390654"><div class="linkexternal">Abstract</div></a></td><td class='std'>BikeNetKit: Developing an open-source
 bicycle network software suite for urban planners<br><a href="https://2026.gisruk.org/">GISRUK 2026</a><br>Birmingham, UK</td></tr>
 	</table>
 	</li>
 	<li class='talk talk-contributed'>
 	<table>
-	<tr><td class='std col1 date'>2026-04-16<br><a href="../downloads/talk_szell2026qac.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Quality assessment of a country-wide bicycle node network with loop census analysis<br><a href="https://2026.gisruk.org/">GISRUK 2026</a><br>Birmingham, UK</td></tr>
+	<tr><td class='std col1 date'>2026-04-16<br><a href="../downloads/talk_szell2026qac.pdf"><div class="filepdf">Slides</div></a><br><a href="https://zenodo.org/records/19390586"><div class="linkexternal">Abstract</div></a></td><td class='std'>Quality assessment of a country-wide bicycle node network with loop census analysis<br><a href="https://2026.gisruk.org/">GISRUK 2026</a><br>Birmingham, UK</td></tr>
 	</table>
 	</li>
 	<li class='talk talk-contributed'>
