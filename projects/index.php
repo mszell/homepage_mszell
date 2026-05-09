@@ -24,9 +24,9 @@ echo $featuredarea;
 			<a href="https://innovationsfonden.dk/en/p/innoexplorer/innoexplorer-round-3-2025-eng"><div class='linkexternal'>Funder</div></a>
 
 			<p>ITU's funding share: 1,404,000 DKK (~188,000 EUR)<br>
-			Funding 1 research software engineer (Manuel Knepper) and 1 web developer</p>
+			Funding 1 research software engineer (Manuel Knepper) and 1 visualization expert (Moritz Stefaner)</p>
 			<b>Output</b><br>
-			TBA
+			<a href="https://github.com/BikeNetKit"><div class="linkexternal">Software BikeNetKit</div></a>
 		</td></tr>
 	</table>
 	<br>
