@@ -72,7 +72,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
     <li class="publi pub-journal">
     <table class='full'>
     <tr><td class='nopad'>
-    C. Sebastiao, A. Vybornova, A.R. Vierø, L.M. Aiello, M. Szell<br><b>The trade-off between directness and coveragein transport network growth</b><br><a href="https://link.springer.com/article/10.1007/s41109-026-00792-5">Applied Network Science 11(34), 1-36 (2026)</a><br>
+    C. Sebastiao, A. Vybornova, A.R. Vierø, L.M. Aiello, M. Szell<br><b>The trade-off between directness and coverage in transport network growth</b><br><a href="https://link.springer.com/article/10.1007/s41109-026-00792-5">Applied Network Science 11(34), 1-36 (2026)</a><br>
     <a href="#" onclick="toggle('sebastiao2026tob');return false;" id="info-sebastiao2026tob"><div class="filebib">Bib</div></a> &nbsp; <a href="../downloads/sebastiao2026tob.pdf"><div class="filepdf">Article</div></a> &nbsp; <a href="https://arxiv.org/abs/2507.13005"><div class="linkexternal">arXiv</div></a> &nbsp; <a href="https://github.com/csebastiao/orderbike"><div class="linkexternal">Code</div></a></td><td class='nopad'><a href="../downloads/sebastiao2026tob.pdf"><img src="../images/thumb_sebastiao2026tob.png" height="118" alt="Paper" class="right"></a></td></tr></table>
     <div class="info-expansion" id="sebastiao2026tob"><pre><code>@article{sebastiao2026tob,
   title = {The trade-off between directness and coveragein transport network growth},
