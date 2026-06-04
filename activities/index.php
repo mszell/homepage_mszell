@@ -111,6 +111,11 @@ echo $featuredarea;
 
 <h2>Presentations</h2>
 <ul>
+	<li class='talk talk-contributed'>
+	<table>
+	<tr><td class='std col1 date'>2026-07-09<br>2026-07-08</td><td class='std'>Assessing the Danish Bicycle Node Network<br><a href="https://agit.at/">AGIT 2026</a><br>Salzburg, Austria</td></tr>
+	</table>
+	</li>
 	<li class='talk talk-invited'>
 	<table>
 	<tr><td class='std col1 date'>2026-06-04</td><td class='std'>BikeNetKit - From research to real-world impact<br>SHAPE Program<br>Copenhagen, Denmark</td></tr>
