@@ -163,7 +163,7 @@ echo $featuredarea;
 <img src="../images/teachingproject2023.png" width="580" alt="Projects 2023">
 <br>Results: <a href="https://superblockify.city/"><div class="linkexternal">superblockify.city</div></a> <a href="../downloads/buth2023gga.pdf"><div class="filepdf">Thesis</div></a> <a href="../downloads/buth2024spp.pdf"><div class="filepdf">Article</div></a><br><br>
 <details>
-  	<summary>Toggle all previous project ideas</summary>
+  	<summary>Older project ideas</summary>
 <img src="../images/teachingproject2022.png" width="580" alt="Projects 2022"><br>Results: <a href="../downloads/pliesslarsen2023ehs.pdf"><div class="filepdf">Thesis</div></a><br><br>
 <img src="../images/teachingproject2021_1.png" width="580" alt="Project 1"><br>Results: <a href="../downloads/wolf2023cus.pdf"><div class="filepdf">Thesis</div></a> <a href="../downloads/wolf2025cam.pdf"><div class="filepdf">Article</div></a><br><br>
 <img src="../images/teachingproject2021_2.png" width="580" alt="Project 2"><br><br>

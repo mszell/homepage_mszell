@@ -25,7 +25,7 @@ echo $featuredarea;
 </table>
 
 <details>
-  <summary>Toggle all news</summary>
+  <summary>Older news</summary>
   <table>
   <tr><td class='std col1 date'>2025-06-19</td><td class='std'><a href="https://link.springer.com/chapter/10.1007/978-3-031-82666-5_4"><img src="images/newsspringer.png" width="64" height="64" alt="Springer" class="logo"></a></td><td class='std'>Book chapter published in <a href="https://link.springer.com/chapter/10.1007/978-3-031-82666-5_4">Compendium of Urban Complexity (Springer)</a> on Urban Mobility.</td></tr>
   <tr><td class='std col1 date'>2025-05-22</td><td class='std'><a href="https://nerds.itu.dk/2025/05/23/ane-defends-her-phd-network-analysis-of-denmarks-bicycle-infrastructure/"><img src="images/newsgraduation.png" width="64" height="64" alt="Graduation" class="logo"></a></td><td class='std'>My PhD student Ane Rahbek Vierø defended her thesis <a href="https://nerds.itu.dk/2025/05/23/ane-defends-her-phd-network-analysis-of-denmarks-bicycle-infrastructure/">Network analysis of Denmark’s bicycle infrastructure</a>. See also the <a href="https://nerds.itu.dk/2025/05/23/ane-defends-her-phd-network-analysis-of-denmarks-bicycle-infrastructure/">NERDS News</a>.</td></tr>

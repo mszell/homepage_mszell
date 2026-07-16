@@ -30,7 +30,7 @@ echo $featuredarea;
 
 
 <details>
-    <summary style="position: relative; z-index: 10; text-shadow: 1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;">Toggle legend</summary>
+    <summary style="position: relative; z-index: 10; text-shadow: 1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;">Legend</summary>
     <p style="position: relative; z-index: 11; text-shadow: 1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff; font-size: 90%;">Last update 2025-04-30<br>
       Node color: Most recent date of publication with me<br>
       Node size: Duration of collaboration with me<br>
@@ -44,7 +44,7 @@ Download a list of my publications: <a href="../downloads/publicationlist_szell.
 </p>
 
 <details style="position: relative; z-index: 12;">
-    <summary>Toggle non-academic publications</summary>
+    <summary>Non-academic publications</summary>
   <h2>Non-academic</h2>
   <ul>
     <li><div class="filepdf"><a href="../downloads/article_politiken01.pdf"><b>Er Danmark en cykelnation?</b></a></div>, Politiken (2022)</li>

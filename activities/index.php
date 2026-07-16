@@ -25,7 +25,7 @@ echo $featuredarea;
 		<tr><td class='std col1 date'>2025-06-18<br>2025-06-16</td><td class='std' style="width: 130px;">Social Media Chair</td><td class='std'><a href="https://www.icssi.org/">ICSSI 2025</a><br>Copenhagen, Denmark</td></tr>
 	</table>
 	<details>
-  	<summary>Toggle all activities</summary>
+  	<summary>Older activities</summary>
 	<table>
 		<tr><td class='std col1 date'>2025-04-25<br>2025-04-22</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://complenet.weebly.com/">CompleNet 2025</a><br>Fortaleza, Brazil</td></tr>
 		<tr><td class='std col1 date'>2024-07-20<br>2024-07-18</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2024</a><br>Philadelphia, USA</td></tr>
@@ -145,7 +145,7 @@ bicycle network software suite for urban planners<br><a href="https://2026.gisru
 	</ul>
 	
 	<details>
-  	<summary>Toggle all presentations</summary>
+  	<summary>Older presentations</summary>
 	<ul>
 	<li class='talk talk-contributed'>
 	<table>
@@ -691,7 +691,7 @@ thank you for asking. As much as I would like to accept your invitation, this ye
     </table>
 	
 	<details>
-  	<summary>Toggle all activities</summary>
+  	<summary>Older activities</summary>
 	<table>
     	<tr><td class='std col1 date'>2021-10-22<br>2021-10-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br>Turin, Italy</td></tr>
     	<tr><td class='std col1 date'>2019-06-29<br>2019-06-19</td><td class='std'>Academic visit and scientific collaboration at <a href="https://www.isi.it/en/home">ISI Foundation</a><br>Turin, Italy</td></tr>
