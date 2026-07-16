@@ -111,9 +111,14 @@ echo $featuredarea;
 
 <h2>Presentations</h2>
 <ul>
+	<li class='talk talk-invited'>
+	<table>
+	<tr><td class='std col1 date'>2026-07-14<br><a href="../downloads/talk_szell2026css.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>The complex socio-technical system of bicycle networks: From politics to planning software<br><a href="https://csh.ac.at/events/the-complex-socio-technical-system-of-bicycle-networks-from-politics-to-planning-software/">CSH Talk</a><br>Vienna, Austria</td></tr>
+	</table>
+	</li>
 	<li class='talk talk-contributed'>
 	<table>
-	<tr><td class='std col1 date'>2026-07-09<br>2026-07-08</td><td class='std'>Assessing the Danish Bicycle Node Network<br><a href="https://agit.at/">AGIT 2026</a><br>Salzburg, Austria</td></tr>
+	<tr><td class='std col1 date'>2026-07-09<br>2026-07-08<br><a href="../downloads/talk_szell2026adb.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Assessing the Danish Bicycle Node Network<br><a href="https://agit.at/">AGIT 2026</a><br>Salzburg, Austria</td></tr>
 	</table>
 	</li>
 	<li class='talk talk-invited'>
