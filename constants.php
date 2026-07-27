@@ -117,7 +117,7 @@ $featuredarea = <<<EOD
         </td>
         <td style="text-align: right; position: relative; z-index: 10;">
           <a rel="me" href="mailto:michael@szell.net"><img src="{$URLTOP}/images/iconemail.png" height="20" class="logo" style="position: relative; top: 3px;" alt="Email"></a>&nbsp;
-          <a rel="me" href="https://scholar.google.com/citations?hl=en&user=3kwJhIcAAAAJ"><img src="{$URLTOP}/images/icongooglescholar.png" height="20" class="logo" style="position: relative; top: 3px;" alt="Google Scholar"></a>&nbsp;
+          <a rel="me" href="https://openalex.org/works?filter=authorships.author.id:a5054586972"><img src="{$URLTOP}/images/iconopenalex.png" height="20" class="logo" style="position: relative; top: 3px;" alt="OpenAlex"></a>&nbsp;
           <a rel="me" href="https://orcid.org/0000-0003-3022-2483"><img src="{$URLTOP}/images/iconorcid.png" height="20" class="logo" style="position: relative; top: 3px;" alt="ORCID"></a>&nbsp;
           <a rel="me" href="https://github.com/mszell"><img src="{$URLTOP}/images/icongithub.png" height="20" class="logo" style="position: relative; top: 3px;" alt="Github"></a>&nbsp;
           <a rel="me" href="https://bsky.app/profile/mszll.datasci.social.ap.brid.gy"><img src="{$URLTOP}/images/iconbluesky.png" height="20" class="logo" style="position: relative; top: 3px;" alt="Bluesky"></a>&nbsp;
