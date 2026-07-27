@@ -117,7 +117,7 @@ $featuredarea = <<<EOD
         </td>
         <td style="text-align: right; position: relative; z-index: 10;">
           <a rel="me" href="mailto:michael@szell.net"><img src="{$URLTOP}/images/iconemail.png" height="20" class="logo" style="position: relative; top: 3px;" alt="Email"></a>&nbsp;
-          <a rel="me" href="https://openalex.org/works?filter=authorships.author.id:a5054586972"><img src="{$URLTOP}/images/iconopenalex.png" height="20" class="logo" style="position: relative; top: 3px;" alt="OpenAlex"></a>&nbsp;
+          <a rel="me" href="https://openalex.org/works?filter=authorships.author.id:a5054586972,type:article|book-chapter|book-review|conference-paper|dissertation|preprint|software-paper"><img src="{$URLTOP}/images/iconopenalex.png" height="20" class="logo" style="position: relative; top: 3px;" alt="OpenAlex"></a>&nbsp;
           <a rel="me" href="https://orcid.org/0000-0003-3022-2483"><img src="{$URLTOP}/images/iconorcid.png" height="20" class="logo" style="position: relative; top: 3px;" alt="ORCID"></a>&nbsp;
           <a rel="me" href="https://github.com/mszell"><img src="{$URLTOP}/images/icongithub.png" height="20" class="logo" style="position: relative; top: 3px;" alt="Github"></a>&nbsp;
           <a rel="me" href="https://bsky.app/profile/mszll.datasci.social.ap.brid.gy"><img src="{$URLTOP}/images/iconbluesky.png" height="20" class="logo" style="position: relative; top: 3px;" alt="Bluesky"></a>&nbsp;
@@ -137,7 +137,7 @@ EOD;
 
 $footer = <<<EOD
 <div id="footer">
-  <p>michael.szell.net &nbsp;|&nbsp; Last update 2026-07-16 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br>
+  <p>michael.szell.net &nbsp;|&nbsp; Last update 2026-07-27 &nbsp;|&nbsp; <a href="https://github.com/mszell/homepage_mszell">Source code</a><br>
     ITU Copenhagen, Rued Langgaards Vej 7, 2300 København, DK
   </p>
 </div>
