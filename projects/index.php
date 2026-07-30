@@ -26,7 +26,8 @@ echo $featuredarea;
 			<p>ITU's funding share: 1,404,000 DKK (~188,000 EUR)<br>
 			Funding 1 research software engineer (Manuel Knepper) and 1 visualization expert (Moritz Stefaner)</p>
 			<b>Output</b><br>
-			<a href="https://github.com/BikeNetKit"><div class="linkexternal">Software BikeNetKit</div></a>
+			<a href="https://github.com/BikeNetKit"><div class="linkexternal">Software BikeNetKit</div></a><br>
+			<a href="https://bikenetkit.org"><div class="linkexternal">Visualization BikeNetKit</div></a>
 		</td></tr>
 	</table>
 	<br>
@@ -82,6 +83,13 @@ echo $featuredarea;
 
 
 <h2>Data visualization and software projects</h2>
+<h3>BikeNetKit</h3>
+    <table>
+		<tr><td class='std col1 date'>since<br>2026-01</td><td class='std' style='text-align: center;'><a href="https://bikenetkit.org"><img src="../images/logobikenetkit.png" width="58" height="58" alt="BikeNetKit" class="logo"></a></td><td class='std'><p>A collection of Python tools for designing well-connected bicycle infrastructure, with an interactive visualization platform.</p>
+			<a href="https://bikenetkit.org/"><div class='linkexternal'>bikenetkit.org</div></a>
+		</td></tr>
+	</table>
+
 <h3>superblockify</h3>
     <table>
 		<tr><td class='std col1 date'>2024-04</td><td class='std' style='text-align: center;'><a href="https://superblockify.city"><img src="../images/logosuperblockify.png" width="58" height="58" alt="superblockify" class="logo"></a></td><td class='std'><p>A Python package for partitioning an urban street network into Superblock-like neighborhoods and for visualizing and analyzing the partition results. A Superblock is a set of adjacent urban blocks where vehicular through traffic is prevented or pacified, giving priority to people walking and cycling.</p>
