@@ -105,7 +105,7 @@ $portrait = "
 
 $featuredarea = <<<EOD
   <div class="portrait-text">
-    Hi! I am associate professor at <a href="https://nerds.itu.dk/">NERDS (ITU Copenhagen)</a> researching sustainable mobility and bicycle networks through network analysis, data science, and data visualization.
+    Hi! I am associate professor at <a href="https://nerds.itu.dk/">NERDS (ITU Copenhagen)</a> researching sustainable mobility and bicycle networks through network analysis, geospatial data science, and data visualization.
     <br><br>
     <table class="full">
       <tr>
