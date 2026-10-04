@@ -113,18 +113,35 @@ echo $featuredarea;
 <h2>Presentations</h2>
 <ul>
 	<li class='talk talk-contributed'>
-	<table>
-	<tr><td class='std col1 date'>2026-11-20<br>2026-11-18<br><a href="https://kortdage.dk/godkendte-abstracts/?aid=1277"><div class="linkexternal">Abstract</div></a></td><td class='std'>Danmarks rekreative cykelnet<br><a href="https://kortdage.dk/">Kortdage 2026</a><br>Aalborg, Denmark</td></tr>
-	</table>
-	<li class='talk talk-contributed'>
-	<table>
-	<tr><td class='std col1 date'>2026-11-04<br><a href="https://event.ing.dk/dts6/session/4412917/bikenetkit-open-bicycle-network-algorithms-for-boosting-the-green-transition-of-european-cities"><div class="linkexternal">Abstract</div></a></td><td class='std'>BikeNetKit: Open Bicycle Network Algorithms for boosting the Green Transition of European Cities<br><a href="https://event.ing.dk/dts6">Digital Tech Summit 2026</a><br>Copenhagen, Denmark</td></tr>
-	</table>
-	<li class='talk talk-invited'>
-	<table>
-	<tr><td class='std col1 date'>2026-07-14<br><a href="../downloads/talk_szell2026css.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>The complex socio-technical system of bicycle networks: From politics to planning software<br><a href="https://csh.ac.at/events/the-complex-socio-technical-system-of-bicycle-networks-from-politics-to-planning-software/">CSH Talk</a><br>Vienna, Austria</td></tr>
-	</table>
+		<table>
+		<tr><td class='std col1 date'>2026-11-20<br>2026-11-18<br><a href="https://kortdage.dk/godkendte-abstracts/?aid=1277"><div class="linkexternal">Abstract</div></a></td><td class='std'>Danmarks rekreative cykelnet<br><a href="https://kortdage.dk/">Kortdage 2026</a><br>Aalborg, Denmark</td></tr>
+		</table>
 	</li>
+	<li class='talk talk-contributed'>
+		<table>
+		<tr><td class='std col1 date'>2026-11-04<br><a href="https://event.ing.dk/dts6/session/4412917/bikenetkit-open-bicycle-network-algorithms-for-boosting-the-green-transition-of-european-cities"><div class="linkexternal">Abstract</div></a></td><td class='std'>BikeNetKit: Open Bicycle Network Algorithms for boosting the Green Transition of European Cities<br><a href="https://event.ing.dk/dts6">Digital Tech Summit 2026</a><br>Copenhagen, Denmark</td></tr>
+		</table>
+	</li>
+	<li class='talk talk-contributed'>
+		<table>
+		<tr><td class='std col1 date'>2026-10-08<br></td><td class='std'>Hands-on session: BikeNetKit<br><a href="https://d3aconference.dk/data-science-of-human-centric-mobility/">Workshop Data Science of Human-centric Mobility, D3A</a><br>Nyborg, Denmark</td></tr>
+		</table>
+	</li>
+	<li class='talk talk-contributed'>
+		<table>
+		<tr><td class='std col1 date'>2026-10-08<br></td><td class='std'>Algorithmic Bicycle Node Network Assessment<br><a href="https://d3aconference.dk/data-science-of-human-centric-mobility/">Workshop Data Science of Human-centric Mobility, D3A</a><br>Nyborg, Denmark</td></tr>
+		</table>
+	</li>
+	<li class='talk talk-contributed'>
+		<table>
+		<tr><td class='std col1 date'>2026-07-14<br><a href="../downloads/talk_szell2026css.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>The complex socio-technical system of bicycle networks: From politics to planning software<br><a href="https://csh.ac.at/events/the-complex-socio-technical-system-of-bicycle-networks-from-politics-to-planning-software/">CSH Talk</a><br>Vienna, Austria</td></tr>
+		</table>
+	</li>
+	</ul>
+	
+	<details>
+  	<summary>Older presentations</summary>
+	<ul>
 	<li class='talk talk-contributed'>
 	<table>
 	<tr><td class='std col1 date'>2026-07-09<br>2026-07-08<br><a href="../downloads/talk_szell2026adb.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Assessing the Danish Bicycle Node Network<br><a href="https://agit.at/">AGIT 2026</a><br>Salzburg, Austria</td></tr>
@@ -151,11 +168,6 @@ bicycle network software suite for urban planners<br><a href="https://2026.gisru
 	<tr><td class='std col1 date'>2026-04-16<br><a href="../downloads/talk_szell2026qac.pdf"><div class="filepdf">Slides</div></a><br><a href="https://zenodo.org/records/19390586"><div class="linkexternal">Abstract</div></a></td><td class='std'>Quality assessment of a country-wide bicycle node network with loop census analysis<br><a href="https://2026.gisruk.org/">GISRUK 2026</a><br>Birmingham, UK</td></tr>
 	</table>
 	</li>
-	</ul>
-	
-	<details>
-  	<summary>Older presentations</summary>
-	<ul>
 	<li class='talk talk-contributed'>
 	<table>
 	<tr><td class='std col1 date'>2025-07-22<br><a href="../downloads/poster_szell2025cwb.pdf"><div class="filepdf">Poster</div></a></td><td class='std'>Country-wide bicycle network analysis and planning with the human in the loop (Poster)<br><a href="https://www.ic2s2-2025.org/">IC2S2 2025</a><br>Norrköping, Sweden</td></tr>
