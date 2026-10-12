@@ -124,12 +124,12 @@ echo $featuredarea;
 	</li>
 	<li class='talk talk-contributed'>
 		<table>
-		<tr><td class='std col1 date'>2026-10-08<br></td><td class='std'>Hands-on session: BikeNetKit<br><a href="https://d3aconference.dk/data-science-of-human-centric-mobility/">Workshop Data Science of Human-centric Mobility, D3A</a><br>Nyborg, Denmark</td></tr>
+		<tr><td class='std col1 date'>2026-10-08<br><a href="../downloads/talk_knepper2026bdo.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Hands-on session: BikeNetKit<br><a href="https://d3aconference.dk/data-science-of-human-centric-mobility/">Workshop Data Science of Human-centric Mobility, D3A</a><br>Nyborg, Denmark</td></tr>
 		</table>
 	</li>
 	<li class='talk talk-contributed'>
 		<table>
-		<tr><td class='std col1 date'>2026-10-08<br></td><td class='std'>Algorithmic Bicycle Node Network Assessment<br><a href="https://d3aconference.dk/data-science-of-human-centric-mobility/">Workshop Data Science of Human-centric Mobility, D3A</a><br>Nyborg, Denmark</td></tr>
+		<tr><td class='std col1 date'>2026-10-08<br><a href="../downloads/talk_szell2026abn.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Algorithmic Bicycle Node Network Assessment<br><a href="https://d3aconference.dk/data-science-of-human-centric-mobility/">Workshop Data Science of Human-centric Mobility, D3A</a><br>Nyborg, Denmark</td></tr>
 		</table>
 	</li>
 	<li class='talk talk-contributed'>
