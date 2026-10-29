@@ -19,14 +19,15 @@ echo $featuredarea;
 
 <h2>Organization, committees, and editorial work</h2>
 	<table>
+		<tr><td class='std col1 date'>2027-05-28<br>2027-05-25</td><td class='std' style="width: 130px;">Scientific committee</td><td class='std'><a href="https://www.velo-city-conference.com/">Velo-city 2027</a><br>Ehime, Japan</td></tr>
 		<tr><td class='std col1 date'>2026-10-08</td><td class='std' style="width: 130px;">Main organizer</td><td class='std'><a href="https://d3aconference.dk/data-science-of-human-centric-mobility/">Workshop Data Science of Human-centric Mobility, D3A</a><br>Nyborg, Denmark</td></tr>
 		<tr><td class='std col1 date'>2026-05-08<br>2026-05-04</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://complenet.weeblysite.com/">CompleNet 2026</a><br>Zaragoza, Spain</td></tr>
-		<tr><td class='std col1 date'>2026-02-20<br>2026-02-17</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://netscix2026.github.io/">NetSciX 2026</a><br>Auckland, New Zealand</td></tr>
-		<tr><td class='std col1 date'>2025-06-18<br>2025-06-16</td><td class='std' style="width: 130px;">Social Media Chair</td><td class='std'><a href="https://www.icssi.org/">ICSSI 2025</a><br>Copenhagen, Denmark</td></tr>
 	</table>
 	<details>
   	<summary>Older activities</summary>
 	<table>
+		<tr><td class='std col1 date'>2026-02-20<br>2026-02-17</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://netscix2026.github.io/">NetSciX 2026</a><br>Auckland, New Zealand</td></tr>
+		<tr><td class='std col1 date'>2025-06-18<br>2025-06-16</td><td class='std' style="width: 130px;">Social Media Chair</td><td class='std'><a href="https://www.icssi.org/">ICSSI 2025</a><br>Copenhagen, Denmark</td></tr>
 		<tr><td class='std col1 date'>2025-12<br>2023-11</td><td class='std' style="width: 130px;">Guest editor</td><td class='std'><a href="https://iopscience.iop.org/collections/jpcomplex-231012-387">Journal of Physics: Complexity, Urban Mobility and Green Transportation in Sustainable Cities</a></td></tr>
 		<tr><td class='std col1 date'>2025-04-25<br>2025-04-22</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://complenet.weebly.com/">CompleNet 2025</a><br>Fortaleza, Brazil</td></tr>
 		<tr><td class='std col1 date'>2024-07-20<br>2024-07-18</td><td class='std' style="width: 130px;">Program committee</td><td class='std'><a href="https://www.ic2s2.org/">IC2S2 2024</a><br>Philadelphia, USA</td></tr>
@@ -119,7 +120,7 @@ echo $featuredarea;
 	</li>
 	<li class='talk talk-contributed'>
 		<table>
-		<tr><td class='std col1 date'>2026-11-04<br><a href="https://event.ing.dk/dts6/session/4412917/bikenetkit-open-bicycle-network-algorithms-for-boosting-the-green-transition-of-european-cities"><div class="linkexternal">Abstract</div></a></td><td class='std'>BikeNetKit: Open Bicycle Network Algorithms for boosting the Green Transition of European Cities<br><a href="https://event.ing.dk/dts6">Digital Tech Summit 2026</a><br>Copenhagen, Denmark</td></tr>
+		<tr><td class='std col1 date'>2026-11-04<br><a href="https://event.ing.dk/dts6/session/4412917/bikenetkit-open-bicycle-network-algorithms-for-boosting-the-green-transition-of-european-cities"><div class="linkexternal">Abstract</div></a><br><a href="../downloads/talk_szell2026bob.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>BikeNetKit: Open Bicycle Network Algorithms for boosting the Green Transition of European Cities<br><a href="https://event.ing.dk/dts6">Digital Tech Summit 2026</a><br>Copenhagen, Denmark</td></tr>
 		</table>
 	</li>
 	<li class='talk talk-contributed'>
@@ -733,8 +734,6 @@ thank you for asking. As much as I would like to accept your invitation, this ye
 	    <tr><td class='std col1 date'>2009-07-05<br>2009-06-28</td><td class='std'><a href="https://www.jacobs-university.de/stepsinevolution/">Summer school Steps in Evolution at the Jacobs University</a><br>Bremen, Germany</td></tr>
     </table>
 	</details>
-
-
 
     			<div class="clear"></div>
     		</div>
