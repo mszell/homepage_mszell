@@ -664,7 +664,7 @@ bicycle network software suite for urban planners<br><a href="https://2026.gisru
 
 <h2>Review service</h2>
 <h3>Interdisciplinary, network science</h3>
-<p>Nature, Nature Communications, Nature Human Behaviour, PNAS, Science Advances, Social Networks, Scientific Reports, Scientific Data, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Network Science, Applied Network Science, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, PLOS Biology</p>
+<p>Journal of Open Source Software (JOSS), Nature, Nature Communications, Nature Human Behaviour, PNAS, Science Advances, Social Networks, Scientific Reports, Scientific Data, Journal of The Royal Society Interface, Royal Society Open Science, PLOS ONE, Network Science, Applied Network Science, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Signal and Information Processing over Networks, PLOS Biology</p>
 <h3>Data science, computer science, mathematics</h3>
 <p>Nature Computational Science, EPJ Data Science, Frontiers, Games, ACM Transactions on Knowledge Discovery from Data, IEEE Transactions on Knowledge and Data Engineering, Economics Bulletin</p>
 <h3>Transportation, GIS, sustainability</h3>
@@ -673,7 +673,15 @@ bicycle network software suite for urban planners<br><a href="https://2026.gisru
 <p>Physical Review Letters, Physical Review E, New Journal of Physics, Europhysics Letters, Journal of Statistical Mechanics, Condensed Matter Physics</p>
 <h3>Publishers, national and international agencies</h3>
 <p>Cambridge University Press, Chapman &amp; Hall/CRC, World Bank, Netherlands Organisation for Scientific Research (NWO), Forum neue Medien Austria</p>
-<h3>Blacklists</h3>
+<h3>Priorities and blacklists</h3>
+<table>
+	<tr><td><a href="https://forrt.org/diamond-reviewer"><img src="../images/logodiamondreviewer.png" width="112" height="112" alt="Diamond Reviewer" class="logo"></a></td><td class='std'><p>I have agreed to the <a href="https://forrt.org/diamond-reviewer">Diamond Reviewer Pledge</a> in 2026, and I am prioritizing <a href="https://en.wikipedia.org/wiki/Diamond_open_access">Diamond Open Access</a> journals: These are led by scholars, do not charge for publication or reading and, unlike commercial journals, they are aligned with scholarly interest.</p></td></tr>
+</table>
+
+<p>At the same time, I am unlikely to review any longer for commercial journals, especially those that charge horrendous fees from authors, put papers behind paywalls, or otherwise undermine science.</p>
+
+<p>More concretely, I have pledged to not do editorial work or reviews for Elsevier, the Royal Society, or for US-based conferences, see below. I still leave open to publish in such venues, for example for coauthors who need it for their careers.</p>
+
 <p>Together with a large number of scientists I have decided in 2013 to stop reviewing any article that is published by Elsevier (see <a href="https://thecostofknowledge.com">https://thecostofknowledge.com</a>), so please do not contact me to review for such journals:</p>
 <details open>
   <summary>Decline message Elsevier</summary>
