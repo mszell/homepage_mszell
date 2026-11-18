@@ -115,7 +115,12 @@ echo $featuredarea;
 <ul>
 	<li class='talk talk-contributed'>
 		<table>
-		<tr><td class='std col1 date'>2026-11-20<br>2026-11-18<br><a href="https://kortdage.dk/godkendte-abstracts/?aid=1277"><div class="linkexternal">Abstract</div></a></td><td class='std'>Danmarks rekreative cykelnet<br><a href="https://kortdage.dk/">Kortdage 2026</a><br>Aalborg, Denmark</td></tr>
+		<tr><td class='std col1 date'>2026-11-20<br>2026-11-18<br><a href="https://kortdage.dk/godkendte-abstracts/?aid=1278"><div class="linkexternal">Abstract</div></a><br><a href="../downloads/talk_szell2026bos.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>BikeNetKit: Open source bicycle network software<br><a href="https://kortdage.dk/">Kortdage 2026</a><br>Aalborg, Denmark</td></tr>
+		</table>
+	</li>
+	<li class='talk talk-contributed'>
+		<table>
+		<tr><td class='std col1 date'>2026-11-20<br>2026-11-18<br><a href="https://kortdage.dk/godkendte-abstracts/?aid=1277"><div class="linkexternal">Abstract</div></a><br><a href="../downloads/talk_szell2026sad.pdf"><div class="filepdf">Slides</div></a></td><td class='std'>Danmarks rekreative cykelnet<br><a href="https://kortdage.dk/">Kortdage 2026</a><br>Aalborg, Denmark</td></tr>
 		</table>
 	</li>
 	<li class='talk talk-invited'>
